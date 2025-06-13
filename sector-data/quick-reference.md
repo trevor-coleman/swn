@@ -1,0 +1,89 @@
+# Quick Reference - Plot Hooks & Situations
+
+## Current Situations
+- **37 Labria** (asteroidBelt): Foreign spy ships hide there
+- **74 Copernicus** (asteroidBelt): War between rival rocks
+- **Alvin 5** (spaceStation): Foreign sabotage attempt
+- **Arago 4** (refuelingStation): A ship is in severe distress
+- **Arima** (spaceStation): Systems breaking down
+- **Artik 3** (researchBase): Hideously immoral research
+- **Aurelius Belt** (asteroidBelt): Gold rush for new materials
+- **Bacolor Mine Project** (gasGiantMine): Pirates secretly fuel there
+- **Bamba 4** (spaceStation): Systems breaking down
+- **Baum 3** (asteroidBase): Fighting another asteroid
+- **Baykonyr 2** (deepSpaceStation): Black market for the elite
+- **Beer 3** (spaceStation): Vault for dangerous pretech
+- **Blunck Mine Project** (gasGiantMine): They need vital supplies
+- **Bronkhorst 4** (researchBase): Hideously immoral research
+- **Castril 2** (orbitalRuin): Impending tech calamity
+- **Chefu 5** (spaceStation): Systems breaking down
+- **Chinook 9** (refuelingStation): A ship is in severe distress
+- **Cray** (researchBase): Held hostage by outsiders
+- **Creel 1** (researchBase): Held hostage by outsiders
+- **Davies** (refuelingStation): Has corrupt customs agents
+- **Dia-Cau 7** (refuelingStation): A ship is in severe distress
+- **Elath 4** (spaceStation): Black market for the elite
+- **Espino 5** (spaceStation): Systems breaking down
+- **Faith 7** (orbitalRuin): Trying to stop it awakening
+- **Firsoff 5** (spaceStation): Systems breaking down
+- **Galap 5** (orbitalRuin): A terrible secret is unearthed
+- **Gale Project** (moonBase): Something dark has awoken
+- **Gokwe 6** (refuelingStation): A ship is in severe distress
+- **Gold 7** (refuelingStation): Has corrupt customs agents
+- **Gori 7** (spaceStation): Vault for dangerous pretech
+- **Guir** (spaceStation): Systems breaking down
+- **Gwash 4** (spaceStation): Black market for the elite
+- **Hale Project** (gasGiantMine): They need vital supplies
+- **Harris 7** (researchBase): Selling black-market tech
+- **Holden** (moonBase): Desperate for vital supplies
+- **Honda 5** (researchBase): Science monsters run amok
+- **Hsuanch'eng 7** (deepSpaceStation): Vault for dangerous pretech
+- **Inuvik 8** (spaceStation): Foreign sabotage attempt
+- **Kaup 6** (orbitalRuin): Meddling with strange tech
+- **Krasnoye 2** (researchBase): Science monsters run amok
+- **Krupac Project** (gasGiantMine): They need vital supplies
+- **Laf** (orbitalRuin): Meddling with strange tech
+- **Lassell** (spaceStation): Systems breaking down
+- **Lisboa 4** (researchBase): Held hostage by outsiders
+- **Longa 1** (spaceStation): Vault for dangerous pretech
+- **Longa 9** (researchBase): Held hostage by outsiders
+- **Lorica 5** (researchBase): Perilous research underway
+- **Lowell 3** (researchBase): Science monsters run amok
+- **Magelhaens 7** (spaceStation): Supply base for pirates
+- **Maricourt 3** (researchBase): Held hostage by outsiders
+- **Mliba 8** (refuelingStation): Deep-space alien signal
+- **Moanda 6** (asteroidBase): Hit a priceless vein of ore
+- **Moroz 5** (refuelingStation): Has corrupt customs agents
+- **Nain 1** (orbitalRuin): Trying to stop it awakening
+- **Niesten 9** (spaceStation): Foreign sabotage attempt
+- **Orinda Mine Base** (asteroidBase): Life support is threatened
+- **Orinda** (gasGiantMine): Alien remnants were found
+- **Oudemans 4** (spaceStation): Foreign sabotage attempt
+- **Paks 2** (orbitalRuin): A terrible secret is unearthed
+- **Penticton 9** (asteroidBase): Base needs a new asteroid
+- **Peta 2** (spaceStation): Supply base for pirates
+- **Phillips 5** (researchBase): Science monsters run amok
+- **Quines 8** (spaceStation): Supply base for pirates
+- **Quorn 5** (refuelingStation): Deep-space alien signal
+- **Quorn 9** (researchBase): Held hostage by outsiders
+- **Rayadurg 2** (spaceStation): Supply base for pirates
+- **Reynolds Mine** (gasGiantMine): Pirates secretly fuel there
+- **Runanga 4** (researchBase): Selling black-market tech
+- **Santa Cruz 8** (researchBase): Hideously immoral research
+- **Sefadu 3** (refuelingStation): A ship is in severe distress
+- **Shardi 4** (spaceStation): Foreign sabotage attempt
+- **Slipher 8** (orbitalRuin): Impending tech calamity
+- **Solano 2** (spaceStation): Black market for the elite
+- **Solano** (gasGiantMine): Things are emerging below
+- **Stege 3** (orbitalRuin): Trying to stop it awakening
+- **Taytay Mine** (gasGiantMine): They need vital supplies
+- **The Sanctum** (gasGiantMine): They need vital supplies
+- **Tokko 8** (researchBase): Perilous research underway
+- **Tsau 6** (researchBase): Hideously immoral research
+- **Wallops 3** (spaceStation): Foreign sabotage attempt
+- **Weinbaum** (spaceStation): Black market for the elite
+- **Williams 2** (spaceStation): Vault for dangerous pretech
+- **Windfall 3** (orbitalRuin): Meddling with strange tech
+- **Yala 5** (orbitalRuin): Meddling with strange tech
+- **Yalgoo 2** (spaceStation): Supply base for pirates
+- **Zongo 7** (refuelingStation): Foreign saboteurs are active
