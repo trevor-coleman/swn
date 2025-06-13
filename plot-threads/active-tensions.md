@@ -23,13 +23,21 @@
 - **Outcome**: Unknown - party fled during sanctuary crisis
 
 ### Aurelius Consortium Pursuit
-- **Status**: ACTIVE THREAT
-- **Context**: Consortium pursuing party after Orinda Mine incident
-- **Assets**: Helios Shard and other vessels
-- **Interest**: Resonance Protocol artifacts and data
-- **Party Status**: Currently at Archive, but will need to evade when leaving
+- **Status**: ESCALATED - Direct Combat
+- **Context**: Engaged consortium forces at Cou
+- **Recent**: Destroyed 2 patrol boats, disabled corvette *Profit Margin*
+- **Assets**: Protocol tracking device, black box data on party
+- **Knowledge**: Now has Starfall Whisper's full identity
+- **Warning**: Commander Zhou: "Some prizes cost more than ships"
 
 ## Major Discoveries
+
+### Ur-Resonance
+- **New Discovery**: Original Protocol seed consciousness
+- **Source**: Interpreter's final revelation to refugees
+- **Nature**: Pre-human in origin
+- **Access**: Requires three keys
+- **Connection**: May explain shackles on Cou
 
 ### Navigator-Khyber Connection
 - **Revelation**: Dallas and Kaedim show unusual compatibility patterns
