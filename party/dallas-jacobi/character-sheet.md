@@ -3,7 +3,7 @@
 **Class:** Adventurer (Expert/Psychic) Level 8
 **Background:** Pilot
 **Species/Gender:** Human/Male
-**Faction:** Stellar Dynamics
+**Faction:** Stellar Dynamics (Eradinus Expanse)
 **Homeworld:** Triatis 4
 
 ## Core Stats
@@ -133,7 +133,7 @@ The Jacobis scraped together what savings they had and sent Dallas off to a psyc
 Make his fortune through skill, luck and the sweat of his brow… or ideally just luck.
 
 ## Character Notes
-A skilled pilot with precognitive abilities, working for Stellar Dynamics. Combines tactical foresight with technical expertise.
+A skilled pilot with precognitive abilities, formerly worked for Stellar Dynamics in the Eradinus Expanse. Combines tactical foresight with technical expertise.
 
 ## Ongoing Mystery/Puzzle
 **SEARCHING FOR THETA OUTPOST TO FIND ENCRYPTION KEYS (1/3 FOUND)**
@@ -161,5 +161,5 @@ A skilled pilot with precognitive abilities, working for Stellar Dynamics. Combi
 - Part of potentially manipulated Navigator-Khyber pairing
 
 ## Session History
-- [May 7, 2025](../sessions/2025-05-07-archive-experience.md): Underwent Archive purification ritual, recognized as Navigator
-- [April 4, 2025](../sessions/2025-04-04-penticton-9.md): Led survey team to map asteroid belt
+- [May 7, 2025](../sectors/abiha-omicron/sessions/2025-05-07-archive-experience.md): Underwent Archive purification ritual, recognized as Navigator
+- [April 4, 2025](../sectors/abiha-omicron/sessions/2025-04-04-penticton-9.md): Led survey team to map asteroid belt

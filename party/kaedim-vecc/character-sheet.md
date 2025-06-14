@@ -170,6 +170,6 @@ A wandering pilgrim with telekinetic abilities, focused on survival and adaptati
 - Currently undergoing judgment for worthiness to keep gauntlet
 
 ## Session History
-- [March 27, 2025](../sessions/2025-03-27-orinda-mine-rescue.md): Extracted crystal fragment via psychic resonance
-- [April 4, 2025](../sessions/2025-04-04-penticton-9.md): Part of asteroid survey team
-- [May 7, 2025](../sessions/2025-05-07-archive-experience.md): Khyber lineage revealed, gauntlet tested
+- [March 27, 2025](../sectors/abiha-omicron/sessions/2025-03-27-orinda-mine-rescue.md): Extracted crystal fragment via psychic resonance
+- [April 4, 2025](../sectors/abiha-omicron/sessions/2025-04-04-penticton-9.md): Part of asteroid survey team
+- [May 7, 2025](../sectors/abiha-omicron/sessions/2025-05-07-archive-experience.md): Khyber lineage revealed, gauntlet tested

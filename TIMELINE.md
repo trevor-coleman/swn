@@ -1,12 +1,16 @@
-# Campaign Timeline - Abiha Omicron
+# Campaign Timeline
 
-Chronological record of major events in the campaign.
+Chronological record of major events across all campaigns.
+
+## Current Campaign: Abiha Omicron Sector
+
+*For previous campaign events in the Eradinus Expanse, see [Eradinus Timeline](sectors/eradinus-expanse/TIMELINE.md)*
 
 ## Session Timeline
 
 ### March 2025 - Campaign Beginning
 
-#### [March 6 - Resonance Unveiled](sessions/2025-03-06-resonance-unveiled.md)
+#### [March 6 - Resonance Unveiled](sectors/abiha-omicron/sessions/2025-03-06-resonance-unveiled.md)
 - **Location**: Unknown start → Site discovery
 - **Key Events**: 
   - Party discovers Resonance Protocol
@@ -14,7 +18,7 @@ Chronological record of major events in the campaign.
   - Initial faction interest begins
 - **Revelations**: The Protocol is more than ancient communication tech
 
-#### [March 27 - Orinda Mine Rescue](sessions/2025-03-27-orinda-mine-rescue.md)
+#### [March 27 - Orinda Mine Rescue](sectors/abiha-omicron/sessions/2025-03-27-orinda-mine-rescue.md)
 - **Location**: Orinda Mine Base
 - **Key Events**:
   - Rescue operation at Aurelius Consortium facility
@@ -25,7 +29,7 @@ Chronological record of major events in the campaign.
 
 ### April 2025 - Allies and Enemies
 
-#### [April 4 - Penticton 9](sessions/2025-04-04-penticton-9.md)
+#### [April 4 - Penticton 9](sectors/abiha-omicron/sessions/2025-04-04-penticton-9.md)
 - **Location**: Penticton 9 asteroid base
 - **Key Events**:
   - Assist with structural crisis
@@ -35,7 +39,7 @@ Chronological record of major events in the campaign.
 
 ### May 2025 - Archive Discoveries
 
-#### [May 1 - Archive Arrival](sessions/2025-05-01-archive-arrival.md)
+#### [May 1 - Archive Arrival](sectors/abiha-omicron/sessions/2025-05-01-archive-arrival.md)
 - **Location**: Archive on Madeira
 - **Key Events**:
   - Reach the mysterious Archive
@@ -44,7 +48,7 @@ Chronological record of major events in the campaign.
   - Discover Dallas-Kaedim connection
 - **Revelations**: Navigators historically exploited by Khyber Line
 
-#### [May 7 - Archive Experience](sessions/2025-05-07-archive-experience.md)
+#### [May 7 - Archive Experience](sectors/abiha-omicron/sessions/2025-05-07-archive-experience.md)
 - **Location**: Archive on Madeira
 - **Key Events**:
   - Deep dive into jumpgate knowledge
@@ -53,7 +57,7 @@ Chronological record of major events in the campaign.
   - Lance noted for "unconventional pathways"
 - **Gained**: Significant Protocol knowledge
 
-#### [May 30 - Resonant Dawn Sanctuary](sessions/2025-05-30-resonant-dawn-sanctuary.md)
+#### [May 30 - Resonant Dawn Sanctuary](sectors/abiha-omicron/sessions/2025-05-30-resonant-dawn-sanctuary.md)
 - **Location**: Teonxe sanctuary
 - **Key Events**:
   - Infiltrate Resonant Dawn cult base
@@ -66,7 +70,7 @@ Chronological record of major events in the campaign.
 
 ### June 2025 - Current Crisis
 
-#### [June 12 - Lance's Psychonaut Journey](sessions/2025-06-12-lances-psychonaut-journey.md)
+#### [June 12 - Lance's Psychonaut Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
 - **Location**: Mental/psychic space
 - **Key Events**:
   - Lance explores Network Echo ability
@@ -77,7 +81,7 @@ Chronological record of major events in the campaign.
 - **Revelations**: THE SCREAM WAS INTENTIONAL
 - **Gained**: Critical intelligence on universe-level threat
 
-#### [June 12 - Battle at Cou](sessions/2025-06-12-cou-approach-battle.md)
+#### [June 12 - Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md)
 - **Location**: Cou system space
 - **Key Events**:
   - Detect failing shackle system
@@ -104,7 +108,7 @@ Chronological record of major events in the campaign.
 ### Post-Scream
 - **Centuries Ago**: Archive founded by escaped navigators
 - **Decades Ago**: Aurelius Consortium begins Protocol research
-- **Years Ago**: Stellar Dynamics starts sector operations
+- **Years Ago**: Stellar Dynamics starts operations in Eradinus Expanse
 - **Recent**: Resonant Dawn cult forms around Protocol worship
 
 ## Parallel Developments
@@ -113,7 +117,7 @@ Chronological record of major events in the campaign.
 - **Aurelius Consortium**: Escalating pursuit after Orinda
 - **Resonant Dawn**: Cult destroyed but refugees carry secrets
 - **Archive**: Completed judgment (outcome unknown)
-- **Stellar Dynamics**: True agenda remains hidden
+- **Stellar Dynamics**: (Eradinus Expanse) True agenda remains hidden
 - **Silence Architects**: Now aware party knows their secret
 
 ### Character Development

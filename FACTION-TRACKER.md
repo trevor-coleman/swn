@@ -1,6 +1,10 @@
-# Faction Tracker - Abiha Omicron Campaign
+# Faction Tracker - Stars Without Number Campaigns
 
-Real-time tracking of all major organizations, their goals, assets, and recent activities.
+Real-time tracking of all major organizations across sectors, their goals, assets, and recent activities.
+
+## Active Sector: Abiha Omicron
+
+*For Eradinus Expanse factions, see [Eradinus Faction Tracker](sectors/eradinus-expanse/FACTION-TRACKER.md)*
 
 ## Quick Navigation
 - [Faction Status Overview](#faction-status-overview)
@@ -17,7 +21,7 @@ Real-time tracking of all major organizations, their goals, assets, and recent a
 | **Aurelius Consortium** | 🟠 HIGH | Hostile | Actively hunting party |
 | **Resonant Dawn** | 🟡 MEDIUM | Complex | Mostly destroyed, refugees fleeing |
 | **The Archive** | 🟢 LOW | Neutral | Judgment complete (outcome unknown) |
-| **Stellar Dynamics** | ⚫ UNKNOWN | Unknown | Hidden agenda active |
+| **Stellar Dynamics** | ⚫ UNKNOWN | Unknown | (Eradinus Expanse faction) |
 | **Penticton 9** | 🟢 LOW | Allied | Grateful for assistance |
 
 ## Major Factions
@@ -34,7 +38,7 @@ Real-time tracking of all major organizations, their goals, assets, and recent a
   - Maintained cover for centuries
   - Now aware party knows their secret
 - **Threat**: May trigger another Scream-level event
-- **Key Intel**: [Lance's discovery](sessions/2025-06-12-lances-psychonaut-journey.md)
+- **Key Intel**: [Lance's discovery](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
 
 ### Aurelius Consortium
 - **Scale**: Sector-wide mining corporation
@@ -50,7 +54,7 @@ Real-time tracking of all major organizations, their goals, assets, and recent a
   - Corvette *Profit Margin* disabled
   - Tracking party movements
 - **Current Status**: Escalating pursuit despite losses
-- **Files**: [Faction overview](factions/aurelius-consortium.md)
+- **Files**: [Faction overview](sectors/abiha-omicron/factions/aurelius-consortium.md)
 
 ### Resonant Dawn
 - **Scale**: Religious cult (mostly destroyed)
@@ -66,7 +70,7 @@ Real-time tracking of all major organizations, their goals, assets, and recent a
   - Interpreter killed revealing Ur-Resonance
   - Refugees fleeing with critical intel
 - **Current Status**: Fractured but carrying vital information
-- **Files**: [Faction overview](factions/resonant-dawn.md)
+- **Files**: [Faction overview](sectors/abiha-omicron/factions/resonant-dawn.md)
 
 ### The Archive
 - **Scale**: Ancient knowledge repository

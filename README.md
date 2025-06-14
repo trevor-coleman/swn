@@ -1,11 +1,17 @@
-# Stars Without Number: Abiha Omicron Campaign
+# Stars Without Number Campaign Repository
 
-A living campaign repository for a Stars Without Number RPG campaign featuring intrigue, ancient mysteries, and faction warfare in the isolated Abiha Omicron sector.
+A living campaign repository for Stars Without Number RPG campaigns. Currently active in the Abiha Omicron sector, with historical records from the Eradinus Expanse.
+
+## Sector Selection
+
+- **[Abiha Omicron](sectors/abiha-omicron/)** - Current campaign (isolated sector with ancient mysteries)
+- **[Eradinus Expanse](sectors/eradinus-expanse/)** - Previous campaign records
+- **[Cross-Sector](sectors/cross-sector/)** - Elements spanning multiple campaigns
 
 ## Quick Navigation
 
 - **[Campaign Overview](campaign-overview.md)** - Current state and major plot threads
-- **[Active Tensions](plot-threads/active-tensions.md)** - Immediate threats and opportunities
+- **[Active Tensions](sectors/abiha-omicron/plot-threads/active-tensions.md)** - Immediate threats and opportunities
 - **[Master Index](MASTER-INDEX.md)** - Complete content directory
 - **[Session Timeline](TIMELINE.md)** - Chronological campaign history
 - **[NPC Directory](NPC-INDEX.md)** - All characters and their connections
@@ -13,7 +19,7 @@ A living campaign repository for a Stars Without Number RPG campaign featuring i
 
 ## Current Status
 
-**Last Session**: [June 12, 2025 - Battle at Cou](sessions/2025-06-12-cou-approach-battle.md)
+**Last Session**: [June 12, 2025 - Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md)
 
 **Party Location**: Approaching damaged refugee ship near Cou
 
@@ -24,30 +30,31 @@ A living campaign repository for a Stars Without Number RPG campaign featuring i
 
 ## Quick Start for Session Planning
 
-1. Review [Active Tensions](plot-threads/active-tensions.md)
-2. Check [Next Session Planning](planning/next-session/)
+1. Review [Active Tensions](sectors/abiha-omicron/plot-threads/active-tensions.md)
+2. Check [Next Session Planning](sectors/abiha-omicron/planning/next-session/)
 3. Reference [Session Planning Pattern](gm-notes/session-planning-pattern.md)
 4. Use [Content Generation Style Guide](gm-notes/content-generation-style.md)
 
 ## Repository Structure
 
-### 📅 Historical Records (What Happened)
+### 🎮 Active Party
+- `party/` - Current PC sheets and ship details (constant across campaigns)
+
+### 🌌 Sector Content
+- `sectors/abiha-omicron/` - Current campaign content
+- `sectors/eradinus-expanse/` - Previous campaign archives
+- `sectors/cross-sector/` - Multi-campaign elements
+
+### 📚 Within Each Sector
 - `sessions/` - Dated session summaries
 - `characters/` - NPCs encountered
 - `items/` - Artifacts and special equipment
-- `party/` - PC sheets and ship details
-
-### 🎯 Planning Materials (What Will Happen)
-- `planning/next-session/` - Immediate prep
-- `planning/future/` - Upcoming locations
-- `planning/ideas/` - Plot hooks and concepts
-- `modules/` - Ready-to-run adventures
-
-### 🌍 World Information
-- `sector-data/` - Planets, systems, and locations
-- `lore/` - History and mysteries
 - `factions/` - Major organizations
+- `lore/` - History and mysteries
 - `plot-threads/` - Ongoing storylines
+- `planning/` - Future session materials
+- `modules/` - Ready-to-run adventures
+- `sector-data/` - Planets and locations
 
 ### 📖 Reference Materials
 - `game-mechanics/` - Rules references
@@ -77,7 +84,7 @@ Party's arrival method; currently dormant
 
 - **For adding content**: See [Contributing Guide](CONTRIBUTING.md)
 - **For detailed instructions**: See [CLAUDE.md](CLAUDE.md)
-- **For sector exploration**: Start at [Sector Data Index](sector-data/index.md)
+- **For current campaign**: See [Abiha Omicron Index](sectors/abiha-omicron/README.md)
 - **For rules questions**: Check [Game Mechanics](game-mechanics/)
 - **For NPC creation**: Use templates in [GM Notes](gm-notes/)
 

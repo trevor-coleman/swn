@@ -90,6 +90,6 @@ A capable technician and trader, skilled at both technical work and social inter
 - Gained access to comprehensive medical/biological databases at Archive
 
 ## Session History
-- [March 27, 2025](../sessions/2025-03-27-orinda-mine-rescue.md): Extracted Keller from crystal structure
-- [April 4, 2025](../sessions/2025-04-04-penticton-9.md): Part of repair team fixing critical systems
-- [May 7, 2025](../sessions/2025-05-07-archive-experience.md): Catalogued as technical specialist at Archive
+- [March 27, 2025](../sectors/abiha-omicron/sessions/2025-03-27-orinda-mine-rescue.md): Extracted Keller from crystal structure
+- [April 4, 2025](../sectors/abiha-omicron/sessions/2025-04-04-penticton-9.md): Part of repair team fixing critical systems
+- [May 7, 2025](../sectors/abiha-omicron/sessions/2025-05-07-archive-experience.md): Catalogued as technical specialist at Archive

@@ -80,7 +80,7 @@ Essential information for running sessions without searching through files.
 ### Named NPCs
 **Commander Zhou**: Expert 4, diplomatic/tactical
 **Sister Meris**: Psychic 3, sedated/restrained
-**Gaius Carranzo**: See [full stats](characters/gaius-carranzo-stats.md)
+**Gaius Carranzo**: See [full stats](sectors/abiha-omicron/characters/gaius-carranzo-stats.md)
 
 ## Faction Dispositions
 

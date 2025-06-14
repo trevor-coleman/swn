@@ -1,6 +1,15 @@
-# NPC Index - Abiha Omicron Campaign
+# NPC Index - Stars Without Number Campaigns
 
-Comprehensive directory of all non-player characters, their affiliations, and appearances.
+Comprehensive directory of all non-player characters across sectors, their affiliations, and appearances.
+
+## Sector Selection
+- **[Abiha Omicron NPCs](#abiha-omicron-sector)** - Current campaign
+- **[Eradinus Expanse NPCs](#eradinus-expanse-sector)** - Previous campaign
+- **[Cross-Sector NPCs](#cross-sector)** - Multi-campaign characters
+
+---
+
+# Abiha Omicron Sector
 
 ## Quick Navigation
 - [Major NPCs](#major-npcs)
@@ -16,7 +25,7 @@ Comprehensive directory of all non-player characters, their affiliations, and ap
 - **Status**: Active party member (recruit)
 - **Former Affiliation**: Aurelius Consortium
 - **Current Role**: Hired crew
-- **Files**: [Character](characters/gaius-carranzo.md), [Stats](characters/gaius-carranzo-stats.md)
+- **Files**: [Character](sectors/abiha-omicron/characters/gaius-carranzo.md), [Stats](sectors/abiha-omicron/characters/gaius-carranzo-stats.md)
 - **First Appearance**: Post-Orinda rescue
 - **Significance**: Inside knowledge of Consortium operations
 
@@ -24,15 +33,15 @@ Comprehensive directory of all non-player characters, their affiliations, and ap
 - **Status**: Active
 - **Affiliation**: The Archive
 - **Role**: Authority figure and judge
-- **File**: [Character](characters/isa-archive-authority.md)
-- **Appearances**: [Archive Arrival](sessions/2025-05-01-archive-arrival.md), [Archive Experience](sessions/2025-05-07-archive-experience.md)
+- **File**: [Character](sectors/abiha-omicron/characters/isa-archive-authority.md)
+- **Appearances**: [Archive Arrival](sectors/abiha-omicron/sessions/2025-05-01-archive-arrival.md), [Archive Experience](sectors/abiha-omicron/sessions/2025-05-07-archive-experience.md)
 - **Significance**: Holds judgment over party's worthiness
 
 ### Security Chief Keller
 - **Status**: Transformed/Unknown
 - **Former Affiliation**: Aurelius Consortium (Orinda)
 - **Transformation**: Partial Protocol exposure
-- **Appearances**: [Orinda Rescue](sessions/2025-03-27-orinda-mine-rescue.md)
+- **Appearances**: [Orinda Rescue](sectors/abiha-omicron/sessions/2025-03-27-orinda-mine-rescue.md)
 - **Significance**: Living example of Protocol's biological effects
 
 ### Commander Zhou
@@ -40,7 +49,7 @@ Comprehensive directory of all non-player characters, their affiliations, and ap
 - **Affiliation**: Aurelius Consortium
 - **Role**: Corvette commander
 - **Ship**: *Profit Margin* (disabled)
-- **Appearances**: [Battle at Cou](sessions/2025-06-12-cou-approach-battle.md)
+- **Appearances**: [Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md)
 - **Quote**: "Some prizes cost more than ships"
 
 ### Sister Meris
@@ -48,7 +57,7 @@ Comprehensive directory of all non-player characters, their affiliations, and ap
 - **Affiliation**: Resonant Dawn (refugee)
 - **Role**: Cult member with Ur-Resonance knowledge
 - **Current Location**: Aboard *Harmonic Prayer*
-- **Appearances**: [Battle at Cou](sessions/2025-06-12-cou-approach-battle.md)
+- **Appearances**: [Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md)
 - **Significance**: Carries critical intelligence from the Interpreter
 
 ## Faction Leaders
@@ -57,41 +66,41 @@ Comprehensive directory of all non-player characters, their affiliations, and ap
 - **Status**: Destroyed
 - **Affiliation**: Resonant Dawn (cult leader)
 - **Location**: Teonxe sanctuary (destroyed)
-- **Appearances**: [Resonant Dawn Sanctuary](sessions/2025-05-30-resonant-dawn-sanctuary.md)
+- **Appearances**: [Resonant Dawn Sanctuary](sectors/abiha-omicron/sessions/2025-05-30-resonant-dawn-sanctuary.md)
 - **Legacy**: Revealed Ur-Resonance existence before death
 
 ### The Silence Architects (3 individuals)
 - **Status**: Active (UNIVERSE-LEVEL THREAT)
 - **Known Members**: One disguised as information broker
 - **Purpose**: Triggered the Scream as genocide
-- **Discovery**: [Lance's Psychonaut Journey](sessions/2025-06-12-lances-psychonaut-journey.md)
+- **Discovery**: [Lance's Psychonaut Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
 - **Assets**: Grand Nexus location, master override codes
 
-### Captain Reyes
-- **Status**: Unknown
-- **Affiliation**: Independent (warned against Stellar Dynamics)
-- **Significance**: Provided early warnings about Dallas's faction
+### Archive Personnel
+- **Status**: Active
+- **Location**: Archive on Madeira
+- **Significance**: Knowledge preservationists with jumpgate secrets
 
 ## Allies & Contacts
 
 ### Penticton 9 Personnel
 - **Status**: Active allies
 - **Location**: Penticton 9 asteroid base
-- **Appearances**: [Penticton 9](sessions/2025-04-04-penticton-9.md)
+- **Appearances**: [Penticton 9](sectors/abiha-omicron/sessions/2025-04-04-penticton-9.md)
 - **Relationship**: Grateful for structural assistance
 
 ### Orinda Survivors (14 individuals)
 - **Status**: Rescued
 - **Former Affiliation**: Aurelius Consortium workers
 - **Current Location**: Unknown (evacuated)
-- **Appearances**: [Orinda Rescue](sessions/2025-03-27-orinda-mine-rescue.md)
+- **Appearances**: [Orinda Rescue](sectors/abiha-omicron/sessions/2025-03-27-orinda-mine-rescue.md)
 - **Significance**: Insider knowledge of Consortium operations
 
 ### Harmonic Prayer Refugees (23 individuals)
 - **Status**: In distress
 - **Affiliation**: Resonant Dawn survivors
 - **Current Location**: Damaged ship near Cou
-- **Appearances**: [Battle at Cou](sessions/2025-06-12-cou-approach-battle.md)
+- **Appearances**: [Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md)
 - **Significance**: Carry Ur-Resonance intelligence and cult archives
 
 ## Antagonists
@@ -170,6 +179,33 @@ The Party ←→ The Archive
 - Gaius (Consortium insider)
 - Refugees (recent events)
 - Info broker (SECRET: Architect)
+
+---
+
+# Cross-Sector
+
+## The Silence Architects
+- **Status**: Active (UNIVERSE-LEVEL THREAT)
+- **Sectors**: All (originated pre-Scream)
+- **Known Members**: One operates as information broker in Eradinus Expanse
+- **File**: [Faction](sectors/cross-sector/factions/silence-architects.md)
+- **Significance**: Triggered the Scream, continue to monitor events
+
+---
+
+# Eradinus Expanse Sector
+
+## Captain Reyes
+- **Status**: Unknown
+- **Affiliation**: Independent
+- **Significance**: Warned Dallas against Stellar Dynamics
+- **Last Known**: Eradinus Expanse
+
+## Information Brokers
+- **Status**: Active
+- **WARNING**: One is secretly a Silence Architect
+- **Location**: Various throughout Eradinus Expanse
+- **Significance**: Lance had dealings with multiple brokers
 
 ---
 

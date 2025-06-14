@@ -5,7 +5,7 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 ## 🔴 Universe-Shattering Revelations
 
 ### The Scream Was Genocide
-- **Discovered**: [June 12 - Lance's Psychonaut Journey](sessions/2025-06-12-lances-psychonaut-journey.md)
+- **Discovered**: [June 12 - Lance's Psychonaut Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
 - **Truth**: The Scream wasn't an accident - it was deliberate mass murder
 - **Perpetrators**: The Silence Architects (3 individuals)
 - **Method**: Corrupted Resonance Protocol
@@ -13,17 +13,17 @@ Major truths uncovered during the campaign, organized by impact and interconnect
   - History is a lie
   - Architects still alive and active
   - Could happen again
-- **Related**: [The Scream Truth](lore/the-scream-truth.md), [Silence Architects](lore/silence-architects.md)
+- **Related**: [The Scream Truth](sectors/cross-sector/lore/the-scream-truth.md), [Silence Architects](sectors/cross-sector/factions/silence-architects.md)
 
 ### One Architect Is Among Us
-- **Discovered**: [June 12 - Lance's Journey](sessions/2025-06-12-lances-psychonaut-journey.md)
+- **Discovered**: [June 12 - Lance's Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
 - **Truth**: One Silence Architect poses as an information broker
 - **Danger**: Party has likely interacted with them unknowingly
 - **Current Status**: Identity unknown but party is now hunted
 - **Critical Intel**: They know the party knows
 
 ### The Ur-Resonance
-- **Discovered**: [May 30 - Resonant Dawn Sanctuary](sessions/2025-05-30-resonant-dawn-sanctuary.md)
+- **Discovered**: [May 30 - Resonant Dawn Sanctuary](sectors/abiha-omicron/sessions/2025-05-30-resonant-dawn-sanctuary.md)
 - **Truth**: The Protocol has pre-human origins
 - **Source**: The Interpreter's dying revelation
 - **Nature**: Original seed consciousness
@@ -33,26 +33,26 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 ## 🟠 Campaign-Defining Discoveries
 
 ### Navigator-Khyber Exploitation
-- **Discovered**: [May 1-7 - Archive visits](sessions/2025-05-01-archive-arrival.md)
+- **Discovered**: [May 1-7 - Archive visits](sectors/abiha-omicron/sessions/2025-05-01-archive-arrival.md)
 - **Truth**: Precogs like Dallas were enslaved by the Khyber Line
 - **Evidence**: Dallas and Kaedim show "compatibility patterns"
 - **Implications**:
   - Their meeting may be engineered
   - Archive founded by escaped navigators
   - History repeating itself?
-- **Related**: [Khyber Line](lore/khyber-line.md), character files
+- **Related**: [Khyber Line](sectors/abiha-omicron/lore/khyber-line.md), character files
 
 ### The Protocol as Weapon
 - **Discovered**: Progressive understanding across sessions
 - **Truth**: Resonance Protocol can transform or destroy
 - **Evidence**: 
-  - Keller's transformation ([Orinda](sessions/2025-03-27-orinda-mine-rescue.md))
+  - Keller's transformation ([Orinda](sectors/abiha-omicron/sessions/2025-03-27-orinda-mine-rescue.md))
   - The Scream itself
   - Cult members' changes
 - **Current Holders**: Party has key fragments
 
 ### Grand Nexus Location
-- **Discovered**: [June 12 - Lance's Journey](sessions/2025-06-12-lances-psychonaut-journey.md)
+- **Discovered**: [June 12 - Lance's Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
 - **Coordinates**: 2847.3/-891.2/-3 (drill-space)
 - **Significance**: Architect base of operations
 - **Contents**: Master override codes
@@ -61,7 +61,7 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 ## 🟡 Character-Specific Revelations
 
 ### Lance's Network Echo
-- **Discovered**: [May 30](sessions/2025-05-30-resonant-dawn-sanctuary.md) / [June 12](sessions/2025-06-12-lances-psychonaut-journey.md)
+- **Discovered**: [May 30](sectors/abiha-omicron/sessions/2025-05-30-resonant-dawn-sanctuary.md) / [June 12](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
 - **Ability**: Access Protocol memories and network
 - **Cost**: Risk of transformation like the Interpreter
 - **Advantage**: Can read Architect memories
@@ -80,7 +80,7 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 - **Truth**: Gauntlet is Khyber control technology
 - **Abilities**: Interfaces with Protocol systems
 - **Danger**: Using it reinforces historical patterns
-- **Related**: [Kaedim's Gauntlet](items/kaedim-gauntlet.md)
+- **Related**: [Kaedim's Gauntlet](sectors/abiha-omicron/items/kaedim-gauntlet.md)
 
 ## 🟢 Setting Revelations
 
@@ -89,10 +89,10 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 - **Status**: Dormant after party's arrival
 - **Implication**: No way home currently
 - **Interest**: Multiple factions investigating
-- **Related**: [Aurelius Jumpgate](lore/aurelius-jumpgate.md)
+- **Related**: [Aurelius Jumpgate](sectors/abiha-omicron/lore/aurelius-jumpgate.md)
 
 ### Archive's True Purpose
-- **Discovered**: [Archive visits](sessions/2025-05-01-archive-arrival.md)
+- **Discovered**: [Archive visits](sectors/abiha-omicron/sessions/2025-05-01-archive-arrival.md)
 - **Founded By**: Escaped navigators
 - **Mission**: Prevent knowledge exploitation
 - **Judgment**: Evaluates worthiness of seekers
@@ -164,4 +164,4 @@ Protocol Power            Protocol Fragments
 
 ---
 
-*This index tracks only confirmed discoveries. For theories and active investigations, see [Active Tensions](plot-threads/active-tensions.md).*
+*This index tracks only confirmed discoveries. For theories and active investigations, see [Active Tensions](sectors/abiha-omicron/plot-threads/active-tensions.md).*

@@ -12,11 +12,15 @@ This repository uses a multi-layered indexing system to ensure information remai
 
 ## Directory Structure
 
-### Core Content Directories
+### Multi-Sector Organization
+- **sectors/** - Content organized by campaign sector
+  - **abiha-omicron/** - Current campaign
+  - **eradinus-expanse/** - Previous campaign
+  - **cross-sector/** - Elements spanning multiple campaigns
 
+### Core Content Directories (Within Each Sector)
 - **sessions/** - Dated session summaries (YYYY-MM-DD-description.md)
 - **characters/** - NPCs organized by affiliation
-- **party/** - PC character sheets and ship details
 - **items/** - Special artifacts and equipment
 - **lore/** - World history and mysteries
 - **factions/** - Organization details
@@ -25,11 +29,19 @@ This repository uses a multi-layered indexing system to ensure information remai
 - **modules/** - Ready-to-run adventures
 - **sector-data/** - Location information
 
+### Party Organization (Root Level)
+- **party/** - PC data organized by player
+  - **[character-name]/** - Individual player folder
+    - **character-sheet.md** - Character stats and info
+    - **[ability-name].md** - Character-specific abilities
+    - **[handout-name].md** - Player handouts and notes
+  - **starfall-whisper.md** - Shared party ship
+
 ## Adding New Content
 
 ### 1. Session Summaries
 
-**File Location**: `sessions/YYYY-MM-DD-description.md`
+**File Location**: `sectors/abiha-omicron/sessions/YYYY-MM-DD-description.md`
 
 **Format**:
 ```markdown
@@ -62,11 +74,23 @@ Date: [Date]
 - [ ] NPC-INDEX.md - Add any new NPCs
 - [ ] FACTION-TRACKER.md - Update faction activities
 - [ ] REVELATIONS-INDEX.md - Add any discoveries
-- [ ] plot-threads/active-tensions.md - Update ongoing threads
+- [ ] sectors/abiha-omicron/plot-threads/active-tensions.md - Update ongoing threads
 
-### 2. NPCs
+### 2. Player Characters & Handouts
 
-**File Location**: `characters/[affiliation]/[name].md`
+**File Location**: `party/[character-name]/[file-name].md`
+
+**Character Sheet**: Always named `character-sheet.md`
+
+**Handouts/Abilities**: Descriptive names like `network-echo-ability.md` or `theta-outpost-puzzle.md`
+
+**After Creating, Update**:
+- [ ] If new ability, update character-sheet.md with reference
+- [ ] If plot-relevant, add to active-tensions.md
+
+### 3. NPCs
+
+**File Location**: `sectors/[sector-name]/characters/[affiliation]/[name].md`
 
 **Naming Convention**: Use lowercase with hyphens (e.g., `lance-reynolds.md`)
 
@@ -101,9 +125,9 @@ Date: [Date]
 - [ ] FACTION-TRACKER.md - If faction member
 - [ ] Relevant session file - Add to "Introduced Elements"
 
-### 3. Plot Threads
+### 4. Plot Threads
 
-**File Location**: `plot-threads/[thread-name].md`
+**File Location**: `sectors/[sector-name]/plot-threads/[thread-name].md`
 
 **Format**:
 ```markdown
@@ -132,13 +156,13 @@ Date: [Date]
 ```
 
 **After Creating, Update**:
-- [ ] plot-threads/active-tensions.md - Add to appropriate section
+- [ ] sectors/abiha-omicron/plot-threads/active-tensions.md - Add to appropriate section
 - [ ] MASTER-INDEX.md - Add to plot threads section
 - [ ] Related character/faction files - Add cross-references
 
-### 4. Locations
+### 5. Locations
 
-**File Location**: `sector-data/[system]/[location].md` or `planning/future/[location].md`
+**File Location**: `sectors/[sector-name]/sector-data/[system]/[location].md` or `sectors/[sector-name]/planning/future/[location].md`
 
 **Format**:
 ```markdown
@@ -165,9 +189,11 @@ Date: [Date]
 - [Session]: [What happened here]
 ```
 
-### 5. Items/Artifacts
+### 6. Items/Artifacts
 
-**File Location**: `items/[item-name].md`
+**File Location**: `sectors/[sector-name]/items/[item-name].md`
+
+**Exception**: Character-specific items may be tracked in `party/[character-name]/` as handouts
 
 **Format**:
 ```markdown
@@ -233,28 +259,31 @@ Update when:
 
 ### Use Relative Links
 ```markdown
-See [Captain Reyes](../characters/stellar-dynamics/captain-reyes.md)
+From party file: See [Captain Reyes](../sectors/abiha-omicron/characters/stellar-dynamics/captain-reyes.md)
+From sector file: See [Dallas](../../party/dallas-jacobi/character-sheet.md)
 ```
 
 ### Reference Sections
 ```markdown
-See [Session 12](../sessions/2024-06-15-archive-arrival.md#archive-judgment)
+See [Session 12](../sectors/abiha-omicron/sessions/2024-06-15-archive-arrival.md#archive-judgment)
 ```
 
 ### Create Bidirectional Links
 When A references B, ensure B also references A where relevant.
 
 ### Use Consistent Formatting
-- Sessions: `[Session X: Title](../sessions/YYYY-MM-DD-description.md)`
-- NPCs: `[Character Name](../characters/affiliation/name.md)`
-- Locations: `[Location Name](../sector-data/system/location.md)`
+- Sessions: `[Session X: Title](../sectors/[sector]/sessions/YYYY-MM-DD-description.md)`
+- NPCs: `[Character Name](../sectors/[sector]/characters/affiliation/name.md)`
+- PCs: `[Character Name](../party/[character-name]/character-sheet.md)`
+- Locations: `[Location Name](../sectors/[sector]/sector-data/system/location.md)`
 
 ## File Naming Conventions
 
 1. **Use lowercase with hyphens**: `captain-reyes.md` not `Captain_Reyes.md`
 2. **Sessions include date**: `2024-06-15-archive-arrival.md`
 3. **Be descriptive but concise**: `resonance-protocol.md` not `the-mysterious-ancient-communication-system.md`
-4. **Group by affiliation**: `characters/aurelius-consortium/zhou.md`
+4. **Group by affiliation**: `sectors/[sector]/characters/aurelius-consortium/zhou.md`
+5. **Player folders use character names**: `party/dallas-jacobi/`
 
 ## Maintenance Checklist
 
@@ -264,7 +293,7 @@ When A references B, ensure B also references A where relevant.
 3. [ ] Update NPC-INDEX.md with new characters
 4. [ ] Update FACTION-TRACKER.md with faction activities
 5. [ ] Update REVELATIONS-INDEX.md with discoveries
-6. [ ] Update plot-threads/active-tensions.md
+6. [ ] Update sectors/abiha-omicron/plot-threads/active-tensions.md
 7. [ ] Update QUICK-REFERENCE.md party status
 8. [ ] Add cross-references to affected files
 
@@ -275,6 +304,12 @@ When A references B, ensure B also references A where relevant.
 4. [ ] Verify all cross-references still work
 
 ## Common Patterns
+
+### Adding Player Handouts/Abilities
+1. Create file in `party/[character-name]/`
+2. Update character-sheet.md with reference
+3. If plot-relevant, update active-tensions.md
+4. Consider if it needs indexing elsewhere
 
 ### Adding a Major NPC
 1. Create character file
@@ -292,7 +327,7 @@ When A references B, ensure B also references A where relevant.
 5. Update affected NPC/faction files
 
 ### Planning Future Content
-1. Add to planning/future/ or planning/ideas/
+1. Add to sectors/abiha-omicron/planning/future/ or sectors/abiha-omicron/planning/ideas/
 2. Reference in relevant plot threads
 3. Add hooks to MASTER-INDEX.md if significant
 4. Link from current content where foreshadowed

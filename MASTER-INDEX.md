@@ -1,26 +1,31 @@
-# Master Index - Abiha Omicron Campaign
+# Master Index - Stars Without Number Campaigns
 
-Complete directory of all campaign content, organized by category with cross-references.
+Complete directory of all campaign content across sectors, organized by category with cross-references.
+
+## 🌌 Sector Navigation
+- **[Abiha Omicron](sectors/abiha-omicron/)** - Current campaign
+- **[Eradinus Expanse](sectors/eradinus-expanse/)** - Previous campaign
+- **[Cross-Sector](sectors/cross-sector/)** - Multi-campaign elements
 
 ## 📚 Quick Links
 - [Timeline](TIMELINE.md) - Chronological event sequence
 - [NPC Index](NPC-INDEX.md) - Character directory
 - [Faction Tracker](FACTION-TRACKER.md) - Organization activities
-- [Plot Threads](plot-threads/active-tensions.md) - Current storylines
+- [Plot Threads](sectors/abiha-omicron/plot-threads/active-tensions.md) - Current storylines
 - [Contributing Guide](CONTRIBUTING.md) - How to add and index content
 
 ## 🎭 Characters
 
 ### Player Characters
-- [Adrian Bogisich](party/adrian-bogisich.md) - Expert medic/technician
-- [Dallas Jacobi](party/dallas-jacobi.md) - Precognitive pilot (Stellar Dynamics)
-- [Kaedim Vecc](party/kaedim-vecc.md) - Khyber Line psychic with gauntlet
-- [Lance Bahringer](party/lance-bahringer.md) - Hacker with Network Echo ability
+- [Adrian Bogisich](party/adrian-bogisich/character-sheet.md) - Expert medic/technician
+- [Dallas Jacobi](party/dallas-jacobi/character-sheet.md) - Precognitive pilot (formerly Stellar Dynamics)
+- [Kaedim Vecc](party/kaedim-vecc/character-sheet.md) - Khyber Line psychic with gauntlet
+- [Lance Bahringer](party/lance-bahringer/character-sheet.md) - Hacker with Network Echo ability
 - [Starfall Whisper](party/starfall-whisper.md) - Party ship
 
 ### Major NPCs
-- [Gaius Carranzo](characters/gaius-carranzo.md) - New recruit, ex-Consortium
-- [Isa](characters/isa-archive-authority.md) - Archive authority figure
+- [Gaius Carranzo](sectors/abiha-omicron/characters/gaius-carranzo.md) - New recruit, ex-Consortium
+- [Isa](sectors/abiha-omicron/characters/isa-archive-authority.md) - Archive authority figure
 - Security Chief Keller - Transformed by Protocol exposure
 - Commander Zhou - Aurelius Consortium officer
 - Sister Meris - Resonant Dawn cultist with Ur-Resonance knowledge
@@ -29,22 +34,26 @@ Complete directory of all campaign content, organized by category with cross-ref
 ## 📅 Session History
 
 ### Recent Sessions
-1. [June 12, 2025 - Lance's Psychonaut Journey](sessions/2025-06-12-lances-psychonaut-journey.md)
-2. [June 12, 2025 - Battle at Cou](sessions/2025-06-12-cou-approach-battle.md)
-3. [May 30, 2025 - Resonant Dawn Sanctuary](sessions/2025-05-30-resonant-dawn-sanctuary.md)
-4. [May 7, 2025 - Archive Experience](sessions/2025-05-07-archive-experience.md)
-5. [May 1, 2025 - Archive Arrival](sessions/2025-05-01-archive-arrival.md)
+1. [June 12, 2025 - Lance's Psychonaut Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
+2. [June 12, 2025 - Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md)
+3. [May 30, 2025 - Resonant Dawn Sanctuary](sectors/abiha-omicron/sessions/2025-05-30-resonant-dawn-sanctuary.md)
+4. [May 7, 2025 - Archive Experience](sectors/abiha-omicron/sessions/2025-05-07-archive-experience.md)
+5. [May 1, 2025 - Archive Arrival](sectors/abiha-omicron/sessions/2025-05-01-archive-arrival.md)
 
-[View All Sessions →](sessions/)
+[View All Sessions →](sectors/abiha-omicron/sessions/)
 
 ## 🏛️ Factions
 
-### Active Organizations
-- [Aurelius Consortium](factions/aurelius-consortium.md) - Mining corp seeking Protocol
-- [Resonant Dawn](factions/resonant-dawn.md) - Religious cult (mostly destroyed)
+### Abiha Omicron Factions
+- [Aurelius Consortium](sectors/abiha-omicron/factions/aurelius-consortium.md) - Mining corp seeking Protocol
+- [Resonant Dawn](sectors/abiha-omicron/factions/resonant-dawn.md) - Religious cult (mostly destroyed)
 - The Archive - Knowledge preservationists
-- Stellar Dynamics - Dallas's mysterious faction
-- The Silence Architects - Universe-level threat
+
+### Cross-Sector Factions
+- [The Silence Architects](sectors/cross-sector/factions/silence-architects.md) - Universe-level threat
+
+### Eradinus Expanse Factions
+- [Stellar Dynamics](sectors/eradinus-expanse/factions/stellar-dynamics.md) - Dallas's former employer
 
 ## 🌍 Key Locations
 
@@ -56,25 +65,26 @@ Complete directory of all campaign content, organized by category with cross-ref
 - **Penticton 9** - Potential ally base
 
 ### Navigation
-- [Sector Overview](sector-data/sector-overview.md)
-- [Systems Index](sector-data/systems-index.md)
-- [Planets Index](sector-data/planets-index.md)
-- [Locations Index](sector-data/locations-index.md)
+- [Abiha Omicron Overview](sectors/abiha-omicron/sector-data/sector-overview.md)
+- [Systems Index](sectors/abiha-omicron/sector-data/systems-index.md)
+- [Planets Index](sectors/abiha-omicron/sector-data/planets-index.md)
+- [Locations Index](sectors/abiha-omicron/sector-data/locations-index.md)
 
 ## 📜 Lore & Mysteries
 
-### Core Concepts
-- [The Resonance Protocol](lore/resonance-protocol.md) - Ancient communication system
-- [The Silence Architects](lore/silence-architects.md) - Scream perpetrators
-- [The Scream Truth](lore/the-scream-truth.md) - Deliberate genocide
-- [Khyber Line](lore/khyber-line.md) - Kaedim's heritage
-- [History of Space](lore/history-of-space.md) - Sector background
+### Abiha Omicron Lore
+- [The Resonance Protocol](sectors/abiha-omicron/lore/resonance-protocol.md) - Ancient communication system
+- [Khyber Line](sectors/abiha-omicron/lore/khyber-line.md) - Kaedim's heritage
+- [History of Space](sectors/abiha-omicron/lore/history-of-space.md) - Sector background
+
+### Cross-Sector Lore
+- [The Scream Truth](sectors/cross-sector/lore/the-scream-truth.md) - Deliberate genocide
 
 ### Key Artifacts
-- [Kaedim's Gauntlet](items/kaedim-gauntlet.md) - Khyber control device
-- [Protocol Key Fragments](lore/protocol-key-fragments.md) - Access components
-- [Bio-Weave Cloak](items/bio-weave-cloak.md) - Protective gear
-- [Neural Enhancement Drugs](items/drugs-and-compounds.md) - Combat stimulants
+- [Kaedim's Gauntlet](sectors/abiha-omicron/items/kaedim-gauntlet.md) - Khyber control device
+- [Protocol Key Fragments](sectors/abiha-omicron/lore/protocol-key-fragments.md) - Access components
+- [Bio-Weave Cloak](sectors/abiha-omicron/items/bio-weave-cloak.md) - Protective gear
+- [Neural Enhancement Drugs](sectors/abiha-omicron/items/drugs-and-compounds.md) - Combat stimulants
 
 ## 🎯 Active Plot Threads
 
@@ -90,14 +100,14 @@ Complete directory of all campaign content, organized by category with cross-ref
 - **Lance** - Neural transformation risk
 - **Adrian** - Target for enhancement research
 
-[View All Plot Threads →](plot-threads/active-tensions.md)
+[View All Plot Threads →](sectors/abiha-omicron/plot-threads/active-tensions.md)
 
 ## 🛠️ Game Resources
 
 ### Planning Tools
 - [Session Planning Pattern](gm-notes/session-planning-pattern.md)
 - [Content Generation Style](gm-notes/content-generation-style.md)
-- [Next Session Prep](planning/next-session/)
+- [Next Session Prep](sectors/abiha-omicron/planning/next-session/)
 
 ### Mechanics References
 - [Core Rules](game-mechanics/core-rules-reference.md)

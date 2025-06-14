@@ -1,46 +1,56 @@
 
 # Stars Without Number Campaign Assistant
 
+## Session Planning Process
+
+See @gm-notes/session-planning-pattern.md for the detailed workflow
+
+## Content Generation Style
+
+See @gm-notes/content-generation-style.md for how to format modules and descriptions
+
+## ‼️ IMPORTANT: Adding New Content
+
+See @CONTRIBUTING.md for instructions on adding and indexing new information
+
 ## Purpose
-This is a living campaign repository for a Stars Without Number RPG campaign set in the Abiha Omicron sector. The repository serves as both a historical record of past sessions and a planning tool for future adventures. Claude helps track the complex interconnected plot threads, NPCs, factions, and mysteries while maintaining consistency across the campaign.
+This is a living campaign repository for Stars Without Number RPG campaigns across multiple sectors. The repository serves as both a historical record of past sessions and a planning tool for future adventures. Claude helps track the complex interconnected plot threads, NPCs, factions, and mysteries while maintaining consistency across campaigns.
 
 ## Organization Structure
 
-### Historical Records (What Has Happened)
+### Sector Organization
+- **sectors/abiha-omicron/** - Current campaign (isolated sector)
+- **sectors/eradinus-expanse/** - Previous campaign archives
+- **sectors/cross-sector/** - Elements spanning multiple campaigns
+
+### Within Each Sector
 - **sessions/** - Dated session summaries in chronological order
-- **characters/** - NPCs the party has encountered
-- **items/** - Special items and artifacts in play
-- **party/** - Current PC character sheets and ship details
+- **characters/** - NPCs organized by affiliation
+- **items/** - Special items and artifacts
+- **factions/** - Major organizations
+- **lore/** - Important concepts and mysteries
+- **plot-threads/** - Active tensions and storylines
+- **planning/** - Future session prep and ideas
+- **modules/** - Ready-to-run adventures
+- **sector-data/** - Location information
 
-### Planning Materials (What Might Happen)
-- **planning/next-session/** - Immediate upcoming session prep
-- **planning/future/** - Planned locations and adventures
-- **planning/ideas/** - Floating concepts to use as needed
-- **modules/** - Ready-to-run adventure modules
-
-### World Information
-- **sector-data/** - Extracted location data from the sector
-- **lore/** - Important concepts, histories, and mysteries
-- **factions/** - Major organizations and their goals
-- **plot-threads/** - Active tensions and ongoing storylines
+### Party Organization (Root Level)
+- **party/** - PC data organized by player
+  - **[character-name]/character-sheet.md** - Character stats
+  - **[character-name]/[ability].md** - Special abilities
+  - **[character-name]/[handout].md** - Player-specific information
+  - **starfall-whisper.md** - Shared party ship
 
 ### Meta Information
 - **game-mechanics.md** - SWN rules reference
 - **campaign-overview.md** - High-level campaign summary
 - **gm-notes/** - Templates and style guides
 
-## Session Planning Process
-See @gm-notes/session-planning-pattern.md for the detailed workflow
-
-## Content Generation Style
-See @gm-notes/content-generation-style.md for how to format modules and descriptions
-
-## Adding New Content
-See @CONTRIBUTING.md for instructions on adding and indexing new information
-
 ## Current Campaign Status
-See @campaign-overview.md for the big picture
-See @plot-threads/active-tensions.md for immediate concerns
+- **Active Sector**: Abiha Omicron
+- See @campaign-overview.md for the big picture
+- See @sectors/abiha-omicron/plot-threads/active-tensions.md for immediate concerns
+- See @sectors/abiha-omicron/README.md for sector overview
 
 ## Navigation Aids
 - @README.md - Entry point and current status
@@ -51,10 +61,25 @@ See @plot-threads/active-tensions.md for immediate concerns
 - @QUICK-REFERENCE.md - GM screen for sessions
 - @REVELATIONS-INDEX.md - Key discoveries tracker
 
-## Key Principle
+## Key Principles
+
+### Temporal Separation
 Always maintain clear separation between:
 - What has already happened (sessions with dates)
 - What is about to happen (planning/next-session)
 - What could happen (planning/future and planning/ideas)
 
-This prevents confusion about the current state of the campaign and ensures accurate continuity.
+### Sector Separation
+Maintain clear boundaries between:
+- Sector-specific content (in appropriate sector folder)
+- Cross-sector elements (in cross-sector folder)
+- Player information (in party folder)
+
+### Player Organization
+Each player has their own folder containing:
+- Character sheet (always named character-sheet.md)
+- Character-specific abilities and items
+- Handouts and personal notes
+- Information they've discovered or been given
+
+This ensures players can easily find all their relevant information and prevents confusion about the current state of the campaign.

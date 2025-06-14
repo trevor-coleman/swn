@@ -11,7 +11,7 @@
 - **Current Risk**: Architects alerted to investigation
 - **Assets**: Grand Nexus location, master override codes
 - **Danger**: May trigger another Scream-level event
-- **Related**: [Lore](../lore/silence-architects.md), [The Scream Truth](../lore/the-scream-truth.md)
+- **Related**: [Lore](../../cross-sector/factions/silence-architects.md), [The Scream Truth](../../cross-sector/lore/the-scream-truth.md)
 
 ### Lance's Neural Condition
 - **Status**: CRITICAL - Recovering
