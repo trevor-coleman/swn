@@ -1,0 +1,59 @@
+# Obsidian
+.obsidian/
+.trash/
+.DS_Store
+
+# Dependencies
+node_modules/
+.yarn/
+.pnp.*
+
+# TypeScript
+dist/
+*.tsbuildinfo
+.tsc-output/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+coverage/
+.nyc_output/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Build outputs
+build/
+out/
+
+# Bun
+bun.lockb

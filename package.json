@@ -1,0 +1,37 @@
+{
+  "name": "swn-ai",
+  "version": "0.1.0",
+  "description": "Stars Without Number campaign management tools with AI assistance",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "extract-sector": "bun run src/extract-sector-data.ts",
+    "update-indexes": "cat prompts/update-indexes.md | claude -p \"Execute this task\"",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src/**/*.ts",
+    "format": "prettier --write src/**/*.ts"
+  },
+  "keywords": [
+    "stars-without-number",
+    "rpg",
+    "campaign-management",
+    "claude",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "eslint": "^8.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
