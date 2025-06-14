@@ -115,6 +115,28 @@ def get_location_type_display(loc_type: str) -> str:
     }
     return type_map.get(loc_type, loc_type.replace('_', ' ').title())
 
+def get_hex_neighbors(x: int, y: int, coordinate_index: Dict[str, Any]) -> Dict[str, Any]:
+    """Get neighboring systems in a flat-top hex grid"""
+    neighbors = {}
+    
+    # Flat-top hex neighbor offsets
+    offsets = [
+        ('Northwest', -1, -1),
+        ('Northeast', 0, -1),
+        ('West', -1, 0),
+        ('East', 1, 0),
+        ('Southwest', 0, 1),
+        ('Southeast', 1, 1)
+    ]
+    
+    for direction, dx, dy in offsets:
+        nx, ny = x + dx, y + dy
+        hex_coords = f"{nx:02d}{ny:02d}"
+        if hex_coords in coordinate_index:
+            neighbors[direction] = coordinate_index[hex_coords]
+    
+    return neighbors
+
 def extract_sector_data(json_file: str, sector_name: Optional[str] = None, output_root: str = "sectors", force: bool = False) -> None:
     """Extract sector data from JSON and organize into hierarchical markdown files
     
@@ -180,6 +202,10 @@ def extract_sector_data(json_file: str, sector_name: Optional[str] = None, outpu
                 'id': entity_id
             }
     
+    # Build coordinate index
+    coordinate_index = {}
+    system_by_name = {}
+    
     # Process systems and their contents
     if 'system' in data:
         for system_id, system in data['system'].items():
@@ -187,9 +213,30 @@ def extract_sector_data(json_file: str, sector_name: Optional[str] = None, outpu
             system_dir = os.path.join(systems_path, system_name)
             create_directory(system_dir)
             
+            # Store coordinate information
+            if 'x' in system and 'y' in system:
+                x = system['x'] - 1  # Convert to 0-indexed
+                y = system['y'] - 1
+                hex_coords = f"{x:02d}{y:02d}"
+                coordinate_index[hex_coords] = {
+                    'name': system.get('name', 'Unknown'),
+                    'path': system_name,
+                    'x': x,
+                    'y': y
+                }
+                system_by_name[system.get('name', 'Unknown')] = hex_coords
+            
             # Write system file
             with open(os.path.join(system_dir, 'system.md'), 'w') as f:
                 f.write(f"# System: {system.get('name', 'Unknown')}\n\n")
+                
+                # Add coordinates if available
+                if 'x' in system and 'y' in system:
+                    # Convert from 1-indexed to 0-indexed and format as 4-digit hex code
+                    x = system['x'] - 1
+                    y = system['y'] - 1
+                    hex_coords = f"{x:02d}{y:02d}"
+                    f.write(f"**Coordinates**: {hex_coords} (x{x}, y{y})\n\n")
                 
                 if 'attributes' in system:
                     f.write("## Attributes\n")
@@ -203,6 +250,16 @@ def extract_sector_data(json_file: str, sector_name: Optional[str] = None, outpu
                     # Format tags if present
                     if 'tags' in system['attributes']:
                         f.write(format_tags_section(system['attributes']['tags']))
+                
+                # Add adjacent systems if coordinates available
+                if 'x' in system and 'y' in system:
+                    neighbors = get_hex_neighbors(x, y, coordinate_index)
+                    if neighbors:
+                        f.write("\n## Adjacent Systems\n\n")
+                        f.write("One hex away:\n")
+                        for direction, neighbor_data in neighbors.items():
+                            f.write(f"- **{direction}**: [{neighbor_data['name']}](../{neighbor_data['path']}/system.md)\n")
+                        f.write("\n")
                 
                 # Add navigation section
                 f.write("## System Contents\n\n")
@@ -292,12 +349,112 @@ def extract_sector_data(json_file: str, sector_name: Optional[str] = None, outpu
                 # Location in asteroid belt
                 write_location_file(belt_path, entity_type, entity_name, entity)
     
+    # Write coordinate index file
+    write_coordinate_index(base_path, coordinate_index, system_by_name)
+    
     print(f"\nData extracted successfully!")
     print(f"Created hierarchical structure in: {systems_path}/")
     print(f"\nNote: Remember to update the campaign index files:")
     print(f"  - MASTER-INDEX.md")
     print(f"  - NPC-INDEX.md (if new NPCs were imported)")
     print(f"  - TIMELINE.md (if historical events were imported)")
+
+def write_coordinate_index(base_path: str, coordinate_index: Dict[str, Any], system_by_name: Dict[str, str]) -> None:
+    """Write coordinate index file for LLM navigation"""
+    index_path = os.path.join(base_path, 'systems-coordinate-index.md')
+    
+    with open(index_path, 'w') as f:
+        f.write("# System Coordinate Index\n\n")
+        f.write("This index provides coordinate-to-system mappings for navigation.\n\n")
+        
+        # Write coordinate grid
+        f.write("## Coordinate Grid\n\n")
+        f.write("```\n")
+        
+        # Find max coordinates
+        max_x = max_y = 0
+        for coords_data in coordinate_index.values():
+            max_x = max(max_x, coords_data['x'])
+            max_y = max(max_y, coords_data['y'])
+        
+        # Create grid visualization
+        grid = []
+        for y in range(max_y + 1):
+            row = []
+            for x in range(max_x + 1):
+                hex_coords = f"{x:02d}{y:02d}"
+                if hex_coords in coordinate_index:
+                    # Truncate name to fit in grid
+                    name = coordinate_index[hex_coords]['name'][:8]
+                    row.append(f"{name:^10}")
+                else:
+                    row.append("    --    ")
+            grid.append(" | ".join(row))
+        
+        # Add coordinate headers
+        x_header = " | ".join(f"   x{x:02d}   " for x in range(max_x + 1))
+        f.write(f"     | {x_header}\n")
+        f.write("-----+" + "-----------+" * (max_x + 1) + "\n")
+        
+        # Write grid with y coordinates
+        for y, row in enumerate(grid):
+            f.write(f" y{y:02d} | {row}\n")
+        
+        f.write("```\n\n")
+        
+        # Write coordinate to system mapping
+        f.write("## Coordinates to System\n\n")
+        for coords in sorted(coordinate_index.keys()):
+            data = coordinate_index[coords]
+            f.write(f"- **{coords}**: [{data['name']}](systems/{data['path']}/system.md)\n")
+        
+        f.write("\n## System to Coordinates\n\n")
+        for system_name in sorted(system_by_name.keys()):
+            coords = system_by_name[system_name]
+            path = clean_name(system_name)
+            f.write(f"- **{system_name}**: {coords} (x{coordinate_index[coords]['x']}, y{coordinate_index[coords]['y']})\n")
+        
+        f.write("\n## Hex Grid Navigation\n\n")
+        f.write("This is a **flat-top hex grid**. Each system has up to 6 neighbors:\n\n")
+        f.write("```\n")
+        f.write("    (-1,-1)  (0,-1)\n")
+        f.write("       \\      /\n")
+        f.write("(-1,0) - HEX - (+1,0)\n")
+        f.write("       /      \\\n")
+        f.write("    (0,+1)  (+1,+1)\n")
+        f.write("```\n\n")
+        f.write("Neighbor offsets from any hex (x,y):\n")
+        f.write("- Northwest: (x-1, y-1)\n")
+        f.write("- Northeast: (x, y-1)\n")
+        f.write("- West: (x-1, y)\n")
+        f.write("- East: (x+1, y)\n")
+        f.write("- Southwest: (x, y+1)\n")
+        f.write("- Southeast: (x+1, y+1)\n\n")
+        
+        f.write("## Distance Calculations\n\n")
+        f.write("For flat-top hex grids, the distance between two hexes (x1,y1) and (x2,y2) is:\n\n")
+        f.write("```\n")
+        f.write("dx = x2 - x1\n")
+        f.write("dy = y2 - y1\n")
+        f.write("\n")
+        f.write("if sign(dx) == sign(dy):\n")
+        f.write("    distance = max(abs(dx), abs(dy))\n")
+        f.write("else:\n")
+        f.write("    distance = abs(dx) + abs(dy)\n")
+        f.write("```\n\n")
+        
+        f.write("## Space Travel Times\n\n")
+        f.write("**Spike Drive Travel** (between systems):\n")
+        f.write("- Base time: **6 days per hex**\n")
+        f.write("- Drive-1: 5 days/hex\n")
+        f.write("- Drive-2: 4 days/hex\n")
+        f.write("- Drive-3: 3 days/hex\n")
+        f.write("- Drive-4: 2 days/hex\n")
+        f.write("- Drive-5: 1 day/hex\n\n")
+        f.write("**In-System Travel**:\n")
+        f.write("- Between planets/stations: 24-48 hours\n")
+        f.write("- To outer system: up to 6 days\n\n")
+        f.write("*For full travel rules, see [Space Travel Times](../../game-mechanics/space-travel-times.md)*\n")
 
 def write_entity_content(f, entity: Dict[str, Any], entity_type: str) -> None:
     """Write common entity content to file"""
