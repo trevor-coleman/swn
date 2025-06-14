@@ -1,3 +1,4 @@
+
 # Stars Without Number Campaign Assistant
 
 ## Purpose
@@ -34,9 +35,21 @@ See @gm-notes/session-planning-pattern.md for the detailed workflow
 ## Content Generation Style
 See @gm-notes/content-generation-style.md for how to format modules and descriptions
 
+## Adding New Content
+See @CONTRIBUTING.md for instructions on adding and indexing new information
+
 ## Current Campaign Status
 See @campaign-overview.md for the big picture
 See @plot-threads/active-tensions.md for immediate concerns
+
+## Navigation Aids
+- @README.md - Entry point and current status
+- @MASTER-INDEX.md - Complete content directory
+- @TIMELINE.md - Chronological campaign events
+- @NPC-INDEX.md - All characters and connections
+- @FACTION-TRACKER.md - Organization activities
+- @QUICK-REFERENCE.md - GM screen for sessions
+- @REVELATIONS-INDEX.md - Key discoveries tracker
 
 ## Key Principle
 Always maintain clear separation between:

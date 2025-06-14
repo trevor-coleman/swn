@@ -1,63 +1,72 @@
 # Active Plot Threads & Tensions
 
+*For chronological context see [Timeline](../TIMELINE.md) | For faction details see [Faction Tracker](../FACTION-TRACKER.md)*
+
 ## Immediate Threats
 
 ### The Silence Architects - UNIVERSE-LEVEL THREAT
 - **Status**: CRITICAL - One identified, two unknown
-- **Revelation**: The Scream was deliberate genocide
+- **Revelation**: The Scream was deliberate genocide ([Lance's discovery](../sessions/2025-06-12-lances-psychonaut-journey.md))
 - **Personal Connection**: Party has met one disguised as info broker
 - **Current Risk**: Architects alerted to investigation
 - **Assets**: Grand Nexus location, master override codes
 - **Danger**: May trigger another Scream-level event
+- **Related**: [Lore](../lore/silence-architects.md), [The Scream Truth](../lore/the-scream-truth.md)
 
 ### Lance's Neural Condition
 - **Status**: CRITICAL - Recovering
-- **Context**: Failed disconnect from Resonant Dawn network
+- **Context**: Failed disconnect from Resonant Dawn network ([Sanctuary incident](../sessions/2025-05-30-resonant-dawn-sanctuary.md))
 - **Risk**: Potential transformation like the Interpreter
-- **New Ability**: Network Echo grants Protocol memory access
+- **New Ability**: [Network Echo](../abilities/network-echo.md) grants Protocol memory access
 - **Management**: Must limit use to avoid further damage
 - **Advantage**: Can access Architect memories
+- **Character**: [Lance Bahringer](../party/lance-bahringer.md)
 
 ### Archive Judgment
 - **Status**: RESOLVED (off-screen during Lance's journey)
 - **Outcome**: Unknown - party fled during sanctuary crisis
+- **Related**: [Archive Arrival](../sessions/2025-05-01-archive-arrival.md), [Isa](../characters/isa-archive-authority.md)
 
 ### Aurelius Consortium Pursuit
 - **Status**: ESCALATED - Direct Combat
-- **Context**: Engaged consortium forces at Cou
+- **Context**: Engaged consortium forces at [Battle of Cou](../sessions/2025-06-12-cou-approach-battle.md)
 - **Recent**: Destroyed 2 patrol boats, disabled corvette *Profit Margin*
 - **Assets**: Protocol tracking device, black box data on party
-- **Knowledge**: Now has Starfall Whisper's full identity
+- **Knowledge**: Now has [Starfall Whisper's](../party/starfall-whisper.md) full identity
 - **Warning**: Commander Zhou: "Some prizes cost more than ships"
+- **Faction**: [Aurelius Consortium](../factions/aurelius-consortium.md)
 
 ## Major Discoveries
 
 ### Ur-Resonance
 - **New Discovery**: Original Protocol seed consciousness
-- **Source**: Interpreter's final revelation to refugees
+- **Source**: Interpreter's final revelation to refugees ([Sanctuary](../sessions/2025-05-30-resonant-dawn-sanctuary.md))
 - **Nature**: Pre-human in origin
 - **Access**: Requires three keys
-- **Connection**: May explain shackles on Cou
+- **Connection**: May explain shackles on [Cou](../sector-data/planets/Cou.md)
+- **Carriers**: Sister Meris and [Harmonic Prayer refugees](../sessions/2025-06-12-cou-approach-battle.md)
 
 ### Navigator-Khyber Connection
-- **Revelation**: Dallas and Kaedim show unusual compatibility patterns
-- **Historical Context**: Navigators were historically exploited by Khyber lineage
-- **Archive Founded**: By escaped navigators opposing Khyber control
+- **Revelation**: [Dallas](../party/dallas-jacobi.md) and [Kaedim](../party/kaedim-vecc.md) show unusual compatibility patterns
+- **Historical Context**: Navigators were historically exploited by [Khyber lineage](../lore/khyber-line.md)
+- **Archive Founded**: By escaped navigators opposing Khyber control ([Archive Experience](../sessions/2025-05-07-archive-experience.md))
 - **Question**: Is their meeting coincidence or manipulation?
 
 ### Resonance Protocol
-- **Artifacts**: Crystal fragment (Kaedim), corrupted key data (Kaedim's gauntlet)
-- **Locations**: Site Theta, Grand Nexus (drill-space)
-- **Competing Interests**: Aurelius Consortium, ~~Resonant Dawn cult~~ (destroyed)
-- **Danger**: Security Chief Keller partially transformed by exposure
+- **Artifacts**: Crystal fragment (Kaedim), corrupted key data ([Kaedim's gauntlet](../items/kaedim-gauntlet.md))
+- **Locations**: Site Theta ([Aurelius Belt](../sector-data/locations/Aurelius Belt.md)), Grand Nexus (drill-space)
+- **Competing Interests**: [Aurelius Consortium](../factions/aurelius-consortium.md), ~~[Resonant Dawn cult](../factions/resonant-dawn.md)~~ (destroyed)
+- **Danger**: Security Chief Keller partially transformed by exposure ([Orinda Rescue](../sessions/2025-03-27-orinda-mine-rescue.md))
 - **New Understanding**: Tool used by Architects to trigger the Scream
 - **Dallas's Coordinates**: 2847.3/-891.2/-3 (Grand Nexus location)
+- **Lore**: [Resonance Protocol](../lore/resonance-protocol.md), [Protocol Key Fragments](../lore/protocol-key-fragments.md)
 
 ### Aurelius Jump Gate
 - **Status**: Currently dormant after party's arrival
 - **Problem**: No return travel possible without intervention
 - **Interest**: Multiple factions studying the phenomenon
 - **Significance**: Party's arrival method draws unwanted attention
+- **Lore**: [Aurelius Jumpgate](../lore/aurelius-jumpgate.md)
 
 ## Faction Conflicts
 
@@ -111,14 +120,19 @@
 
 ## Potential Allies
 
-- **Penticton 9**: Grateful for repairs, potential safe harbor
-- **Archive**: If judgment passed, powerful knowledge ally
-- **Gaius Carranzo**: New recruit, unknown loyalties
-- **Orinda Survivors**: 14 grateful individuals with insider knowledge
+- **[Penticton 9](../sector-data/locations/Penticton 9.md)**: Grateful for repairs, potential safe harbor ([Session](../sessions/2025-04-04-penticton-9.md))
+- **The Archive**: If judgment passed, powerful knowledge ally ([NPC: Isa](../characters/isa-archive-authority.md))
+- **[Gaius Carranzo](../characters/gaius-carranzo.md)**: New recruit, unknown loyalties ([Stats](../characters/gaius-carranzo-stats.md))
+- **Orinda Survivors**: 14 grateful individuals with insider knowledge ([Rescue](../sessions/2025-03-27-orinda-mine-rescue.md))
 
 ## Next Steps
-- Survive Archive judgment
-- Evade Aurelius Consortium
+- ~~Survive Archive judgment~~ (Resolved off-screen)
+- Evade Aurelius Consortium ([Current pursuit](../sessions/2025-06-12-cou-approach-battle.md))
 - Decide how to use Resonance Protocol knowledge
-- Find safe harbor (37 Labria suggested)
+- Find safe harbor ([37 Labria](../sector-data/locations/37 Labria.md) suggested)
 - Investigate jumpgate restoration possibilities
+- Rescue [Harmonic Prayer refugees](../planning/next-session/harmonic-prayer-rescue-prep.md)
+
+---
+
+*Updated through [June 12, 2025](../sessions/2025-06-12-cou-approach-battle.md). See also: [Timeline](../TIMELINE.md) | [Master Index](../MASTER-INDEX.md) | [Faction Tracker](../FACTION-TRACKER.md)*
