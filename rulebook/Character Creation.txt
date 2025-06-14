@@ -1,0 +1,4299 @@
+CHARACTER CREATION
+Before you can begin playing Stars Without Number,
+you need to roll up a character. While the game can
+theoretically work with just a single player and a GM,
+things work best with 2–5 friends in addition to the
+GM. A lone adventurer can get in a lot of trouble out
+there, and a small group can find it hard to include all
+the different skills and talents that are often required
+to survive a sticky situation.
+With that in mind, you and the others in your
+gaming group should give a little thought to making
+characters that work well together. Grim loners make
+good book protagonists, but they don’t survive well
+when there’s no author around to bail them out.
+When making a character, some players like to
+simply throw the dice and see where they lead. Others
+prefer to know a little more about the game world and
+like to have more detail provided beforehand about the
+worlds and themes of the game. For those who’d prefer
+a more detailed discussion of the world of Stars Without
+Number, you can skip ahead to page 120 and read up on
+it there. For the rest of you…
+
+What Players Need To Know
+
+Your character is an adventurer in the year 3200, a
+dweller among the scattered worlds of a great human
+diaspora. For whatever reason, he or she has decided
+to leave their old life behind and take up a starfaring
+existence, daring perils and seeking new frontiers in
+search of glory, riches, or their own personal ambitions.
+Many worlds have recovered from the desperation of the centuries-long Silence, and can once again
+manufacture spacecraft and other advanced technology.
+Other worlds are “lost worlds”, still cut off from interstellar trade and forced to make do with the resources
+of their own planet. Lostworlders are often considered
+barbaric by technologically advanced worlds.
+Tramp freighters, small merchant ships, and scout
+craft serve most worlds, even the most backward. If
+your character comes from a primitive or isolated culture, it’s probable that he or she hitched a ride aboard
+such a ship to travel to a more cosmopolitan life. It may
+or may not have been a voluntary choice.
+In actual play, your character should be motivated
+to act, and to act as part of a group. The game does
+not deal well with hostile loners, apathetic brooders, or
+other characters that have to be coaxed into engaging
+with the world and cooperating with the rest of the
+group. The world of Stars Without Number is dangerous, and characters who cringe from peril or insist on
+facing it alone will find only boredom or an early grave.
+Every character should have a goal from the very
+start. This might be something as simple as “become
+wealthy beyond my fondest dreams of avarice” or “be
+known as the greatest pilot in the sector”. It might be
+as elaborate as “engineer the downfall of the interstellar
+
+empire that conquered my world”. Whatever it is, it
+should give your character an immediate reason to go
+out and do something.
+This will to act is especially crucial in Stars Without Number, because this game is designed to support
+a “sandbox” style of gaming. Unlike many other games
+that encourage the development of a particular story
+or the playing out of a specific plot line, Stars Without
+Number presents an entire interstellar sector to your
+characters and invites you to choose for yourself how
+to experience it. Stories will arise based on what your
+characters do and how they respond to the adventure
+situations provided by the GM.
+As a player, you need to cooperate with your GM.
+This doesn’t necessarily mean following every lead and
+hook you’re given without demurral, but it does mean
+that you need to respond to the situations and possibilities that are given to you.
+You also need to keep in mind that your adventurers exist in a very large world that is not scaled to
+your characters’ abilities. If you insist on throwing your
+characters into situations or challenges that seem overwhelming, the odds are that they will overwhelm you.
+Scouting, reconnaissance, and careful intelligence gathering will help you recognize no-win situations before
+you push ahead into them. By the same token, don’t
+hesitate to flee if your party appears to be facing certain
+doom. A keen sense of when to decamp the field is
+often an experienced adventurer’s most valuable asset.
+
+Rolling a Character
+Stars Without Number belongs to a somewhat older
+tradition in tabletop RPGs, one where characters
+aren’t so much “built” as they are “rolled”. Players
+often don’t know who exactly they’re going to be
+playing in a campaign, and rely on random rolls to
+determine a hero’s aptitudes and skills. Part of the
+pleasure of the game is throwing these new-rolled
+cyphers into play and exploring their personalities
+and motivations directly through the events of the
+adventures they undertake.
+In most modern games, however, a player
+expects to be able to create exactly the kind of PC
+they’ve envisioned before the campaign begins.
+They don’t want to rely on random rolls to give
+them the character they’re going to be playing.
+This is a perfectly valid preference, and players who want to have full control over creating
+their hero can do so with an attribute array and
+skills picked from a selected background. Even
+so, players without strong feelings on the matter
+might find it refreshing to let their hero’s past be
+discovered by the unpredictable chance of the dice.
+
+4• SUMMARY OF CHARACTER CREATION
+
+A SUMMARY OF CHARACTER CREATION
+For your convenience, here’s a quick summary of the
+character creation process. Experienced players can
+simply go down the list to generate their next interstellar freebooter, while those new to the game can use it as
+a guide reference as they go through the steps detailed
+on the following pages. A blank character sheet can be
+found at the end of the book.
+Note that some steps indicate that you should roll
+or pick skills, as described on page 7. The first time you
+roll or pick a skill, it starts at level-0. The second time,
+it becomes level-1. The third time, you can instead pick
+any other non-psychic skill of your choice that’s less
+than level-1. No novice hero’s skills can exceed level-1
+during character creation.
+1.
+
+Roll your six attributes or assign them from an
+array, using Strength, Dexterity, Constitution,
+Intelligence, Wisdom, and Charisma. Attributes
+reflect the basic potential of your hero. Roll 3d6
+six times and assign them in order, or use an
+array of 14, 12, 11, 10, 9, 7 assigned as you wish.
+If you randomly roll your scores you may then
+pick one attribute to change to a score of 14.
+
+2.
+
+Mark down your attribute modifiers for each
+score. When rolling dice that are affected by an
+attribute, you don’t apply the whole score; instead, you apply the attribute modifier. A score
+of 3 is a -2, 4—7 is a -1, 8—13 is no modifier,
+14—17 is +1, and 18 is +2.
+
+3.
+
+Pick a background from the list on page 9, one
+that most closely reflects your hero’s past experiences. You gain the skill listed under the
+background name at level-0, which equates to
+an ordinary working knowledge of it.
+
+4.
+
+Decide whether to roll for additional skills or
+pick them. If you pick skills, you can choose two
+more skills from the Learning table for your
+background, with the exception of entries that
+say “Any Skill”, which you may not pick. You
+cannot pick entries from the Growth table. If
+you’re not sure what to pick, just take the “Quick
+Skills” listed for your background at level-0,
+which include your background’s beginning skill.
+
+5.
+
+If you choose to roll for your skills, you can roll up
+to three times, dividing up your rolls between
+the Growth and Learning tables as you wish.
+When you roll on the Growth table, some results may say “+2 Physical” or “+2 Mental”. In
+the former case, you can add two points to either Strength, Dexterity, or Constitution, or one
+point to two different stats. In the latter case,
+
+you can add two points to either Intelligence,
+Wisdom, or Charisma, or divide the bonus between two of them.
+6.
+
+Choose your class, representing those talents
+you have that are most relevant to an adventurer’s lifestyle. If your hero isn’t well-described
+by Warrior, Expert, or Psychic, you can choose
+Adventurer and mix your class abilities.
+
+7.
+
+Choose your foci, representing the side talents
+or particular specializations of your hero. You
+can pick one level of a focus of your choice.
+Characters with the Expert class or the Partial
+Expert feature of the Adventurer class get one
+level of a non-combat, non-psychic focus for
+free in addition to this. They can spend both
+levels on the same focus, starting with level 2
+in it if they wish. Characters with the Warrior
+class or Partial Warrior feature of the Adventurer class can do the same in choosing one level of
+a combat focus.
+
+8.
+
+Optionally, if your GM is allowing alien PCs or
+VI or True AI PCs, you can make your character
+into one such creature by spending your focus
+level on the appropriate origin focus. Aliens and
+VIs are described in the Xenobestiary chapter,
+starting on page 192, while True AIs are part
+of the deluxe Stars Without Number core book,
+starting on page 280.
+
+9.
+
+Now pick one non-psychic skill of your choice to
+reflect your hero’s outside interests, natural talents, hobby expertise, or other personal focus.
+
+10.
+
+If you’ve chosen the Psychic class or chosen to be
+an Adventurer with the Partial Psychic ability,
+you are a psychic PC, with powers described
+in the following section, starting on page 28.
+Psychics can pick two psychic skills from those
+listed on page 8, while Partial Psychics can pick
+one. If a Psychic picks the same skill twice, they
+get it at level-1 expertise, and can pick a free
+level-1 technique from those listed for that discipline. Both Psychics and Partial Psychics get
+the level-0 abilities associated with their skills,
+as described under each discipline they possess.
+Both also have a maximum Effort score equal to
+1 plus their highest psychic skill plus the better of
+their Wisdom or Constitution modifiers.
+
+11.
+
+Roll your maximum hit points on 1d6, adding
+your Constitution modifier. Even a penalty can’t
+reduce your hit points below 1. Warrior PCs
+
+SUMMARY OF CHARACTER CREATION •5
+Stars Without Number
+
+18
+
+Name
+
+Character Sheet
+
+Background
+
+3
+Class
+
+Pilot
+Program
+Punch
+Shoot
+Sneak
+Stab
+Survive
+Talk
+Trade
+
+Administer
+Connect
+E xert
+Fix
+Heal
+Know
+Lead
+Notice
+Perform
+
+6
+
+4, 5, 9
+
++3sp per lvl (Experts: +1 bonus non-combat)
+
+Level
+Lvl 2 = 3xp
+Lvl 3 = 6xp
+Lvl 4 = 12xp
+Lvl 5 = 18xp
+Lvl 6 = 27xp
+
+Homeworld
+Employer
+Species
+Weapons
+
+XP
+
+Range and Ammo
+
+Name
+Mods
+
++
+
+Name
+Mods
+
+14, 15 +
+
+Name
+Mods
+
++
+
+Name
+Mods
+
++
+
+Name
+Mods
+
++
+
+Lvl 7 = 39xp
+Lvl 8 = 54xp
+Lvl 9 = 72xp
+Lvl 10 = 93xp
+Lvl 11+ = +24
+
+Name
+Mods
+Name
+Mods
+
++
+
+12
+
+Foci
+
+Lvl
+
+Attributes
+3 (-2) | 4-7 (-1) | 8-13 (+0) | 14-17 (+1) | 18 (+2)
+
+1, 2
+
+STR
+
+(1D6 + Con) x Level
+
+Warriors: Additional +2 per level
+
+System Strain
+
+Permanent:
+
+Max = CON
+
+Saves
+Physical
+
+Skill Points
+
+Lvl
+
+Evasion
+
+Mental
+
+17
+
+16 - lvl - [Str | Con] 16 - lvl - [Dex | Int] 16 - lvl -[Wis | Cha]
+
+DEX
+CON
+INT
+WIS
+CHA
+Boosts: 1st: 1sp (lvl 1) | 2nd: 2sp (lvl 1)
+3rd: 3sp (lvl 3) | 4th: 4sp (lvl 6) | 5th: 5sp (lvl 9)
+
+Cybernetics / Innate Abilities
+
+Lvl
+
+7,8
+
+Lvl
+
+Psionic Techniques
+
++1 on new Psychic Skill Lvl
+
+Lvl
+
+10
+
+Lvl
+
+Readied Items
+
+Max Enc = STR ÷ 2
+
+13
+
+AC
+
+AC
+
+Credits
+
+Note down any base attack bonus you may have.
+The higher the attack bonus, the easier it is for
+your hero to land a telling blow or shot on a
+hostile opponent. For most PCs, this bonus is
++0. If you are a Warrior or an Adventurer with
+the Partial Warrior class option, it’s +1.
+
+13.
+
+Choose one of the equipment packages on page 25
+or roll 2d6 x 100 to find out how many starting
+credits you have with which to buy gear.
+
+14.
+
+Mark down your total hit bonus with your weaponry. This is equal to your base attack bonus,
+plus either your Punch, Stab, or Shoot skill depending on the kind of weapon it is, plus your
+relevant attribute modifier. The weapon tables
+starting on page 66 will tell you what attribute
+is used for a particular weapon. If two attributes
+are listed, use the best one for your hero. If you
+haven’t even got level-0 skill, take a -2 penalty.
+
+15.
+
+Max:
+
+11
+
++1 Focus at lvl 2, lvl 5, lvl 7 & lvl 10
+
+and Adventurers with the Partial Warrior class
+option add 2 points to this total. Hit points indicate how close your hero is to being defeated.
+12.
+
+Hitpoints / Conditions
+
+Max: +2 at lvl 3 | +3 at lvl 6 | +4 at lvl 9
+
+Warrior = +Lvl | Other = +(Lvl ÷ 2)
+Partial Warrior = +1 at lvl 1 & lvl 5
+
+AC
+
+16
+
+Cost: new value + 1
+
+Total Atk Bonus
+
+Armor
+Name
+Mods
+
+Base Atk Bonus
+
+Work
+Biopsionics
+Metapsionics
+Precognition
+Telekinesis
+Telepathy
+Teleportation
+
+Note down the damage done by your weapons.
+This is equal to its base damage dice plus its attribute modifier. If it’s a Punch weapon, you can
+add your Punch skill as well.
+
+Debts
+
+Psionic Effort
+
+Effort: 1 + Highest Psychic Skill + Highest of Wis or Con
+
+Max:
+
+16.
+
+Record your Armor Class, the measure of how
+hard it is to hurt your hero in a fight. Different
+suits of armor grant different Armor Classes; if
+you aren’t wearing any armor at all, your base
+AC is 10. Add your Dexterity modifier to this. In
+order to hurt your PC, an enemy has to roll an
+attack roll on a d20, adding their attack bonus
+and equaling or exceeding your Armor Class.
+
+17.
+
+Note down your beginning saving throw scores
+for your Physical, Evasion, and Mental saving
+throws. Physical saves against poison, disease,
+or exhaustion are 15 minus the best of your
+Strength or Constitution modifiers. Evasion
+saves to dodge sudden perils or dive away from
+explosives are 15 minus the best of your Intelligence and Dexterity modifiers. Mental saves to
+resist psychic influence or mind-bending technology are 15 minus the best of your Wisdom or
+Charisma modifiers. To resist these perils, you
+need to equal or beat the save on a d20.
+
+18.
+
+Lastly, wrap up your PC with a name and a goal.
+Every hero needs to have a goal when they set
+out adventuring. This goal might change, but
+your PC should always have some reason to go
+out and interact with the world before them.
+Stay-at-home PCs and those unwilling to dare
+greatly for their aims are rarely fun to play.
+
+6• ATTRIBUTES
+
+ATTRIBUTES
+The first step in creating a character is to determine
+the character’s six attributes. Attributes describe how
+strong, quick, clever, perceptive, hardy, or charming
+your hero might be. Attributes are measured by scores
+ranging from 3 to 18, with 3 reflecting an attribute
+so weak that the PC is barely fit for adventuring and
+an 18 marking the maximum possible aptitude for an
+ordinary human.
+To generate a character’s attributes, roll 3d6 six
+times and assign the results in order to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. You may then change one attribute of your choice
+to 14 if you wish to ensure that your new adventurer
+is gifted in at least one way.
+If you prefer not to roll, you may instead assign
+the following scores to your attributes in any order you
+wish: 14, 12, 11, 10, 9, and 7. If you assign your scores,
+you cannot replace one of them with a 14.
+Once you’ve assigned your attributes, record the
+modifier for each of them. This modifier is applied to
+relevant skill checks or other rolls related to the attribute. If your attribute score changes during play, either from some crippling injury or from improvements
+granted by your background or experience, you should
+make sure to update any changed modifier.
+
+Attribute
+
+Affects....
+
+Strength
+
+Physical prowess, melee combat,
+carrying gear, brute force
+
+Dexterity
+
+Speed, evasion, manual dexterity,
+reaction time, combat initiative
+
+Constitution
+
+Hardiness, enduring injury, resisting
+toxins, going without food or sleep
+
+Intelligence
+
+Memory, reasoning, technical skills,
+general education
+
+Wisdom
+
+Noticing things, making judgments,
+reading situations, intuition
+
+Charisma
+
+Commanding, charming, attracting
+attention, being taken seriously
+
+Attribute Score
+
+Modifier
+
+3
+
+-2
+
+4—7
+
+-1
+
+8—13
+
++0
+
+14—17
+
++1
+
+18
+
++2
+
+Rolling a PC’s Attributes
+Simon’s rolling up a character for a new campaign.
+The first step is to figure out what kind of hero he’s
+going to be playing in the upcoming game, and that
+means determining attributes.
+If Simon had a particular concept he knew he
+wanted to play, choosing to use the array might be
+a good idea. It provides a predictable set of numbers
+he can put in whatever order he wishes, and unless
+his concept requires that his PC be particularly gifted
+in more than one attribute, the 14 that’s part of the
+array would ensure that he was capable in whatever
+natural aptitude was most important to the concept.
+On the other hand, even if he rolls the dice, he
+knows his hero is going to be good at something. He
+can put that free 14 in any attribute he wishes, so if
+all he cares about is making sure his PC is quick, he
+can rest assured that random rolling will still produce a quick PC.
+Simon, however, really doesn’t have any particular concept he knows he wants to play for this campaign. He decides he’s going to let the dice determine
+what kind of hero he’s going to play. Letting the dice
+make the decision helps him break out of any ruts he
+might be in when it comes to character concepts, and
+it can make him consider ideas that might be fresher
+in play than his usual fare.
+
+Simon takes three six-sided dice in hand and
+rolls them six times, assigning each number in order
+to his Strength, Dexterity, Constitution, Intelligence,
+Wisdom, and Charisma scores. His results are 10, 4,
+13, 16, 8, and 7.
+Since 10 or 11 is an average human score, Simon
+can see that this PC has a very considerable intellect counterbalanced by pronounced clumsiness and
+poor social skills. Because he rolled his statistics, he
+can replace one of the rolls with a score of 14. After
+some consideration, Simon decides that swapping
+out his bad Dexterity score makes the most sense.
+Now Simon notes down the attribute modifiers for each of his scores: a Strength of 10 is +0, a
+Dexterity of 14 is +1, a Constitution of 13 is +0, an
+Intelligence of 16 is +1, a Wisdom of 8 is +0, and a
+Charisma of 7 is -1.
+When rolling skill checks, attack rolls, or other
+things modified by an attribute, Simon will be using
+the modifier rather than the full attribute score. The
+scores themselves might change a little due to his
+hero’s background or future personal training, but
+mostly they’ll serve as cues for playing the PC. With
+a Wisdom of 8, for example, Simon’s hero might not
+have a penalty to rolls, but he probably makes the
+occasional decision he lives to regret.
+
+SKILLS •7
+
+SKILLS
+Your hero’s learned capabilities are skills, and every
+star-faring adventurer has their share of them. A hero
+can usually attempt to do anything, whether it’s to
+climb a sun-scorched cliff on an alien world, talk down
+an enraged lostworlder warlord, or fire a mag rifle at
+a charging xenomorph, but having the right skill can
+make a vast difference in results.
+Skills are measured in a rating from level-0 for
+competent practitioners to level-4 for the best in the
+sector. Novice heroes start with level-0 or level-1 in
+their skills. You’ll choose or roll skills in the next section, when you select a background for your character.
+Skill Level
+Level-0
+
+Basic competence in the skill, such as
+an ordinary practitioner would have
+
+Level-1
+
+An experienced professional in the
+skill, clearly better than most
+
+Level-2
+
+Veteran expert, one respected even
+by those with considerable experience
+
+Level-3
+
+Master of the skill, likely one of the
+best on the planet
+
+Level-4
+
+Superlative expertise, one of the best
+in the entire stellar sector.
+
+Skill Checks
+
+Your hero is assumed to be competent at all the ordinary functions of their role and background. If he’s a
+moisture farmer from a back-of-nowhere desert world,
+he’s going to know how to keep a dew still running and
+how to put on a coolsuit. If she’s a corporate magnate’s
+succession-groomed daughter from a megacorp-dominated hiveworld, she’s going to know how to read a
+balance sheet and speak during a meeting with C-level
+executives. They will never fail at these basic tasks unless some situation makes them much harder than usual.
+Sometimes, however, the hero will be faced with
+a situation outside their usual experience, or will try
+to accomplish a normal task while under considerable
+strain or disadvantage. In those cases, you’ll need to
+roll a skill check.
+To roll a skill check, roll 2d6 and add the most
+applicable attribute modifier and skill level. If the total
+is equal or greater than the difficulty of the check, you
+succeed. If less, something goes wrong, or you fail outright in the attempt, or something unexpected happens.
+If you haven’t even got level-0 in the relevant skill
+you take a -1 penalty to the roll. Some particularly technical or difficult feats might not be achievable at all
+without some grounding in the skill.
+
+8• ATTRIBUTES
+
+The Skill List
+
+The following skills are standard choices for most campaigns. Games set in unusual reaches of space or unique
+settings might alter this list.
+Skills are general, and some of them may overlap
+in some situations. A hero trying to clear a jammed disruptor cannon before the aliens break through the door
+might plausibly check either Fix to repair it or Shoot to
+represent their familiarity with weapons maintenance.
+Assuming the GM agrees, you can roll whichever skill
+is better for you.
+Administer: Manage an organization, handle paperwork, analyze records, and keep an institution
+functioning on a daily basis. Roll it for bureaucratic expertise, organizational management, legal knowledge, dealing with government agencies,
+and understanding how institutions really work.
+Connect: Find people who can be helpful to your purposes and get them to cooperate with you. Roll
+it to make useful connections with others, find
+people you know, know where to get illicit goods
+and services, and be familiar with foreign cultures
+and languages. You can use it in place of Talk for
+persuading people you find via this skill.
+Exert: Apply trained speed, strength, or stamina in
+some feat of physical exertion. Roll it to run, jump,
+lift, swim, climb, throw, and so forth. You can use
+it as a combat skill when throwing things, though
+it doesn’t qualify as a combat skill for other ends.
+Fix: Create and repair devices both simple and complex.
+How complex will depend on your character’s
+background; a lostworlder blacksmith is going to
+need some study time before he’s ready to fix that
+broken fusion reactor, though he can do it eventually. Roll it to fix things, build things, and identify
+what something is supposed to do.
+Heal: Employ medical and psychological treatment for
+the injured or disturbed. Roll it to cure diseases,
+stabilize the critically injured, treat psychological
+disorders, or diagnose illnesses.
+Know: Know facts about academic or scientific fields.
+Roll it to understand planetary ecologies, remember relevant history, solve science mysteries, and
+know the basic facts about rare or esoteric topics.
+Lead: Convince others to also do whatever it is you’re
+trying to do. Talk might persuade them that following you is smart, but Lead can make them do
+it even when they think it’s a bad idea. Roll it to
+lead troops in combat, convince others to follow
+you, or maintain morale and discipline.
+Notice: Spot anomalies or interesting facts about your
+environment. Roll it for searching places, detecting ambushes, spotting things, and reading the
+emotional state of other people.
+Perform: Exhibit some performative skill. Roll it to
+dance, sing, orate, act, or otherwise put on a convincing or emotionally moving performance.
+
+Pilot: Use this skill to pilot vehicles or ride beasts. Roll
+it to fly spaceships, drive vehicles, ride animals,
+or tend to basic vehicle repair. This skill doesn’t
+help you with things entirely outside the scope
+of your background or experience, though with
+some practice a PC can expand their expertise.
+Program: Operating or hacking computing and communications hardware. Roll it to program or hack
+computers, control computer-operated hardware,
+operate communications tech, or decrypt things.
+Punch: Use it as a combat skill when fighting unarmed.
+If your PC means to make a habit of this rather
+than as a recourse of desperation, you should take
+the Unarmed Combatant focus described later.
+Shoot: Use it as a combat skill when using ranged weaponry, whether hurled rocks, bows, laser pistols,
+combat rifles, or ship’s gunnery.
+Sneak: Move without drawing notice. Roll it for stealth,
+disguise, infiltration, manual legerdemain, pickpocketing, and the defeat of security measures.
+Stab: Use it as a combat skill when wielding melee
+weapons, whether primitive or complex.
+Survive: Obtain the basics of food, water, and shelter
+in hostile environments, along with avoiding their
+natural perils. Roll it to handle animals, navigate
+difficult terrain, scrounge urban resources, make
+basic tools, and avoid wild beasts or gangs.
+Talk: Convince other people of the facts you want them
+to believe. What they do with that conviction may
+not be completely predictable. Roll it to persuade,
+charm, or deceive others in conversation.
+Trade: Find what you need on the market and sell what
+you have. Roll it to sell or buy things, figure out
+where to purchase hard-to-get or illicit goods, deal
+with customs agents, or run a business.
+Work: This is a catch-all skill for professions not represented by other skills. Roll it to work at a particular
+profession, art, or trade.
+
+Psychic Skills
+
+Unlike other skills, psychic skills are restricted to characters with the Psychic class or the Partial Psychic class
+option for Adventurers. You cannot choose or roll
+these skills in character creation unless specifically told
+to pick a psychic skill.
+Biopsionics: Master powers of physical repair, body augmentation, and shapeshifting.
+Metapsionics: Master powers that nullify, boost, and
+shape the use of other psychic abilities.
+Precognition: Master the ability to sense future events
+and control probability.
+Telekinesis: Master the remote control of kinetic energy
+to move objects and fabricate force constructs.
+Telepathy: Master the reading and influencing of other
+sapient minds.
+Teleportation: Master the arts of physical translocation
+of yourself and allies.
+
+BACKGROUNDS •9
+
+CHOOSING A BACKGROUND
+It’s unlikely that your character sprang forth full-grown
+from the endless depths of space, so it’s probable that he
+or she had some sort of background before adventuring
+and some kind of training in a field suitable for the life
+of an interstellar wayfarer. Of course, the call of adventure is somewhat indiscriminate, and some people from
+very unlikely walks of life might find themselves hurled
+into the potentially-lethal excitement of deep space. To
+determine your hero’s past training, you need to choose
+or roll a background.
+A background is simply a thumbnail description
+of the kind of life your hero lived before they took up
+adventuring. It may not have been the only thing they
+did with their life, but it’s the thing that taught them
+most of their existing skills.
+When you’ve chosen or rolled your background,
+take a moment to think about your character’s past.
+Decide how your character came to take up that profession, and what made them put it down to follow a
+more adventurous lifestyle. Did they do it for excitement? Friendship? Money? Or were they just running
+from a situation they couldn’t handle?
+You will also want to pick a homeworld for your
+PC. Your GM can give you some suggestions for worlds
+in their campaign that would fit your character concept,
+or you might simply make up your own homeworld or
+native space habitat with the GM’s permission, as you
+might be from some far-distant sector of space.
+Twenty backgrounds are provided on the following pages. You may roll randomly to see where your
+hero comes from, or pick one that suits you. If none of
+the backgrounds appeal to you, you can simply describe
+your hero’s prior life to the GM and pick any three
+skills that fit that past.
+
+Training Skills and Attributes
+
+When your character is allowed to pick or roll a skill,
+you learn it at level-0 expertise the first time you receive it. If you receive it a second time, it becomes level-1. If some mechanic or skill choice allows or obliges
+you to pick it a third time, you can instead choose any
+non-psychic skill in its place. The only way to raise
+psychic skills during character creation is via special
+abilities or foci that specifically boost them. No starting
+character can begin with a skill level higher than level-1.
+Sometimes you’re allowed to pick “Any Skill”. This
+means you can choose any non-psychic skill to improve.
+Other entries that read “Any Combat” mean that you
+can pick either Stab, Shoot, or Punch as you choose.
+You cannot raise psychic skills with “Any Skill” picks.
+Rolls on the Growth table that improve your basic
+attributes can boost them up to a maximum of 18. A
+bonus that applies to “Any Stat” can be applied to any
+attribute. If the roll says to add the bonus to Physical attributes, you can add the bonus to either Strength, Dexterity, or Constitution. If the roll says to add a bonus
+to your Mental attributes, you can apply the points to
+either Intelligence, Wisdom, or Charisma. If the bonus
+is +2, you may split the points between two different
+attributes of the appropriate type if you wish.
+d20
+1
+2
+3
+4
+5
+
+Backgrounds, Skills, and Growth
+
+Once you pick a background, your hero gains several
+skills associated with their past.
+First, you get the free skill associated with the
+background. Every member of that role or profession
+needs this skill to function competently, so your hero
+gets it as well.
+Next, you may either pick two other skills from
+the Learning table for your background, or make three
+random rolls divided between the Growth and Learning tables. If you pick skills, you can select exactly the
+talents you want for your hero, while going with random rolls allows your character a little wider range of
+competence and the option of attribute improvements
+at the cost of perfect control over their development. If
+you pick skills, you may pick the same skill twice if you
+wish, to improve its starting proficiency.
+If you’re not sure what to pick, just take the three
+skills listed under “Quick Skills” for your background.
+They’re the ones most critical to the profession.
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Background
+Barbarian, born of a primitive world
+
+Clergy, a consecrated man or woman
+
+Courtesan, trading on pleasurable company
+Criminal. thief, rogue, liar, or worse
+
+Dilettante, with money if not purpose
+Entertainer, artful and beguiling
+
+Merchant, whether peddler or far trader
+Noble, by blood or by social capital
+
+Official, a functionary of some greater state
+Peasant, whether primitive or high-tech
+
+Physician, a healer of the sick and maimed
+
+Pilot, or rider, or sailor, or vehicle-driver
+
+Politician, aspiring to leadership and control
+Scholar, a scientist or academic
+
+Soldier, whether mercenary or conscript
+Spacer, dwelling in the deep-space habs
+
+Technician, artisan, engineer, or builder
+
+Thug, ruffian, or strong arm of the people
+
+Vagabond, roaming without a home
+
+Worker, a cube drone or day laborer
+
+10• BACKGROUNDS
+
+Barbarian
+
+Standards of barbarism vary when many worlds
+are capable of interstellar spaceflight, but your
+hero comes from a savage world of low technology
+and high violence. Their planet may have survived
+an all-consuming war, or been deprived of critical
+materials or energy resources, or simply have been
+colonized by confirmed Luddites. Other barbarians
+might be drawn from the impoverished underclass
+of advanced worlds or the technologically-degenerate inheritors of some high-tech space station or
+planetary hab.
+
+Free Skill
+Survive-0
+
+d6
+
+Quick Skills
+Survive-0
+
+3
+
+Growth
++1 Any Stat
++2 Physical
++2 Physical
+
+4
+
++2 Mental
+
+4
+
+Notice-0
+
+5
+
+Exert
+
+5
+
+Notice
+
+Any Combat-0
+
+6
+
+Any Skill
+
+6
+7
+
+Punch
+Sneak
+
+8
+
+Survive
+
+d8
+
+2
+
+Growth
++1 Any Stat
++2 Mental
+
+2
+
+Learning
+Administer
+Connect
+
+3
+
++2 Physical
+
+3
+
+Know
+
+4
+
++2 Mental
+
+4
+
+Lead
+
+1
+2
+
+d8
+
+3
+
+Learning
+Any Combat
+Connect
+Exert
+Lead
+
+1
+2
+
+Clergy
+
+Faith is nigh-universal among human civilizations,
+and your hero is dedicated to one such belief. Some
+clergy are conventional priests or priestesses, while
+others might be cloistered monastics or nuns, or
+more martial warrior-monks. Modern-day faiths
+such as Christianity, Islam, Judaism, Hinduism,
+Buddhism, and other creeds all exist in various sectors, often in altered form, while some worlds have
+developed entirely new deities or faiths. If you’d like
+to create your own religion, you can work with the
+GM to define its characteristic beliefs.
+
+Free Skill
+Talk-0
+Quick Skills
+Talk-0
+
+d6
+1
+
+1
+
+Perform-0
+
+5
+
+Connect
+
+5
+
+Notice
+
+Know-0
+
+6
+
+Any Skill
+
+6
+7
+
+Perform
+Talk
+
+8
+
+Talk
+
+Building a Background for a PC
+Simon’s got his hero’s attributes set, but those are just
+part of making a character. He also needs to figure
+out where this hero came from, and what kind of
+life they’ve led before they took up the mantle of an
+adventuring existence.
+If he had a particular preference for a background, he could simply pick one of the list on page
+9. If none of those fit, he could just write down a
+few sentences about the background he did want and
+pick three skills that fit it, assuming the GM agreed
+it made sense, or rolled on the existing background
+tables that best fit their custom past. But Simon is
+still uncertain about the nature of his hero, so he
+decides to roll randomly for a background.
+He gets a 15, so his hero is a scholar. As a scholar,
+he automatically gets the Know skill at level-0, and
+needs to decide what kind of scholar he is. Simon
+considers his options and decides to go with something he knows; his PC is a literature post-doc by the
+name of Basil Hayes.
+Simon decides that Basil should continue with
+his random rolling rather than just choosing two
+more skills from the Learning table for a scholar.
+Because he chooses to randomly roll, he can make
+three rolls, splitting them as he wishes between the
+Learning or the Growth table.
+
+His first roll is on the Growth table, and it
+comes up “+2 Mental”. He immediately puts it into
+Intelligence, raising the score to 18 and giving it a +2
+modifier instead of +1. Basil is a brilliant man.
+His second roll he makes on the Learning table,
+and it comes up “Know”. He already has Know at
+level-0, so now he gets Know-1. His third roll comes
+up “Talk”, giving him Talk-0.
+A brief view of Basil’s history shows him as a
+brilliant young scholar with a keenly refined mind,
+an excellent grasp of intellectual topics, and enough
+glibness to get through a thesis defense. Simon decides that Basil’s occasional fits of social ineptitude
+have torpedoed his career in academia, however, and
+have forced him out into the world to make a living
+as an interstellar freebooter.
+Simon also needs to pick a homeworld for Basil.
+While he could ask the GM for a list of likely places,
+he decides that Basil hails from the cold and inhospitable world of Karelia, a planet that relies mostly on
+trading the long-duty service contracts of its citizens
+to other, wealthier worlds in exchange for vital tech.
+The GM thinks that Karelia sounds like the sort of
+world that would fit in the campaign, and so allows
+it. Simon can make up any other details of the world
+that are needed as the campaign plays out.
+
+BACKGROUNDS •11
+
+Courtesan
+
+Your hero’s career was one of proffered pleasure.
+Simple prostitution is one form of this background,
+perhaps as an ordinary streetwalker, a part-time
+amateur with bills to pay, or an expensive companion to the wealthy, but other forms of satisfaction exist among the many worlds. Refined artists
+of conversation and grace command high fees in
+some societies, while others pay well for the simple company of certain men and women with the
+right bloodlines, special appearance, or auspicious
+personal qualities esteemed by their culture.
+
+Free Skill
+Perform-0
+
+d6
+1
+
+Growth
++1 Any Stat
+
+2
+3
+
+Quick Skills
+Perform-0
+Notice-0
+Connect-0
+
+4
+
+d8
+1
+
+Learning
+Any Combat
+
++2 Mental
+
+2
+
+Connect
+
++2 Mental
+
+3
+
+Exert
+
++2 Physical
+
+4
+
+Notice
+
+5
+
+Connect
+
+5
+
+Perform
+
+6
+
+Any Skill
+
+6
+
+Survive
+
+7
+
+Talk
+
+8
+
+Trade
+
+Criminal
+
+Whether thief, murderer, forger, smuggler, spy, or
+some other variety of malefactor, your hero was a
+criminal. Some such rogues are guilty only of crossing some oppressive government or offending a
+planetary lord, while others have done things that
+no civilized society could tolerate. Still, their ability
+to deal with the most desperate and dangerous of
+contacts and navigate the perils of a less-than-legal
+adventure can make them attractive associates for a
+party of freebooters bent on profit and glory more
+than strict legality.
+
+Free Skill
+Sneak-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Administer
+
+2
+
++2 Mental
+
+2
+
+Any Combat
+
+Quick Skills
+
+3
+
++2 Physical
+
+3
+
+Connect
+
+Sneak-0
+Connect-0
+Talk-0
+
+4
+
++2 Mental
+
+4
+
+Notice
+
+5
+
+Connect
+
+5
+
+Program
+
+6
+
+Any Skill
+
+6
+
+Sneak
+
+7
+
+Talk
+
+8
+
+Trade
+
+Dilettante
+
+Your hero never had a profession, strictly speaking,
+but spent their formative years in travel, socializing,
+and a series of engaging hobbies. They might have
+been the scion of a wealthy industrialist, a planetary
+noble’s younger offspring, or a hanger-on to someone with the money and influence they lacked. By
+the time your hero’s adventures start, they’ve run
+through the money that once fueled their lifestyle.
+Extreme measures may be necessary to acquire further funding.
+
+Free Skill
+Connect-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Any Skill
+
+2
+
++1 Any Stat
+
+2
+
+Any Skill
+
+Quick Skills
+
+3
+
++1 Any Stat
+
+3
+
+Connect
+
+Connect-0
+Know-0
+Talk-0
+
+4
+
++1 Any Stat
+
+4
+
+Know
+
+5
+
+Connect
+
+5
+
+Perform
+
+6
+
+Any Skill
+
+6
+
+Pilot
+
+7
+
+Talk
+
+8
+
+Trade
+
+Entertainer
+
+Singers, dancers, actors, poets, writers… the interstellar reaches teem with artists of unnumbered
+styles and mediums, some of which are only physically possible with advanced technological support.
+Your hero was a dedicated entertainer, one likely
+focused in a particular form of art. Patrons and
+talent scouts can be temperamental, however, and
+sometimes a budding artist needs to take steps to
+find their audience. Or at least, to find their audience’s money.
+
+Free Skill
+Perform-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Any Combat
+
+2
+
++2 Mental
+
+2
+
+Connect
+
+Quick Skills
+
+3
+
++2 Mental
+
+3
+
+Exert
+
+Perform-0
+Talk-0
+Connect-0
+
+4
+
++2 Physical
+
+4
+
+Notice
+
+5
+
+Connect
+
+5
+
+Perform
+
+6
+
+Any Skill
+
+6
+
+Perform
+
+7
+
+Sneak
+
+8
+
+Talk
+
+12• BACKGROUNDS
+
+Merchant
+
+Your hero was or is a trader. Some merchants are
+mere peddlers and shopkeepers on primitive, lowtech worlds, while others are daring far traders
+who venture to distant worlds to bring home their
+alien treasures. The nature of trade varies widely
+among worlds. On some of them, it’s a business of
+soberly-dressed men and women ticking off trades
+on virtual terminals, while on others it is a more…
+active pursuit, requiring the judicious application of
+monoblades and deniable gunfire against competitors. Sometimes a deal goes bad or capital needs
+to be raised, and a merchant’s natural talents are
+turned toward the perils of adventure.
+
+Free Skill
+Trade-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Administer
+
+2
+
++2 Mental
+
+2
+
+Any Combat
+
+Quick Skills
+
+3
+
++2 Mental
+
+3
+
+Connect
+
+Trade-0
+Talk-0
+
+4
+
++2 Mental
+
+4
+
+Fix
+
+5
+
+Connect
+
+5
+
+Know
+
+Connect-0
+
+6
+
+Any Skill
+
+6
+
+Notice
+
+7
+
+Trade
+
+8
+
+Talk
+
+Noble
+
+Many planets are ruled by a class of nobles, and your
+hero was a member of one such exalted group. Such
+planets are often worlds of exquisite courtesy alloyed with utterly remorseless violence, and a misplaced word at the morning levee can result in an
+executioner’s monoblade at noon. Your hero has
+done something or been the victim of something to
+dislodge them from their comfortable place at court.
+Without their familiar allies, wealth, or influence,
+they must take a new place in the world, however
+distasteful that claiming might be.
+
+Free Skill
+Lead-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Administer
+
+2
+
++2 Mental
+
+2
+
+Any Combat
+
+Quick Skills
+
+3
+
++2 Mental
+
+3
+
+Connect
+
+Lead-0
+Connect-0
+
+4
+
++2 Mental
+
+4
+
+Know
+
+5
+
+Connect
+
+5
+
+Lead
+
+Administer-0
+
+6
+
+Any Skill
+
+6
+
+Notice
+
+7
+
+Pilot
+
+8
+
+Talk
+
+Official
+
+Most advanced worlds run on their bureaucracies, the legions of faceless men and women who
+fill unnumbered roles in keeping the government
+running as it should. Your hero was one such official. Some were law enforcement officers, others
+government office clerks or tax officials or trade
+inspectors. However necessary the work may be,
+it is often of unendurably tedious nature, and any
+man or woman with an adventurous spark to their
+blood will soon find themselves desperate for more
+exciting use of their talents.
+
+Free Skill
+Administer-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Administer
+
+2
+
++2 Mental
+
+2
+
+Any Skill
+
+Quick Skills
+
+3
+
++2 Mental
+
+3
+
+Connect
+
+Administer-0
+Talk-0
+
+4
+
++2 Mental
+
+4
+
+Know
+
+5
+
+Connect
+
+5
+
+Lead
+
+Connect-0
+
+6
+
+Any Skill
+
+6
+
+Notice
+
+7
+
+Talk
+
+8
+
+Trade
+
+Peasant
+
+A technologically-advanced world can usually produce all its necessary foodstuffs and basic resources
+with a handful of workers, the bulk of the labor being performed by agricultural bots. On more primitive worlds, or those with a natural environment
+that requires close personal attention to crops, a
+class of peasants will emerge. These men and women often become chattel, part and parcel of the land
+they occupy and traded among their betters like the
+farm equipment of richer worlds. Your hero was
+not satisfied with that life, and has done something
+to break free from their muddy and toilsome past.
+
+Free Skill
+Exert-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+2
+
++2 Physical
+
+2
+
+Exert
+
+Quick Skills
+
+3
+
++2 Physical
+
+3
+
+Fix
+
+Exert-0
+Sneak-0
+
+4
+
++2 Physical
+
+4
+
+Notice
+
+5
+
+Exert
+
+5
+
+Sneak
+
+Survive-0
+
+6
+
+Any Skill
+
+6
+
+Survive
+
+Connect
+
+7
+
+Trade
+
+8
+
+Work
+
+BACKGROUNDS •13
+
+Physician
+
+Bodies wear and break, even on worlds that possess the full resources of advanced postech medicine.
+Your hero was a physician, one trained to cure the
+maladies of the body or the afflictions of the mind.
+Some physicians are conventional health workers,
+while others are ship’s surgeons, military medics,
+missionary healers of an expanding faith, or dubious slum doctors who’ll graft over laser burns with
+no awkward questions asked. Wherever men and
+women go into danger, however, the skills of a physician are eagerly sought.
+
+Free Skill
+Heal-0
+
+d6
+
+Quick Skills
+Heal-0
+
+3
+
+Growth
++1 Any Stat
++2 Physical
++2 Mental
+
+4
+
++2 Mental
+
+4
+
+Heal
+
+Know-0
+
+5
+
+Connect
+
+5
+
+Know
+
+Notice-0
+
+6
+
+Any Skill
+
+6
+7
+
+Notice
+Talk
+
+8
+
+Trade
+
+d8
+
+3
+
+Learning
+Connect
+Exert
+Fix
+
+1
+2
+
+d8
+
+3
+
+Learning
+Administer
+Connect
+Fix
+
+1
+2
+
+Pilot
+
+A pilot’s role is a broad one in the far future. The
+most glamorous and talented navigate starships
+through the metadimensional storms of interstellar
+space, while less admired figures fly the innumerable intra-system shuttles and atmosphere craft that
+serve in most advanced systems. On other worlds,
+this career might reflect a long-haul trucker, or a
+horse-riding messenger, or an intrepid sailor on an
+alien sea. As the Pilot skill covers all these modes
+of transport, any character whose role revolves
+around vehicles or riding beasts might justify their
+selection of this career.
+
+Free Skill
+Pilot-0
+
+d6
+
+Quick Skills
+Pilot-0
+
+3
+
+Growth
++1 Any Stat
++2 Physical
++2 Physical
+
+4
+
++2 Mental
+
+4
+
+Notice
+
+Fix-0
+
+5
+
+Connect
+
+5
+
+Pilot
+
+Shoot or Trade-0
+
+6
+
+Any Skill
+
+6
+7
+
+Pilot
+Shoot
+
+8
+
+Trade
+
+1
+2
+
+1
+2
+
+14• BACKGROUNDS
+
+Politician
+
+The nature of a political career varies from world
+to world. On some, it’s much like one we’d recognize, with glad-handing voters, loud rallies, and
+quiet back room deals with supposed rivals in
+government. On others, it might involve a great
+deal more ceremonial combat, appeals to councils
+of elders, and success at ritual trials. Whatever the
+details, your hero was a politician in their home
+culture. Something went wrong, though, and the
+only way to fix it is to get clear of your constituents for a while and seek some alternative means
+of advancement.
+
+Free Skill
+Talk-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Administer
+
+2
+
++2 Mental
+
+2
+
+Connect
+
+Quick Skills
+Talk-0
+
+3
+
++2 Mental
+
+3
+
+Connect
+
+4
+
++2 Mental
+
+4
+
+Lead
+
+5
+
+Connect
+
+5
+
+Notice
+
+6
+
+Any Skill
+
+6
+
+Perform
+
+7
+
+Talk
+
+8
+
+Talk
+
+Lead-0
+Connect-0
+
+Scholar
+
+Scientists, sages, and professors all qualify under
+this career. Your hero was one such, a man or
+woman with a life dedicated to knowledge and understanding. It might have involved the technical
+expertise of a metadimensional structures engineer
+or the sacred memorization of the chronicles of
+some lostworlder sage-order, but your hero’s life
+was in learning. Sometimes that learning cannot be
+found in familiar surroundings, however, and for
+one reason or another, willing or not, your hero
+must venture out into the wider world.
+
+Free Skill
+Know-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Administer
+
+2
+
++2 Mental
+
+2
+
+Connect
+
+Quick Skills
+
+3
+
++2 Mental
+
+3
+
+Fix
+
+Know-0
+Connect-0
+Administer-0
+
+4
+
++2 Mental
+
+4
+
+Know
+
+5
+
+Connect
+
+5
+
+Notice
+
+6
+
+Any Skill
+
+6
+
+Perform
+
+7
+
+Program
+
+8
+
+Talk
+
+Soldier
+
+Whatever the technology or structure of their parent world, a soldier’s work is universal. Your hero
+was a professional fighter, whether that took the
+form of a barbarian noble’s thegn, a faceless conscript in a planetary army, or an elite soldier in the
+service of a megacorp’s private military. Whether it
+was because they were on the losing side, choosing
+to leave the service, or being forced to flee a cause
+they couldn’t fight for, they now find themselves
+navigating a world where their most salable skill
+is one that can cause them a great deal of trouble.
+
+Free Skill
+Any Combat-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Administer
+
+2
+
++2 Physical
+
+2
+
+Any Combat
+
+Quick Skills
+Any Combat-0
+
+3
+
++2 Physical
+
+3
+
+Exert
+
+4
+
++2 Physical
+
+4
+
+Fix
+
+Exert-0
+
+5
+
+Exert
+
+5
+
+Lead
+
+Survive-0
+
+6
+
+Any Skill
+
+6
+
+Notice
+
+7
+
+Sneak
+
+8
+
+Survive
+
+Spacer
+
+Almost every advanced world is highly dependent
+upon the resources that space flight brings them.
+Some of this work can be automated, but every really important task needs a flexible human operator
+to oversee the work. Your hero is one such spacer,
+either a worker who toils in the sky or a native voidborn man or woman who has spent their entire
+life outside of natural gravity. It’s not uncommon
+for such workers to find better prospects in places
+where they can breathe without a vacc suit.
+
+Free Skill
+Fix-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Administer
+
+2
+
++2 Physical
+
+2
+
+Connect
+
+Quick Skills
+
+3
+
++2 Physical
+
+3
+
+Exert
+
+Fix-0
+Pilot-0
+Program-0
+
+4
+
++2 Mental
+
+4
+
+Fix
+
+5
+
+Exert
+
+5
+
+Know
+
+6
+
+Any Skill
+
+6
+
+Pilot
+
+7
+
+Program
+
+8
+
+Talk
+
+BACKGROUNDS •15
+
+Technician
+
+Old things break and new things need to be made.
+Whether a humble lostworlder blacksmith or an
+erudite astronautic engineer, your hero made a career out of building and mending the fruits of technology. While almost every society has a need for
+such services, not all of them treat their providers as
+generously as a technician might wish. Sometimes,
+these same talents can be turned toward less licit
+ends, and a skilled technician’s expertise is always
+useful to an adventuring group that plans to rely on
+anything more sophisticated than a sharpened stick.
+
+Free Skill
+Fix-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Administer
+
+2
+
++2 Physical
+
+2
+
+Connect
+
+Quick Skills
+
+3
+
++2 Mental
+
+3
+
+Exert
+
+Fix-0
+Exert-0
+
+4
+
++2 Mental
+
+4
+
+Fix
+
+5
+
+Connect
+
+5
+
+Fix
+
+Notice-0
+
+6
+
+Any Skill
+
+6
+
+Know
+
+7
+
+Notice
+
+8
+
+Pilot
+
+Thug
+
+Your hero was a bruiser. They might have had a notional allegiance to some so-called “army”, or have
+been part of some crime boss’ strong-arm crew, or
+simply been a private contractor of misfortune for
+those who failed to pay up. They might have even
+been a fist in a righteous cause, defending their
+neighborhood from hostile outsiders or serving as
+informal muscle for a local leader in need of protection. Whatever the details, they’ve had to move
+on from their old life, and their new one is likely to
+involve a similar application of directed force.
+
+Free Skill
+Any Combat-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Any Combat
+
+2
+
++2 Mental
+
+2
+
+Connect
+
+Quick Skills
+
+3
+
++2 Physical
+
+3
+
+Exert
+
+Any Combat-0
+Talk-0
+
+4
+
++2 Physical
+
+4
+
+Notice
+
+5
+
+Connect
+
+5
+
+Sneak
+
+Connect-0
+
+6
+
+Any Skill
+
+6
+
+Stab or Shoot
+
+7
+
+Survive
+
+8
+
+Talk
+
+Vagabond
+
+A dilettante has money and friends; your hero simply has the road. Whether they were knocked loose
+from polite society at a young age or have recently
+found themselves cast out of a familiar life, they
+now roam the ways of the world and the spaces between. Some heroes find this life satisfying, with its
+constant novelty and the regular excitement of bare
+survival. Others long for a more stable arrangement,
+and are willing to lend their pragmatic talents to a
+group that offers some prospect of profit.
+
+Free Skill
+Survive-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Any Combat
+
+2
+
++2 Physical
+
+2
+
+Connect
+
+Quick Skills
+
+3
+
++2 Physical
+
+3
+
+Notice
+
+Survive-0
+Sneak-0
+
+4
+
++2 Mental
+
+4
+
+Perform
+
+5
+
+Exert
+
+5
+
+Pilot
+
+Notice-0
+
+6
+
+Any Skill
+
+6
+
+Sneak
+
+7
+
+Survive
+
+8
+
+Work
+
+Worker
+
+Countless in number, every industrialized world
+has swarms of workers to operate the machines and
+perform the labor that keeps society functioning.
+Cooks, factory laborers, mine workers, personal
+servants, lawyers, clerks, and innumerable other
+roles are covered under this career. If your hero
+rolls or picks Work as a skill but has a career that
+would better fit another existing skill, they may substitute it accordingly. Thus, a wage-slave programmer might take Program instead of Work, while a
+lawyer would use Administer instead as a reflection
+of their litigious talent.
+
+Free Skill
+Work-0
+
+d6
+
+Growth
+
+d8
+
+Learning
+
+1
+
++1 Any Stat
+
+1
+
+Administer
+
+2
+
++1 Any Stat
+
+2
+
+Any Skill
+
+Quick Skills
+
+3
+
++1 Any Stat
+
+3
+
+Connect
+
+Connect-0
+Exert-0
+
+4
+
++1 Any Stat
+
+4
+
+Exert
+
+5
+
+Exert
+
+5
+
+Fix
+
+Work-0
+
+6
+
+Any Skill
+
+6
+
+Pilot
+
+7
+
+Program
+
+8
+
+Work
+
+16• CHARACTER CLASSES
+
+CHARACTER CLASSES
+In one way or another, your character is cut out for
+adventure. Your hero might be a veteran combatant,
+skilled with blade or laser, or they might be a psychic
+gifted with uncanny abilities. It’s just as possible that
+they could have remarkable talents as a pilot, or be
+the smoothest grifter in the hive-slum they grew up
+in. Whatever their particular background, your hero’s
+primary focus is their class.
+Your class represents your hero’s best set of tools
+for dealing with their problems. They’re the skills and
+capabilities that they’re most likely to turn to to resolve
+a problem, but not their only tools. A Psychic can still
+shoot a gun and a Warrior can try to fast-talk a mark.
+Choosing a class helps ensure that your hero is
+good at something that might contribute to a bold party
+of interstellar adventurers. Experts always have a knack
+at exercising non-combat skills, Warriors are always
+good in a scrap, and Psychics always have a unique
+power or two to employ at need. Your hero might have
+led a quiet life as a starport customs clerk until recently,
+but their natural talents will ensure that they can do
+something that the rest of the group will find useful.
+In the same vein, you don’t have to choose a class
+that “naturally” fits with your background. That starport customs clerk might have led a peaceful life un-
+
+troubled by anything worse than portside brawls, but
+inside her burns a seething, latent fury that is ready to
+explode at the first opportunity. She’s a Warrior, even
+though she might not realize her talents until the first
+time she snatches up a dropped laser rifle and unleashes
+a barrage of death on a pack of alien warbeasts. You
+should pick whatever class for your hero that matches
+the kind of play you want to have with them.
+There are four possible classes you can choose for
+your hero: Adventurer, Expert, Psychic, and Warrior.
+Experts are PCs that rely on non-combat skills such as
+stealth, persuasion, technical expertise, piloting skills,
+vast learning, or personal connections. Psychics are
+those rare men and women affected by Metadimensional Extroversion Syndrome, ones capable of channeling these metadimensional energies to perform
+feats of telekinesis, precognition, telepathy, and other
+psionic disciplines. Warriors are hardened combatants,
+skilled in the arts of war and violent conflict, and Adventurers include those with a mix of talents and abilities, ones who don’t fit well into one of the other classes.
+Choose a class that best fits your character’s concept. If Expert, Psychic, or Warrior don’t fit your image
+of your hero, or if you want to customize their abilities,
+you can choose the Adventurer class.
+
+CHARACTER CLASSES •17
+
+EXPERT
+Your hero is exceptionally good at a useful skill. Doctors, cat burglars, starship pilots, grifters, technicians,
+or any other concept that focuses on expertise in a
+non-combat skill should pick the Expert class. Experts
+are the best at such skills and gain more of them than
+other classes do.
+Just as a Warrior can be relied upon to make a
+shot when the chips are down, an Expert has a knack
+for succeeding at the moments of greatest importance.
+Once per scene, an Expert can reroll a failed skill check,
+taking the new result if it’s better. This benefit can be
+applied to any skill check, even those that the Expert
+isn’t specially focused in. Their natural talent bleeds
+over into everything they do.
+In their chosen field, however, the Expert is exceptionally gifted. Aside from the free focus level that all
+PCs get at the start of the game, an Expert can choose
+an additional level in a non-combat focus related to
+their background. They can spend both of these levels
+on the same focus if they wish, thus starting the game
+with level 2 in that particular knack.
+
+Class Abilities
+
+Every Expert PC has certain special abilities.
+•
+
+You gain a free level in a non-combat focus related to your background. Most concepts will take
+Specialist in their main skill, though Diplomat, Starfarer, Healer, or some other focus might suit better.
+You may not take a combat-oriented focus with
+this perk. In case of uncertainty, the GM decides
+whether or not a focus is permitted.
+
+•
+
+Once per scene, you can reroll a failed skill check,
+taking the new roll if it’s better.
+
+•
+
+When you advance an experience level, you
+gain a bonus skill point that can be spent on any
+non-combat, non-psychic skill. You can save this
+point to spend later if you wish.
+
+Hit Points and Attack Bonus
+
+To get your starting maximum hit points, roll 1d6 and
+add your Constitution modifier, to a minimum of 1 hit
+point. Your attack bonus is equal to half your character
+level, rounded down, so it’s +0 at first level.
+
+PSYCHIC
+Your hero has received training in controlling their natural Metadimensional Extroversion Syndrome, and can
+wield the psychic powers that come from that strange
+affliction. Controlling and developing psychic abilities
+is an extremely demanding process but allows for feats
+wholly impossible to ordinary men and women.
+Psychics are extremely rare in the general population. Averages vary with worlds, but most range from
+one in ten thousand to one in a hundred thousand who
+have the MES condition that make them amenable to
+psychic training. Some of these go their entire lives
+without realizing their capabilities. Others end up exploiting their native abilities without training, almost
+inevitably ending up seriously brain-damaged or crazed
+by the effects of unmediated metadimensional energy.
+Your hero has been fortunate enough to find a psychic academy or other training institution capable of
+molding and directing these abilities. They may have
+come to this later in life, or been recruited young by a
+society that carefully watches for MES symptoms.
+Some societies deal with their psychics more generously than others. On some worlds, psychic powers
+are accepted and their possessors can look forward to
+lucrative and respected employment. On others, fear of
+these uncanny powers and memories of the horrors of
+the Scream lead to less welcoming treatment.
+
+Class Abilities
+
+Every Psychic PC has certain special abilities.
+•
+
+Unlike Warriors or Experts, you are capable of
+learning psychic disciplines and their associated
+techniques, as described starting on page 28.
+
+•
+
+When you pick this class, choose any two psychic
+skills as bonus skills. You can pick the same one
+twice to obtain level-1 proficiency in it and a free
+level-1 technique from that discipline.
+
+•
+
+You have an Effort score, which can be used to
+fuel psychic abilities. Your maximum Effort is
+equal to 1 plus your highest psychic skill plus the
+better of your Wisdom or Constitution modifiers. Even with a penalty, your maximum Effort
+cannot be lower than 1.
+
+Hit Points and Attack Bonus
+
+To get your starting maximum hit points, roll 1d6 and
+add your Constitution modifier, to a minimum of 1 hit
+point. Your attack bonus is equal to half your character
+level, rounded down, so it’s +0 at first level.
+
+18• CHARACTER CLASSES
+
+WARRIOR
+Whether a hiveworld thug, barbarian lostworlder,
+gengineered combat hominid, or a natural-born killer wasting their potential in a desk job, your hero has
+a real talent for inflicting mayhem. Combat in Stars
+Without Number is extremely dangerous, but your hero
+has the talents to survive situations that would kill a
+less martial adventurer.
+As a gifted purveyor of violence, you get to pick
+an extra combat-related focus associated with your
+special brand of havoc. While a character of any class
+can take these special combat talents, you get this additional pick and a better natural hit bonus than heroes
+of other classes.
+Most importantly, however, Warriors have an uncanny gift for making a shot when a hit is desperately
+needed, or dodging a bullet when their life is on the
+line. Once per scene, a Warrior can either automatically negate a successful combat hit they just received,
+taking no damage from it, or else they can turn one
+of their own missed attack rolls into an automatic hit.
+This versatility makes Warriors exceptionally dangerous enemies in a one-on-one fight, and significantly
+more likely to survive the gory chaos of a general melee.
+
+Class Abilities
+
+Every Warrior PC has certain special abilities.
+•
+
+You gain a free level in a combat-related focus associated with your background. The GM decides
+if a focus qualifies if it’s an ambiguous case.
+
+•
+
+Warriors are lucky in combat. Once per scene, as
+an Instant ability, you can either choose to negate a successful attack roll against you or turn a
+missed attack roll you made into a successful hit.
+You can use this ability after the dice are rolled,
+but it cannot be used against environmental damage, effects without an attack roll, or hits on a
+vehicle you’re occupying.
+
+•
+
+You gain two extra maximum hit points at each
+character level.
+
+Hit Points and Attack Bonus
+
+To get your starting maximum hit points, roll 1d6+2
+and add your Constitution modifier, to a minimum of
+1 hit point. Your attack bonus is equal to your character
+level so it is +1 at first level.
+
+ADVENTURER
+The Adventurer class is the catch-all for heroes who
+don’t fit so neatly into the other three categories. Perhaps your mercenary spent her girlhood at a psychic
+academy, or maybe your combat medic knows more
+about using a laser rifle than most physicians do. You
+can use the Adventurer class to customize your hero’s
+abilities, trading focus for wider versatility.
+Adventurers split their focus between different
+spheres, gaining weaker versions of each class’ benefits. For example, an Adventurer who is a psionic
+warrior-adept might have considerable powers of
+telekinetic force and a brutal expertise at bare-handed
+combat, but they won’t have access to the wider psionic
+potential of an unrestricted Psychic or the death-defying combat luck of a hardened Warrior.
+To define your Adventurer’s abilities, pick two of
+the following three partial classes.
+
+Partial Expert
+
+You gain a free level in a non-combat focus related to
+your background. Most concepts will take Specialist,
+though Diplomat, Starfarer, Healer, or some other focus
+might suit better. Gain an extra skill point every time
+you gain a character level which can be spent on any
+non-psychic, non-combat skill.
+
+Partial Psychic
+
+You are a restricted psychic. Pick one psychic discipline
+as a bonus skill at level-0. You can improve this skill
+with foci or skill points gained from advancing a level,
+but you cannot learn or improve any other psychic skill.
+Your maximum Effort equals 1 plus this psychic skill’s
+level plus the best of your Wisdom or Constitution
+modifiers, down to a minimum of 1.
+
+Partial Warrior
+
+You gain a free level in a combat focus related to your
+background. Gain +1 to your attack bonus at first and
+fifth levels. Gain 2 extra maximum hit points each level.
+Thus, at first level, you’d roll 1d6+2 for your maximum
+hit points. At second, you’d roll 2d6+4, and so forth.
+
+Hit Points and Attack Bonus
+
+To get your starting maximum hit points, roll 1d6 and
+add your Constitution modifier, to a minimum of 1 hit
+point. Adventurers who’ve taken the Partial Warrior
+option add 2 hit points to their maximum.
+The base attack bonus for Adventurers is equal to
+half their character level, rounded down, so +0 at first
+level. If the PC has taken the Partial Warrior option
+their class bonus increases this to +1 at first level.
+
+FOCI •19
+
+CHOOSING A FOCUS
+Every member of a class has certain baseline abilities
+that let them do well at their role. Warriors are always
+good combatants, Experts are always gifted with their
+skills, and Psychics always have a few pertinent psionic
+abilities. Aside from these baseline abilities, characters
+also have a focus.
+A focus is an additional knack, perk, or aptitude
+that a hero has, one that grants them certain benefits
+in play. Each focus has one or more levels of increasingly-strong effect. For example, someone with level
+1 in the Die Hard focus gains two extra maximum hit
+points each level and automatically stabilizes after a
+mortal wound, while someone with level 2 can negate
+the first injury they suffer each day that would incapacitate or kill them. The benefits of a focus stack, so
+if you take level 2 in one, you get all the benefits from
+level 1 as well.
+Any character can pick any focus, and it doesn’t
+have to “match” the class you selected. A Psychic can
+choose the Unarmed Combatant focus for fistic prowess, while a Warrior might have enough experience
+with battlefield trauma to qualify as a Healer. The only
+obligation is that you explain how your hero picked
+up the training or exhibited their natural aptitude for
+the focus.
+Many foci give a bonus level in a skill as part of
+their level 1 benefits. These bonus levels work like any
+other skill pick; they either give you the skill at level-0, raise an existing level-0 skill to level-1, or let you
+pick any other non-psychic skill if the skill is already
+at level-1.
+Unless indicated otherwise a focus can be taken
+only once. Once you’ve taken level 1 of Die Hard, you
+can’t pick it again to get an additional two hit points per
+level. Some skill-oriented foci allow you to pick them
+more than once to apply to different skills.
+Beginning PCs can pick one level of focus. PCs
+with the Expert class or the Partial Expert Adventurer class option can choose an additional level in any
+non-combat focus related to their background, including level 2 in their initial choice. Most will choose
+Specialist, Healer, Diplomat, or some other similar focus,
+but the GM can allow other non-combat foci. PCs with
+the Warrior class or the Partial Warrior Adventurer
+class option can do the same in choosing an additional
+combat-related focus.
+As your hero advances in experience, you’ll get the
+opportunity to pick up new foci or improve existing
+ones as you refine your talents or learn new tricks. In
+some cases, you might work with the GM to come up
+with a custom focus reflecting your PC’s specific special
+talent or a perk that makes sense given their recent
+adventures. Foci are an important part of a hero’s character, and they should always reflect something basic
+about how they tend to interact with the world.
+
+Origin Foci
+
+If you include aliens or robots in your campaign, you
+can represent them with origin foci. Origin foci are
+taken the same way as any other foci, and may be purchased with a beginning character’s focus level.
+If a GM is feeling generous, they can allow a PC
+to take a level in an origin focus as well as their usual
+free focus level, in order to allow a hero to start as an
+alien with some additional knack. A PC who takes this
+option doesn’t get their usual bonus focus at level 2;
+they’ve already spent it on being unusual.
+Origin foci for robotic VIs are on page 199. Available alien races will vary with the campaign setting, but
+details on making these race are on page 209.
+
+Choosing A Class and Focus
+Basil Hayes needs a class. While an obvious pick
+would be Expert to match his background, Simon
+decides it would be more amusing to make him a
+soldier; specifically, the sniper “Basilisk” Hayes, the
+dire-eyed wraith of the cold Karelian forest. Given
+the complete lack of a market for his PhD and his
+own natural poor judgment, Basil signed up with
+a Karelian mercenary outfit. He’s just gotten out
+of his tour of duty, but at least now his skills are
+significantly more marketable.
+While Simon could go with the Adventurer
+class for Basil and make him a Partial Warrior/
+Partial Expert, he decides to make Basil a fullfledged Warrior. His intellectual talents can be
+useful, but Basil’s main utility to the group is his
+ability to deal with combat situations.
+Every PC gets to pick one focus of any kind,
+and a Warrior gets to pick one combat-related
+focus. Basil’s first choice is easy, as clearly he’s a
+Sniper, so he writes that down as a level 1 focus.
+Rather than taking a second level in that with his
+other pick, Simon decides to have Basil pick up
+a level of the Gunslinger focus. Basil will get the
+chance to pick more foci as he gains experience.
+Each of these foci grant a bonus level in Shoot,
+so they stack together to give the young sniper a
+Shoot-1 skill. Basil’s now as deft with a rifle as he
+is with 19th century Terran Victorian poetry.
+Lastly, Basil gets to pick any single non-psychic skill of his choice as a hobby or natural talent.
+He decides that a sniper isn’t much of a sniper
+without being hard to spot, so picks Sneak-0 as his
+skill. This free skill pick is often useful for filling in
+the necessary talents of a concept that aren’t supplied by the Learning table or bonus skills granted
+by a hero’s foci.
+
+20• FOCI
+
+THE FOCUS LIST
+Alert
+
+You are keenly aware of your surroundings and virtually impossible to take unaware. You have an instinctive
+alacrity of response that helps you act before less wary
+persons can think to move.
+Level 1: Gain Notice as a bonus skill. You cannot be
+surprised, nor can others use the Execution Attack
+option on you. When you roll initiative, roll twice
+and take the best result.
+Level 2: You always act first in a combat round unless
+someone else involved is also this Alert.
+
+Armsman
+
+You have an unusual competence with thrown weapons and melee attacks. This focus’ benefits do not apply
+to unarmed attacks or projectile weapons. For thrown
+weapons, you can’t use the benefits of the Armsman
+focus at the same time as Gunslinger.
+Level 1: Gain Stab as a bonus skill. You can draw or
+sheath a Stowed melee or thrown weapon as an
+Instant action. You may add your Stab skill level to
+a melee or thrown weapon’s damage roll or Shock
+damage, assuming it has any to begin with.
+Level 2: Your primitive melee and thrown weapons
+count as TL4 weapons for the purpose of overcoming advanced armors. Even on a miss with a
+melee weapon, you do an unmodified 1d4 damage
+to the target, plus any Shock damage. This bonus
+damage doesn’t apply to thrown weapons or attacks that use the Punch skill.
+
+Assassin
+
+You are practiced at sudden murder, and have certain
+advantages in carrying out an Execution Attack as described in the rules on page 52.
+Level 1: Gain Sneak as a bonus skill. You can conceal an
+object no larger than a knife or pistol from anything less invasive than a strip search, including
+normal TL4 weapon detection devices. You can
+draw or produce this object as an On Turn action,
+and your point-blank ranged attacks made from
+surprise with it cannot miss the target.
+Level 2: You can take a Move action on the same round
+as you make an Execution Attack, closing rapidly
+with a target before you attack. You may split this
+Move action when making an Execution Attack,
+taking part of it before you murder your target
+and part of it afterwards. This movement happens
+too quickly to alert a victim or to be hindered by
+bodyguards, barring an actual physical wall of
+meat between you and your prey.
+
+Authority
+
+You have an uncanny kind of charisma about you, one
+that makes others instinctively follow your instructions
+and further your causes. At level 1, this is a knack of
+charm and personal magnetism, while level 2 might
+suggest latent telepathic influence or transhuman memetic hacking augmentations. Where this focus refers
+to followers, it means NPCs who have voluntarily chosen to be in your service. PCs never count as followers.
+Level 1: Gain Lead as a bonus skill. Once per day, you
+can make a request from an NPC who is not openly hostile to you, rolling a Cha/Lead skill check at
+a difficulty of the NPC’s Morale score. If you succeed, they will comply with the request, provided
+it is not harmful or extremely uncharacteristic.
+Level 2: Those who follow you are fired with confidence. Any NPC being directly led by you gains a
+Morale and hit roll bonus equal to your Lead skill
+and a +1 bonus on all skill checks. Your followers
+will not act against your interests unless under
+extreme pressure.
+
+Close Combatant
+
+You’ve had all too much practice at close-in fighting
+and desperate struggles with pistol or blade. You’re extremely skilled at avoiding injury in melee combat, and
+at level 2 you can dodge through a melee scrum without
+fear of being knifed in passing.
+Level 1: Gain any combat skill as a bonus skill. You can
+use pistol-sized ranged weapons in melee without suffering penalties for the proximity of melee
+attackers. You ignore Shock damage from melee
+assailants, even if you’re unarmored at the time.
+Level 2: The Shock damage from your melee attacks
+treats all targets as if they were AC 10. The Fighting Withdrawal combat action is treated as an On
+Turn action for you and can be performed freely.
+
+Connected
+
+You’re remarkably gifted at making friends and forging
+ties with the people around you. Wherever you go, you
+always seem to know somebody useful to your ends.
+Level 1: Gain Connect as a bonus skill. If you’ve spent
+at least a week in a not-entirely-hostile location,
+you’ll have built a web of contacts willing to do
+favors for you that are no more than mildly illegal.
+You can call on one favor per game day and the
+GM decides how far they’ll go for you.
+Level 2: Once per game session, if it’s not entirely implausible, you meet someone you know who is
+willing to do modest favors for you. You can decide when and where you want to meet this person, but the GM decides who they are and what
+they can do for you.
+
+FOCI •21
+
+Die Hard
+
+You are surprisingly hard to kill. You can survive injuries or bear up under stresses that would incapacitate a
+less determined hero.
+Level 1: You gain an extra 2 maximum hit points per
+level. This bonus applies retroactively if you take
+this focus after first level. You automatically stabilize if mortally wounded by anything smaller than
+a Heavy weapon.
+Level 2: The first time each day that you are reduced to
+zero hit points by an injury, you instead survive
+with one hit point remaining. This ability can’t
+save you from Heavy weapons or similar trauma.
+
+Diplomat
+
+You know how to get your way in personal negotiations, and can manipulate the attitudes of those around
+you. Even so, while smooth words are versatile, they’ll
+only work if your interlocutor is actually willing to
+listen to you.
+Level 1: Gain Talk as a bonus skill. You speak all the languages common to the sector and can learn new
+ones to a workable level in a week, becoming fluent in a month. Reroll 1s on any skill check dice
+related to negotiation or diplomacy.
+Level 2: Once per game session, shift an intelligent
+NPC’s reaction roll one step closer to friendly if
+you can talk to them for at least thirty seconds.
+
+Gunslinger
+
+You have a gift with a gun. While this talent most commonly applies to slugthrowers or energy weapons, it
+is also applicable to thrown weapons, bows, or other
+ranged weapons that can be used with the Shoot skill.
+For thrown weapons, you can’t use the benefits of the
+Armsman focus at the same time as Gunslinger.
+Level 1: Gain Shoot as a bonus skill. You can draw or
+holster a Stowed ranged weapon as an On Turn
+action. You may add your Shoot skill level to a
+ranged weapon’s damage roll.
+Level 2: Once per round, you can reload a ranged weapon as an On Turn action if it takes no more than
+one round to reload. Even on a miss with a Shoot
+attack, you do an unmodified 1d4 damage.
+
+Hacker
+
+You have a considerable fluency with digital security
+measures and standard encryption methods. You know
+how to make computerized systems obey you until
+their automatic failsafes come down on your control.
+Level 1: Gain Program as a bonus skill. When attempting to hack a database or computerized system,
+roll 3d6 on the skill check and drop the lowest die.
+Level 2: Your hack duration increases to 1d4+Program
+skill x 10 minutes. You have an instinctive understanding of the tech; you never need to learn the
+data protocols for a strange system and are always
+treated as familiar with it.
+
+Healer
+
+Healing comes naturally to you, and you’re particularly
+gifted at preventing the quick bleed-out of wounded
+allies and comrades.
+Level 1: Gain Heal as a bonus skill. You may attempt to
+stabilize one mortally-wounded adjacent person
+per round as an On Turn action. When rolling
+Heal skill checks, roll 3d6 and drop the lowest die.
+Level 2: Stims or other technological healing devices
+applied by you heal twice as many hit points as
+normal. Using only basic medical supplies, you
+can heal 1d6+Heal skill hit points of damage to
+every injured or wounded person in your group
+with ten minutes of first aid spread among them.
+Such healing can be applied to a given target only
+once per day.
+
+Henchkeeper
+
+You have an distinct knack for picking up lost souls
+who willingly do your bidding. You might induce them
+with promises of money, power, excitement, sex, or
+some other prize that you may or may not eventually
+grant. A henchman obtained with this focus will serve
+in loyal fashion until clearly betrayed or placed in unacceptable danger. Henchmen are not “important” people
+in their society, and are usually marginal sorts, outcasts,
+the desperate, or other persons with few options.
+You can use more conventional pay or inducements to acquire additional henchmen, but these extra
+hirelings are no more loyal or competent than your pay
+and treatment can purchase.
+Level 1: Gain Lead as a bonus skill. You can acquire
+henchmen within 24 hours of arriving in a community, assuming anyone is suitable hench material. These henchmen will not fight except to save
+their own lives, but will escort you on adventures
+and risk great danger to help you. Most henchmen will be treated as Peaceful Humans from the
+Xenobestiary section of the book. You can have
+one henchmen at a time for every three character levels you have, rounded up. You can release
+henchmen with no hard feelings at any plausible
+time and pick them back up later should you be
+without a current henchman.
+Level 2: Your henchmen are remarkably loyal and
+determined, and will fight for you against anything but clearly overwhelming odds. Whether
+through natural competence or their devotion
+to you, they’re treated as Martial Humans from
+the Xenobestiary section. You can make faithful
+henchmen out of skilled and highly-capable NPCs,
+but this requires that you actually have done them
+some favor or help that would reasonably earn
+such fierce loyalty.
+
+22• FOCI
+
+Ironhide
+
+Whether through uncanny reflexes, remarkable luck,
+gengineered skin fibers, or subtle telekinetic shielding,
+you have natural defenses equivalent to high-quality
+combat armor. The benefits of this focus don’t stack
+with armor, though Dexterity or shield modifiers apply.
+Level 1: You have an innate Armor Class of 15 plus half
+your character level, rounded up.
+Level 2: Your abilities are so effective that they render
+you immune to unarmed attacks or primitive
+weaponry as if you wore powered armor.
+
+Psychic Training
+
+You’ve had special training in a particular psychic discipline. You must be a Psychic or have taken the Partial
+Psychic class option as an Adventurer to pick this focus.
+In the latter case, you can only take training in the discipline you initially chose as a Partial Psychic. As with
+most foci, this focus can be taken only once.
+Level 1: Gain any psychic skill as a bonus. If this improves it to level-1 proficiency, choose a free level-1 technique from that discipline. Your maximum Effort increases by one.
+Level 2: When you advance a level, the bonus psychic
+skill you chose for the first level of the focus automatically gets one skill point put toward increasing it or purchasing a technique from it. You may
+save these points for later, if more are required to
+raise the skill or buy a particular technique. These
+points are awarded retroactively if you take this
+focus level later in the game.
+
+Savage Fray
+
+You are a whirlwind of bloody havoc in melee combat,
+and can survive being surrounded far better than most
+combatants.
+Level 1: Gain Stab as a bonus skill. All enemies adjacent
+to you at the end of your turn whom you have not
+attacked suffer the Shock damage of your weapon
+if their Armor Class is not too high to be affected.
+Level 2: After suffering your first melee hit in a round,
+any further melee attacks from other assailants automatically miss you. If the attacker who hits you
+has multiple attacks, they may attempt all of them,
+but other foes around you simply miss.
+
+Shocking Assault
+
+You’re extremely dangerous to enemies around you.
+The ferocity of your melee attacks stresses and distracts
+enemies even when your blows don’t draw blood.
+Level 1: Gain Punch or Stab as a bonus skill. The Shock
+damage of your weapon treats all targets as if they
+were AC 10, assuming your weapon is capable of
+harming the target in the first place.
+Level 2: In addition, you gain a +2 bonus to the Shock
+damage rating of all melee weapons and unarmed
+attacks. Regular hits never do less damage than
+this Shock would do on a miss.
+
+Sniper
+
+You are an expert at placing a bullet or beam on an
+unsuspecting target. These special benefits only apply
+when making an Execution Attack with a firearm or
+bow, as described on page 52.
+Level 1: Gain Shoot as a bonus skill. When making
+a skill check for an Execution Attack or target
+shooting, roll 3d6 and drop the lowest die.
+Level 2: A target hit by your Execution Attack takes a
+-4 penalty on the Physical saving throw to avoid
+immediate mortal injury. Even if the save is successful, the target takes double the normal damage
+inflicted by the attack.
+
+Specialist
+
+You are remarkably talented at a particular skill. Whether a marvelous cat burglar, a world-famous athlete, a
+brilliant engineer, or some other savant, your expertise
+is extremely reliable. You may take this focus more than
+once for different skills.
+Level 1: Gain a non-combat, non-psychic skill as a bonus.
+Roll 3d6 and drop the lowest die for all skill checks
+in this skill.
+Level 2: Roll 4d6 and drop the two lowest dice for all
+skill checks in this skill.
+
+Star Captain
+
+You have a tremendous natural talent for ship combat,
+and can make any starship you captain a significantly
+more fearsome opponent. You must take the captain’s
+role during a fight as described on page 117 of the Ship
+Combat rules in order to benefit from this focus.
+Level 1: Gain Lead as a bonus skill. Your ship gains 2
+extra Command Points at the start of each turn.
+Level 2: A ship you captain gains bonus hit points equal
+to 20% of its maximum at the start of each combat. Damage is taken from these bonus points first,
+and they vanish at the end of the fight and do not
+require repairs to replenish before the next. In addition, once per engagement, you may resolve a
+Crisis as an Instant action by explaining how your
+leadership resolves the problem.
+
+Starfarer
+
+You are an expert in the plotting and execution of interstellar spike drills. While most experienced pilots can
+manage conventional drills along well-charted spike
+routes, you have the knack for forging new drill paths
+and cutting courses too dangerous for lesser navigators.
+Level 1: Gain Pilot as a bonus skill. You automatically
+succeed at all spike drill-related skill checks of difficulty 10 or less.
+Level 2: Double your Pilot skill for all spike drill-related skill checks. Spike drives of ships you navigate
+are treated as one level higher; thus, a drive-1 is
+treated as a drive-2, up to a maximum of drive-7.
+Spike drills you personally oversee take only half
+the time they would otherwise require.
+
+FOCI •23
+
+Tinker
+
+You have a natural knack for modifying and improving
+equipment, as given in the rules on page 90.
+Level 1: Gain Fix as a bonus skill. Your Maintenance
+score is doubled, allowing you to maintain twice
+as many mods. Both ship and gear mods cost only
+half their usual price in credits, though pretech
+salvage requirements remain the same.
+Level 2: Your Fix skill is treated as one level higher for
+purposes of building and maintaining mods and
+calculating your Maintenance score. Advanced
+mods require one fewer pretech salvage part to
+make, down to a minimum of zero.
+
+Unarmed Combatant
+
+Your empty hands are more dangerous than knives
+and guns in the grip of the less gifted. Your unarmed
+attacks are counted as melee weapons when it comes to
+binding up opponents wielding rifles and similar long
+arms, though you need at least one hand free to do so.
+Level 1: Gain Punch as a bonus skill. Your unarmed
+attacks become more dangerous as your Punch
+skill increases. At level-0, they do 1d6 damage. At
+level-1, they do 1d8 damage. At level-2 they do
+1d10, level-3 does 1d12, and level-4 does 1d12+1.
+At Punch-1 or better, they have the Shock quality
+equal to your Punch skill against AC 15 or less.
+While you normally add your Punch skill level to
+any unarmed damage, don’t add it twice to this
+Shock damage.
+Level 2: You know locks and twists that use powered
+servos against their wearer. Your unarmed attacks
+count as TL4 weapons for the purpose of overcoming advanced armors. Even on a miss with a
+Punch attack, you do an unmodified 1d6 damage.
+
+Unique Gift
+
+Whether due to exotic technological augmentation, a
+unique transhuman background, or a remarkable human talent, you have the ability to do something that’s
+simply impossible for a normal human.
+This is a special focus which serves as a catch-all
+for some novel power or background perk that doesn’t
+have a convenient fit in the existing rules. A transhuman who can function normally in lethal environments,
+a nanotech-laden experimental subject with a head full
+of exotic sensors, or a brilliant gravitic scientist who
+can fly thanks to their personal tech might all take this
+focus to cover their special abilities.
+It’s up to the GM to decide what’s reasonable and
+fair to be covered under this gift. If an ability is particularly powerful, it might require the user to take System
+Strain to use it, as described on page 32.
+As a general rule this ability should be better than
+a piece of gear the PC could buy for credits. The player
+is spending a very limited resource when they make
+this focus pick, so what they get should be good enough
+that they can’t just duplicate it with a fat bank account.
+
+Wanderer
+
+Your hero gets around. As part of a life on the road,
+they’ve mastered a number of tricks for ensuring their
+mobility and surviving the inevitable difficulties of a
+vagabond existence.
+Level 1: Gain Survive as a bonus skill. You can convey
+basic ideas in all the common languages of the
+sector. You can always find free transport to a desired destination for yourself and a small group of
+your friends provided any traffic goes to the place.
+Finding this transport takes no more than an hour,
+but it may not be a strictly legitimate means of
+travel and may require working passage.
+Level 2: You can forge, scrounge, or snag travel papers
+and identification for the party with 1d6 hours
+of work. These papers and permits will stand up
+to ordinary scrutiny, but require an opposed Int/
+Administer versus Wis/Notice check if examined
+by an official while the PC is actually wanted by
+the state for some crime. When finding transport
+for the party, the transportation always makes the
+trip at least as fast as a dedicated charter would.
+
+Wild Psychic Talent
+
+Some men and women are born with a very limited
+form of MES, the mental condition that allows for the
+use of psychic powers. While these people are not true
+psychics, these “wild talents” can create one limited psychic effect. Training is not always required to develop
+this ability, and their MES is so mild that they don’t
+suffer the risk of madness or brain damage that more
+developed psychics risk should they use their powers
+without proper training.
+Wild talents are not treated as psychics for general purposes and cannot “torch” their powers. When
+relevant, they are treated as having one point of Effort.
+Psychics and Partial Psychics cannot take this focus.
+Level 1: Pick a psychic discipline. You gain an ability
+equivalent to the level-0 core power of that discipline. Optionally, you may instead pick a level-1
+technique from that discipline, but that technique must stand alone; you can’t pick one that
+augments another technique or core ability. For
+example, you could pick the Telekinetic Armory
+technique from Telekinesis, because that ability
+does not require the use of any other Telekinesis power. You could not pick the Mastered Succor
+ability from Biopsionics, because that technique is
+meant to augment another power you don’t have.
+Level 2: You now have a maximum Effort of two points.
+You may pick a second ability according to the
+guidelines above. This second does not need to be
+a stand-alone technique if it augments the power
+you chose for level 1 of this focus. Thus, if your
+first pick was gaining the level-0 power of Psychic
+Succor, your second could be Mastered Succor. You
+still could not get the level-1 core power of Psychic
+Succor, however, as you’re still restricted to level-0.
+
+24• FINAL TOUCHES
+
+FINAL TOUCHES
+You’re almost finished. Just a few more things to note
+down, and you’ll have an adventurer ready for play.
+First, pick one more non-psychic skill of your
+choice. This pick represents your hobbies, your side
+interests, or some well of natural talent. You gain it at
+level-0 if you don’t already have it. Otherwise, it stacks
+to increase the skill to level-1. You can’t pick a skill you
+already have at level-1.
+Next, determine your maximum hit points. Your
+hit points are a measure of how close you are to death
+or defeat; when you run out of them, your character is
+dead or unable to continue fighting. You can regain lost
+hit points by rest and biopsionic healing, but they cannot exceed their maximum. Your maximum hit points
+are equal to 1d6 plus your Constitution modifier, down
+to a minimum of 1 hit point. Warriors and Adventurers with the Partial Warrior class option can add a +2
+bonus to this total.
+Now note down your base attack bonus. For most
+PCs, this is equal to half your character level, rounded
+down, so it’s +0 for most characters. If your hero is a
+Warrior or an Adventurer with the Partial Warrior
+class option, your beginning base attack bonus is +1.
+Record your Physical, Mental, and Evasion saving
+throws. Your Physical saving throw is 15 minus the
+better of your Strength or Constitution attribute modifiers. Your Mental saving throw is 15 minus the better
+of your Wisdom or Charisma attribute modifiers. Your
+Evasion saving throw is 15 minus the better of your
+Dexterity or Intelligence attribute modifiers. If you
+have a penalty in both modifiers, it’s possible to have a
+saving throw of 16 or more.
+Lastly, either choose an equipment package from
+the list on the opposite page or roll 2d6 x 100 to find out
+how many credits you have to buy your beginning gear.
+
+PCs and Languages
+The standard language of the late Terran Mandate
+was a highly hybridized version of English. All PCs
+are assumed to speak “Mandate” unless they’ve got
+a very good reason not to, and will rapidly pick up
+enough to get by otherwise.
+PCs also speak all the languages appropriate to their background and history. A native
+of a French-speaking world will naturally speak
+French, or whatever French is in 3200 AD.
+Linguist PCs with the Know skill know additional languages; one more at level-0, three more
+at level-1, six more at level-2, ten more at level-3,
+and all sector-known languages at level-4. PCs
+who are far-traveled or versed in dealing with
+other cultures may substitute Connect instead of
+Know to determine their bonus languages.
+
+FINAL TOUCHES •25
+
+EQUIPMENT PACKAGES
+Rather than choosing gear from the Equipment chapter, you can just take a premade package from this page
+instead of taking your starting credits.
+Once you’ve chosen your equipment, make sure to
+note down the damage and hit bonus of your weapons,
+and the Armor Class of any armor you have.
+For weapons, your hit bonus is your base attack
+bonus plus your applicable skill, plus the attribute modifier used by the weapon. For ranged weapons, this
+is usually Dexterity, while most melee weapons are
+Strength or Dexterity. Ranged energy weapons add +1
+to this, as they lack recoil or windage. Damage is equal
+to the weapon’s damage die plus the attribute modifier.
+For armor, your total Armor Class is that of your
+armor plus your Dexterity modifier. Multiple suits of
+armor do not stack together.
+Barbarian
+Spear (1d6+1 damage)
+Primitive hide armor (AC 13)
+Primitive shield (+1 AC)
+Knife (1d4 damage)
+
+Blade
+Monoblade sword (1d8+1 dmg)
+Woven Body Armor (AC 15)
+Secure Clothing (AC 13)
+Thermal knife (1d6 damage)
+
+Thief
+Laser Pistol (1d6 damage)
+Armored Undersuit (AC 13)
+Monoblade knife (1d6 damage)
+Climbing harness
+Low-light goggles
+
+Hacker
+Laser Pistol (1d6 damage)
+Secure Clothing (AC 13)
+Postech toolkit
+3 units of spare parts
+
+Backpack (TL0)
+7 days rations
+20m rope
+500 credits
+
+Backpack (TL0)
+Compad
+Lazarus patch
+50 credits
+
+2 type A cells
+Backpack (TL0)
+Compad
+Metatool
+25 credits
+
+2 type A cells
+Dataslab
+Metatool
+2 line shunts
+100 credits
+
+Gunslinger
+Laser Pistol (1d6 damage)
+Armored Undersuit (AC 13)
+Monoblade Knife (1d6 damage)
+
+Soldier
+Combat Rifle (1d12 damage)
+Woven Body Armor (AC 15)
+Knife (1d4 damage)
+
+Scout
+Laser Rifle (1d10 damage)
+Armored vacc suit (AC 13)
+Knife (1d4 damage)
+Survey scanner
+Survival kit
+Binoculars (TL 3)
+Medic
+Laser Pistol (1d6 damage)
+Secure Clothing (AC 13)
+4 Lazarus patches
+2 doses of Lift
+
+Civilian
+Secure Clothing (AC 13)
+
+Technician
+Laser Pistol (1d6 damage)
+Armored Undersuit (AC 13)
+Monoblade knife (1d6 damage)
+Postech toolkit
+6 units of spare parts
+
+8 type A Cells
+Backpack (TL0)
+Compad
+100 credits
+
+80 rounds ammo
+Backpack (TL0)
+Compad
+100 credits
+
+8 type A cells
+Backpack (TL0)
+Compad
+25 credits
+
+Backpack (TL0)
+Medkit
+Compad
+Bioscanner
+25 credits
+
+Compad
+700 credits
+
+4 type A cells
+Backpack (TL0)
+Dataslab
+Metatool
+200 credits
+
+26• QUICK CHARACTER CREATION
+
+QUICK CHARACTER CREATION
+If you don’t have the time or inclination to do things
+the leisurely way, you can use these pages to quickly
+roll up a hero. You can either pick or roll from any of
+the tables to get a character that suits.
+
+The first step is to roll on the class table below. This will
+give you your class, your attributes, the hit point die to
+roll, and your attack bonus. Each class “style” hints at
+the kind of PC those attributes might describe.
+
+d8
+1
+
+Class and Style
+Expert (Smart)
+
+Str
+10 (+0)
+
+Dex
+12 (+0)
+
+Con
+11 (+0)
+
+Int
+14 (+1)
+
+Wis
+7 (-1)
+
+Cha
+9 (+0)
+
+HP
+1d6
+
+Atk. Bon.
++0
+
+2
+
+Expert (Smooth)
+
+7 (-1)
+
+9 (+0)
+
+10 (+0)
+
+12 (+0)
+
+11 (+0)
+
+14 (+1)
+
+1d6
+
++0
+
+3
+
+Expert (Nimble)
+
+10 (+0)
+
+14 (+1)
+
+12 (+0)
+
+11 (+0)
+
+9 (+0)
+
+7 (-1)
+
+1d6
+
++0
+
+4
+
+Warrior (Melee)
+
+14 (+1)
+
+9 (+0)
+
+12 (+0)
+
+7 (-1)
+
+10 (+0)
+
+11 (+0)
+
+1d6+2
+
++1
+
+5
+
+Warrior (Ranged)
+
+9 (+0)
+
+14 (+1)
+
+12 (+0)
+
+10 (+0)
+
+7 (-1)
+
+11 (+0)
+
+1d6+2
+
++1
+
+6
+
+Warrior (Leader)
+
+7 (-1)
+
+10 (+0)
+
+9 (+0)
+
+11 (+0)
+
+12 (+0)
+
+14 (+1)
+
+1d6+2
+
++1
+
+7
+
+Psychic (Seer)
+
+9 (+0)
+
+11 (+0)
+
+12 (+0)
+
+10 (+0)
+
+14 (+1)
+
+7 (-1)
+
+1d6
+
++0
+
+8
+
+Psychic (Adept)
+
+12 (+0)
+
+10 (+0)
+
+14 (+1)
+
+9 (+0)
+
+11 (+0)
+
+7 (-1)
+
+1d6+1
+
++0
+
+Next, it’s time to pick or roll from the background table
+to the right. Don’t worry if it doesn’t seem to fit your
+class; if your Melee Warrior happens to roll a past as
+a Scholar, just take a moment to decide why it is that
+an erudite scientist might also have a savage left hook.
+You can switch around your attributes if you want to
+make things fit more closely, such as swapping your
+Intelligence and Charisma in the case above.
+The background options are general concepts as
+described starting on page 10. Your hero might be
+a model example of their type, or you might shuffle
+around their details a little, deciding your Ranged Warrior Official is an ex-cop bounced out of the force after
+investigating an alien smuggling ring a little too closely.
+Once you’ve rolled or chosen your background,
+note down the three skills listed with it. If one of the
+skills says “Any Combat”, choose either Punch, Shoot,
+or Stab depending on what fits best for your hero.
+You’ll want to decide on your homeworld at this
+point too. If you’re not familiar with the campaign
+setting, describe your hero’s background and ask the
+GM which planet they’re most likely from. The GM
+can then fill you in on any important cultural or social
+details that might’ve influenced your hero’s history.
+
+d20
+
+Background
+
+If you picked or rolled the Psychic class, roll twice on
+the table to the left to find out what psychic disciplines
+you’ve trained to level-0. If you roll or pick the same
+one twice, it’s level-1, and you should pick a free level-1
+technique from the Psionics chapter on page 28.
+Take a minute to decide where you were trained
+to safely use your innate powers. If you’re not sure, ask
+the GM which psychic academy makes the most sense.
+
+d6
+
+Skills
+
+1
+
+Barbarian
+
+Survive-0, Notice-0, Any Combat-0
+
+2
+
+Clergy
+
+Talk-0, Perform-0, Know-0
+
+3
+
+Courtesan
+
+Perform-0, Notice-0, Connect-0
+
+4
+
+Criminal
+
+Connect-0, Sneak-0, Talk-0
+
+5
+
+Dilettante
+
+Connect-0. Know-0, Talk-0
+
+6
+
+Entertainer
+
+Perform-0, Talk-0, Connect-0
+
+7
+
+Merchant
+
+Trade-0, Talk-0, Connect-0
+
+8
+
+Noble
+
+Lead-0, Connect-0, Administer-0
+
+9
+
+Official
+
+Administer-0, Talk-0, Connect-0
+
+10
+
+Peasant
+
+Exert-0, Sneak-0, Survive-0
+
+11
+
+Physician
+
+Heal-0, Know-0, Notice-0
+
+12
+
+Pilot
+
+Pilot-0, Fix-0, Shoot or Trade-0
+
+13
+
+Politician
+
+Talk-0, Lead-0, Connect-0
+
+14
+
+Scholar
+
+Know-0, Administer-0, Connect-0
+
+15
+
+Soldier
+
+Any Combat-0, Exert-0, Survive-0
+
+16
+
+Spacer
+
+Fix-0, Pilot-0, Program-0
+
+17
+
+Technician
+
+Fix-0, Notice-0, Exert-0
+
+18
+
+Thug
+
+Any Combat-0, Talk-0, Connect-0
+
+19
+
+Vagabond
+
+Notice-0, Sneak-0, Survive-0
+
+20
+
+Worker
+
+Connect-0, Exert-0, Work-0
+
+Psychic Skill
+
+1
+
+Biopsionics-0, the art of healing and metamorphosis
+
+2
+
+Metapsionics-0, the art of manipulating psychic power
+
+3
+
+Precognition-0, the art of sensing the future
+
+4
+
+Telekinesis-0, the art of controlling kinetic energy
+
+5
+
+Telepathy-0, the art of reading and influencing thought
+
+6
+
+Teleportation-0, the art of instant translocation
+
+QUICK CHARACTER CREATION •27
+Now roll 1d6 or pick from the table below to get appropriate foci for your hero, assuming you’d rather not
+pick freely. All the foci listed below are gained at level 1
+proficiency and are described starting on page 20. Psychics can pick one focus. The other classes get one free
+pick, plus one more combat focus for Warriors and one
+more non-combat focus for Experts.
+When you choose a focus, you might get a bonus
+skill from it. If you don’t have that skill, you gain it at
+Class
+
+1
+
+2
+
+level-0. If you have it at level-0, it becomes level-1. And
+if you already have it at level-1, pick any other non-psychic skill instead that isn’t already level-1.
+The focus you pick or roll tells you a lot about your
+hero’s past. A smooth Expert who’s a Connected Diplomat might have been an underworld fixer, while a
+Healer with Specialization in Talk could have been a
+psychiatrist or therapist. Take a moment to figure out
+how your hero’s foci reflect their past experience.
+3
+
+4
+
+5
+
+6
+
+Expert (Smart)
+
+Specialist/Fix
+Die Hard
+
+Hacker
+Tinker
+
+Specialist/Know
+Healer
+
+Specialist/Fix
+Tinker
+
+Healer
+Ironhide
+
+Specialist/Fix
+Hacker
+
+Expert (Smooth)
+
+Diplomat
+Connected
+
+Specialist/Talk
+Die Hard
+
+Diplomat
+Alert
+
+Specialist/Lead
+Authority
+
+Healer
+Specialist/Talk
+
+Specialist/Notice
+Specialist/Talk
+
+Expert (Nimble)
+
+Specialist/Pilot
+Starfarer
+
+Healer
+Die Hard
+
+Tinker
+Gunslinger
+
+Specialist/Sneak
+Assassin
+
+Specialist/Sneak
+Specialist/Exert
+
+Specialist/Entertain
+Specialist/Sneak
+
+Warrior (Melee)
+
+Savage Fray
+Assassin
+Armsman
+Shocking Assault Specialist/Sneak Close Combatant
+
+Close Combatant
+Savage Fray
+
+Ironhide
+Die Hard
+
+Unarmed Combatant
+Close Combatant
+
+Warrior (Ranged)
+
+Gunslinger
+Close Combatant
+
+Sniper
+Assassin
+Specialist/Sneak Specialist/Sneak
+
+Ironhide
+Die Hard
+
+Gunslinger
+Tinker
+
+Close Combat
+Alert
+
+Warrior (Leader)
+
+Gunslinger
+Authority
+
+Ironhide
+Connected
+
+Armsman
+Specialist/Lead
+
+Gunslinger
+Specialist/Talk
+
+Assassin
+Die Hard
+
+Close Combatant
+Henchkeeper
+
+Psychic (Seer)
+
+Alert
+
+Healer
+
+Specialist/Notice
+
+Psychic Training
+
+Savage Fray
+
+Hacker
+
+Psychic (Adept)
+
+Armsman
+
+Ironhide
+
+Die Hard
+
+Psychic Training
+
+Healer
+
+Unarmed Combatant
+
+Now it’s time for a few final touches.
+Pick or roll a bonus skill. You can use the table to
+the right or just choose any non-psychic skill to add at
+level-0 to your hero. You can pick a skill you already
+have at level-0 to make it level-1 instead.
+If you’re playing a Psychic, note down your beginning maximum Effort, which is equal to 1 plus your
+highest psychic skill plus the better of your Wisdom
+or Constitution modifiers.
+Write down your saving throws. Your Physical saving throw is equal to 15 minus your Strength
+or Constitution modifiers, whichever is better. Your
+Evasion saving throw is equal to 15 minus the better
+of your Dexterity or Intelligence modifiers, and your
+Mental saving throw is 15 minus the better of your
+Wisdom or Charisma modifiers.
+Pick your starting equipment, either rolling 2d6
+x 100 to find your beginning credit total or picking a
+package from page 25. Note down your beginning hit
+bonus totals and damage for any weapons you have,
+and the Armor Class total for any armor you wear.
+Finally, put a name on this budding hero and
+choose their initial goal. What are they trying to accomplish right now? Get rich? Get off their tedious
+homeworld? Take revenge on a local tyrant? Whatever
+you pick should be something that motivates your hero
+from the very start, and it should also be something that
+complements the interests of the rest of the players.
+Nobody’s going to thank you if you roll up a PC that
+none of the other party members would want to associate with, or one that can’t be expected to play nicely
+with the rest of the group.
+
+d20
+1
+
+Bonus Skill
+Administer: bureaucracy and management
+
+2
+
+Connect: knowing people and cultures
+
+3
+
+Exert: climbing, running, throwing, and such
+
+4
+
+Fix: repairing and building things
+
+5
+
+Heal: curing harm in mind and body
+
+6
+
+Know: scientific and academic knowledge
+
+7
+
+Lead: persuade others to do as you are doing
+
+8
+
+Notice: spot things and detect the unusual
+
+9
+
+Perform: sing, dance, act, and the like
+
+10
+
+Pilot: fly ships, ride beasts, sail boats
+
+11
+
+Program: hack computers, run comms
+
+12
+
+Punch: fight unarmed
+
+13
+
+Shoot: fight at range
+
+14
+
+Sneak: defeat security and avoid notice
+
+15
+
+Stab: fight with melee weapons
+
+16
+
+Survive: avoid natural peril, find food
+
+17
+
+Talk: persuade others to believe things
+
+18
+
+Trade: buy, sell, and find vendors of things
+
+19
+
+Work: a job or talent not covered above
+
+20
+
+Change a level-0 skill you have to level-1
+
+

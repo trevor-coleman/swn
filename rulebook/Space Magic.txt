@@ -1,0 +1,1036 @@
+266• SPACE MAGIC
+
+SPACE MAGIC
+Any reader of this game is likely aware of dozens of
+other old-school game systems that have magic-using
+character classes and a wealth of arcane sorcery. While
+many groups will be perfectly happy to stick with traditional sci-fi tropes, some groups prefer a little more
+wizardry in their stellar endeavors, and so this section
+provides you with guidelines for integrating existing
+old-school spells and magic use into a Stars Without
+Number campaign.
+Particularly adventurous groups might go so far
+as to use Stars Without Number as the chassis for a
+straight-up fantasy game, using the Warrior and Expert classes to represent doughty fighters and cunning
+thieves, and the additional classes in this section serving as more sorcerously-inclined heroes.
+
+Molding Your Magic
+
+The first step in including these rules is for the GM to
+decide just what kind of magic she wants to include in
+her campaign. She might decide to simply include the
+magic-user and cleric spell lists from Labyrinth Lord,
+or import only the magic-user spells from Lamentations of the Flame Princess, or perhaps devise a race of
+sense-warping aliens who use the illusionist spell lists
+from an early edition of one of TSR’s famed games.
+Particularly industrious or inspired GMs might choose
+spells from half a dozen different sources and compile
+them all into a particular list suitable for their game.
+A cursory examination of these other OSR games
+will show that almost all of them divide their spells into
+multiple “levels” of increasing power, usually ranging
+from level 1 to level 9. As a general rule of thumb, you
+probably don’t want to include spells higher than level
+5 in your campaign. Beyond that power level, magically-gifted PCs start to have a degree of personal prowess
+that’s drastically out of scale with non-arcane heroes. It
+may be possible to enact these mighty enchantments
+through complex rituals, advanced supporting technology, or other roundabout means, but they should
+not normally be powers at the ready disposal of PCs.
+When you’re picking spells for your campaign,
+your main focus should be on your personal group of
+players. It’s not necessary to imagine every possible
+sub-variety of sorcery in your personal cosmos, or to
+spend hours painstakingly crafting a dozen different
+schools of magical adepts. It probably isn’t even necessary to worry about the spell lists beyond level 2 or 3.
+Your job is to make sure that the magic fits with your
+campaign and provides options that are likely to interest your players. Don’t hesitate to straight-out ask your
+group if anyone wants to play a magically-gifted hero,
+and if so, the kind of magic they’d be most interested in
+having. If you give yourself some warning time, you’ll
+have enough leisure to put together a basic arcane class
+or two that fits your group’s needs.
+
+Start by creating one or more spell lists for the
+classes provided in this section. The Arcanist class
+should have a single broad spell list that its practitioners all draw from, while the Magister class might
+have multiple spell lists for different magical traditions.
+A Magister can draw from only one of these lists, representing the particular tradition they belong to. If you
+want to save yourself effort, you might make up several
+Magister spell lists and then just declare that an Arcanist can learn spells from any of them.
+Adepts are a special case, and are meant to represent magical traditions that focus on personal empowerment and alteration. Most often, you’ll simply
+be taking an old-school class with multiple intrinsic
+magical powers and stripping it for parts to customize
+your own Adept classes.
+
+The Magic Skill
+
+In campaigns where sorcery is a matter of general concern, a new skill is added to the list. Magic is the skill
+related to both academic and practical use of sorcery.
+Whenever a spellcaster attempts to puzzle out some
+arcane mystery or use their spells in a way that seems
+both plausible and risky, a Magic skill check can be
+required. Intelligence is the attribute that usually modifies such a roll, though almost any attribute might be
+used for certain situations or magical traditions.
+For spells that require a hit roll to connect, the
+caster may use their Magic skill as their combat skill,
+usually adding their Intelligence or Dexterity modifier
+as well depending on whether the attack relies more on
+careful targeting or nimble hands.
+Whenever a PC rolls or picks the Know skill as
+part of their background, focus bonus skills, or other
+picks, they may instead choose the Magic skill. A PC
+does not have to have magical abilities to understand
+the theory and technical details of sorcery, though their
+ability to employ their knowledge might be limited.
+In some campaigns, GMs will prefer to split the
+Magic skill up even further, perhaps giving specific
+skills to each Magister school, or dividing different
+magical traditions into different skills. While this is
+a feasible choice, a GM should be careful not to parse
+things too finely, and should allow cross-skill use in
+most magical situations.
+Importantly, a spellcaster cannot cast a spell of a
+level higher than their Magic skill plus one, even if
+their character level would normally allow them to
+cast such potent enchantments. A magic-user needs to
+understand the basic theory and practice of their magic
+before they can employ it effectively. This limit does
+not apply to Adepts, who often have no magical education at all, and it may also not apply to other magical
+traditions that owe more to lineage or random genius
+than focused education.
+
+SPACE MAGIC •267
+
+Spells and Invocations
+
+The Arcanist and Magister classes listed below cast
+spells. A GM can pick appropriate spells for their lists
+from their old-school games of choice, with the Arcanist intended to be a generalist magic-user who can alter
+their prepared spells to meet an anticipated situation,
+and the Magister meant to be a student of a particular magical tradition that grants them less breadth but
+an easier time accessing the full scope of their powers.
+For these classes you can lift spells directly from your
+sources to make their spell lists, and you usually don’t
+have to change anything about the spells.
+The Adept class, on the other hand, is meant to
+emulate a particular type of magical adept who has a
+very restricted range of abilities that are very easy for
+them to invoke. Invocations emulate intrinsic magical
+powers and special gifts that can’t be effectively interrupted and require no special preparation to employ.
+The easiest way to create an Adept’s invocations
+is to just look at an existing old-school character class
+with intrinsic magical abilities. They’ll usually get special powers at certain levels, or boosted attack damage,
+or some other natural class ability. Each of those can be
+treated as an invocation. Powers that require activation
+should be assigned an action type, either Main Action,
+On Turn, or Instant depending on how long it seems
+it should take to activate the ability, while flat bonuses
+should be invocations that are constantly in effect.
+You’re inevitably going to have to eyeball the final
+result a little and apply tweaks and adjustments to make
+sure the resultant Adept tradition is a suitable fit to
+your campaign. Just work with the player who’s going
+to have the PC to make something acceptable, as you
+don’t have to balance things for random other people.
+
+Casting Magic
+
+In science-fantasy campaigns, magic is divided between
+spells and invocations. Spells are arcane formulae, divine
+prayers, lengthy rituals, and all other magic-creating
+procedures that tend to take some time and undisturbed action in order to trigger. Invocations are innate powers or gifts, either gained through long practice, granted via occult pacts, or simply intrinsic to the
+bloodline of the bearer. Invocations require much less
+effort to trigger, but their bearers tend to be much less
+flexible in their powers than spellcasters.
+To cast a spell, the spellcaster must declare their intent to cast a spell at the very start of the round, before
+any group has acted, and they must specify which spell
+they intend to cast. Their efforts to begin casting will
+begin immediately. Most spellcasting is blatantly obvious, involving arcane gestures, stentorian incantations,
+and occasional visible discharges of coalescing energy.
+Most combatants in a culture where magic exists will
+recognize spellcasting immediately, though it is usually impossible to tell what spell the spellcaster is trying
+to cast. A magic-user cannot normally cast any spells
+if their hands are restrained or their mouth is gagged.
+
+Completing the spell requires a Main Action from
+the caster, performed during their normal turn of action during the round. They may choose details of targeting and specific effects at the moment they cast they
+spell. If they decide that they really don’t want to cast
+the spell after all, they lose their Main Action but will
+not waste the spell or the power used to fuel it. If the
+caster suffers so much as a single hit point of damage
+before they can complete the spell, however, it and
+their Main Action for the turn are both lost. The spell
+still counts against any casting maximums for the day,
+but it fizzles away uselessly.
+Invocations are much quicker and easier to cast
+than spells, and largely impossible to interrupt. Most
+invocations require a Main Action to cast, but they do
+not require announcement at the start of the turn and
+they cannot be interrupted by damage. Other invocations can be used as an Instant or On Turn action, or
+they might be constantly in effect once acquired.
+
+Learning Spells and Invocations
+
+Most spells require either a teacher or a magically-charged instruction device in order to impart its
+secrets. A mere text file might be able to describe what
+a spell does, but without a magically-imbued training
+object for a spellcaster to study, the spell’s true patterns of energy and meaning are impossible to discern.
+Traditionally, these training objects take the shape of
+physical books, often called “grimoires”, as the traditional methods of energy imprinting commonly focus
+on written codices.
+Without a grimoire or a willing teacher, a spellcaster cannot learn or use a given spell, even if it appears on the spell list for their class. If the spell does not
+appear on their class spell list, they cannot learn it even
+with access to a teacher or grimoire. It simply is too far
+outside the scope of their magical education.
+Learning a spell from a teacher requires one day
+per level of the spell. Learning it from a magically-imbued object requires one week per spell level. This
+training can be interrupted and resumed with no ill
+effects, but a spellcaster can learn only one spell at a
+time. Most Magisters can expect to be taught the spells
+of their tradition by a cooperative senior member of
+their order as they advance in level, though they might
+be called upon to perform a service for the tradition in
+order to “prove their worthiness” to receive the knowledge. Arcanists have a less certain path forward, and
+must usually either find grimoires or convince other
+spellcasters to train them, often for a substantial fee in
+credits or service. In the absence of some other requirement, and assuming a willing teacher can be found,
+such tutoring usually costs five hundred credits for a
+first level spell, doubled for each ensuing spell level.
+Only Arcanists and Magisters can learn spells. Adepts are taught their invocations as part of their training and gradual maturation, and gain their abilities
+automatically as they advance in experience.
+
+268• THE ARCANIST
+
+THE ARCANIST
+A purveyor of mystical secrets and a relentless scholar
+of the unknown, the Arcanist is meant to represent
+a magic-user with a broad grasp of arcane principles
+and a catholic view toward magical theory. Arcanists
+sometimes form groups of like-minded researchers, but
+their individuality and idiosyncratic academic views often makes it difficult for them to work closely together.
+
+Arcanist Spellcasting
+
+Arcanists all share the same spell list. At first level, they
+may pick a number of first level spells from this list
+equal to two plus their Intelligence modifier. They begin knowing these spells and may prepare their allowed
+spells per day from them. They may learn new spells as
+the opportunity arises, but they cannot learn a spell that
+is not on the Arcanist list or that is a higher level than
+they can actually cast. There is no limit to the number
+of spells an Arcanist can learn save for the need to find
+a teacher or grimoire from which to learn them.
+An Arcanist must prepare their spells before casting them. Such preparation requires an hour of undisturbed meditation, arcane exercises, and calculation,
+and can only be done once per day. The number of
+spells an Arcanist can have prepared at any one time
+depends on their character level; a novice Arcanist can
+prepare only a single first level spell, while a master can
+have a dozen different incantations ready for use. The
+adjacent table lists the number of spells of each level
+that the Arcanist can prepare each day.
+An Arcanist may fill a higher-level slot with a lower-level spell if they wish, such as using a second level
+spell slot to prepare a first level spell. Arcanists may
+also prepare multiple “copies” of a spell they expect to
+see heavy use, preparing the same spell multiple times
+in multiple slots.
+When an Arcanist casts a spell, it is discharged and
+must be prepared again before it can be used again. If
+they have multiple copies of a spell prepared, they can
+continue to use it until they run dry of available incantations. Suffering hit point damage before they can
+successfully complete casting a spell also costs them the
+spell, as it fizzles uselessly and is lost for the day.
+
+Arcanist Class Abilities
+
+Arcanists spend so much time in scholarly study that
+they lack the resilience of more active heroes. Their hit
+points are rolled as 1d6-1 each level, plus their Constitution modifier. Each die’s total cannot be less than 1,
+even with the penalty.
+Arcanists spend very little time mastering mundane weaponry. Their base attack bonus is equal to
+their level divided by five, rounded down. Thus, at first
+level, it’s +0, and doesn’t increase to +1 until level five,
+and +2 at level ten.
+
+Spellcasting requires the dexterous manipulation
+of esoteric energy flows that are hindered by cumbersome armor and exotic materials. If the Arcanist is
+wearing powered armor, including vestimentums, or
+armor with an Encumbrance value higher than zero,
+they cannot effectively cast spells, nor can they do so if
+their hands are bound or they are gagged.
+Arcanists may learn two new spells from the Arcanist spell list from any level they are capable of casting
+each time they advance a level, reflecting their own
+research and study. They begin play knowing two first
+level spells, plus their Intelligence modifier.
+Arcanists may choose their foci from the arcane
+focus list in this section, and may choose one additional
+bonus arcane focus at first level.
+Arcanists gain Magic as a bonus skill. If the Magic
+skill is split up into multiple sub-skills in this campaign,
+they can pick one of them for a bonus skill instead.
+
+Partial Arcanist Abilities
+
+Some characters may wish to only dabble in an Arcanist’s arts, selecting the Partial Arcanist class option as
+an Adventurer. Heroes who choose this option gain
+the following traits.
+Partial Arcanists suffer a -1 penalty on all hit point
+dice they roll. Thus, a Partial Expert/Partial Arcanist
+would roll 1d6-1 for their hit points each level, while
+a Partial Warrior/Partial Arcanist would roll 1d6+1.
+Partial Arcanists suffer a -1 penalty on their base
+attack bonus, as calculated by their other partial class.
+This penalty cannot reduce the hero’s base attack bonus
+below +0. If their other partial class is Magister, their
+attack bonus is +0 at first level, +1 at fifth level, and +2
+at tenth level.
+Partial Arcanists can learn and prepare Arcanist
+spells as if an Arcanist of half their level, rounded up.
+For casting purposes, they are treated as their full level;
+thus, if a spell does 1d6 points of damage per caster level, a 5th level Partial Arcanist does 5d6 damage with it.
+Partial Arcanists are as limited as any other Arcanist when it comes to casting spells in heavy armor.
+While wearing powered armor, or any other armor
+with an Encumbrance value higher than zero, they
+cannot effectively cast Arcanist spells.
+Partial Arcanists may learn one new spell from
+the Arcanist spell list from any level they are capable
+of casting each time they advance a level, representing
+the fruits of their private research.
+Partial Arcanists can choose arcane foci with their
+allowed focus picks. They do not gain the bonus arcane
+focus that a full Arcanist gets.
+Partial Arcanists gain Magic as a bonus skill. If the
+Magic skill is split up into multiple sub-skills in this
+campaign, they can pick one of them for a bonus skill
+instead.
+
+THE MAGISTER •269
+
+THE MAGISTER
+A studious follower of a particular magical tradition or
+sorcerous order, the Magister is heir to uncounted centuries of arcane learning and focused erudition. While
+Magisters do not have the broad magical knowledge
+of an Arcanist, their focused study allows them more
+flexibility in employing their spells, and less need to
+prepare beforehand.
+
+Magister Spellcasting
+
+day. This spell may be from any of the first level spells
+they know, and it is not necessary for them to specifically prepare the spell as an Arcanist does. As they
+advance in power, they are able to cast more and more
+spells each day from higher levels of incantation. A Magister can cast a lower-level spell with a higher-level
+slot if they so require, but this does not augment the
+spell or make it more effective.
+If a Magister suffers damage before they can successfully complete the casting of a spell, the magical energy discharges harmlessly and the spell slot is wasted.
+They can attempt to cast the spell again next round if
+they still have available slots for that level.
+
+Unlike Arcanists, Magisters focus on a restricted set
+of sorceries, and become intimately familiar with a
+relatively small number of spells. Their deep familiarity with these spells allows them to cast them without
+prior preparation, but it also prevents them from easily
+learning new spells or changing their existing list.
+At first level, a Magister picks two first level spells
+from their allowed list. Each time they advance a level,
+they may learn additional spells from their list as given
+by the Magister spell table. Each time they advance an
+experience level, they may swap out up to two of their
+existing spells for different picks of the same spell levels. A Magister cannot learn new spells outside this
+progression. If he wants to exchange a known spell
+for a different one of the same level, beyond the two
+swaps granted by advancement each level, he must
+spend three months of study to exchange a single spell.
+It is assumed that a Magister can pick from any of the
+spells on their school’s spell list unless they are in exceptionally bad odor with their fellows.
+A Magister may cast their spells a certain number
+of times per day depending on their level. At first level,
+for example, they may cast a first level spell thrice per
+
+A Partial Magister uses the exact same rules as a Partial
+Arcanist, except that they cast spells from their Magister spell list, and may learn them as if a Magister of half
+their character level, rounded up. If a hero chooses to
+be a Partial Arcanist/Partial Magister, they keep their
+spell lists separate; just because the hero knows a spell
+as an Arcanist doesn’t mean that they may cast it with
+Magister spell slots. The same separation applies to
+their available spell castings per day.
+
+Arcanist Spells Prepared per Day
+
+Magister Spells Usable per Day
+
+Arcanist
+Level
+
+Spell Levels
+
+1
+
+1
+1
+
+2
+-
+
+3
+-
+
+4
+-
+
+5
+-
+
+2
+
+2
+
+-
+
+-
+
+-
+
+3
+
+2
+
+1
+
+-
+
+-
+
+4
+
+3
+
+2
+
+-
+
+5
+
+3
+
+2
+
+6
+
+3
+
+7
+
+4
+
+8
+
+4
+
+9
+10+
+
+Magister Class Abilities
+
+Magisters have the exact same class abilities and limitations as an Arcanist, save for their special rules for
+learning and casting spells. In campaigns where the
+Magic skill is split into multiple sub-skills, they have
+the sub-skill appropriate to their school as a bonus instead of Magic.
+
+Partial Magister Abilities
+
+Magister
+Level
+
+Spell Levels
+
+1
+
+1
+2/3
+
+-
+
+2
+
+2/4
+
+-
+
+-
+
+-
+
+-
+
+-
+
+3
+
+3/5
+
+2/2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+4
+
+3/6
+
+2/3
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+5
+
+4/6
+
+2/3
+
+2/2
+
+-
+
+-
+
+3
+
+2
+
+-
+
+-
+
+6
+
+4/6
+
+3/4
+
+2/3
+
+-
+
+-
+
+3
+
+2
+
+1
+
+-
+
+7
+
+5/6
+
+3/4
+
+2/3
+
+2/2
+
+-
+
+3
+
+3
+
+2
+
+-
+
+8
+
+5/6
+
+4/5
+
+3/4
+
+2/3
+
+-
+
+5
+
+4
+
+3
+
+2
+
+1
+
+9
+
+5/6
+
+4/5
+
+3/4
+
+3/3
+
+2/2
+
+5
+
+4
+
+3
+
+3
+
+2
+
+10+
+
+5/6
+
+4/6
+
+3/5
+
+3/4
+
+2/3
+
+The entries list the number of spells an Arcanist can
+prepare each day of a given spell level. There is no
+limit to the number of spells an Arcanist can learn
+at each level, assuming a source is found for them.
+
+2
+-
+
+3
+-
+
+4
+-
+
+5
+-
+
+Entries list the total spells known each level followed
+by the spells castable each day. Thus, at second level,
+a Magister knows two first-level spells, and may cast
+any combination of them up to four times a day.
+
+270• THE ADEPT
+
+THE ADEPT
+The Adept is the catch-all class for those heroes with intrinsic magical abilities that aren’t really spells, but are
+clearly supernatural in nature. Adepts can vary wildly
+in their abilities; some might have incredible powers
+of bodily control, others might have a set of specific
+elemental abilities they can invoke, while still others
+might be able to invoke specific magical powers with a
+freedom and regularity even a Magister cannot match.
+The Adept class is designed as a framework to allow a GM to bring in classes from other old-school
+games that rely on special abilities gained as a hero advances in character levels. These classes usually have
+a few basic powers at first level, and then gain more
+special abilities as they advance. It’s likely that any importing will require some tweaking and adjustment on
+the GM’s part, but this class can be used as a “container”
+to help organize these esoteric gifts.
+When importing Adept traditions, be careful not
+to devalue the worth of other classes. A combat-focused Adept should be about as good as a Warrior,
+rather than superior to one, and an Adept focused on
+stealth should not be universally superior to an Expert
+cat burglar. The importance of this will vary with the
+PC makeup of your group. If you have no other Warriors in the party, for instance, then you don’t have to
+be so careful about not stepping on their role.
+
+Adept Class Abilities
+
+Adepts roll 1d6 for their hit points each level, modified
+by Constitution.
+Adepts have a base attack bonus equal to half their
+level, rounded down. Thus, it’s +0 at first level. Specific
+Adept traditions may give bonuses to this.
+
+Adepts gain the special abilities of their chosen
+tradition. Often, some of these are obtained automatically at first level, while others are gained as the hero
+advances in experience. The GM may choose to adjust
+the timing of these abilities to smooth out progression.
+Adept abilities are invocations. Even when they
+require a Main Action to activate, they cannot be interrupted by damage. Adept abilities may be used as
+often as the specific ability allows; some have a limit of
+so many uses per day, while others might be constantly
+in effect.
+Adepts may choose to pick their beginning and any
+further earned foci from the arcane focus list in this
+section, though foci that have to do with spellcasting
+are inapplicable to them.
+
+Partial Adept Abilities
+
+Partial Adepts gain the special abilities of their chosen tradition as if they had an Adept level of half their
+character level, rounded up. Where these abilities are
+influenced by character level, the hero’s full level is applied. Thus, if an intrinsic ability gave them a +1 Armor
+Class bonus per level, a 5th level Partial Adept would
+gain a +5 bonus to their AC.
+Note that some Adept traditions involve granting
+a hero a powerful base ability at first level that is then
+further elaborated or expanded as they advance. This
+type of tradition may not be suitable for a Partial Adept,
+or the GM may have to clip back the base ability and
+only give the rest of it back as the PC advances in level.
+Partial Adepts may choose to pick their beginning
+and any further earned foci from the arcane focus list
+in this section, though foci that have to do with spellcasting are inapplicable to them.
+
+THE INCANDESCENT ORDER
+As an example of an Adept class, the Incandescent Order wields the “power of the Glow” as their inner spiritual purity made manifest through light. The theocratic
+ruling institution of several remote star systems, the
+Order is currently divided between the Exultants, who
+believe that the gift of the Glow is a sign of absolute
+spiritual authority over less-gifted sentients, and the
+Abstainers, who believe that a Glow-gifted leader can
+still fall into serious acts of sin.
+The two factions are nominally at peace, but a vicious secret war is waged between them over ultimate
+control over Order space and the Radiant Hierarchy
+that rules it. Losers of this religious debate and those
+disillusioned with the conflict have been forced to flee
+Order space for more distant worlds, bringing their
+discipline with them.
+
+Any trained adept of the Order can identify a potential acolyte’s Glow potential with a few weeks of
+training. Most people have no ability to wield it whatsoever, and some have only a limited gift, but a few
+can be taught to become full priests of the light. The
+education usually requires four or five years to set a
+novice on the path to eventual mastery.
+The Order itself is philosophically devoted to the
+Holy Light, the radiance of truth, justice, and purity
+that the Light embodies. Those who die for the cause
+will know the eternity happiness of radiant truth, while
+the wicked will be cast forever into the Dark Hells of
+ignorance and confusion. The Exultants insist that
+anyone who wields the Glow can only temporarily be
+confused by sin, while the Abstainers view the Glow
+merely as one more tool with which to serve the Light.
+
+THE ADEPT •271
+
+Class Abilities
+
+Order Adepts use the normal class abilities for Adepts
+except as noted below.
+Order Adepts gain Glow as a bonus skill. Glow is
+used to control and apply the powers of the Order, and
+may be used as a combat skill for Glow-based attacks.
+Gain Order Effort equal to one plus their Glow
+skill plus the highest of their Wisdom or Charisma
+attribute modifiers. Order Effort works much like a
+psychic’s Effort, being Committed and recovered in
+the same way, and is used to fuel Order powers. Order
+Effort and Psychic Effort are tracked separately.
+Order Adepts have a base attack bonus equal to
+half their character level, rounded down. At first and
+fifth level, the adept gains a cumulative +1 bonus to
+their base attack bonus. Thus, at first level their attack
+bonus would be +1, and at fifth level it would be +4.
+Adepts gain special Order Glow abilities at the
+levels listed below.
+
+Partial Class Abilities
+
+Partial Order Adepts use the Partial Adept rules as usual, save for those listed below.
+Partial adepts gain Glow as a bonus skill, just as
+full Order members do.
+Partial adepts have Order Effort equal to one plus
+half their Glow skill, rounded up. They do not add their
+Wisdom or Charisma attribute modifiers to this total.
+Partial adepts gain Order powers as if they were
+half their full character level, rounded up. They may
+use these powers at their full character level. Thus, a
+first level partial Order adept has the 1st level Order
+power. At third level, they gain the 2nd level Order
+power, and so forth. They would use these abilities as
+a character of their level, so a fourth level Partial Order
+Adept does 1d10 damage with The Light Within.
+
+Powers of the Glow
+
+The Light Within (Level 1): Commit Effort as an On
+Turn action. While Committed, you may radiate
+light up to a 20-meter radius, project bolts of light
+doing 1d6 damage up to 50 meters away, and ignore up to your character level in hit points of
+laser damage from any given attack. At fourth
+level the damage of these bolts increases to 1d10,
+and at seventh level they become 2d6. Their attack
+rolls use the Glow skill and Dexterity modifiers for
+combat purposes.
+The Light Without (Level 2): Commit Effort for the
+scene as an On Turn action. Conjure a purely
+visual illusion within 60 meters, the image occupying no more than five meters’ radius. The
+image appears perfectly realistic but is intangible
+and soundless. The illusion lasts for the rest of the
+scene; you can control it with a Move action, causing it to move or changing its location. Invisibility
+is not an illusion, though you can create the image
+of an opaque object in front of something.
+
+Visual Interdict (Level 3): Commit Effort for the scene as
+an On Turn action. You become invisible for the
+rest of the scene and immune to laser weaponry
+or laser tripwires. This invisibility breaks if you
+make an attack or other violent motion. Attacks
+from invisible ambush grant +4 to hit and damage, but do not usually count as Execution Attacks
+from page 52 unless the other requirements of
+such an attack are fulfilled.
+Veil of Noon (Level 4): Commit Effort for the scene as
+an On Turn action to gain the visual appearance
+of any object or person between 50% and 150% of
+your height and weight. This appearance conceals
+any clothing or equipment you may be carrying,
+but its falseness is obvious on touch, and it does
+not alter your voice. The illusion lasts for the rest
+of the scene or until dropped.
+Torrent of Dawn (Level 5): Commit Effort for the day as
+an On Turn action to blast visible targets within
+100 meters with a blaze of laser energy. A total
+number of targets equal to one plus the adept’s
+Glow skill can be hit, and each is automatically hit
+for 1d10 damage for every two levels of the adept,
+rounded down. An Evasion saving throw halves
+the damage they take, and a single target can’t be
+hit by more than one blast.
+Piercing Radiance (Level 5): Commit Effort for the
+scene as a Move action to cut a hole two meters
+square through up to two meters of any substance
+weaker than TL 4 military fortifications. Against
+fortifications, this takes two rounds of this ability.
+This piercing laser requires a stationary target, so
+it is not normally effective against mobile enemies.
+If somehow applied to an immobile living target,
+it does five points of damage per character level.
+Photonic Lift (Level 6): Commit Effort as an On Turn
+action. While Committed, the adept can repel
+himself from the ground through the emission of
+countergravitic luminal waves. The adept can fly
+at twice their normal movement rate, hovering
+freely as needed and lifting up to one hundred kilograms of additional weight.
+Radiant Shield (Level 7): Commit Effort as an On Turn
+action. While Committed, you and all allies within 10 meters are immune to harmful light, lasers,
+radiation, or other radiant energies.
+Tangible Light (Level 8): Commit Effort for the scene
+to create a simple physical object of solid light no
+larger than 3 meters square. It has hit points equal
+to twice your level and vanishes at the scene’s end.
+Flickering Leap (Level 9): Commit Effort for the day as
+a Move action to leap to any location visible with
+your unaided sight as a bolt of pure radiance.
+Flesh of Light (Level 10): Commit Effort for the day as an
+On Turn action to become an intangible form of
+light for one round. You can move freely through
+non-solid matter and can use your Glow powers,
+but are immune to mundane matter and energy.
+
+272• ARCANE FOCI
+
+ARCANE FOCI
+The foci listed below are generally restricted to PCs
+with magical abilities, whether Arcanists, Magisters,
+or Adepts. Most of them augment a caster’s sorcerous
+abilities, though a few add additional perks suitable for
+a magically-focused hero.
+If a GM is adapting an existing OSR class into an
+Arcanist, Magister, or Adept from these rules, unique
+abilities that don’t fit neatly in the existing framework
+can be treated as foci that the PC must take at the appropriate levels, acquiring them in place of their usual
+free choice at first level or ensuing levels. While this
+does limit a PC’s versatility to a degree, in most cases
+they already have plenty of uniqueness simply by virtue
+of their character class. If there’s only one Scion of the
+Emerald Blade in your campaign, it doesn’t matter too
+much if she has to take a specific set of abilities.
+
+Armored Technique
+
+Applicable only to Arcanists and Magisters, this focus
+reflects a hero’s determined practice at channeling arcane energy flows around the encumbrance of heavy
+armor and unnatural high-tech materials.
+Level 1: You may cast Arcanist or Magister spells while
+wearing street or combat armor with an Encumbrance value no higher than one, or in powered
+armor with a zero Encumbrance value.
+Level 2: You may cast Arcanist or Magister spells regardless of the bulk of your armor.
+
+Cross-Disciplinary Study
+
+Applicable only to Magisters, this allows a hero to learn
+a spell from the Arcanist list or from a Magister school
+other than their own. They must find a source willing
+and able to teach them the spell, and it must be of a level
+they can cast, though if taken at first level, it’s assumed
+that a tutor or grimoire was found for the spell.
+Level 1: You may pick one spell of any level you can cast.
+This spell is now known to you. You can change
+this spell once per experience level, assuming you
+can find a source for the new spell.
+Level 2: You may pick one spell for each spell level you
+are capable of casting, and may change each of
+them once per experience level as noted above.
+
+Imprinted Spell
+
+Applicable only to Arcanists, this focus is for a hero
+who has so perfectly readied a spell that they no longer
+need to prepare it before casting it. They may cast it in
+place of any other spell of equal or higher level, losing
+the spell in that slot in order to fuel the sudden casting.
+Level 1: You may imprint one spell of any level you can
+cast. You can change this spell once per experience
+level to another spell you know.
+Level 2: You may change your imprinted spell once per
+day, when you prepare your other spells.
+
+Initiate of Healing
+
+This focus can only be taken by Arcanists or Magisters
+with access to healing spells in their regular spell lists,
+not including those who add them via other foci or
+means. With it, a magic-user can translate the potential energies of their available spells into enchantments
+of physical mending and revitalization. These simple
+magics cannot cure diseases or poisons and cannot replace lost limbs, but they can heal any victim not too
+far gone to be saved by a lazarus patch.
+Level 1: The user may expend a spell slot to heal a visible
+ally within 30 meters for 1d6 points of damage per
+spell level expended, plus the caster’s Magic skill.
+Invoking this healing takes a Main Action, but it
+is an invocation and cannot be interrupted.
+Level 2: The user is so efficient at triggering natural
+healing in a subject that they can call upon the
+subject’s natural physical reserves rather than their
+own magical energies. As a Main Action, they can
+touch a willing subject and heal up to 1d6 points
+of damage for every three character levels the user
+possesses, rounded up. This healing adds one System Strain to the target, and cannot be performed
+if the target is unable to take the strain.
+
+Limited Study
+
+This arcane focus is special in that it can be taken by
+anyone, even those without an arcane class, assuming
+the GM allows it in her campaign. It reflects a limited
+or partial study of the arcane arts, just enough to master the casting of a handful of spells. An Arcanist or
+Magister may also take it, to reflect an outside research
+topic, but they cannot cast these learned spells with
+their usual spell slots.
+Level 1: You may learn a single Arcanist or Magister
+spell of a level no greater than half your own,
+rounded up. You can change this spell once per
+level if you can find a tutor for the spell you want
+to study. You do not need to prepare this spell,
+and can cast it once per day. Your familiarity with
+it is such that you can even cast it while wearing
+armor, without needing Armored Technique. The
+spell is cast using your full character level for any
+level-dependent effects.
+Level 2: Your limited study has expanded. You may learn
+a second spell of a level no greater than half your
+character level, rounded up. You may cast this
+spell once per day with the same limits as above.
+
+Petty Sorceries
+
+The character is capable of producing minor effects in
+line with their general style of magic – phantom sounds,
+small and obvious illusions, non-damaging puffs of energy or light, minor physical transformations, or any
+
+ARCANE FOCI •273
+
+other trifling magical effect that fits with their tradition
+and isn’t so powerful as to cause damage or directly
+affect an unwilling target. This focus has only one level.
+Level 1: The caster can invoke these abilities freely for
+flavor and role-playing style, but they can only be
+concretely useful in play once per game session.
+The GM decides whether or not the concrete use
+proposed for an effect is appropriate in scale.
+
+Psychic Synergy
+
+as they wish. Any spell they cast that does hit point
+damage does an additional +1 damage per die.
+Level 2: The spellcaster can convert their magical energy into raw damaging force. The user casts a
+spell normally, but at the moment of release, they
+transform it into a blast of violent energies that
+inflicts 1d6+1 damage per level of the converted
+spell to any single target within 100 meters. This
+damage includes the bonus level 1 grants to harmful spells.
+
+Savage Sorcery
+
+Applicable only to Arcanists, the hero is extremely wellversed in magical theory and practical spell deployment.
+They automatically know all the usual Arcanist spells
+of certain levels. This does not include any esoteric enchantments that may have been devised by individual
+practitioners.
+Level 1: You automatically know all standard first level
+Arcanist spells. When you advance a level, you
+learn four new spells instead of two.
+Level 2: You automatically know all standard Arcanist
+spells of levels less than the maximum spell level
+you can cast. Thus, if you can cast fourth level
+spells, you know all standard Arcanist spells of
+levels one through three.
+
+Some magic-using heroes have both arcane and psychic
+powers. This focus allows them to blur the lines between their abilities, fueling different spheres of effect
+with their separate pools of energy.
+Level 1: Once per day as an Instant action, Commit Psychic Effort for the day to cast any spell you have
+prepared, if an Arcanist, or known, if a Magister,
+or fuel an Adept power that requires Effort to be
+Committed. Conversely, you may instead trade
+one available spell slot of your highest level to refresh half its level in Committed Effort, rounded
+up, or Commit a point of Adept Effort for the day
+to restore a point of Committed Psychic Effort.
+Level 2: You may convert your power twice per day.
+The spellcaster’s powers are keenly attuned to violence
+and destruction. Even when bereft of other magical resources, they can still call upon a blast of magical power
+appropriate to their tradition or character traits. Some
+casters might hurl bolts of crackling lightning, while
+others could employ lasers, pillars of flame, or lances of
+concussive telekinetic force. This focus is usually taken by Arcanists or Magisters, but some Adepts might
+benefit from the first level.
+Level 1: As a Main Action invocation, the spellcaster can
+blast a visible target within 100 meters with a bolt
+that does 1d8 damage plus their character level if
+it successfully hits, with the hit roll modified by
+their Magic skill. They may use this bolt as often
+
+Vast Erudition
+
+War Caster
+
+Your hero is accustomed to casting in combat, and can
+keep focus when less hardened minds would be hopelessly distracted by pain.
+Level 1: When injured while casting a spell, you may
+make a Physical saving throw to avoid losing it.
+Even if your spell is interrupted, you do not lose
+the spell slot; only your action is wasted.
+Level 2: Whenever you would lose a spell to an interruption, accept damage equal to twice the spell’s
+level to continue casting it. If this damage would
+reduce you to zero hit points, you complete the
+casting before passing out, stable but at zero HP.
+
+

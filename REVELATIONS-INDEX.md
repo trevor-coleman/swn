@@ -65,7 +65,7 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 - **Ability**: Access Protocol memories and network
 - **Cost**: Risk of transformation like the Interpreter
 - **Advantage**: Can read Architect memories
-- **Related**: [Network Echo ability](abilities/network-echo.md)
+- **Related**: [Network Echo ability](party/lance-bahringer/network-echo-ability.md)
 
 ### Dallas's True Nature
 - **Progressive Discovery**: Archive visits + sessions
@@ -144,7 +144,7 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 ## Revelation Connections
 
 ### The Big Picture
-```
+```text
 Silence Architects
     ↓ (created/corrupted)
 The Scream → Resonance Protocol ← Ur-Resonance

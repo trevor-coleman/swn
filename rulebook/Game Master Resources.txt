@@ -1,0 +1,6008 @@
+GAME MASTER RESOURCES
+The following pages include a number of tables for the
+quick generation of NPCs, patrons, names, place names,
+and quick encounters. The tables are in no way intended to be exhaustive or particularly detailed. They are
+simply quick conveniences for the GM to spare constant reference to the internet or other books to nail
+down the basic flavoring of their NPCs.
+Aside from these tables, this section also discusses
+some of the more common issues that arise for GMs
+of Stars Without Number. PC death, the role of combat,
+when to use skill checks, how to handle investigations,
+and other potentially sticky elements are reviewed and
+advice given for the practical handling of these matters.
+In addition, this chapter gives some guidelines on
+converting material from the first edition of the game
+to the current revised rules. A selection of potential
+house rules are also suggested for groups that wish to
+customize their game a little more.
+When applying any of these guidelines or suggestions, however, it is important that you remember a
+critical thing about running the game at your table.
+
+Your Game and Your Group
+
+The most important thing you can remember as a GM
+running Stars Without Number is that you are running
+it for a specific group of people. You are not running it
+for a generic Typical Gamer, you are running it for Bob
+and Eunice and Feng and Tyler. There is no genericized
+advice that can be applied to your specific group that is
+nearly as helpful as your own powers of social expertise
+and your personal knowledge of the table.
+Game designers sometimes fall into the trap of
+trying to force social outcomes at the table through
+specific game rules. These rules can encourage certain
+outcomes in the general case, but they cannot compel
+results. They are certainly not nearly as effective in producing an outcome as you, the GM, can be, because
+these rules can’t know your players as well as you do.
+Whenever you consider making a house rule, or
+adding a tweak to the game, or even basic considerations of what kind of sandbox excitement you should
+be offering to your players, you must always think
+about the specific players you have. Don’t worry about
+the Typical Gamer. The Typical Gamer is not at your
+table. If Bob really wants a new focus that allows his PC
+to do a particular trick, you do not need to think of all
+the ways a Typical Gamer could abuse or misuse that
+new power. You need to think of the ways Bob could
+misuse it. Maybe he is the kind of gamer who would be
+very disruptive to the game with the ability, and maybe
+you know how he plays well enough to tell that he’d
+never cause a problem with it. The same ability that
+would be absolutely terrible in the hands of some players can be perfectly safe in the hands of others. Only
+you can reasonably tell which is which.
+
+The same general attitude is necessary towards
+other elements of your campaign, not just the house
+rules. You need to think about how your specific players are likely to react to plot hooks, campaign elements,
+and new additions to the game. If you know Eunice
+was bored out of her mind by an adventure session
+that revolved around trading, it’s probably a bad idea
+to offer her hooks that focus on commercial dealings,
+or at least talk it over with her outside the game before
+you introduce it to make sure there’s something about
+the hook that she can find engaging.
+As the GM, you already have a lot of responsibility
+on your shoulders. You have the adventures to create,
+the sandbox to populate, and the game itself to run. It
+is very unlikely that you have the energy or the time
+to worry about creating universally-functional house
+rules and generalized systems. That is the game designer’s job. It’s up to me to give you general rules that will
+work well in most situations and provide serviceable
+results with the Typical Gamer. That kind of averaged-out design is necessary if you’re to be provided
+with a basic toolbox of useful mechanics and systems.
+But you can do better, because you know your
+audience. You know what they want, what they’re
+interested in, and how they’re likely to use the tools
+you hand them. You can create specific house rules and
+case-by-case permissions that mold your game to fit the
+needs and interests of your own table.
+Stars Without Number is designed in the spirit of
+old-school gaming, where these sort of house rules and
+campaign-specific systems are totally acceptable and
+perfectly normal. This game is not a delicate flower
+that will wilt if you touch it the wrong way. It is built
+on a basic mechanical chassis more than forty years old,
+a veritable AK-47 of game design, and it can take an
+incredible amount of punishment and careless handling
+without breaking. You will not ruin your game by adding in house rules that make sense to you.
+This game belongs to you and your players. As
+the designer, I only get a vote in how things should be;
+the ultimate decision is always with you and your play
+group. Only you properly understand the goals of your
+group and the kind of fun you want to have, and only
+you and your players can provide the definitive understanding of your ultimate aim. I am providing you with
+a basic structure that will work for most groups, but it’s
+up to you to add the chrome or tweaks that you want.
+Perhaps you won’t need to add any. It may well be
+that the rules exactly as written serve your purpose just
+fine, and you have no particular desire to tweak them.
+If that’s the case, then that’s fine. But you should never
+be afraid to reach in and adjust things to improve your
+own play. Add systems from other old-school-inspired
+games, brew up your own rules, or excise bits that don’t
+fit. This game is yours, and you should play it your way.
+
+232• COMPLICATIONS
+
+COMMON GAME MASTER COMPLICATIONS
+Once you’ve successfully created your sector and gathered the players, you might find a few difficulties cropping up in the course of play. There are certain pitfalls
+and complications that are particular to the style of play
+that Stars Without Number encourages, and it’s helpful
+to have an idea beforehand of how to deal with them.
+
+Death
+
+Characters in Stars Without Number die easily. The
+average third-level psychic might well be taken out
+by a lucky pistol round, and even high-level warriors
+don’t have more than 60 or 70 hit points. It’s true that
+biopsionics and lazarus patches can revive characters
+that get medical help in time, but there are plenty of
+situations where there’s just not time to save a teammate or the attempt proves a failure. If the rules are
+used as written, PCs who regularly put themselves in
+dangerous situations are going to die.
+You and your players should decide at the start of
+the game how you want to deal with this. For maximum old-school authenticity, you might mutually decide to just let the dice fall where they may. If Captain
+Spaulding plunges into the sulfur volcanoes of Badghati
+IV, the high-level veteran of dozens of daring interstellar escapades gets a touching space memorial and
+his player rolls up a replacement. This is the default
+assumption of the game, and it can add a great deal of
+excitement and reward to the sensation of navigating
+a character through lethal challenges.
+It can also really aggravate players who enjoy
+building deeply-involved PCs with many close ties to
+the game world and its characters. A GM can decide to
+omit the risk of death in most cases, reducing PCs with
+0 hit points to “gravely wounded” status and allowing
+them to be revived with medical attention. Some situations might run the risk of real death, but the GM
+can save this for occasions of genuine dramatic importance. There’s nothing at all wrong with this approach
+to death, and it can help some players focus on the story
+that they and their group are creating rather than living
+in fear of every goon with a combat rifle.
+Of course, there are shades of gray between these
+two extremes, and most GMs come to inhabit some
+point on this spectrum. There are many ways the GM
+can lessen the risk of death without out-and-out denying it. In particular, the GM can cause enemies to
+spread their attacks over a group rather than focusing
+on the weakest PC. Hostiles can pay more attention to
+the warriors in the group rather than the experts or
+psychics, especially when the Warrior has yet to use his
+class ability to negate a hit. You can take care not to include instant-death traps or devices in your adventures,
+or fabricate situations where a character’s life hinges on
+a single die roll. You can include substantial numbers
+of NPC henchmen and companions in an adventure,
+
+and let them soak up a portion of the danger. All of
+these tactics can be used to tacitly lessen the danger of
+character death without taking it off the table.
+Sooner or later, however, it’s likely that some PC is
+going to kick the bucket. At that point, it becomes necessary to get a replacement into the action. The replacement PC should be added as quickly as possible, and it
+can often be advantageous for players to roll up these
+replacements before the game even starts, so they have
+a character in hand should their former PC catch a bad
+case of laser poisoning. Creating the characters beforehand also allows the group to set up ties of association
+that help justify why they’re suddenly willing to include
+the new PC in their adventures. These replacements
+can be members of the crew of the ship they’re travelling on, outworlders slouching around the local bars,
+wanderers gone native among the locals, or prisoners
+of whatever nefarious group the party is fighting. The
+key factor is to get the replacement into action quickly,
+so the player who’s lost his or her PC isn’t punished
+with inactivity at the table as well as PC loss.
+It’s generally easiest to have the replacement PC
+be the same level as the dead PC. For high-level adventures, it’s distressingly likely that a low-level PC would
+die quickly when facing challenges of that caliber. If
+they do come in at a lower level, you’re going to have
+to make some allowances when it comes time for them
+to gain experience points. If everyone is gaining points
+at the same rate, the lower-level PC will never catch
+up; you may want to give them a bonus after each adventure to ensure that eventually they match the same
+level of competence as the rest of the crew.
+
+Skill Checks
+
+Skill checks are susceptible to overuse. Some GMs end
+up forcing a skill check on everything more complicated than tying your bootlaces, or prohibit PCs from
+even hoping to accomplish a feat for which they lack
+the appropriate skill. Skill checks are not meant to be
+the sole way that a PC gets something accomplished
+in the world.
+You should be charitable about the things a character can accomplish without a skill check. If an Expert’s
+concept is that of a crack spaceship pilot with a Dexterity modifier of +2 and Pilot-2 skill, you shouldn’t be
+expecting him to make skill checks to operate the ship
+under normal conditions. He can take off, he can land,
+he can get to places in the system without bothering
+with skill checks. Even someone with Pilot-0 should
+likely be able to do as much, except the expert pilot
+can do it without a check even amid high winds and
+low visibility. Let the PCs be good at their chosen focus.
+Don’t spam skill checks. If a character is trying
+to repair a fusion power plant while under fire from
+badlands raiders, don’t turn it into a roll-each-turn ex-
+
+COMPLICATIONS •233
+travaganza to determine how far he progresses in his
+attempt. Let him roll once, with a failure meaning either that he can’t do it in the available time or that he’ll
+need another 1d6 rounds before he can bring the defense laser power plant online. Give him player choices
+each turn, like deciding whether to bring a laser online
+early and risk a short in the wiring. Let a single skill
+check indicate the general course of success or failure,
+but then let the PC make additional choices rather than
+additional rolls. Rolls can only add so much tension,
+and tension alone does not guarantee engagement with
+a situation.
+Don’t require a skill check unless failing it means
+something. If a character can simply keep trying at
+something with no real negative consequences, it’s
+not worth a skill check. They’ll get it sooner or later,
+so it’s easiest to just tell them that it was successful. If
+time is important and there’s a significant difference
+between accomplishing it instantly or accomplishing it
+soon, just follow a failed skill check with a roll of 1d6
+and assume that many rounds, minutes, or hours go by
+before the PC finally gets it right.
+Don’t ignore actions taken outside of skill checks.
+If a character jams a titanium wrecking bar into the
+cogs of an alien death trap, you probably shouldn’t require him to make a successful Fix roll to disable the device. What he’s done will objectively work, and there’s
+no point or need in rolling for it. If there’s a casket
+of luminous Mettauan glass underneath the senator’s
+bed, then the players will find it if they look under the
+bed, and no Notice check is needed to see if they notice
+it. Skill checks are best used to reflect the results of a
+complicated or uncertain attempt at an action. If the
+PC tries something that anyone can do and that would
+have an obvious result, then just let the result happen.
+Don’t use a skill check unless the outcome is unclear.
+
+Combat
+
+Combat in Stars Without Number tends to be fairly lethal. One good roll by a pistol-wielding thug can take
+out almost any first level character, and characters never really scale to the point where they can afford to hold
+enemies in contempt. You should take care to structure
+your adventures and situations so that PCs are very
+rarely forced into fights. The shotguns and laser rifles
+should come out either because the PCs have chosen
+to use them or because they’re facing the consequences
+of their own missteps.
+Because combat is so dangerous, it’s vital to allow the PCs to set it up on their own terms, assuming
+they’re cunning and prudent enough to take advantage
+of their opportunities. Ambushes, AC bonuses for cover, and the use of the environment to hurt and baffle
+their foes should all be encouraged. If a character wants
+to use an element of the environment to do something
+interesting, let them. “You do that, and nothing happens.” is rarely a good answer for any halfway plausible
+PC action.
+
+Enemies should also be played as their morale indicates. A pack of street thugs will not transform into
+Spartans at Thermopylae, dying to the last man to
+prevent the PCs from discovering their gang hideout.
+Even trained and disciplined combatants are going to
+have serious thoughts about retreat as soon as their
+comrades start dying. Only when enemies feel trapped
+or are defending something as precious to them as their
+lives will they normally fight to the last.
+
+Negotiation and Diplomacy
+
+There is a Talk skill, and the fact that this and similar
+social skills exist sometimes causes players or GMs to
+simply shut off more informal evaluations of social
+situations. When the PC wants to convince an NPC
+of something, they roll Cha/Talk and let the dice tell
+them how far the NPC is willing to buy their premise.
+The actual words and arguments they use are simply
+decorations to the event.
+On one level, this is justifiable. The player of the
+Warrior isn’t expected to be a real-life shootist to roll
+a good attack roll, so why should the player of the silver-tongued Expert con man have to come up with
+a smooth line of patter to use his own abilities? It’s
+legitimate and reasonable to let the dice determine the
+success of a conversational gambit. If a player has spent
+character resources on something like social skills, they
+should see a mechanical benefit from it. Moreover, relying on a player’s conversational talents to move negotiations can often boil down to a game of finding the
+right conversational gambit for the GM rather than
+rationally persuading the NPC.
+Still, some players and GMs prefer to let actual
+argumentation play a bigger role. One potential way to
+do this is to let the player state his or her case, and then
+set the Talk check difficulty accordingly. Convincing a
+crime boss to give a PC access to his network of corrupt
+city officials might be a difficulty 8 test if the player
+makes a good argument for it, while a desultory request
+might be difficulty 10. Alternately, you might implicitly
+adjust the consequences of success or failure based on
+the character’s total Charisma and skill bonus. A character with a +5 total might not succeed in persuading
+the crime boss if they roll very low, but he’ll point them
+towards someone who might be able to help them. The
+key for this sort of approach is to let both skills and
+player argumentation have a visible effect on the outcome, so that players feel that both matter.
+In either case, you should make clear to the group
+which model will be used when they’re making up their
+characters. It prevents difficulty later when the player
+running the character with a -1 Charisma modifier and
+no social skills expects his own glib tongue to carry the
+day with NPCs.
+
+234• COMPLICATIONS
+
+Searching and Investigation
+
+Many adventures rely on the party solving a mystery
+or unearthing the dark truths behind some enigmatic event. PCs can occasionally get frustrated by these
+adventures when they feel that they’ve hit a dead end
+or are presented with a set of clues that they, the players, can’t hope to puzzle out. Conversely, players can
+sometimes grow bored when the adventures become
+a sequence of skill tests, with the PCs simply trying to
+roll high so that the GM will let them advance.
+Running a good investigation-based adventure
+can be difficult, but there are a few tactics that can be
+useful to a GM. First, identify those pieces of information that must be found in order to solve the puzzle.
+Cracking the secret organlegging ring run out of the
+city’s child protective services department might hinge
+on identifying the secret lab in which the organs are
+harvested, the corrupt CPS chief who hides the goods
+in her home, and the crooked physician who launders
+the organs into the donor system. These three facts
+have to be discovered in order for the PCs to progress.
+Once you’ve established the facts, watch for opportunities to let them be discovered. Drawn in by the
+hook of a recurring urchin NPC they knew who vanished after being picked up by protective services, the
+PCs might check out the NPC’s old haunts or associates,
+only to learn that a number of street kids have gone
+missing after CPS collected them, and that all of them
+were picked up by a particular agent. Don’t make the
+discovery of vital information hinge on a die roll. If
+the PCs take rational investigative steps, they should
+be given something to show for it, even if it’s just the
+confidence that their current route is a dead end. You
+should be trying to give out this information when the
+PCs give you an excuse to do so, rather than hoarding
+it against all but precisely correct lines of investigation.
+You also shouldn’t feel bad about giving PCs a
+break if they start to flail, either by introducing a helpful NPC to put them back on the trail or remind them
+of some earlier point they didn’t fully investigate. By
+the same token, you shouldn’t hesitate to let them deal
+with the consequences of tardiness. If they spend too
+long in distractions before finding their urchin friend,
+they might discover nothing more than spare parts.
+One particular point that often comes up is the
+question of searching an area. Some GMs just let the
+PCs all make Notice checks to see if they notice something hidden. This has the advantage of being quick
+and simple, but it also can put vital information at the
+mercy of good dice. Other GMs require the players to
+specifically say what parts of an area they’re searching,
+what they’re looking under or inside, and otherwise
+describe the specifics of their search. This can penalize
+players who don’t correctly envision the area the GM
+is describing. One compromise is to simply give players
+vital clues when they say that they are searching, and
+then use one or both of the other methods to let them
+search for supplementary facts and helpful details.
+
+Salvage
+
+The far future is full of expensive decor. Truly enterprising PCs sometimes are of a mind to “salvage” a place
+down to its foundations, ripping out everything that
+can be resold and trucking it all off to be converted into
+credits. To some extent, this is simply common sense;
+no red-blooded freebooter would simply leave unclaimed valuables lying around when he knows they’ll
+fetch a good price at the starport. Still, it can be tedious
+to handle the logistics of salvage and unbalancing to the
+game to allow PCs to cash in on every alien fork and
+wall panel they can drag back to civilization.
+The easiest way to deal with this is to simply make
+clear that most non-portable valuables the PCs might
+salvage are just too difficult to move on the secondary
+market. Questions of legal ownership, finding a suitably indiscriminate buyer, and avoiding tax scrutiny all
+combine to make such efforts more trouble than they’re
+worth. It can be interesting to make an adventure out of
+moving some particularly exceptional piece of salvage,
+but as a general rule, it’s just not worth it to strip the
+copper wiring out of a crime boss’ hideout.
+There is also the issue of PCs methodically stripping the armor, weapons, and pocket change from their
+dead foes. In most cases this is self-limiting, as most
+PCs can’t easily pack around a half-dozen combat rifles
+while engaged in the kind of pursuits that leave them
+fighting their former owners. In the unlikely case that
+the PCs come back with a cargo sled, most of the armor is probably worthless due to the perforations that
+killed its wearer and the weaponry is unlikely to be so
+valuable as to unbalance the game. Even in that case,
+moving the weapons on the black market is usually not
+a trivial enterprise. You shouldn’t discourage PCs from
+upgrading their own equipment from the plunder of
+the fallen or taking exceptionally valuable pieces for later fencing, but you shouldn’t feel obligated to let them
+decamp with the battlefield on their backs.
+The actual mechanics of selling plunder can be as
+complicated as you wish to make them. It may be that
+what the PCs retrieve can be sold openly on the world,
+usually for around half its purchase value if a quick sale
+is desired. Something closer to full price can only be obtained with the sort of patience, contacts, and attention
+that adventurers rarely have avaialble.
+A fence might be needed for those goods which
+were acquired in illicit fashion, or items that are outlawed for common trade. Fences rarely pay more than
+ten or twenty percent of an item’s purchase price. Many
+such difficulties can be removed by taking the loot offworld and laundering it somewhere beyond the reach
+of the planet’s laws.
+
+COMPLICATIONS •235
+
+INTERSTELLAR TRADE
+As an extension of this, some groups will want to make
+a killing in interstellar trade, carrying the goods of one
+world to another to make a fast credit. This is a venerable science-fiction trope, and there’s no reason you
+shouldn’t allow it, but there are a few considerations
+to keep in mind when dealing with space commerce.
+Perhaps most importantly, there is no such thing
+as interstellar bulk shipping in Stars Without Number.
+Even the largest spike drive ships have cargo capacities
+measured in a few tens of thousands of tons, while a
+modern oil tanker has a capacity of around 500,000
+tons. Trying to run a meaningful trade in bulk commodities has been a lost cause ever since the jump gates
+failed and massive system-ship freighters could no longer make the jump between worlds. Such commerce
+can exist inside a system, with huge slowboats moving
+from planet to planet, but modern trade relies on carrying small loads of high-value goods or expert services.
+Most small merchant ships such as the ones a PC
+group is likely to own rely on in-system supply runs as
+their bread and butter. They cart loads of food, water,
+replacement personnel, spare parts, and other life support supplies out to remote asteroid mines, research
+stations, and extraction plants. The pay is rarely much,
+but such supply run missions are excellent hooks for
+dropping a group into the middle of some disaster.
+Trade beyond supply runs usually revolves around
+moving local specialty tech or products. Local art, exotic pharmaceuticals, high-quality technical specialties, or
+passengers with special skills who want to reach a particular world all make up this class of trade. For most
+purposes, it’s not necessary to really elaborate on the
+specifics of this, though it can add flavor to make up a
+product or two unique to a given world.
+There are also exceptionally risky trading expeditions to lostworlders, bringing the fruits of modern
+postech to their benighted nations. While the weaponry, pharmaceuticals, and technical artifacts are usually
+greedily desired on these worlds, the natives often have
+very little of value to pay for them. Explorer-merchants
+often have to investigate a lostworlder culture carefully
+before they can identify any particular product or resource that can be usefully shipped interstellar distances to justify the trip. Some particularly unscrupulous
+merchants do not balk at taking payment in local slaves
+for export to decadent or dangerous worlds.
+There are also “missionary” supply runs to these
+primitive worlds. The Preceptors of the Great Archive
+occasionally run missions on a planet to disseminate
+valuable technical and artistic knowledge among the
+locals, and there are always a selection of determined
+missionaries bent on bringing the word of their faith to
+the heathens. While these missions normally can supply their own food, offworld medicine and spares are
+vital for keeping their more advanced tech operating.
+
+More sinister than the Preceptors and the pious
+are the “Kurtzes”. The prospect of ruling like a god on
+some forgotten world lures a certain type of men and
+women, a type that might normally be forced to limit
+their dark ambitions on a more technically advanced
+world, where energy weapons and powered armor
+do not give a person so vast an advantage over their
+peers. These Kurtzes seek out lost worlds with other
+like-minded men and women, usually framing their
+ambitions as a matter of “bringing advancement to the
+primitives”. Most Kurtz expeditions collapse in blood
+and horror within a few years, but some manage to
+hold on for far longer.
+
+Quick Trade Rules
+
+For those who prefer not to use the full-fledged rules
+for interstellar trade provided in the Suns of Gold supplement, here are a few quick guidelines for responding
+to player interest in interstellar trade. They assume the
+PCs have a ship, but are just scrounging for marginal
+shipments and fast opportunities rather than taking
+advantage of a formal trade network and steady, reliable work contracts.
+First, let the PCs find a deal for some good that the
+planet might reasonably produce. Cheap bulk goods
+would run for 2d6 x 10 credits per ton, ordinary finished goods go for 2d6 x 100 credits per ton, and hightech, expensive products are 2d6 x 1,000 credits per ton.
+They can find a new deal with a week’s wait.
+PCs can try to improve the purchase price with
+a Cha/Trade skill check opposed by the seller’s Wis/
+Trade skill roll. On a success, the price decreases by 10%
+times the level of Trade skill the bargainer has. On a
+failure, the price remains firm.
+Before the goods are loaded, roll 1d6. If the PCs
+tried to get a better price, subtract 1 from the roll. If
+the result is 1 or less, something has gone wrong and
+the goods are lost, stolen, confiscated, or fake. The PCs
+are going to have to either eat the loss or take whatever
+adventurous steps are necessary to get their money or
+goods back. These steps may involve gunfire.
+When the PCs try to sell the goods, assuming the
+planet might reasonably want them, roll 2d6+1 and
+multiply it by 10 for bulk goods, 100 for finished manufactures, or 1,000 for expensive goods. This is the base
+price the buyer offers to the PCs. They can bargain for
+better with the same opposed check as before, gaining
+a 10% price increase per Trade skill level on a success.
+On a failure, the PCs have to accept the offered price.
+After the sale is finalized, the 1d6 needs to be rolled
+again, also with a -1 penalty if a better price was sought.
+On a result of 1 or less, the sale end of things goes awry,
+and the PCs are out both money and goods. To salvage
+them, they’ll need to conduct some sort of adventure
+revolving around reclaiming their rightful due.
+
+236• CONVERTING FIRST EDITION
+
+CONVERTING FIRST EDITION STARS WITHOUT NUMBER
+Most of this edition’s content can be used interchangeably with first edition Stars Without Number. Characters may be created somewhat differently, starships
+might handle combat in a new way, and psionics might
+have changed, but the end result largely uses the same
+statistics and same score ranges. An original-edition
+Stars Without Number character can adventure in a revised-edition campaign without requiring much in the
+way of special rules.
+Some GMs will want guidelines on converting an
+existing original-edition game to the current edition.
+This is a simple process, as the scales are the same.
+
+Converting Characters
+
+Characters have the same attributes, character level,
+and all other scores unless specified otherwise. Skills
+are converted directly into the closest equivalent; Combat/Projectile becomes Shoot, and so forth. In the case
+of multiple skills now compressed into a single skill,
+like a PC with both Combat/Projectile and Combat/
+Energy, the highest skill is converted and the lower
+skills can be exchanged for any other skills of the same
+level of the player’s choice.
+PCs retain their class. Hit points are re-rolled for
+the character based on their revised-edition hit die.
+Thus, a 5th level Psychic can reroll 5d6 for their hit
+points. PCs may keep their existing hit point totals if
+the new roll is lower.
+PCs may pick a number of foci appropriate to
+their class and level. If converting a 2nd level Warrior, for example, the PC could pick their initial focus,
+their bonus Warrior focus, and the focus they get at
+second level. If they pick foci that grant bonus skills,
+apply the bonus as 3 additional skill points to the skill
+as described on page 57.
+PC experience points are pro-rated based on the
+campaign. If the character was halfway to 7th level in
+the existing campaign, place their experience points
+halfway to 7th level under the revised rules.
+Attack bonuses and Armor Class are calculated using the new rules, as are saving throw scores.
+
+Converting Psionics
+
+The rules above are sufficient for converting most PCs,
+but the powers of Psychic PCs are a bit trickier.
+To get the PC’s psychic skill ratings, take their primary discipline, halve it, and round it up. Take their
+other disciplines, halve them, and round down. Thus,
+a PC with a primary Telepathy discpline of 9 and secondary disciplines of Metapsionics 7 and Biopsionics
+2 would be converted to Telepathy-5, Metapsionics-3
+and Biopsionics-1. For disciplines above level-0, they
+can pick a free technique from each skill level they
+know, plus one additional technique for each discipline
+from any level they know. Calculate Effort normally.
+
+Converting Creatures
+
+Flip Armor Classes to ascending values by subtracting
+the creature’s AC from 20. No other changes are needed; existing attack bonuses, hit dice, saving throws, and
+so forth can be used as written.
+
+Converting Ships
+
+Give NPC ships an appropriate number of Command
+Points to use each round in ship combat. Civilian ships
+and fighters should have 4 CP, military ships and experienced pirates should have 5 CP, and higher scores
+should be reserved for elite or spacer-native crews.
+Adjust the ship’s maintenance cost based on the
+new six-month maintenance schedule.
+Ship statistics such as hit points, speed, Power,
+Mass, and other attributes are generally the same in
+both editions. If the PCs build a new ship you can check
+it against the numbers, but existing ships can be left
+unchanged during use.
+
+Converting Equipment
+
+Most equipment and weaponry can be used unchanged,
+as they’re the same in both editions. You may need to
+use the revised edition version of a particular suit of
+armor or treat a monoblade as a medium advanced
+weapon rather than a unique type of armament, but
+no real conversion is needed.
+For melee weapons, give it the appropriate Shock
+rating for its size. Small weapons have Shock scores of
+1/AC 15, medium weapons have scores of 2/13 AC, and
+large weapons have scores of 2/15 AC.
+For gear that forces a saving throw on a target,
+simply have the victim make whichever saving throw
+seems most appropriate to the item’s effect. In case of
+Luck saves, substitute Mental saves or a pure blind
+chance of 50% success.
+
+Using Existing Sourcebooks
+
+Existing Stars Without Number sourcebooks such as
+Suns of Gold, Skyward Steel, Starvation Cheap, and
+Darkness Visible can be used with few or no changes.
+Most of the resources in these books were designed to
+be used in a system-agnostic fashion, and the agency
+construction rules in Darkness Visible or the interstellar
+trade rules in Suns of Gold can be employed without
+altering anything.
+In a few cases, these sourcebooks may call for
+checks from skills that have been changed in the revised
+edition. Simply use the new version’s skill in such cases;
+if Suns of Gold tells you to add a PC’s Business score to
+some total, just add their Trade score instead.
+
+HOUSE RULES •237
+
+HOUSE RULES AND THE GAME
+Stars Without Number derives from an old-school gaming tradition where house rules were almost universal.
+The basic chassis of the game is simple enough and
+rugged enough to handle all kinds of tweaks and adjustments without collapsing, and it is your sacred and
+inalienable right to bend the game in any direction you
+wish if it improves your fun.
+You are encouraged to try the rules as-written at
+first, though, so you can be sure that you really do want
+to change something. If you do decide to shuffle things
+around, here are some possible house rules you could
+adopt, and some suggestions about their effects.
+No Shock Damage: Weapons do not do Shock damage.
+This can simplify melee combat at the cost of discouraging PCs from choosing to use melee weapons and increasing the “whiff” factor with them.
+If you drop Shock damage, you might also choose
+to drop the Snap Attack combat maneuver, as it’s
+no longer necessary to give gunslingers a way to
+blaze down charging melee attackers before they
+get into range.
+Use Original Skill Lists: Like the skill list from the original edition of SWN better? Use it instead. When
+creating characters, allow skill picks or rolls to
+be converted to a corresponding original-edition
+skill. If the PC rolls “Shoot”, for example, let them
+pick Combat/Gunnery, Combat/Projectile, or
+Combat/Energy instead. When the existing rules
+call for a particular new skill, let the PC use any old
+skill that plausibly matches its function.
+Don’t Use Command Points: Don’t want to track Command Points in ship combat? Eliminate all actions
+that grant Command Points and just let each PC
+pick one action from their department list each
+turn. The captain’s Support Department action
+now gives that department a bonus action, and
+the gunner now has a Fire At A System action that
+lets them fire one weapon at a targeted system at
+a -4 penalty to hit. NPC ships can either fire all
+weapons in a round or fire only one weapon and
+take one action relevant to their immediate needs.
+No Ranged Weapon Binding: One of the significant
+combat differences between the revised edition
+of the game and the original is the rule limiting
+the use of ranged weapons when a hostile melee
+combatant is adjacent. Some GMs will want to
+drop this rule for simplicity’s sake, and that can
+work, but it may leave melee specialists feeling a
+little superfluous.
+Use a Grid in Combat: While the game isn’t written
+around the use of miniatures and a combat grid,
+GMs who want to go to the extra effort of making up such resources can do so. Using two-meter
+squares or hexes is likely to give the best results.
+
+Eliminate Psionics: Some GMs who want a more “hard
+sci-fi” game might choose to ditch psionics from
+the setting. In their absence, the Scream can simply have been an alien energy pulse that shattered
+the Jump Gates and left the worlds of humankind
+isolated for centuries. If you eliminate psychic PCs,
+however, you’ll want to take care that the group
+has access to other healing resources, such as stims
+and trained PC medics.
+Drop FTL Starflight: GMs who want to run a strictly one-solar-system game might eliminate FTL
+spaceflight as an option. The Engines of Babylon
+supplement for the original game discusses how to
+change the starship rules for a TL3 campaign that
+has edged into intra-system space flight.
+Boost Starting Levels: The default campaign assumes
+that PCs will start at first level, as experienced
+but extremely mortal heroes. Groups that want
+to make room for a little more durability without
+using the heroic PC rules in the game’s deluxe version might choose to start at third level instead of
+first, or give a flat 10 HP bonus to all PCs.
+Add Universal Psionics: A GM might choose to run a
+campaign where every PC has some degree of
+psionic power. In such games, every PC should
+get the bonus of being a Partial Psychic as given
+under the Adventurer class. Adventurers who
+choose the Partial Psychic option should be treated as full Psychics, and the full Psychic class itself is
+dropped. If using the space magic rules in the deluxe game version, the same method can be used
+to add universal magic abilities to PCs, either as
+partial Magisters, Adepts, or Arcanists.
+Use Plot Points: Some groups prefer to have a certain
+amount of narrative control given to the PCs, either to save them from otherwise-certain doom or
+allow them to make certain statements about the
+situation that are automatically true. Under such
+circumstances, you might give each PC two “plot
+points” that can be spent to save them when they
+would otherwise certainly perish, or else make an
+adjustment to the current adventuring situation
+that the GM judges amenable. Each time the PC
+advances a level, these plot points reset. Any unspent ones are lost.
+Make Combat a Bloodbath: A few groups like to emphasize the abject horror and murderous danger of
+combat in their campaigns. For these groups, you
+can add the simple rule that every attack roll made
+on an even-numbered round of combat will automatically hit unless there’s a penalty on the roll,
+whether due to cover or circumstances. In that
+case, the attack is rolled normally. PCs who get
+involved in combat thus know they have a very
+limited amount of time to resolve the situation.
+
+238• NAME GENERATORS
+
+NAME GENERATORS
+What’s in a name? For most campaigns, a very great
+deal. Names and naming conventions are an important
+and useful tool for giving your worlds a sense of coherence and verisimilitude. It’s all too easy to fall into
+the easy convention of nonsense-syllable names when
+a GM can get much more world-building mileage out
+of a more thoughtful use of language.
+The names of people and places on a world should
+be in conformity with the local language. Every world
+is going to have its oddball names, but if the great majority of them share the same basic roots, it helps give
+the world a sense of cohesion and place. Even when the
+players have no knowledge whatsoever of the language
+or culture being used as a touchstone, using the same
+linguistic roots ensures that the same basic palette of
+sounds and word fragments will be used.
+Note that language and culture are separable. Just
+because you’ve got a world flavored with Arabian-style
+architecture and kinship groupings, there’s no reason
+you can’t use French or Spanish for the language. A
+thousand-odd years in the far future, cultural transmutations unimaginable to us at present have taken
+place throughout human space. There no doubt exist centuries-old interstellar cultures that bear only a
+vague resemblance to their original forms. Take advantage of this to make your own life easier.
+
+Making Names Memorable
+
+One difficulty that occasionally comes up at the table is
+a difficulty in remembering names that don’t have any
+grounding in languages spoken by the players. Without any mnemonic hook or familiarity, one string of
+polysyllables tends to blur into another.
+One way to get around this problem is to attach
+strong visual or character cues to individual NPCs.
+Players might not remember a particular spaceport
+hand’s name, but they’ll remember the guy who’s constantly smoking a reeking cheroot, or the woman with
+fiber-optic laced hair. As the GM, you can help prevent
+forgetfulness by using the NPC’s name regularly as well.
+
+Creating Alien Names
+
+One quick trick for creating wholly alien names is to
+hunt up a very obscure language online and just use
+its words to name exotic entities and places. The players are unlikely to recognize Galatian or Gothic, so
+you spare yourself from carrying the implicit cultural
+baggage of the tongue, but the language still retains a
+characteristic set of sounds that will help maintain a
+coherent aural landscape. Further “palette swaps” of
+vowels, particular consonant clusters or the like can
+make an “alien language” out of almost any speech.
+
+NAME GENERATORS •239
+
+A
+r
+a
+b
+i
+c
+
+C
+h
+i
+n
+e
+s
+e
+
+d100
+
+Male
+
+Female
+
+Surname
+
+d100
+
+Place
+
+d100
+
+Place
+
+1-4
+
+Aamir
+
+Aisha
+
+Abdel
+
+1-2
+
+Adan
+
+51-52
+
+Magrit
+
+5-8
+
+Ayub
+
+Alimah
+
+Awad
+
+3-4
+
+Ahsa
+
+53-54
+
+Masqat
+
+9-12
+
+Binyamin
+
+Badia
+
+Dahhak
+
+5-6
+
+Andalus
+
+55-56
+
+Misr
+
+13-16
+
+Efraim
+
+Bisharah
+
+Essa
+
+7-8
+
+Asmara
+
+57-58
+
+Muruni
+
+17-20
+
+Ibrahim
+
+Chanda
+
+Hanna
+
+9-10
+
+Asqlan
+
+59-60
+
+Qabis
+
+21-24
+
+Ilyas
+
+Daliya
+
+Harbi
+
+11-12
+
+Baqubah
+
+61-62
+
+Qina
+
+25-28
+
+Ismail
+
+Fatimah
+
+Hassan
+
+13-14
+
+Basit
+
+63-64
+
+Rabat
+
+29-32
+
+Jibril
+
+Ghania
+
+Isa
+
+15-16
+
+Baysan
+
+65-66
+
+Ramlah
+
+33-36
+
+Jumanah
+
+Halah
+
+Kasim
+
+17-18
+
+Baytlahm
+
+67-68
+
+Riyadh
+
+37-40
+
+Kazi
+
+Kaylah
+
+Katib
+
+19-20
+
+Bursaid
+
+69-70
+
+Sabtah
+
+41-44
+
+Lut
+
+Khayrah
+
+Khalil
+
+21-22
+
+Dahilah
+
+71-72
+
+Salalah
+
+45-48
+
+Matta
+
+Layla
+
+Malik
+
+23-24
+
+Darasalam
+
+73-74
+
+Sana
+
+49-52
+
+Mohammed
+
+Mina
+
+Mansoor
+
+25-26
+
+Dawhah
+
+75-76
+
+Sinqit
+
+53-56
+
+Mubarak
+
+Munisa
+
+Mazin
+
+27-28
+
+Ganin
+
+77-78
+
+Suqutrah
+
+57-60
+
+Mustafa
+
+Mysha
+
+Musa
+
+29-30
+
+Gebal
+
+79-80
+
+Sur
+
+61-64
+
+Nazir
+
+Naimah
+
+Najeeb
+
+31-32
+
+Gibuti
+
+81-82
+
+Tabuk
+
+65-68
+
+Rahim
+
+Nissa
+
+Namari
+
+33-34
+
+Giddah
+
+83-84
+
+Tangah
+
+69-72
+
+Reza
+
+Nura
+
+Naser
+
+35-36
+
+Harmah
+
+85-86
+
+Tarifah
+
+73-76
+
+Sharif
+
+Parveen
+
+Rahman
+
+37-38
+
+Hartum
+
+87-88
+
+Tarrakunah
+
+77-80
+
+Taimur
+
+Rana
+
+Rasheed
+
+39-40
+
+Hibah
+
+89-90
+
+Tisit
+
+81-84
+
+Usman
+
+Shalha
+
+Saleh
+
+41-42
+
+Hims
+
+91-92
+
+Uman
+
+85-88
+
+Yakub
+
+Suhira
+
+Salim
+
+43-44
+
+Hubar
+
+93-94
+
+Urdunn
+
+89-92
+
+Yusuf
+
+Tahirah
+
+Shadi
+
+45-46
+
+Karbala
+
+95-96
+
+Wasqah
+
+93-96
+
+Zakariya
+
+Yasmin
+
+Sulaiman
+
+47-48
+
+Kut
+
+97-98
+
+Yaburah
+
+97-100
+
+Zubair
+
+Zulehka
+
+Tabari
+
+49-50
+
+Lacant
+
+99-100
+
+Yaman
+
+1-4
+
+Aiguo
+
+Biyu
+
+Bai
+
+1-2
+
+Andong
+
+51-52
+
+Luzhou
+
+5-8
+
+Bohai
+
+Changying
+
+Cao
+
+3-4
+
+Anqing
+
+53-54
+
+Ningxia
+
+9-12
+
+Chao
+
+Daiyu
+
+Chen
+
+5-6
+
+Anshan
+
+55-56
+
+Pingxiang
+
+13-16
+
+Dai
+
+Huidai
+
+Cui
+
+7-8
+
+Chaoyang
+
+57-58
+
+Pizhou
+
+17-20
+
+Dawei
+
+Huiliang
+
+Ding
+
+9-10
+
+Chaozhou
+
+59-60
+
+Qidong
+
+21-24
+
+Duyi
+
+Jia
+
+Du
+
+11-12
+
+Chifeng
+
+61-62
+
+Qingdao
+
+25-28
+
+Fa
+
+Jingfei
+
+Fang
+
+13-14
+
+Dalian
+
+63-64
+
+Qinghai
+
+29-32
+
+Fu
+
+Lan
+
+Fu
+
+15-16
+
+Dunhuang
+
+65-66
+
+Rehe
+
+33-36
+
+Gui
+
+Liling
+
+Guo
+
+17-18
+
+Fengjia
+
+67-68
+
+Shanxi
+
+37-40
+
+Hong
+
+Liu
+
+Han
+
+19-20
+
+Fengtian
+
+69-70
+
+Taiyuan
+
+41-44
+
+Jianyu
+
+Meili
+
+Hao
+
+21-22
+
+Fuliang
+
+71-72
+
+Tengzhou
+
+45-48
+
+Kang
+
+Niu
+
+Huang
+
+23-24
+
+Fushun
+
+73-74
+
+Urumqi
+
+49-52
+
+Li
+
+Peizhi
+
+Lei
+
+25-26
+
+Gansu
+
+75-76
+
+Weifang
+
+53-56
+
+Niu
+
+Qiao
+
+Li
+
+27-28
+
+Ganzhou
+
+77-78
+
+Wugang
+
+57-60
+
+Peng
+
+Qing
+
+Liang
+
+29-30
+
+Guizhou
+
+79-80
+
+Wuxi
+
+61-64
+
+Quan
+
+Ruolan
+
+Liu
+
+31-32
+
+Hotan
+
+81-82
+
+Xiamen
+
+65-68
+
+Ru
+
+Shu
+
+Long
+
+33-34
+
+Hunan
+
+83-84
+
+Xian
+
+69-72
+
+Shen
+
+Suyin
+
+Song
+
+35-36
+
+Jinan
+
+85-86
+
+Xikang
+
+73-76
+
+Shi
+
+Ting
+
+Tan
+
+37-38
+
+Jingdezhen
+
+87-88
+
+Xining
+
+77-80
+
+Song
+
+Xia
+
+Tang
+
+39-40
+
+Jinxi
+
+89-90
+
+Xinjiang
+
+81-84
+
+Tao
+
+Xiaowen
+
+Wang
+
+41-42
+
+Jinzhou
+
+91-92
+
+Yidu
+
+85-88
+
+Xue
+
+Xiulan
+
+Wu
+
+43-44
+
+Kunming
+
+93-94
+
+Yingkou
+
+89-92
+
+Yi
+
+Ya
+
+Xing
+
+45-46
+
+Liaoning
+
+95-96
+
+Yuxi
+
+93-96
+
+Yuan
+
+Ying
+
+Yang
+
+47-48
+
+Linyi
+
+97-98
+
+Zigong
+
+97-100
+
+Zian
+
+Zhilan
+
+Zhang
+
+49-50
+
+Lushun
+
+99-100
+
+Zoige
+
+240• NAME GENERATORS
+
+E
+n
+g
+l
+i
+s
+h
+
+G
+r
+e
+e
+k
+
+d100
+
+Male
+
+Female
+
+Surname
+
+d100
+
+Place
+
+d100
+
+Place
+
+1-4
+
+Adam
+
+Abigail
+
+Barker
+
+1-2
+
+Aldington
+
+51-52
+
+Kedington
+
+5-8
+
+Albert
+
+Anne
+
+Brown
+
+3-4
+
+Appleton
+
+53-54
+
+Latchford
+Leigh
+
+9-12
+
+Alfred
+
+Beatrice
+
+Butler
+
+5-6
+
+Ashdon
+
+55-56
+
+13-16
+
+Allan
+
+Blanche
+
+Carter
+
+7-8
+
+Berwick
+
+57-58
+
+Leighton
+
+17-20
+
+Archibald
+
+Catherine
+
+Chapman
+
+9-10
+
+Bramford
+
+59-60
+
+Maresfield
+
+21-24
+
+Arthur
+
+Charlotte
+
+Collins
+
+11-12
+
+Brimstage
+
+61-62
+
+Markshall
+
+25-28
+
+Basil
+
+Claire
+
+Cook
+
+13-14
+
+Carden
+
+63-64
+
+Netherpool
+
+29-32
+
+Charles
+
+Eleanor
+
+Davies
+
+15-16
+
+Churchill
+
+65-66
+
+Newton
+
+33-36
+
+Colin
+
+Elizabeth
+
+Gray
+
+17-18
+
+Clifton
+
+67-68
+
+Oxton
+
+37-40
+
+Donald
+
+Emily
+
+Green
+
+19-20
+
+Colby
+
+69-70
+
+Preston
+
+41-44
+
+Douglas
+
+Emma
+
+Harris
+
+21-22
+
+Copford
+
+71-72
+
+Ridley
+
+45-48
+
+Edgar
+
+Georgia
+
+Jackson
+
+23-24
+
+Cromer
+
+73-74
+
+Rochford
+
+49-52
+
+Edmund
+
+Harriet
+
+Jones
+
+25-26
+
+Davenham
+
+75-76
+
+Seaford
+
+53-56
+
+Edward
+
+Joan
+
+Lloyd
+
+27-28
+
+Dersingham
+
+77-78
+
+Selsey
+
+57-60
+
+George
+
+Judy
+
+Miller
+
+29-30
+
+Doverdale
+
+79-80
+
+Stanton
+
+61-64
+
+Harold
+
+Julia
+
+Roberts
+
+31-32
+
+Elsted
+
+81-82
+
+Stockham
+
+65-68
+
+Henry
+
+Lucy
+
+Smith
+
+33-34
+
+Ferring
+
+83-84
+
+Stoke
+
+69-72
+
+Ian
+
+Lydia
+
+Taylor
+
+35-36
+
+Gissing
+
+85-86
+
+Sutton
+
+73-76
+
+James
+
+Margaret
+
+Thomas
+
+37-38
+
+Heydon
+
+87-88
+
+Thakeham
+
+77-80
+
+John
+
+Mary
+
+Turner
+
+39-40
+
+Holt
+
+89-90
+
+Thetford
+
+81-84
+
+Lewis
+
+Molly
+
+Watson
+
+41-42
+
+Hunston
+
+91-92
+
+Thorndon
+
+85-88
+
+Oliver
+
+Nora
+
+White
+
+43-44
+
+Hutton
+
+93-94
+
+Ulting
+
+89-92
+
+Philip
+
+Rosie
+
+Williams
+
+45-46
+
+Inkberrow
+
+95-96
+
+Upton
+
+93-96
+
+Richard
+
+Sarah
+
+Wood
+
+47-48
+
+Inworth
+
+97-98
+
+Westhorpe
+
+97-100
+
+William
+
+Victoria
+
+Young
+
+49-50
+
+Isfield
+
+99-100
+
+Worcester
+
+1-4
+
+Alexander
+
+Alexandra
+
+Andreas
+
+1-2
+
+Adramyttion
+
+51-52
+
+Kallisto
+
+5-8
+
+Alexius
+
+Amalia
+
+Argyros
+
+3-4
+
+Ainos
+
+53-54
+
+Katerini
+
+9-12
+
+Anastasius
+
+Callisto
+
+Dimitriou
+
+5-6
+
+Alikarnassos
+
+55-56
+
+Kithairon
+
+13-16
+
+Christodoulos
+
+Charis
+
+Floros
+
+7-8
+
+Avydos
+
+57-58
+
+Kydonia
+
+17-20
+
+Christos
+
+Chloe
+
+Gavras
+
+9-10
+
+Dakia
+
+59-60
+
+Lakonia
+
+21-24
+
+Damian
+
+Dorothea
+
+Ioannidis
+
+11-12
+
+Dardanos
+
+61-62
+
+Leros
+
+25-28
+
+Dimitris
+
+Elena
+
+Katsaros
+
+13-14
+
+Dekapoli
+
+63-64
+
+Lesvos
+Limnos
+
+29-32
+
+Dysmas
+
+Eudoxia
+
+Kyrkos
+
+15-16
+
+Dodoni
+
+65-66
+
+33-36
+
+Elias
+
+Giada
+
+Leventis
+
+17-18
+
+Efesos
+
+67-68
+
+Lykia
+
+37-40
+
+Giorgos
+
+Helena
+
+Makris
+
+19-20
+
+Efstratios
+
+69-70
+
+Megara
+
+41-44
+
+Ioannis
+
+Ioanna
+
+Metaxas
+
+21-22
+
+Elefsina
+
+71-72
+
+Messene
+
+45-48
+
+Konstantinos
+
+Lydia
+
+Nikolaidis
+
+23-24
+
+Ellada
+
+73-74
+
+Milos
+
+49-52
+
+Lambros
+
+Melania
+
+Pallis
+
+25-26
+
+Epidavros
+
+75-76
+
+Nikaia
+
+53-56
+
+Leonidas
+
+Melissa
+
+Pappas
+
+27-28
+
+Erymanthos
+
+77-78
+
+Orontis
+
+57-60
+
+Marcos
+
+Nika
+
+Petrou
+
+29-30
+
+Evripos
+
+79-80
+
+Parnasos
+
+61-64
+
+Miltiades
+
+Nikolina
+
+Raptis
+
+31-32
+
+Gavdos
+
+81-82
+
+Petro
+
+65-68
+
+Nestor
+
+Olympias
+
+Simonides
+
+33-34
+
+Gytheio
+
+83-84
+
+Samos
+
+69-72
+
+Nikos
+
+Philippa
+
+Spiros
+
+35-36
+
+Ikaria
+
+85-86
+
+Syros
+
+73-76
+
+Orestes
+
+Phoebe
+
+Stavros
+
+37-38
+
+Ilios
+
+87-88
+
+Thapsos
+
+77-80
+
+Petros
+
+Sophia
+
+Stephanidis
+
+39-40
+
+Illyria
+
+89-90
+
+Thessalia
+
+81-84
+
+Simon
+
+Theodora
+
+Stratigos
+
+41-42
+
+Iraia
+
+91-92
+
+Thira
+
+85-88
+
+Stavros
+
+Valentina
+
+Terzis
+
+43-44
+
+Irakleio
+
+93-94
+
+Thiva
+
+89-92
+
+Theodore
+
+Valeria
+
+Theodorou
+
+45-46
+
+Isminos
+
+95-96
+
+Varvara
+
+93-96
+
+Vassilios
+
+Yianna
+
+Vasiliadis
+
+47-48
+
+Ithaki
+
+97-98
+
+Voiotia
+
+97-100
+
+Yannis
+
+Zoe
+
+Yannakakis
+
+49-50
+
+Kadmeia
+
+99-100
+
+Vyvlos
+
+NAME GENERATORS •241
+
+I
+n
+d
+i
+a
+n
+
+J
+a
+p
+a
+n
+e
+s
+e
+
+d100
+
+Male
+
+Female
+
+Surname
+
+d100
+
+Place
+
+d100
+
+Place
+
+1-4
+
+Amrit
+
+Amala
+
+Achari
+
+1-2
+
+Ahmedabad
+
+51-52
+
+Jaisalmer
+
+5-8
+
+Ashok
+
+Asha
+
+Banerjee
+
+3-4
+
+Alipurduar
+
+53-54
+
+Jharonda
+
+9-12
+
+Chand
+
+Chandra
+
+Bhatnagar
+
+5-6
+
+Alubari
+
+55-56
+
+Kadambur
+
+13-16
+
+Dinesh
+
+Devika
+
+Bose
+
+7-8
+
+Anjanadri
+
+57-58
+
+Kalasipalyam
+
+17-20
+
+Gobind
+
+Esha
+
+Chauhan
+
+9-10
+
+Ankleshwar
+
+59-60
+
+Karnataka
+
+21-24
+
+Harinder
+
+Gita
+
+Chopra
+
+11-12
+
+Balarika
+
+61-62
+
+Kutchuhery
+
+25-28
+
+Jagdish
+
+Indira
+
+Das
+
+13-14
+
+Bhanuja
+
+63-64
+
+Lalgola
+
+29-32
+
+Johar
+
+Indrani
+
+Dutta
+
+15-16
+
+Bhilwada
+
+65-66
+
+Mainaguri
+
+33-36
+
+Kurien
+
+Jaya
+
+Gupta
+
+17-18
+
+Brahmaghosa
+
+67-68
+
+Nainital
+
+37-40
+
+Lakshman
+
+Jayanti
+
+Johar
+
+19-20
+
+Bulandshahar
+
+69-70
+
+Nandidurg
+
+41-44
+
+Madhav
+
+Kiri
+
+Kapoor
+
+21-22
+
+Candrama
+
+71-72
+
+Narayanadri
+
+45-48
+
+Mahinder
+
+Lalita
+
+Mahajan
+
+23-24
+
+Chalisgaon
+
+73-74
+
+Panipat
+
+49-52
+
+Mohal
+
+Malati
+
+Malhotra
+
+25-26
+
+Chandragiri
+
+75-76
+
+Panjagutta
+
+53-56
+
+Narinder
+
+Mira
+
+Mehra
+
+27-28
+
+Charbagh
+
+77-78
+
+Pathankot
+
+57-60
+
+Nikhil
+
+Mohana
+
+Nehru
+
+29-30
+
+Chayanka
+
+79-80
+
+Pathardih
+
+61-64
+
+Omrao
+
+Neela
+
+Patil
+
+31-32
+
+Chittorgarh
+
+81-82
+
+Porbandar
+
+65-68
+
+Prasad
+
+Nita
+
+Rao
+
+33-34
+
+Dayabasti
+
+83-84
+
+Rajasthan
+
+69-72
+
+Pratap
+
+Rajani
+
+Saxena
+
+35-36
+
+Dikpala
+
+85-86
+
+Renigunta
+
+73-76
+
+Ranjit
+
+Sarala
+
+Shah
+
+37-38
+
+Ekanga
+
+87-88
+
+Sewagram
+
+77-80
+
+Sanjay
+
+Sarika
+
+Sharma
+
+39-40
+
+Gandhidham
+
+89-90
+
+Shakurbasti
+
+81-84
+
+Shankar
+
+Sheela
+
+Singh
+
+41-42
+
+Gollaprolu
+
+91-92
+
+Siliguri
+
+85-88
+
+Thakur
+
+Sunita
+
+Trivedi
+
+43-44
+
+Grahisa
+
+93-94
+
+Sonepat
+Teliwara
+
+89-92
+
+Vijay
+
+Trishna
+
+Venkatesan
+
+45-46
+
+Guwahati
+
+95-96
+
+93-96
+
+Vipul
+
+Usha
+
+Verma
+
+47-48
+
+Haridasva
+
+97-98
+
+Tinpahar
+
+97-100
+
+Yash
+
+Vasanta
+
+Yadav
+
+49-50
+
+Indraprastha
+
+99-100
+
+Villivakkam
+
+1-4
+
+Akira
+
+Aemi
+
+Abe
+
+1-2
+
+Bando
+
+51-52
+
+Mitsukaido
+
+5-8
+
+Daisuke
+
+Airi
+
+Arakaki
+
+3-4
+
+Chikuma
+
+53-54
+
+Moriya
+
+9-12
+
+Fukashi
+
+Ako
+
+Endo
+
+5-6
+
+Chikusei
+
+55-56
+
+Nagano
+
+13-16
+
+Goro
+
+Ayu
+
+Fujiwara
+
+7-8
+
+Chino
+
+57-58
+
+Naka
+
+17-20
+
+Hiro
+
+Chikaze
+
+Goto
+
+9-10
+
+Hitachi
+
+59-60
+
+Nakano
+
+21-24
+
+Hiroya
+
+Eriko
+
+Ito
+
+11-12
+
+Hitachinaka
+
+61-62
+
+Ogi
+
+25-28
+
+Hotaka
+
+Hina
+
+Kikuchi
+
+13-14
+
+Hitachiomiya
+
+63-64
+
+Okaya
+Omachi
+
+29-32
+
+Katsu
+
+Kaori
+
+Kinjo
+
+15-16
+
+Hitachiota
+
+65-66
+
+33-36
+
+Katsuto
+
+Keiko
+
+Kobayashi
+
+17-18
+
+Iida
+
+67-68
+
+Ryugasaki
+
+37-40
+
+Keishuu
+
+Kyouka
+
+Koga
+
+19-20
+
+Iiyama
+
+69-70
+
+Saku
+
+41-44
+
+Kyuuto
+
+Mayumi
+
+Komatsu
+
+21-22
+
+Ina
+
+71-72
+
+Settsu
+
+45-48
+
+Mikiya
+
+Miho
+
+Maeda
+
+23-24
+
+Inashiki
+
+73-74
+
+Shimotsuma
+
+49-52
+
+Mitsunobu
+
+Namiko
+
+Nakamura
+
+25-26
+
+Ishioka
+
+75-76
+
+Shiojiri
+
+53-56
+
+Mitsuru
+
+Natsu
+
+Narita
+
+27-28
+
+Itako
+
+77-78
+
+Suwa
+
+57-60
+
+Naruhiko
+
+Nobuko
+
+Ochi
+
+29-30
+
+Kamisu
+
+79-80
+
+Suzaka
+
+61-64
+
+Nobu
+
+Rei
+
+Oshiro
+
+31-32
+
+Kasama
+
+81-82
+
+Takahagi
+
+65-68
+
+Shigeo
+
+Ririsa
+
+Saito
+
+33-34
+
+Kashima
+
+83-84
+
+Takeo
+
+69-72
+
+Shigeto
+
+Sakimi
+
+Sakamoto
+
+35-36
+
+Kasumigaura
+
+85-86
+
+Tomi
+
+73-76
+
+Shou
+
+Shihoko
+
+Sato
+
+37-38
+
+Kitaibaraki
+
+87-88
+
+Toride
+
+77-80
+
+Shuji
+
+Shika
+
+Suzuki
+
+39-40
+
+Kiyose
+
+89-90
+
+Tsuchiura
+
+81-84
+
+Takaharu
+
+Tsukiko
+
+Takahashi
+
+41-42
+
+Koga
+
+91-92
+
+Tsukuba
+
+85-88
+
+Teruaki
+
+Tsuzune
+
+Tanaka
+
+43-44
+
+Komagane
+
+93-94
+
+Ueda
+
+89-92
+
+Tetsushi
+
+Yoriko
+
+Watanabe
+
+45-46
+
+Komoro
+
+95-96
+
+Ushiku
+
+93-96
+
+Tsukasa
+
+Yorimi
+
+Yamamoto
+
+47-48
+
+Matsumoto
+
+97-98
+
+Yoshikawa
+
+97-100
+
+Yasuharu
+
+Yoshiko
+
+Yamasaki
+
+49-50
+
+Mito
+
+99-100
+
+Yuki
+
+242• NAME GENERATORS
+
+L
+a
+t
+i
+n
+
+N
+i
+g
+e
+r
+i
+a
+n
+
+d100
+
+Male
+
+Female
+
+Surname
+
+d100
+
+Place
+
+d100
+
+Place
+
+1-4
+
+Agrippa
+
+Appia
+
+Antius
+
+1-2
+
+Abilia
+
+51-52
+
+Lucus
+
+5-8
+
+Appius
+
+Aula
+
+Aurius
+
+3-4
+
+Alsium
+
+53-54
+
+Lugdunum
+
+9-12
+
+Aulus
+
+Caesula
+
+Barbatius
+
+5-6
+
+Aquileia
+
+55-56
+
+Mediolanum
+
+13-16
+
+Caeso
+
+Decima
+
+Calidius
+
+7-8
+
+Argentoratum
+
+57-58
+
+Novaesium
+
+17-20
+
+Decimus
+
+Fausta
+
+Cornelius
+
+9-10
+
+Ascrivium
+
+59-60
+
+Patavium
+
+21-24
+
+Faustus
+
+Gaia
+
+Decius
+
+11-12
+
+Asculum
+
+61-62
+
+Pistoria
+
+25-28
+
+Gaius
+
+Gnaea
+
+Fabius
+
+13-14
+
+Attalia
+
+63-64
+
+Pompeii
+
+29-32
+
+Gnaeus
+
+Hosta
+
+Flavius
+
+15-16
+
+Barium
+
+65-66
+
+Raurica
+
+33-36
+
+Hostus
+
+Lucia
+
+Galerius
+
+17-18
+
+Batavorum
+
+67-68
+
+Rigomagus
+
+37-40
+
+Lucius
+
+Maio
+
+Horatius
+
+19-20
+
+Belum
+
+69-70
+
+Roma
+
+41-44
+
+Mamercus
+
+Marcia
+
+Julius
+
+21-22
+
+Bobbium
+
+71-72
+
+Salernum
+
+45-48
+
+Manius
+
+Maxima
+
+Juventius
+
+23-24
+
+Brigantium
+
+73-74
+
+Salona
+
+49-52
+
+Marcus
+
+Mettia
+
+Licinius
+
+25-26
+
+Burgodunum
+
+75-76
+
+Segovia
+
+53-56
+
+Mettius
+
+Nona
+
+Marius
+
+27-28
+
+Camulodunum
+
+77-78
+
+Sirmium
+
+57-60
+
+Nonus
+
+Numeria
+
+Minicius
+
+29-30
+
+Clausentum
+
+79-80
+
+Spalatum
+
+61-64
+
+Numerius
+
+Octavia
+
+Nerius
+
+31-32
+
+Corduba
+
+81-82
+
+Tarraco
+
+65-68
+
+Opiter
+
+Postuma
+
+Octavius
+
+33-34
+
+Coriovallum
+
+83-84
+
+Treverorum
+
+69-72
+
+Paulus
+
+Prima
+
+Pompeius
+
+35-36
+
+Durucobrivis
+
+85-86
+
+Verulamium
+
+73-76
+
+Proculus
+
+Procula
+
+Quinctius
+
+37-38
+
+Eboracum
+
+87-88
+
+Vesontio
+
+77-80
+
+Publius
+
+Septima
+
+Rutilius
+
+39-40
+
+Emona
+
+89-90
+
+Vetera
+
+81-84
+
+Quintus
+
+Servia
+
+Sextius
+
+41-42
+
+Florentia
+
+91-92
+
+Vindelicorum
+
+85-88
+
+Servius
+
+Tertia
+
+Titius
+
+43-44
+
+Lactodurum
+
+93-94
+
+Vindobona
+
+89-92
+
+Tiberius
+
+Tiberia
+
+Ulpius
+
+45-46
+
+Lentia
+
+95-96
+
+Vinovia
+
+93-96
+
+Titus
+
+Titia
+
+Valerius
+
+47-48
+
+Lindum
+
+97-98
+
+Viroconium
+
+97-100
+
+Volescus
+
+Vibia
+
+Vitellius
+
+49-50
+
+Londinium
+
+99-100
+
+Volubilis
+
+1-4
+
+Adesegun
+
+Abike
+
+Adegboye
+
+1-2
+
+Abadan
+
+51-52
+
+Jere
+
+5-8
+
+Akintola
+
+Adesuwa
+
+Adeniyi
+
+3-4
+
+Ador
+
+53-54
+
+Kalabalge
+
+9-12
+
+Amabere
+
+Adunola
+
+Adeyeku
+
+5-6
+
+Agatu
+
+55-56
+
+Katsina
+
+13-16
+
+Arikawe
+
+Anguli
+
+Adunola
+
+7-8
+
+Akamkpa
+
+57-58
+
+Knoduga
+
+17-20
+
+Asagwara
+
+Arewa
+
+Agbaje
+
+9-10
+
+Akpabuyo
+
+59-60
+
+Konshishatse
+
+21-24
+
+Chidubem
+
+Asari
+
+Akpan
+
+11-12
+
+Ala
+
+61-62
+
+Kukawa
+
+25-28
+
+Chinedu
+
+Bisola
+
+Akpehi
+
+13-14
+
+Askira
+
+63-64
+
+Kwande
+Kwayakusar
+
+29-32
+
+Chiwetei
+
+Chioma
+
+Aliki
+
+15-16
+
+Bakassi
+
+65-66
+
+33-36
+
+Damilola
+
+Eduwa
+
+Asuni
+
+17-18
+
+Bama
+
+67-68
+
+Logo
+
+37-40
+
+Esangbedo
+
+Emilohi
+
+Babangida
+
+19-20
+
+Bayo
+
+69-70
+
+Mafa
+
+41-44
+
+Ezenwoye
+
+Fehintola
+
+Ekim
+
+21-22
+
+Bekwara
+
+71-72
+
+Makurdi
+
+45-48
+
+Folarin
+
+Folasade
+
+Ezeiruaku
+
+23-24
+
+Biase
+
+73-74
+
+Nganzai
+
+49-52
+
+Genechi
+
+Mahparah
+
+Fabiola
+
+25-26
+
+Boki
+
+75-76
+
+Obanliku
+
+53-56
+
+Idowu
+
+Minika
+
+Fasola
+
+27-28
+
+Buruku
+
+77-78
+
+Obi
+
+57-60
+
+Kelechi
+
+Nkolika
+
+Nwokolo
+
+29-30
+
+Calabar
+
+79-80
+
+Obubra
+
+61-64
+
+Ketanndu
+
+Nkoyo
+
+Nzeocha
+
+31-32
+
+Chibok
+
+81-82
+
+Obudu
+
+65-68
+
+Melubari
+
+Nuanae
+
+Ojo
+
+33-34
+
+Damboa
+
+83-84
+
+Odukpani
+
+69-72
+
+Nkanta
+
+Obioma
+
+Okonkwo
+
+35-36
+
+Dikwa
+
+85-86
+
+Ogbadibo
+
+73-76
+
+Obafemi
+
+Olafemi
+
+Okoye
+
+37-38
+
+Etung
+
+87-88
+
+Ohimini
+
+77-80
+
+Olatunde
+
+Shanumi
+
+Olaniyan
+
+39-40
+
+Gboko
+
+89-90
+
+Okpokwu
+
+81-84
+
+Olumide
+
+Sominabo
+
+Olawale
+
+41-42
+
+Gubio
+
+91-92
+
+Otukpo
+
+85-88
+
+Tombari
+
+Suliat
+
+Olumese
+
+43-44
+
+Guzamala
+
+93-94
+
+Shani
+
+89-92
+
+Udofia
+
+Tariere
+
+Onajobi
+
+45-46
+
+Gwoza
+
+95-96
+
+Ugep
+
+93-96
+
+Uyoata
+
+Temedire
+
+Soyinka
+
+47-48
+
+Hawul
+
+97-98
+
+Vandeikya
+
+97-100
+
+Uzochi
+
+Yemisi
+
+Yamusa
+
+49-50
+
+Ikom
+
+99-100
+
+Yala
+
+NAME GENERATORS •243
+
+R
+u
+s
+s
+i
+a
+n
+
+S
+p
+a
+n
+i
+s
+h
+
+d100
+
+Male
+
+Female
+
+Surname
+
+d100
+
+Place
+
+d100
+
+Place
+
+1-4
+
+Aleksandr
+
+Aleksandra
+
+Abelev
+
+1-2
+
+Amur
+
+51-52
+
+Omsk
+
+5-8
+
+Andrei
+
+Anastasia
+
+Bobrikov
+
+3-4
+
+Arkhangelsk
+
+53-54
+
+Orenburg
+
+9-12
+
+Arkady
+
+Anja
+
+Chemerkin
+
+5-6
+
+Astrakhan
+
+55-56
+
+Oryol
+
+13-16
+
+Boris
+
+Catarina
+
+Gogunov
+
+7-8
+
+Belgorod
+
+57-58
+
+Penza
+
+17-20
+
+Dmitri
+
+Devora
+
+Gurov
+
+9-10
+
+Bryansk
+
+59-60
+
+Perm
+
+21-24
+
+Dominik
+
+Dima
+
+Iltchenko
+
+11-12
+
+Chelyabinsk
+
+61-62
+
+Pskov
+
+25-28
+
+Grigory
+
+Ekaterina
+
+Kavelin
+
+13-14
+
+Chita
+
+63-64
+
+Rostov
+
+29-32
+
+Igor
+
+Eva
+
+Komarov
+
+15-16
+
+Gorki
+
+65-66
+
+Ryazan
+
+33-36
+
+Ilya
+
+Irina
+
+Korovin
+
+17-18
+
+Irkutsk
+
+67-68
+
+Sakhalin
+
+37-40
+
+Ivan
+
+Karolina
+
+Kurnikov
+
+19-20
+
+Ivanovo
+
+69-70
+
+Samara
+
+41-44
+
+Kiril
+
+Katlina
+
+Lebedev
+
+21-22
+
+Kaliningrad
+
+71-72
+
+Saratov
+
+45-48
+
+Konstantin
+
+Kira
+
+Litvak
+
+23-24
+
+Kaluga
+
+73-74
+
+Smolensk
+
+49-52
+
+Leonid
+
+Ludmilla
+
+Mekhdiev
+
+25-26
+
+Kamchatka
+
+75-76
+
+Sverdlovsk
+
+53-56
+
+Nikolai
+
+Mara
+
+Muraviov
+
+27-28
+
+Kemerovo
+
+77-78
+
+Tambov
+
+57-60
+
+Oleg
+
+Nadezdha
+
+Nikitin
+
+29-30
+
+Kirov
+
+79-80
+
+Tomsk
+
+61-64
+
+Pavel
+
+Nastassia
+
+Ortov
+
+31-32
+
+Kostroma
+
+81-82
+
+Tula
+
+65-68
+
+Petr
+
+Natalya
+
+Peshkov
+
+33-34
+
+Kurgan
+
+83-84
+
+Tver
+
+69-72
+
+Sergei
+
+Oksana
+
+Romasko
+
+35-36
+
+Kursk
+
+85-86
+
+Tyumen
+
+73-76
+
+Stepan
+
+Olena
+
+Shvedov
+
+37-38
+
+Leningrad
+
+87-88
+
+Ulyanovsk
+
+77-80
+
+Valentin
+
+Olga
+
+Sikorski
+
+39-40
+
+Lipetsk
+
+89-90
+
+Vladimir
+
+81-84
+
+Vasily
+
+Sofia
+
+Stolypin
+
+41-42
+
+Magadan
+
+91-92
+
+Volgograd
+
+85-88
+
+Viktor
+
+Svetlana
+
+Turov
+
+43-44
+
+Moscow
+
+93-94
+
+Vologda
+
+89-92
+
+Yakov
+
+Tatyana
+
+Volokh
+
+45-46
+
+Murmansk
+
+95-96
+
+Voronezh
+
+93-96
+
+Yegor
+
+Vilma
+
+Zaitsev
+
+47-48
+
+Novgorod
+
+97-98
+
+Vyborg
+
+97-100
+
+Yuri
+
+Yelena
+
+Zhukov
+
+49-50
+
+Novosibirsk
+
+99-100
+
+Yaroslavl
+
+1-4
+
+Alejandro
+
+Adalina
+
+Arellano
+
+1-2
+
+Aguascebas
+
+51-52
+
+Loreto
+
+5-8
+
+Alonso
+
+Aleta
+
+Arispana
+
+3-4
+
+Alcazar
+
+53-54
+
+Lujar
+
+9-12
+
+Amelio
+
+Ana
+
+Borrego
+
+5-6
+
+Barranquete
+
+55-56
+
+Marbela
+
+13-16
+
+Armando
+
+Ascencion
+
+Carderas
+
+7-8
+
+Bravatas
+
+57-58
+
+Matagorda
+
+17-20
+
+Bernardo
+
+Beatriz
+
+Carranzo
+
+9-10
+
+Cabezudos
+
+59-60
+
+Nacimiento
+
+21-24
+
+Carlos
+
+Carmela
+
+Cordova
+
+11-12
+
+Calderon
+
+61-62
+
+Niguelas
+
+25-28
+
+Cesar
+
+Celia
+
+Enciso
+
+13-14
+
+Cantera
+
+63-64
+
+Ogijares
+
+29-32
+
+Diego
+
+Dolores
+
+Espejo
+
+15-16
+
+Castillo
+
+65-66
+
+Ortegicar
+
+33-36
+
+Emilio
+
+Elena
+
+Gavilan
+
+17-18
+
+Delgadas
+
+67-68
+
+Pampanico
+
+37-40
+
+Estevan
+
+Emelina
+
+Guerra
+
+19-20
+
+Donablanca
+
+69-70
+
+Pelado
+
+41-44
+
+Felipe
+
+Felipa
+
+Guillen
+
+21-22
+
+Encinetas
+
+71-72
+
+Quesada
+
+45-48
+
+Francisco
+
+Inez
+
+Huertas
+
+23-24
+
+Estrella
+
+73-74
+
+Quintera
+
+49-52
+
+Guillermo
+
+Isabel
+
+Illan
+
+25-26
+
+Faustino
+
+75-76
+
+Riguelo
+
+53-56
+
+Javier
+
+Jacinta
+
+Jurado
+
+27-28
+
+Fuentebravia
+
+77-78
+
+Ruescas
+
+57-60
+
+Jose
+
+Lucia
+
+Moretta
+
+29-30
+
+Gafarillos
+
+79-80
+
+Salteras
+
+61-64
+
+Juan
+
+Lupe
+
+Motolinia
+
+31-32
+
+Gironda
+
+81-82
+
+Santopitar
+
+65-68
+
+Julio
+
+Maria
+
+Pancorbo
+
+33-34
+
+Higueros
+
+83-84
+
+Taberno
+Torres
+
+69-72
+
+Luis
+
+Marta
+
+Paredes
+
+35-36
+
+Huelago
+
+85-86
+
+73-76
+
+Pedro
+
+Nina
+
+Quesada
+
+37-38
+
+Humilladero
+
+87-88
+
+Umbrete
+
+77-80
+
+Raul
+
+Paloma
+
+Roma
+
+39-40
+
+Illora
+
+89-90
+
+Valdecazorla
+
+81-84
+
+Ricardo
+
+Rafaela
+
+Rubiera
+
+41-42
+
+Isabela
+
+91-92
+
+Velez
+
+85-88
+
+Salvador
+
+Soledad
+
+Santoro
+
+43-44
+
+Izbor
+
+93-94
+
+Vistahermosa
+
+89-92
+
+Santiago
+
+Teresa
+
+Torrillas
+
+45-46
+
+Jandilla
+
+95-96
+
+Yeguas
+
+93-96
+
+Valeriano
+
+Valencia
+
+Vera
+
+47-48
+
+Jinetes
+
+97-98
+
+Zahora
+
+97-100
+
+Vicente
+
+Zenaida
+
+Vivero
+
+49-50
+
+Limones
+
+99-100
+
+Zumeta
+
+244• ONE-ROLL NPCS
+
+ONE-ROLL NPCS
+There will be times when a GM needs an NPC on short
+notice. The preceding name generators can be used in
+conjunction with these tables to quickly produce a minor fill-in character for your adventure. Simply roll one
+of each type of die: d4, d6, d8, d10, d12, and d20. Match
+them to the tables, smooth over any rough joins, and
+you have your instant NPC.
+When combat statistics are needed, just apply the
+most pertinent stat line from page 195 and assume they
+have whatever weaponry, armor, or other personal
+possessions might be appropriate for someone in their
+social circumstance.
+
+d4
+1
+
+Age
+Unusually young or old for their role
+
+2
+
+Young adult
+
+3
+
+Mature prime
+
+4
+
+Middle-aged or elderly
+
+d12
+1
+
+Their Greatest Desire
+They want a particular romantic partner
+
+2
+
+They want money for them or a loved one
+
+3
+
+They want a promotion in their job
+
+4
+
+They want answers about a past trauma
+
+5
+
+They want revenge on an enemy
+
+6
+
+They want to help a beleaguered friend
+
+1
+
+Their Background
+The local underclass or poorest natives
+
+7
+
+They want an entirely different job
+
+2
+
+Common laborers or cube workers
+
+8
+
+They want protection from an enemy
+
+3
+
+Aspiring bourgeoise or upper class
+
+9
+
+They want to leave their current life
+
+4
+
+The elite of this society
+
+10
+
+They want fame and glory
+
+5
+
+Minority or foreigners; reroll on 1d4
+
+11
+
+They want power over those around them
+
+6
+
+Offworlders or exotics; reroll on 1d4
+
+12
+
+They have everything they want from life
+
+d8
+
+d20
+
+Most Obvious Character Trait
+
+1
+
+Their Role in Society
+Criminal, thug, thief, swindler
+
+1
+
+Ambition
+
+2
+
+Menial, cleaner, retail worker, servant
+
+2
+
+Avarice
+
+3
+
+Unskilled heavy labor, porter, construction
+
+3
+
+Bitterness
+
+4
+
+Skilled trade, electrician, mechanic, pilot
+
+4
+
+Courage
+
+5
+
+Idea worker, programmer, writer
+
+5
+
+Cowardice
+
+6
+
+Merchant, business owner, trader, banker
+
+6
+
+Curiosity
+
+7
+
+Official, bureaucrat, courtier, clerk
+Military, soldier, enforcer, law officer
+
+7
+
+Deceitfulness
+
+8
+
+8
+
+Determination
+
+9
+
+Devotion to a cause
+
+10
+
+Filiality
+
+d6
+
+d10
+
+Their Biggest Problem
+
+1
+
+They have significant debt or money woes
+A loved one is in trouble; reroll for it
+
+11
+
+Hatred
+
+2
+
+12
+
+Honesty
+
+3
+
+Romantic failure with a desired person
+
+13
+
+Hopefulness
+
+4
+
+Drug or behavioral addiction
+
+14
+
+Love of a person
+
+5
+
+Their superior dislikes or resents them
+
+15
+
+Nihilism
+
+6
+
+They have a persistent sickness
+
+16
+
+Paternalism
+
+7
+
+They hate their job or life situation
+
+17
+
+Pessimism
+
+8
+
+Someone dangerous is targeting them
+
+18
+
+Protectiveness
+
+9
+
+They’re pursuing a disastrous purpose
+
+19
+
+Resentment
+
+10
+
+They have no problems worth mentioning
+
+20
+
+Shame
+
+ONE-ROLL PATRONS •245
+
+ONE-ROLL PATRONS
+PCs often need patrons to aim them at adventures or
+offer suitable recompense for semi-legal favors. In conjunction with the adjacent one-roll NPC tables, you can
+use the tools below to quickly generate a patron and
+what it is they want from the party.
+One particularly convenient technique is to have
+a few short filler adventures drawn up as described on
+page 177, and then when the players suddenly need
+a job or need a favor that only a cooperative patron
+could provide, use the patron to hook them up with
+the filler adventure. If you lack a convenient premade
+adventure, it’s usually most practical to have the patron
+request some simple, direct, one-scene job that you feel
+comfortable in running on the fly. You can consult page
+178 to find appropriate pay rates for different patrons.
+
+d4
+1
+
+Patron Eagerness to Hire
+Cautious, but can be convinced to hire
+
+2
+
+Willing to promise standard rates
+
+3
+
+Eager, willing to offer a bonus
+
+4
+
+Desperate, might offer what they can’t pay
+
+d12
+1
+
+Potential Non-Cash Rewards
+Government official favors owed
+
+2
+
+Property in the area
+
+3
+
+An item very valuable on another world
+
+4
+
+Pretech mod components
+
+5
+
+Useful pretech artifact
+
+6
+
+Information the PCs need
+
+1
+
+Patron Trustworthiness
+They intend to totally screw the PCs
+
+7
+
+Membership in a powerful group
+
+2
+
+They won’t pay unless forced to do so
+
+8
+
+Black market access
+
+3
+
+They’ll pay slowly or reluctantly
+
+9
+
+Use of restricted facilities or shipyards
+
+4
+
+They’ll pay, but discount for mistakes
+
+10
+
+Shares in a profitable business
+
+5
+
+They’ll pay without quibbling
+
+11
+
+Maps to a hidden or guarded treasure
+
+6
+
+They’ll pay more than they promised
+
+12
+
+Illegal but valuable weapons or gear
+
+d8
+
+d20
+
+1
+
+Basic Challenge of the Job
+Kill somebody who might deserve it
+
+1
+
+An ambush is laid somewhere
+
+2
+
+Kidnap someone dangerous
+
+2
+
+PC involvement is leaked to the enemy
+
+3
+
+Steal a well-guarded object
+
+3
+
+The patron gives faulty aid somehow
+
+4
+
+Arson or sabotage on a place
+
+4
+
+Failing would be extremely unhealthy
+
+5
+
+Get proof of some misdeed
+
+5
+
+The job IDs them as allies of a local faction
+
+6
+
+Protect someone from an immediate threat
+
+6
+
+The macguffin is physically dangerous
+
+7
+
+Transport someone through danger
+Guard an object being transported
+
+7
+
+An important location is hard to get into
+
+8
+
+8
+
+Succeeding would be morally distasteful
+
+9
+
+A supposed ally is very unhelpful or stupid
+
+d10
+
+Main Countervailing Force
+
+10
+
+The patron badly misunderstood the PCs
+
+d6
+
+Complication to the Job
+
+1
+
+A treacherous employer or subordinate
+An open and known enemy of the patron
+
+11
+
+The job changes suddenly partway through
+
+2
+
+12
+
+An unexpected troublemaker is involved
+
+3
+
+Official governmental meddling
+
+13
+
+Critical gear will fail partway through
+
+4
+
+An unknown rival of the patron
+
+14
+
+An unrelated accident complicates things
+
+5
+
+The macguffin itself opposes them
+
+15
+
+Payment comes in a hard-to-handle form
+
+6
+
+Very short time frame allowed
+
+16
+
+Someone is turning traitor on the patron
+
+7
+
+The job is spectacularly illegal
+
+17
+
+A critical element has suddenly moved
+
+8
+
+A participant would profit by their failure
+
+18
+
+Payment is in avidly-pursued hot goods
+
+9
+
+The patron is badly wrong about a thing
+
+19
+
+The true goal is a subsidiary part of the job
+
+10
+
+The locals are against the patron
+
+20
+
+No complications; it’s just as it seems to be
+
+246• ONE-ROLL URBAN ENCOUNTERS
+
+ONE-ROLL URBAN ENCOUNTERS
+There are inevitably times when a GM needs something to distract the PCs quickly. A quick encounter,
+whether in the urban jungles or the alien wastes, can
+buy a GM the time they need to puzzle out some larger
+problem. The tables here can be used to create a simple
+urban event to occupy the PCs for a little while.
+The exact details of the event will have to be supplied by the GM in such a way as to fit the planet’s
+culture and situation, but the goal of the tables is to
+provide a fast conflict that the PCs can interact with
+meaningfully. If the PCs resist the hook, it’s a relatively
+simple matter to make the avoidance of it enough of a
+challenge that it buys you the time you needed in the
+first place. Don’t force the PCs to engage with it, but
+let them work a little to get free.
+
+d4
+1
+
+What’s the Conflict About?
+Money, extortion, payment due, debts
+
+2
+
+Respect, submission to social authority
+
+3
+
+Grudges, ethnic resentment, gang payback
+
+4
+
+Politics, religion, or other ideology
+
+d12
+1
+
+What Antagonists are Involved?
+A local bully and their thugs
+
+2
+
+A ruthless political boss and their zealots
+
+3
+
+Violent criminals
+
+4
+
+Religious fanatics
+
+5
+
+A blisteringly obnoxious offworlder
+
+6
+
+Corrupt or over-strict government official
+
+1
+
+General Venue of the Event
+In the middle of the street
+
+7
+
+A mob of intoxicated locals
+
+2
+
+In a public plaza
+
+8
+
+A ranting demagogue and their followers
+
+3
+
+Down a side alley
+
+9
+
+A stupidly bull-headed local grandee
+
+4
+
+Inside a local business
+
+10
+
+A very capable assassin or strong-arm
+
+5
+
+Next to or in a public park
+
+11
+
+A self-centered local scion of power
+
+6
+
+At a mass-transit station
+
+12
+
+A confused foreigner or backwoodsman
+
+d8
+
+d20
+
+1
+
+Why are the PCs Involved?
+A sympathetic participant appeals to them
+
+1
+
+Heavy traffic running through the place
+
+2
+
+Ways around it are all dangerous/blocked
+
+2
+
+Music blaring at deafening volumes
+
+3
+
+It happens immediately around them
+
+3
+
+Two groups present that detest each other
+
+4
+
+A valuable thing looks snatchable amid it
+
+4
+
+Large delivery taking place right there
+
+5
+
+A participant offers a reward for help
+
+5
+
+Swarm of schoolkids or feral youth
+
+6
+
+Someone mistakenly involves the PCs in it
+
+6
+
+Insistent soapbox preacher here
+
+7
+
+The seeming way out just leads deeper in
+Responsibility is somehow pinned on them
+
+7
+
+Several pickpockets working the crowd
+
+8
+
+8
+
+A kiosk is tipping over and spilling things
+
+9
+
+Streetlights are out or visibility is low
+
+d10
+
+What’s the Nature of the Event?
+A parade or festival is being disrupted
+
+10
+
+A cop patrol is here and reluctant to act
+
+1
+
+Innocents are being assaulted
+
+11
+
+PC-hostile reporters are recording here
+
+2
+
+12
+
+Someone’s trying to sell something to PCs
+
+3
+
+An establishment is being robbed
+
+13
+
+Feral dogs or other animals crowd here
+
+4
+
+A disturbance over local politics happens
+
+14
+
+Unrelated activists are protesting here
+
+5
+
+Someone is being blamed for something
+
+15
+
+Street kids are trying to steal from the PCs
+
+6
+
+Fires or building collapses are happening
+
+16
+
+GPS maps are dangerously wrong here
+
+7
+
+A medical emergency is happening
+
+17
+
+Downed power lines are a danger here
+
+8
+
+Someone’s trying to cheat the PCs
+
+18
+
+Numerous open manholes and utility holes
+
+9
+
+A vehicle accident is happening
+
+19
+
+The street’s blockaded by something
+
+10
+
+A religious ceremony is being disrupted
+
+20
+
+Crowds so thick one can barely move
+
+d6
+
+Relevant Urban Features
+
+ONE-ROLL WILDERNESS ENCOUNTERS •247
+
+ONE-ROLL WILDERNESS ENCOUNTERS
+Building appropriate wilderness encounters will vary
+greatly with the planet in question, but the tables below
+assume that the wilderness is on an inhabited world
+with some vague analogs to Terran terrain and vegetation. If the world is devoid of human inhabitants,
+replace the features with alien relics or the remnants
+of scouts or lost colonies.
+The tables below provide a suggested time of day
+and initial distance for the encounter, but these baselines will vary depending on the choices and capabilities
+of the PCs. Some encounters are unlikely to occur at
+night, unless the parties involved are traveling or otherwise active despite the dark. Suggestions are given
+for likely-hostile and likely-friendly creatures, but a
+reaction roll will influence attitudes greatly.
+
+d4
+1
+
+Initial Encounter Range
+Visible from a long distance away
+
+2
+
+Noticed 1d4 hundred meters away
+
+3
+
+Noticed only within 1d6 x 10 meters
+
+4
+
+Noticed only when adjacent to the event
+
+d12
+1
+
+Types of Hostile Creatures
+Bandits in their wilderness hideout
+
+2
+
+Dangerous locals looking for easy marks
+
+3
+
+Rabid or diseased large predator
+
+4
+
+Pack of hungry hunting beasts
+
+5
+
+Herd of potentially dangerous prey animals
+
+6
+
+Swarm of dangerous vermin
+
+1
+
+Weather and Lighting
+Takes place in daylight and clear weather
+
+7
+
+Criminal seeking to evade the law
+
+2
+
+Daylight, but fog, mist, rain or the like
+
+8
+
+Brutal local landowner and their men
+
+3
+
+Daylight, but harsh seasonal weather
+
+9
+
+Crazed hermit seeking enforced solitude
+
+4
+
+Night encounter, but clear weather
+
+10
+
+Friendly-seeming guide into lethal danger
+
+5
+
+Night, with rain or other obscuring effects
+
+11
+
+Harmless-looking but dangerous beast
+
+6
+
+Night, with terrible weather and wind
+
+12
+
+Confidence man seeking to gull the PCs
+
+d8
+
+d20
+
+Specific Nearby Feature of Relevance
+
+1
+
+Basic Nature of the Encounter
+Attack by pack of hostiles
+
+1
+
+Overgrown homestead
+
+2
+
+Ambush by single lone hostile
+
+2
+
+Stream prone to flash-flooding
+
+3
+
+Meet people who don’t want to be met
+
+3
+
+Narrow bridge or beam over deep cleft
+
+4
+
+Encounter people in need of aid
+
+4
+
+Box canyon with steep sides
+
+5
+
+Encounter hostile creatures
+
+5
+
+Unstable hillside that slides if disturbed
+
+6
+
+Nearby feature is somehow dangerous
+
+6
+
+Long-lost crash site of a gravflyer
+
+7
+
+Nearby feature promises useful loot
+Meet hostiles that aren’t immediately so
+
+7
+
+Once-inhabited cave or tunnel
+
+8
+
+8
+
+Steep and dangerous cliff
+
+9
+
+Quicksand-laden swamp or dust pit
+
+d10
+
+Types of Friendly Creatures
+
+10
+
+Ruins of a ghost town or lost hamlet
+
+d6
+
+1
+
+Affable but reclusive hermit
+Local herd animal let loose to graze
+
+11
+
+Hunting cabin with necessities
+
+2
+
+12
+
+Ill-tended graveyard of a lost family stead
+
+3
+
+Government ranger or circuit judge
+
+13
+
+Narrow pass that’s easily blocked
+
+4
+
+Curious local animal
+
+14
+
+Dilapidated resort building
+
+5
+
+Remote homesteader and family
+
+15
+
+Remote government monitoring outpost
+
+6
+
+Working trapper or hunter
+
+16
+
+Illicit substance farm or processing center
+
+7
+
+Back-country villager or native
+
+17
+
+Old and forgotten battleground
+
+8
+
+Hiker or wilderness tourist
+
+18
+
+Zone overrun by dangerous plants
+
+9
+
+Religious recluse or holy person
+
+19
+
+Thick growth that lights up at a spark
+
+10
+
+Impoverished social exile
+
+20
+
+Abandoned vehicle
+
+

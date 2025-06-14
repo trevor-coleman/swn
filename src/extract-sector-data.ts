@@ -16,11 +16,11 @@ import { execSync } from 'child_process';
 import type { 
   SectorData, 
   Entity, 
-  System, 
   Planet, 
   AsteroidBelt,
   Tag,
-  Location
+  Location,
+  Star
 } from './sector-types';
 
 /**
@@ -321,7 +321,7 @@ function extractSectorData(
   const childrenByParent: Record<string, ChildInfo[]> = {};
   
   // First pass: collect all entities and build parent-child relationships
-  for (const [entityType, entities] of Object.entries(data) as Array<[keyof SectorData, Record<string, any>]>) {
+  for (const [entityType, entities] of Object.entries(data) as Array<[keyof SectorData, Record<string, Entity>]>) {
     if (entityType === 'sector' || entityType === 'note') {
       continue;
     }
@@ -388,14 +388,14 @@ function extractSectorData(
     
     // Star information
     let primaryStar: string | null = null;
-    const stars = (system as any).star || [];
+    const stars = system.star || [];
     for (const starId of stars) {
       if (starId in entitiesById) {
-        const star = entitiesById[starId].data;
+        const star = entitiesById[starId].data as Star;
         const starName = star.name || 'Unknown Star';
         if (!primaryStar) {
           primaryStar = starName;
-          const classification = (star as any).classification || 'Unknown';
+          const classification = star.classification || 'Unknown';
           content.push(`- **Primary Star**: ${starName} (${classification})`);
         }
       }

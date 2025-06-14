@@ -69,7 +69,7 @@ Complete directory of all campaign content across sectors, organized by category
 - [System Directory](sectors/abiha-omicron/systems/) - All star systems
 - Major Systems:
   - [Dul-Yaq](sectors/abiha-omicron/systems/dul-yaq/system--dul-yaq.md) - Contains Cou
-  - [Buruker Urdia](sectors/abiha-omicron/systems/buruker-urdia/system--buruker-urdia.md) - Contains Madiera (Archive)
+  - [Buruker Urdia](sectors/abiha-omicron/systems/buruker-urdia/system--buruker-urdia.md) - Contains Madeira (Archive)
   - [Meliadi VIII](sectors/abiha-omicron/systems/meliadi-viii/system--meliadi-viii.md) - Contains 37 Labria (with Penticton 9)
 
 ## 📜 Lore & Mysteries

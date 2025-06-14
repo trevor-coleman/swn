@@ -11,7 +11,7 @@ interface BaseEntity {
   isHidden: boolean;
   parent: string;
   parentEntity: string;
-  attributes?: Record<string, any>;
+  attributes?: Record<string, unknown>;
 }
 
 // Tag definition
@@ -32,6 +32,7 @@ interface System extends BaseEntity {
   parentEntity: 'sector';
   x: number;
   y: number;
+  star?: string[]; // Array of star entity IDs
   attributes?: {
     tags?: Tag[];
   };
@@ -98,7 +99,7 @@ interface Moon extends BaseEntity {
 interface Sector extends Omit<BaseEntity, 'parent' | 'parentEntity'> {
   rows: number;
   columns: number;
-  attributes?: Record<string, any>;
+  attributes?: Record<string, unknown>;
 }
 
 // Note entity (for GM notes)
@@ -113,10 +114,17 @@ interface BlackHole extends BaseEntity {
   parentEntity: 'system';
 }
 
+// Star entity
+interface Star extends BaseEntity {
+  parentEntity: 'system';
+  classification?: string;
+}
+
 // Main sector data structure
 interface SectorData {
   sector: Record<string, Sector>;
   system: Record<string, System>;
+  star: Record<string, Star>;
   planet: Record<string, Planet>;
   asteroidBelt: Record<string, AsteroidBelt>;
   asteroidBase: Record<string, AsteroidBase>;
@@ -135,6 +143,7 @@ interface SectorData {
 // Entity type union for type guards
 type Entity = 
   | System 
+  | Star
   | Planet 
   | AsteroidBelt 
   | AsteroidBase
@@ -166,6 +175,7 @@ export type {
   SectorData,
   Sector,
   System,
+  Star,
   Planet,
   Moon,
   AsteroidBelt,

@@ -1,0 +1,3822 @@
+STARSHIPS
+Countless ships rise from world upon world, the iron
+dust of new-forged shipyards sent out to make bridges between the stars. For centuries, the privation and
+chaos that followed the Scream have made any concern
+beyond bare survival a luxury for all too many worlds.
+The last century has seen a reawakening, however, as
+myriad planets finally unlock the secrets of their own
+worlds and learn to use their native resources to rebuild
+the long-lost ships of their ancestors. The Silence is
+ending and worlds are now beginning to reach out to
+their unknown neighbors.
+Different sectors have different degrees of development. In some regions of space, starships have now
+been manufactured for centuries, with small spacecraft
+easily obtained by private individuals and modest companies. These sectors have regular commerce between
+worlds, with interstellar drills no more remarkable
+than modern air travel. Aliens and offworlder humans
+are noticed but go without special remark. These sectors often have relatively large stellar polities made up
+of numerous member stars, ones which often share the
+same general culture or political form. These sectors
+may still have backward planets or unknown worlds,
+but these are the exception.
+In most Stars Without Number sectors, however,
+things aren’t that developed. Some worlds will have
+developed or retained functional shipyards and interstellar flight is not anything remarkable to their citizens,
+but ownership of a starship is still a rare thing. Entire
+planetary navies might have fewer than a dozen ships,
+and only powerful and influential worlds will be sporting cruisers or other heavy warships. There is enough
+commercial traffic to justify starports and trade stations,
+but free and easy transit between worlds has been lost
+for centuries, and is only slowly returning to the sector.
+These sectors are rich in potential adventure. Even
+developed worlds may not be completely familiar with
+their stellar neighbors, and a number of lost worlds
+and out-of-contact societies can still be found in the
+sector. Starship captains can never be entirely certain
+what they’re going to meet when they drill into such a
+system, and no world is strong enough to exert its will
+carelessly around distant stars.
+
+Acquiring Starships
+
+In most sectors, it’s possible to buy civilian starships
+on any TL4 world. Such civilian ships are almost exclusively fighter or frigate-class hulls, most usually free
+merchants or in-system shuttles, though a few wealthy
+worlds offer bulk freighter hulls as well. These ships
+might be armed to the extent that their buyer’s purse
+allows, but they are no match for real warships, and
+so few planets worry too much about who might buy
+them. Conspicuous acquisition of numerous armed
+merchants, however, might draw unwelcome interest.
+
+Military hulls are a different matter. Even a lowly
+patrol boat is rarely permitted to a civilian buyer, let
+alone a fleet cruiser or other ship of the line. Even when
+these ships can be purchased, crewing them adequately
+can be far beyond the limits of an adventuring party’s purse. Even so, heroes who make the right friends
+or do the right favors to a planetary government can
+sometimes get letters of marque that entitle them to
+purchase hulls that would not normally be allowed into
+civilian hands.
+Buying a ship is only one way to acquire it, however. Many adventurers find it more efficient to liberate
+a craft from undeserving owners, with an evening’s
+play revolving around the daring deeds and cunning
+subterfuge needed to acquire or salvage a ship for the
+party. Of course, the craft acquired by this means are
+rarely in perfect condition.
+The ship and fitting prices that follow in this section assume that starships are uncommon and expensive investments, as they are in most sectors. If you are
+running a campaign in a region of easier access to ships,
+you should halve or even quarter the prices.
+
+Navies and Piracy
+
+Most TL4 worlds have some sort of space navy, even if
+it’s only a handful of patrol boats to watch the asteroid
+mines and monitor orbital space around their homeworld. A typical poor world might have a corvette and
+a half-dozen patrol boats, while the average TL4 planet
+sports a fleet cruiser, four corvettes or heavy frigates,
+and ten patrol boats, and a rich planet might have three
+times as many ships, possibly even a battleship or carrier to form the heart of its fleet. A third of these ships
+are usually in dock at any one time.
+The threat of piracy varies from system to system.
+Pirates need a safe place to refit their ships and sell their
+stolen goods, and they need enough traffic to justify
+their trade. The ideal pirate system is one containing
+only a low-tech primitive world that can be raided for
+slaves and supplies, with a hidden or mobile deep-space
+repair base for maintenance, and two or more wealthy
+neighboring systems that send trade through. Such a
+pirate nest can persist for years, with system governments arguing over who should bear the cost of rooting
+them out, or too weak to overcome a charismatic pirate
+leader and their loot-hungry followers.
+Very few pirates operate in a system with a strong
+naval presence. Small ships can sometimes get away
+with it for a time, hiding out in asteroid belts, striking
+merchants from ambush, and fleeing to safer systems
+before help can arrive. Larger pirate flotillas are a more
+existential threat to a planetary navy, and they are soon
+dispersed… or made the effective masters of the system
+as they blow up any ship that could prevent them from
+obtaining space supremacy.
+
+94• BUILDING A STARSHIP
+
+BUILDING A STARSHIP
+Creating a starship in Stars Without Number is fairly
+simple, and requires only a few steps.
+First, pick a hull type for the ship from the list
+below. The type will indicate the price of the base hull
+with a drive-1 spike drive, along with the available free
+power and mass.
+Second, add fittings, weapons, and defenses from
+the pages that follow. Each such addition takes up a
+certain amount of power and mass, and may have a
+minimum hull size required for installation. Some fittings and defenses cost more in money, power, or mass
+when installed on larger ships.
+Third, decide how many crew members the ship
+will have. Most merchantmen run with no more than
+twice the minimum number of crew to save on wages.
+Warships rarely leave port with less than 75% of the
+maximum crew allowed. On average, crew members
+
+cost 100 credits a day in wages, plus 20 more for necessary food and stores. PCs, naturally, are unlikely to
+charge themselves wages, but they need to eat.
+Fourth, note down the six-month maintenance
+cost of the ship, which is equal to 5% of its total noncrew cost. If this fee isn’t paid, a -1 penalty is applied to
+all skill checks and hit rolls related to the ship for each
+maintenance period skipped.
+Lastly, fill in a ship record for the craft, marking
+down the ship’s statistics and the attack bonuses for the
+gunners using the ship’s weapons.
+The speed of building or modifying a ship will depend on the quality of available shipyards and the political importance of the job. On average, 25,000 credits
+a day of work or modifications can be done by most
+shipyards on average-importance jobs. Enough reason
+to rush can double or even quadruple this amount.
+
+STARSHIP HULLS
+Starship hulls are divided into four general hull classes:
+fighters, frigates, cruisers, and capital ships. The size
+of each class varies depending on the technological sophistication and available resources of their creators. In
+some sectors a smuggler’s free merchant frigate might
+measure no more than 34.75 meters from nose to tail,
+while in another it might be four times as large. As a
+general proportion, each class’ average size is usually
+from four to eight times larger than the class before it.
+Each hull has several base attributes. Individual
+models might vary slightly, and careful tuning and customization might alter these numbers as described later,
+but most ships of a given hull type will perform as listed.
+Cost is the price of the base hull with a drive-1
+class spike drive. Any military hull type is generally
+unavailable without very good naval contacts with a
+shipyard’s owning government or a carefully-placed
+favor to those in authority.
+Speed is the relative combat speed and maneuverability of a ship. Over long distances a ship’s spike drive
+rating is all that matters, but in the tight quarters of
+combat this can make a great difference. A ship’s Speed
+is added to all Pilot skill checks made by the craft’s pilot,
+whether in combat or performing other maneuvers.
+Armor is the measure of the ship’s plating and redundant systems, and is subtracted from any incoming
+damage from hostile fire or hazardous space environments. Ship-mounted weapons with the Armor Piercing trait may ignore part or all of this rating. Ships
+generally cannot be harmed by anything short of other
+ship’s guns, vehicle-mounted Heavy weapons or carefully-placed demo charges.
+Hit Points reflects the amount of damage the ship
+can take before it explodes or becomes inoperable.
+
+Crew lists the minimum crew necessary for basic
+operation and the maximum crew the life support system can sustain for two months. Smaller crews than
+the maximum will make the ship’s life support last proportionately longer. While it’s theoretically possible for
+a lone crewman to make a successful spike drill, the
+constant vigilance and wakefulness required mandates
+the use of heavy pharmaceuticals and great desperation.
+A minimum of three crew are normally required for a
+relatively safe drill.
+Armor Class is a combination of agility and effective ECM denoting the difficulty of landing a solid hit
+on the ship.
+Power is the amount of free power available after
+the ship’s basic operation is taken into account. Fittings
+and weapons take up some part of this power.
+Mass records the amount of free mass left unassigned by the hull’s design. This free mass can be filled
+with fittings, weapons, or cargo holds.
+Hardpoints indicate how many weapons a ship can
+successfully mount. Most weapons take up one hardpoint, though particularly large or power-hungry ones
+may take up more than that.
+Finally, the class of the particular hull shows the
+general size of the ship. Some fittings and weapons
+have a minimum hull class, beneath which a ship is
+just too small to successfully install the hardware.
+Starship hulls are sturdy enough to ignore damage
+from small arms or TL3 Heavy weapons. TL4 Heavy
+weapons or demo charges applied to the exterior of a
+ship do half damage minus the ship’s Armor. If a saboteur gets inside with such weapons, the damage is
+halved but Armor does not apply. Use of some Heavy
+weapons in confined areas may be decidedly imprudent.
+
+BUILDING A STARSHIP •95
+
+Hull Types
+
+The hull types listed below are some of the most common models found throughout the remnants of human space. Individual worlds often experiment with
+different vessels as they gradually develop their own
+astronautic doctrines, but these models have the benefit
+of long and proven utility.
+Strike Fighter: Small craft, often modified to replace
+the spike drive with a system drive. Their speed,
+cheapness, and combat utility make them a popular choice as inexpensive system patrol craft.
+Shuttle: The smallest craft that’s regularly used for interstellar drills, a shuttle is a cheap means of moving
+small amounts of precious material or important
+persons between worlds.
+Free Merchant: A hull type much beloved by adventurers, a free merchant has unimpressive combat
+utility but can carry substantial amounts of cargo
+while mounting enough weaponry to discourage
+small-craft piracy.
+Patrol Boat: The hull of choice for customs cutters and
+system law enforcement, the patrol boat is a light
+frigate built heavy enough to overawe small merchant vessels while still being relatively cheap to
+build and crew.
+Corvette: The smallest true combat frigate, and often
+simply called a “frigate” by spacers. Corvettes have
+significantly thicker armor than patrol boats and
+trade additional crew needs and less maneuverability for more available free mass.
+Heavy Frigate: The heaviest starship that most poor
+or resource-deprived worlds can build, the heavy
+frigate can carry a significant loadout of weaponry
+and has enough crew to overwhelm most pirate
+ships if it comes to a boarding action. While it
+packs a substantial punch, it lacks the armor of a
+true cruiser-class warship.
+Bulk Freighter: This class of huge cargo ship is found
+most often in peaceful, heavily-populated sectors.
+Hull Type
+Strike Fighter
+Shuttle
+Free Merchant
+Patrol Boat
+Corvette
+Heavy Frigate
+Bulk Freighter
+Fleet Cruiser
+Battleship
+Carrier
+Small Station
+Large Station
+
+Cost
+200k
+200k
+500k
+2.5m
+4m
+7m
+5m
+10m
+50m
+60m
+5m
+40m
+
+Speed
+5
+3
+3
+4
+2
+1
+0
+1
+0
+0
+N/A
+N/A
+
+Armor
+5
+0
+2
+5
+10
+10
+0
+15
+20
+10
+5
+20
+
+HP
+8
+15
+20
+25
+40
+50
+40
+60
+100
+75
+120
+120
+
+Fleet Cruiser: The favored ship of the line of most
+wealthy, advanced worlds, and often the biggest
+and most powerful ship most planets can build. A
+cruiser’s heavy armor and infrastructural support
+for heavy guns make it a lethal weapon against
+frigates and any other ship not optimized for
+cracking heavy armor. They can prove vulnerable to swarm attacks by fighter-bombers equipped
+with the right kind of armor-piercing weapons.
+Battleship: Dreaded hulks of interstellar war, very few
+worlds have the necessary technology or economy
+to support the massive expense of building and
+crewing a battleship. Those that do gain access
+to a ship that is largely invulnerable to anything
+short of specially-designed anti-capital cruisers or
+hunter-killer frigates.
+Carrier: The queen of a fleet, even fewer polities can
+afford to build one of these huge ships. Carriers
+can support flights of fighter or frigate-class warships, ones specially equipped to handle particular
+missions. This versatility allows it to load fighter-bombers for anti-capital missions one month,
+and then switch to swarms of hunter-killer frigates the next when a hostile system’s asteroid outposts need to be destroyed. Stripped of its combat
+wings, however, a carrier has less individual firepower than a cruiser.
+Stations: Almost every space-faring world has at least
+one space station in orbit. A station has no Speed
+score, no spike drive, and cannot perform any
+maneuvers in combat, though its transit jets can
+slowly move it around a solar system over a matter
+of weeks. Civilian trade stations allow for docking
+by bulk freighters and ships not cleared to land on
+the surface, while military stations strictly forbid
+any civilian docking. The small station listed here
+is a Bannerjee-12, a common model found on poor
+or backwater worlds with little traffic. The large
+station represents an Arx, a major trade station for
+a hub world with money to spare.
+Crew
+1/1
+1/10
+1/6
+5/20
+10/40
+30/120
+10/40
+50/200
+200/1,000
+300/1,500
+20/200
+100/1000
+
+AC
+16
+11
+14
+14
+13
+15
+11
+14
+16
+14
+11
+17
+
+Power
+5
+3
+10
+15
+15
+25
+15
+50
+75
+50
+50
+125
+
+Mass
+2
+5
+15
+10
+15
+20
+25
+30
+50
+100
+40
+75
+
+Hard.
+1
+1
+2
+4
+6
+8
+2
+10
+15
+4
+10
+30
+
+Class
+Fighter
+Fighter
+Frigate
+Frigate
+Frigate
+Frigate
+Cruiser
+Cruiser
+Capital
+Capital
+Cruiser
+Capital
+
+96• BUILDING A STARSHIP
+
+STARSHIP FITTINGS
+The following list of ship fittings are largely standard
+TL4 technologies that are available in most sectors. A
+few items on the list are rare pretech devices that cannot be acquired without special connections or a lucky
+feat of salvage.
+Some costs are marked with an asterisk. These
+costs are multiplied by 10 when the fitting is installed
+in a frigate-class hull, by 25 when installed in a cruiser-class hull, and by 100 when installed in a capital ship.
+Some power and mass entries are marked with a
+hashmark. These costs are multiplied by 2 for frigates,
+3 for cruisers, and 4 for capital ships, rounded up. Note
+that you apply these multipliers even if the fitting only
+works on a large ship; a frigate with a Drill Course Regulator pays 250,000 credits, not 25,000.
+Advanced research lab: A lab suitable for investigating
+alien xenolife, planetary geology, esoteric technology, and other mysteries of the cosmos. The lab
+contains cold sleep pods adequate to contain alien
+samples, viro-shielded research cells, high-energy
+lasers, and other requisite tools. When used to investigate some phenomenon or object, any applicable skill rolls are improved by +1 for a frigate lab,
++2 for a cruiser lab, and +3 for a capital ship lab.
+Advanced nav computer: Forging new spike courses is
+too much an art to rely on computerized assistance, but an advanced nav computer can help on
+well-mapped routes. When navigating an interstellar drill course with charts less than a year old,
+the navigator decreases drill difficulty by 2.
+Amphibious operation: This fitting includes the benefits
+of the Atmospheric Configuration fitting, as well as
+allowing the ship to operate while immersed in a
+liquid medium. Submerged ships cannot be detected with conventional planetary traffic sensors
+and require military sonar and naval sensors to fix
+their position, resources often unavailable on less
+developed worlds. So long as the ship stays away
+from military naval craft and bases, it is almost
+impossible to track while submerged. Only fighter
+and frigate hull classes can mount this fitting.
+Armory: Rather than maintaining lengthy lists of ship
+equipment, a captain can simply buy an armory.
+Ships so equipped have whatever amounts of TL4
+military-grade weaponry and armor that a crew
+might require, and integral maintenance facilities
+for its upkeep. There is enough gear available to
+outfit the entire crew for normal use, but giving
+it away or losing it in use may deplete it.
+Atmospheric configuration: This fitting must be put
+in place when the ship is built, and cannot be
+installed on cruiser-class or larger ships. A ship
+designed for atmospheric flight can land on most
+solid or aqueous surfaces.
+
+Auto-targeting system: Some ships run with more guns
+than crewmen. A single NPC or PC can man one
+gun per round, firing it as often as the gunnery
+chief’s Fire One Weapon or Fire All Guns actions
+allow, but sometimes that’s not enough. Installing
+an autonomic targeting system for a gun allows it
+to shoot at a +2 hit bonus without human assistance. This system must be installed once for each
+gun that is to be self-manned.
+Automation support: The ship has been carefully fitted
+to support the use of non-sentient expert system
+robots in its operation. At least one human, VI,
+or True AI crew member is necessary to oversee
+the bots and monitor spike drills, but otherwise
+crew may be replaced with cheap, basic robots at
+a cost of 1,000 credits per crew member replaced.
+Bots don’t draw pay, don’t take up life support,
+and their maintenance is assumed to be part of the
+ship’s operating costs. These bots are incapable of
+any actions unrelated to operating the ship and
+are treated as level-0 in their skills where relevant.
+Boarding tubes: Armored tubes equipped with laser cutter apertures can be used to forcibly invade a hostile ship, provided the target’s engines have been
+disabled. Ships without boarding tubes have to
+send invaders across empty space to either make
+an assault on a doubtless heavily-guarded airlock
+or cut their way in through the hull with laser
+cutters and half an hour of work.
+Cargo lighter: Cruisers and larger craft can’t land on
+planetary bodies, so they require small shuttlecraft for transport. A cargo lighter is only capable
+of surface-to-orbit flight, which takes roughly
+twenty minutes either way, but can latch on to
+a standard pressurized cargo container holding
+up to 200 tons of cargo and passengers. These
+containers are usually collapsible and take up no
+significant space when compressed for storage, assuming they’re not simply disposable cargo shells.
+This fitting can be purchased multiple times.
+Cargo space: Free mass can be traded for pressurized
+cargo space. Tracked by weight for convenience,
+one cubic meter is usually one ton, with most vehicles requiring ten tons when loaded, tanks taking 25, and aircraft or mechs taking up 50 tons of
+cargo space. One point of free mass grants 2 tons
+of cargo space in a fighter, 20 tons in a frigate, 200
+tons in a cruiser, and 2000 tons in a capital-class
+ship. This fitting can be purchased multiple times.
+Cold sleep pods: These stasis pods can keep a subject
+alive for centuries provided that the ship’s power
+doesn’t fail. Each installation allows for keeping
+a number of people equal to the ship’s maximum
+crew in stasis indefinitely. This fitting can be installed multiple times.
+
+BUILDING A STARSHIP •97
+Ship Fitting
+
+Cost
+
+Power
+
+Mass
+
+Class
+
+Effect
+
+Advanced lab
+
+10k*
+
+1#
+
+2
+
+Frigate
+
+Skill bonus for analysis and research
+
+Advanced nav computer
+
+10k*
+
+1#
+
+0
+
+Frigate
+
+Adds +2 for traveling familiar spike courses
+
+Amphibious operation
+
+25k*
+
+1
+
+1#
+
+Fighter
+
+Can land and can operate under water
+
+Armory
+
+10k*
+
+0
+
+0
+
+Frigate
+
+Weapons and armor for the crew
+
+Atmospheric configuration
+
+5k*
+
+0
+
+1#
+
+Fighter
+
+Can land: frigates and fighters only.
+
+Auto-targeting system
+
+50k
+
+1
+
+0
+
+Fighter
+
+Fires one weapon system without a gunner
+
+Automation support
+
+10k*
+
+2
+
+1
+
+Fighter
+
+Ship can use simple robots as crew
+
+Boarding tubes
+
+5k*
+
+0
+
+1
+
+Frigate
+
+Allows boarding of a hostile disabled ship
+
+Cargo lighter
+
+25k
+
+0
+
+2
+
+Frigate
+
+Orbit-to-surface cargo shuttle
+
+Cargo space
+
+No cost
+
+0
+
+1
+
+Fighter
+
+Pressurized cargo space
+
+Cold sleep pods
+
+5k*
+
+1
+
+1
+
+Frigate
+
+Keeps occupants in stasis
+
+Colony core
+
+100k*
+
+4
+
+2#
+
+Frigate
+
+Ship can be deconstructed into a colony base
+
+Drill course regulator
+
+25k*
+
+1#
+
+1
+
+Frigate
+
+Common drill routes become auto-successes
+
+Drive-2 upgrade
+
+10k*
+
+1#
+
+1#
+
+Fighter
+
+Upgrade a spike drive to drive-2 rating
+
+Drive-3 upgrade
+
+20k*
+
+2#
+
+2#
+
+Fighter
+
+Upgrade a spike drive to drive-3 rating
+
+Drive-4 upgrade
+
+40k*
+
+2#
+
+3#
+
+Frigate
+
+Upgrade a spike drive to drive-4 rating
+
+Drive-5 upgrade
+
+100k*
+
+3#
+
+3#
+
+Frigate
+
+Upgrade a spike drive to drive-5 rating
+
+Drive-6 upgrade
+
+500k*
+
+3#
+
+4#
+
+Cruiser
+
+Upgrade a spike drive to drive-6 rating
+
+Drop pod
+
+300k
+
+0
+
+2
+
+Frigate
+
+Stealthed landing pod for troops
+
+Emissions dampers
+
+25k*
+
+1#
+
+1#
+
+Fighter
+
+Adds +2 to skill checks to avoid detection
+
+Exodus bay
+
+50k*
+
+1#
+
+2#
+
+Cruiser
+
+House vast numbers of cold sleep passengers
+
+Extended life support
+
+5k*
+
+1#
+
+1#
+
+Fighter
+
+Doubles maximum crew size
+
+Extended medbay
+
+5k*
+
+1
+
+1
+
+Frigate
+
+Can provide medical care to more patients
+
+Extended stores
+
+2.5k*
+
+0
+
+1#
+
+Fighter
+
+Maximum life support duration is doubled
+
+Fuel bunkers
+
+2.5k*
+
+0
+
+1
+
+Fighter
+
+Adds fuel for one more drill between fuelings
+
+Fuel scoops
+
+5k*
+
+2
+
+1#
+
+Frigate
+
+Ship can scoop fuel from a gas giant or star
+
+Hydroponic production
+
+10k*
+
+1#
+
+2#
+
+Cruiser
+
+Ship produces life support resources
+
+Lifeboats
+
+2.5k*
+
+0
+
+1
+
+Frigate
+
+Emergency escape craft for a ship’s crew
+
+Luxury cabins
+
+10k*
+
+1
+
+1#
+
+Frigate
+
+10% of the max crew get luxurious quarters
+
+Mobile extractor
+
+50k
+
+2
+
+1
+
+Frigate
+
+Space mining and refinery fittings
+
+Mobile factory
+
+50k*
+
+3
+
+2#
+
+Cruiser
+
+Self-sustaining factory and repair facilities
+
+Precognitive nav chamber
+
+100k*
+
+1
+
+0
+
+Frigate
+
+Allows a precog to assist in navigation
+
+Psionic anchorpoint
+
+Special
+
+3
+
+0
+
+Frigate
+
+Focal point for allied psychics’ powers
+
+Sensor mask
+
+10k*
+
+1#
+
+0
+
+Frigate
+
+At long distances, disguise ship as another
+
+Ship bay/fighter
+
+200k
+
+0
+
+2
+
+Cruiser
+
+Carrier housing for a fighter
+
+Ship bay/frigate
+
+1m
+
+1
+
+4
+
+Capital
+
+Carrier housing for a frigate
+
+Ship’s locker
+
+2k*
+
+0
+
+0
+
+Frigate
+
+General equipment for the crew
+
+Shiptender mount
+
+25k*
+
+1
+
+1
+
+Frigate
+
+Allow another ship to hitch on a spike drive
+
+Smuggler’s hold
+
+2.5k*
+
+0
+
+1
+
+Fighter
+
+Small amount of well-hidden cargo space
+
+Survey sensor array
+
+5k*
+
+2
+
+1
+
+Frigate
+
+Improved planetary sensory array
+
+System drive
+
+Special
+
++1#
+
++2#
+
+Fighter
+
+Replace spike drive with small system drive
+
+Teleportation pads
+
+Special
+
+1
+
+1
+
+Frigate
+
+Pretech teleportation to and from ship
+
+Tractor beams
+
+10k*
+
+2
+
+1
+
+Frigate
+
+Manipulate objects in space at a distance
+
+Vehicle transport fittings
+
+2.5k*
+
+0
+
+1#
+
+Frigate
+
+Halve tonnage space of carried vehicles
+
+Workshop
+
+500*
+
+1
+
+0.5#
+
+Frigate
+
+Automated tech workshops for maintenance
+
+98• BUILDING A STARSHIP
+Colony core: The ship has been designed to act as the
+core of a future settlement. Once this fitting is
+engaged, the ship ceases to be operational as a
+starship, and builds out into a set of habitats, hydroponic gardens, fusion plants, and living spaces
+sufficient to support up to five times its maximum
+crew, including enough fabrication and workshop
+facilities to keep the settlement operational under normal conditions. The settlement can be a
+deep-space hab, orbital installation, or planetary
+settlement. In the latter case, the ship must land
+to form the settlement; even ships without atmospheric operations can do so, but they can never
+take off again. Once activated, a colony core cannot be re-packed.
+Drill course regulator: Drills along a known spike drive
+route have no chance of failure so long as the route
+is no longer than twice the operating pilot’s skill
+level and does not involve course trimming. Thus,
+a navigator with Pilot-1 skill would always succeed
+in making a drill of two hexes or less, provided the
+route was a known one. The drill course regulator requires a sophisticated technical base and
+compatible metadimensional energy conditions
+in a given sector; many sectors no longer have
+this technology or lack the right environment to
+use it. If the GM prefers a campaign where space
+travel is always at least somewhat dangerous, they
+may deny access to this fitting. Ships piloted by
+exceptionally talented navigators may choose not
+to mount it even then.
+Drive upgrades: A ship can improve its standard-issue
+drive-1 spike drive with additional phase filters
+and power throughput refinements. A captain
+needs buy only the final grade of drive desired. He
+does not have to buy upgrades sequentially. Drives
+of rating 4 and higher are generally TL5 artifacts
+that cannot be built most modern worlds.
+Drop pod: Armored and stealthed versions of cargo
+lighters, these craft are twice as fast, apply a -3
+penalty to tracking and targeting skill checks, and
+can carry up to one hundred troops or passengers.
+Many are equipped with assorted Heavy weapons
+to clear the landing zone, and can be treated as
+flight-capable gravtanks for purposes of combat.
+This fitting can be purchased multiple times.
+Emissions dampers: Stealth systems can mask the ship’s
+energy emissions through careful modulation of
+the output. All travel times inside a star system are
+doubled when the system is engaged, but any skill
+checks to avoid detection gain a +2 bonus.
+Exodus bay: These banked rows of compressed cold
+sleep pods are designed to carry enormous numbers of people in extended hibernation, most often colonists to some new homeworld or escapees
+from some stellar disaster. A cruiser can carry up
+to 1,000 colonists in stasis, while a capital ship
+can handle up to 5,000. Each further time this fit-
+
+ting is selected, these numbers double. These pods
+put their inhabitants into very deep hibernation
+so as to minimize the resources necessary to maintain their lives. Bringing them out of this stasis
+requires a month of “defrost”. Crash awakenings
+have a 25% chance of killing the subject. The pods
+are rated for 100 years of stasis, but their actual
+maximum duration is somewhat speculative.
+Extended life support: The ship can be designed to accommodate a larger number of crew or passengers.
+Extended life support can be fitted multiple times;
+each time, the maximum crew rating of the ship
+increases by 100% of its normal maximum. Thus,
+a free merchant who installs this twice can have a
+maximum complement of 18 people.
+Extended medbay: All ships are equipped with basic
+medical facilities for curing lightly injured crew
+members and keeping the seriously injured ones
+stable until reaching a planet. An extended medbay improves those facilities, allowing for the
+medical treatment of up to the ship’s entire maximum crew at once, including the treatment of
+critically wounded passengers.
+Extended stores: A normal complement of ship’s stores
+can keep the maximum crew size supplied for two
+months. Each selection of Extended Stores doubles
+that time, and can be fitted multiple times.
+Fuel bunkers: Most ships require refueling after each
+drill jump, no matter the distance. Installing fuel
+bunkers allows the ship to carry one additional
+load of fuel. This fitting can be installed multiple
+times for ships that wish to minimize fueling.
+Fuel scoops: Fuel scoops allow for the harvesting and
+extraction of hydrogen from gas giants or the
+penumbra of solar bodies. The extraction process
+requires four days of processing and refinement,
+but completely refuels the ship. Such fittings are
+common on explorer craft that cannot expect to
+find refueling stations.
+Hydroponic production: Some ships are designed to produce food and air supplies for the crew. Selecting
+hydroponic production allows for the indefinite
+supply of a number of crewmen equal to the ship’s
+maximum crew. This option may be taken multiple times for farm ships, in which case each additional selection doubles the number of people the
+ship can support.
+Lifeboats: Selecting this fitting equips the ship with
+a number of single-use escape craft capable of
+reaching the nearest habitable planet or station
+in a star system. If no such destination exists,
+the boats can maintain their passengers for up
+to a year in drugged semi-stasis. Lifeboats have
+fully-functional comm systems and are usually
+equipped with basic survival supplies and distress
+beacons. A single selection of this fitting provides
+enough lifeboats for a ship’s maximum crew, with
+up to twenty people per boat.
+
+BUILDING A STARSHIP •99
+
+Luxury cabins: Each time this fitting is selected, 10%
+of the ship’s maximum crew gain access to luxury cabins of a spaciousness sufficient to please
+a wealthy star-farer. This fitting comes with the
+usual zero-gee athletic courts, decorative fountains, fine dining, and artistic fittings.
+Mobile extractor: Automated mining and refinery
+equipment has been built into the ship, allowing
+it to extract resources from asteroids and planetary surfaces. Careful extraction of specific lodes
+of valuable minerals can be quite profitable at the
+GM’s discretion, but if the crew is simply melting down available asteroids for raw materials,
+the unit can refine one ton of usable materials
+per day worth about 500 credits in most markets.
+These raw materials can be used to feed a mobile
+factory, and a ship may have more than one mobile extractor fitted to it to multiply the return
+if sufficient raw feedstock is available. Operating
+an extractor requires at least five crew members.
+Mobile factory: The ship is equipped with a full-scale
+TL4 fabrication plant programmed to support its
+needs. The ship can stock raw materials and parts
+at 5,000 credits per ton; these parts can then be
+used to “pay” ship repair or maintenance costs
+when conventional shipyards are unavailable. The
+factory can also create and repair vehicles, TL4
+equipment, space habs, and planetary structures
+with these parts at a rate of 10,000 credits worth
+of construction a day. If a mobile extractor is
+available, the raw materials processed by the latter unit can be used to feed the factory. Operating
+a mobile factory requires at least 100 well-trained
+personnel. Each 10 fewer available doubles repair
+or maintenance times.
+
+Precognitive nav chamber: An extremely rare example
+of psitech dating from before the Scream, a precognitive nav chamber allows a character with at
+least Precognition-2 psionic skill to assist in interstellar drills, sensing impending shear alterations
+before they happen. The navigator automatically
+succeeds on any spike drill check of difficulty 9 or
+less. On a failed check, add 2 to the Spike Drive
+Mishap roll, limiting the potential damage. On
+drilling in to the destination system, the psychic
+has expended all Effort in the process.
+Psionic anchorpoint: This pretech relic is unavailable on
+the open market in most sectors. Once installed
+in a ship, it can be “imprinted” by up to a dozen
+psychics. These psychics can sense and affect any
+object or location within ten meters of the relic
+after one minute of concentration, provided they
+are within the same solar system. Thus, teleporters can always teleport next to the anchorpoint,
+telepaths can always contact anyone within the
+affected zone, telekinetics can manipulate objects
+near the relic, and so forth. The relic can be recoded to eliminate existing imprints, but any psychic who gets access to the relic for ten minutes of
+meditation and focus can imprint on it afterwards.
+There is no obvious way to tell how many psychics
+have imprinted to the anchorpoint.
+Sensor mask: The ship can disguise its long-range sensor readings, spoofing scans with the ID tags and
+apparent hull type of any other ship of its choice.
+To penetrate this masquerade, the scanning entity must beat a Wis/Program skill check against
+difficulty 10 plus the Program skill of the masking ship’s comms officer. Once the ship is close
+enough to visually identify, the masking is useless.
+
+100• BUILDING A STARSHIP
+Ship bays: These sophisticated docking bays provide
+all the necessary tools and support for launching
+a starship from the mother craft. They are rarely seen outside of dedicated capital-class carriers,
+but some cruisers make room to mount a fighter-class attack shuttle. Each bay allows room for
+one ship of the appropriate hull class. While the
+carried ship can support its own crew if necessary, most carriers fold their space wing into the
+mothership’s crew roster. This fitting can be taken
+multiple times.
+Ship’s locker: Much like an armory, this option allows
+a captain to lay in a general supply of equipment
+likely to be useful to explorers and spacemen. Any
+TL4 equipment on the gear list can be found in
+the ship’s locker in amounts commensurate with
+the ship’s size. A few guns and some basic armor
+might be included as well, but for serious armament an armory is required. There is enough gear
+available to outfit the entire crew for normal use,
+but giving it away or losing it in use may deplete
+the locker until it is restocked.
+Shiptender mount: The ship is designed with symbiosis
+mounts that allow other ships to “hitch” on the
+craft’s spike drills. Each shiptender mount allows
+one craft of a hull size smaller than the tender to
+link up for intersystem drills. Mounts cannot be
+used for in-system travel. If the linking ship has
+been designed to be carried by a tender then establishing this link takes one hour. If not, it takes
+a full day to fit the ship into the mount. Ships can
+dismount from the tender with an hour’s disentanglement. In an emergency, the carried ships can
+dismount instantly, but the mountings are considered disabled then until repairs are made. Carried
+ships cannot fight.
+Smuggler’s hold: Carefully-designed storage space intended to conceal illicit cargo from customs inspection. Each installation of this fitting adds 200
+kilograms of cargo space in a fighter, 2 tons in a
+frigate, 20 tons in a cruiser, or 200 tons in a capital ship. Cargo in a smuggler’s hold will never be
+found by a standard customs inspection. Careful
+investigation by a suspicious official can find it on
+a difficulty 10 check using their Wis/Notice skill,
+and a week-long search one step short of disassembly will find it on a difficulty 7 check.
+Survey sensor array: Most ships require only basic
+analysis of a star system, sufficient to identify
+population centers, do rough scanning of an object’s composition, and chart major navigational
+hazards. Survey sensor arrays greatly enhance
+the ship’s sensor abilities, allowing for finely-detailed mapping of objects and planets, along with
+broad-spectrum communications analysis. They
+also improve attempts to detect other craft when
+scanning a region for stealthy vessels. Any rolls
+with survey sensor arrays add +2 to skill checks.
+
+System drive: The ship’s standard drive-1 spike drive is
+removed and replaced with a different propulsion
+system. The ship is still treated as having a drive-1
+for maneuvering and system transit purposes, but
+it cannot make interstellar drills. This modification lowers the cost of the basic hull by 10% and
+adds extra power and space based on the size of
+the hull: 1 power for fighters, 2 for frigates, 3 for
+cruisers, and 4 for capital ship hulls. Twice this
+amount of free mass is gained by the process.
+Teleportation pads: This TL5 tech is completely unavailable in most sectors and was uncommon even on
+Mandate-era ships. The pads allow up to a dozen
+people or 1,200 kilograms of matter to be teleported to and from the surface of a planet or the
+interior of a another ship, provided it is no more
+than a few tens of thousands of kilometers distant.
+Ship-to-ship teleportation is possible only when
+the receiving ship is cooperating by transmitting
+accurate coordinate details; otherwise, a friendly,
+unjammed signal from inside is necessary to lock
+onto the target point. Planetary teleportations are
+possible only in the absence of physical barriers
+between the ship and the target point below. The
+teleporters may be used once every five minutes.
+In those rare sectors where this tech is widely
+available, it costs 200k.
+Tractor beams: Gravitic projectors allow the ship to manipulate objects within its immediate area, pushing, pulling, and sliding objects no larger than a
+ship of one hull class smaller. Targets with shipscale propulsion can resist the beams, but lifeboats,
+individual suit jets, or other smaller propulsors
+are inadequate. The beam can focus on only one
+object at a time but can move it into the ship’s
+cargo bays or hurl it out of the ship’s immediate
+vicinity within three rounds. The beams can only
+effectively manipulate objects in very low gravity,
+and not those on the surface of planets or other
+objects with significant natural gravity.
+Vehicle transport fittings: The ship has been fitted with
+specialized mounts, bunking, cargo bays, and
+other facilities to expedite the transport of often-unwieldy vehicles, including mechs and other
+military craft. Any vehicles carried count as only
+half their usual cargo tonnage. Assuming trained
+operators, up to four vehicles can be offloaded or
+ramped onto the ship per round in cases where
+speed is critical.
+Workshops: On-board workshops can be bought at
+smaller than maximum sizes than a hull would allow, if additional TL4 tech facilities aren’t strictly
+needed. A frigate-sized workshop is sufficient for
+modding any personal gear as per the modification
+rules on page 90. A cruiser-sized workshop handles vehicle modding and starship maintenance,
+and a capital-class workshop can build vehicles or
+similar large work from scratch at full cost.
+
+BUILDING A STARSHIP •101
+
+STARSHIP DEFENSES
+The defenses listed here are some of the more common
+ones installed in modern TL4 starships. Most non-warships mount little or nothing in the way of special defenses, preferring to save the hull space for cargo and
+immediately useful fittings.
+Ablative Hull Compartments: By sacrificing empty hull
+space in a complex system of ablative blast baffles,
+a capital-class ship can have a large amount of its
+total mass shot away without actually impinging
+on its normal function. This grants it a +1 AC
+bonus and 20 extra maximum hit points.
+Augmented Plating: At the cost of a certain amount of
+speed and maneuverability, a ship can have its armor plating reinforced against glancing hits, gaining a +2 bonus to its AC. This augmentation can
+decrease a ship’s Speed below 0, meaning it will
+be applied as a penalty to all Pilot tests.
+Boarding Countermeasures: The ship has hardened
+bulkheads, reinforced hatches, and specially-designed automated kill corridors for wiping out
+intruders. Provided that the ship’s bridge is still
+under control, the operator can prevent entry to
+the ship by any force that lacks shipyard-grade
+tools, weapons capable of melting hull plating,
+or specialized military breaching implements. If
+intruders do get inside, only well-equipped, specially-trained marines have any real chance of
+breaching the defenses. Ordinary space pirates or
+more casual invaders have only a 1 in 6 chance
+of threatening the bridge crew, though they may
+cause significant damage in their dying.
+Burst ECM Generator: A high-powered secondary ECM
+generator can be activated to negate any one otherwise-successful hit against the ship. This generator can be activated after the damage has been
+rolled, but enemy ships rapidly compensate for the
+new ECM source, and so the generator can only
+be used effectively once per engagement.
+
+Foxer Drones: These drones are invariably short-lived
+due to the enormous energy signatures they produce, but until the ship’s next turn they grant a +2
+AC bonus as their emissions confuse foes. Foxer
+drones are cheaply constructed and essentially
+free; the only limit on their number is the amount
+of free space set aside for holding them.
+Grav Eddy Displacer: This system links with a ship’s
+navigational subsystem and randomizes the motion vectors in sympathy with metadimensional
+gravitic currents. This agility gives any hit on the
+ship a 1 in 6 chance of being negated entirely.
+Hardened Polyceramic Overlay: A complex glazing process can harden the surface of a ship’s armor to
+more effectively shed incoming attacks, decreasing the armor-piercing quality of any hit by 5.
+Planetary Defense Array: The ship is equipped with
+an array of gravitic braker guns and an upgraded nuke snuffer field. While useless in conventional ship-to-ship combat, the array can deflect
+or dampen meteor impacts, dropped penetrator
+rods, or other non-powered bombardment techniques, and the snuffer field is powerful enough
+to prevent nuclear fission reactions over a hemisphere-sized area. A single ship with a PDA can
+protect against any natural meteor strikes and
+deny easy terror bombardment of a planet’s population. The PDA cannot fully protect against
+orbital strikes by powered penetrators, but it can
+nudge them off course and make pinpoint strikes
+impractical. Most developed planets have much
+more powerful and effective ground installations,
+but a PDA-equipped ship is a useful emergency
+stopgap for poor or primitive worlds.
+Point Defense Lasers: Too small to damage ships, these
+point defense lasers can detonate or melt incoming munitions, improving the ship’s defenses
+against torpedoes, fractal impact charges, and
+other ammunition-based weapons.
+
+Ship Defense
+Ablative Hull Compartments
+Augmented Plating
+Boarding Countermeasures
+Burst ECM Generator
+Foxer Drones
+Grav Eddy Displacer
+
+Class
+Capital
+Fighter
+Frigate
+Frigate
+Cruiser
+Frigate
+
+Cost
+100k*
+25k*
+25k*
+25k*
+10k*
+50k*
+
+Power
+5
+0
+2
+2
+2
+5
+
+Mass
+2#
+1#
+1#
+1#
+1#
+2#
+
+Effect
++1 AC, +20 maximum hit points
++2 AC, -1 Speed
+Makes enemy boarding more difficult
+Negate one successful hit
++2 AC for one round when fired, Ammo 5
+1 in 6 chance of any given attack missing.
+
+Hardened Polyceramic Overlay
+25k*
+0
+1#
+Fighter AP quality of attacking weapons reduced by 5
+Planetary Defense Array
+50k*
+4
+2#
+Frigate Anti-impact and anti-nuke surface defenses
+Point Defense Lasers
+10k*
+3
+2#
+Frigate +2 AC versus weapons that use ammo
+* Credit costs are multiplied by 10 for frigate-class hulls, 25 for cruisers, and 100 for capital-class hulls
+# These costs are multiplied by 2 for frigates, 3 for cruisers, and 4 for capital hulls.
+
+102• BUILDING A STARSHIP
+
+STARSHIP WEAPONRY
+Space is dangerous, and most ships mount the best
+weapons their purse and their ship’s infrastructure
+can support. While most worlds limit the purchase of
+warships by civilians, few place restraints on the type
+of weapons a civilian ship can mount.
+Ship weaponry tends to come in two classes. One
+class of weapon is damaging and has moderate power and mass demands, but has comparatively weak
+armor-piercing capabilities. Another class of weapon is expensive, taxing to a ship’s systems, and may
+have somewhat inferior damage, but it has enough armor-piercing to affect a warship of a hull size one step
+larger than the mounting starship.
+The choice of which class of weapon to mount
+usually depends on the type of opposition the designer
+expects the ship to face. Most civilian ships favor the
+former kind, as few expect to engage true warships.
+
+Weapon Qualities
+
+Ammo: The weapon or defense requires ammunition
+to fire. Each round’s cost is listed after the weapon’s cost, and a number of rounds equal to the
+weapon’s Ammo rating can be fit into one free
+mass unit. For example, a torpedo launcher can fit
+the magazine and loading gear for four torpedoes
+into one free mass unit, and each torpedo will cost
+2,500 credits. For each ship class larger than the
+minimum required to mount the weapon, double
+the stored ammo per unit. The weapon itself includes one free mass unit worth of ammunition
+as part of the installation, so simply mounting a
+torpedo launcher alone on a frigate gives the ship
+four rounds of ammo.
+AP: The weapon ignores this many points of a target’s
+armor. The Hardened Polyceramic Overlay defense
+upgrade may lessen the effectiveness of this quality. The most a weapon’s AP rating can do is reduce
+a target’s effective armor to zero. It cannot add
+additional damage to a hit.
+Cloud: The weapon fires an omni-directional wave
+or spray of projectiles. It automatically targets
+all fighter-class ships that have attacked the ship
+within the past round, and the gunner may make
+one attack roll against each target. Cloud weapons
+have no effect on ships larger than fighter-class
+hulls or intruders who are actually on the hull.
+Clumsy: Either through a slow discharge time or unwieldy engineering requirements, this weapon
+suffers -4 to hit small fighter-class hulls.
+Flak: These weapons launch vast numbers of small
+energy discharges or projectiles, and are particularly dangerous to small ships that rely on speed
+over thick armor. Against fighter-class hulls, these
+weapons roll hit rolls and damage rolls twice and
+take the better result.
+
+Weapon Descriptions
+
+Each weapon listed below has a cost, the damage die it
+uses on a hit, and the amount of hardpoints, free power,
+and mass it takes up in a hull. The minimum hull class
+required to mount it is also listed, as is the minimum
+tech level to manufacture it.
+All ship weapon attack and damage rolls use the
+better of the gunner’s Intelligence or Dexterity modifiers. Most use Shoot as the relevant skill, though Pilot
+can be used for the guns of a fighter-class ship.
+
+Multifocal Laser: Twinned assay and penetration lasers modulate the frequency of this beam for remarkable armor penetration. These weapons are
+popular choices for fighters intended for frigate
+or cruiser engagement.
+Reaper Battery: Stepped tapping of the spike drive
+power plant allows for the emission of a torrent
+of charged particles. The particles have very little
+armor penetration, but can fry a small ship’s power grid in a strike or two.
+Fractal Impact Charge: A spray of penetrator sabots that
+use fractal surfacing to increase impact. Favored
+for bomber-class fighter hulls.
+Polyspectral MES Beam: A rare example of pretech
+weaponry, a fighter equipped with a PMB can
+scratch even a battleship’s hull.
+Sandthrower: Projecting a spray of tiny, dense particulate matter, sandthrowers are highly effective
+against lightly-armored fighters.
+Flak Emitter Battery: A baseline frigate anti-fighter system, this battery fires waves of lasers or charged
+particles to knock down small craft.
+Torpedo Launcher: Capable of damaging even a battleship, torpedoes are cumbersome, expensive, and
+often the core of a line frigate’s armament.
+Charged Particle Caster: A focalized upgrade to the
+reaper battery, the CPC has a much better armor
+penetration profile.
+Plasma Beam: With superior targeting and a smaller
+energy drain than a CPC, a plasma beam sacrifices
+some armor penetration.
+Mag Spike Array: A storm of magnetically-accelerated
+spike charges is almost guaranteed to eradicate any
+fighter-class craft it hits.
+Nuclear Missiles: Useless in ship-to-ship combat or
+against any other TL4 planet with working nuke
+snuffers, one of these missiles can still erase an
+entire lostworlder city without such protection.
+Spinal Beam Cannon: One of the first spinal-mount class
+weapons, the SBC briefly channels the full power
+of the ship into a charged beam. It lacks the power
+and penetration of the more advanced gravcannon, but also takes less power to mount.
+
+BUILDING A STARSHIP •103
+Smart Cloud: A swarm of self-directed microdrones
+sweeps over the ship. Their integral beam weaponry is too small to damage larger ships, but they
+can wipe out an attacking fighter wave.
+Gravcannon: Using much the same principles as
+man-portable grav weaponry, the gravcannon
+causes targets to fall apart in a welter of mutually-antagonistic gravitic fields.
+Spike Inversion Projector: The SIP uses the ship’s spike
+phasing as an offensive weapon, penetrating the
+target with a brief incursion of MES energies that
+largely ignore attempts to evade.
+Vortex Tunnel Inductor: A capital-class model of the SIP,
+a VTI is capable of incapacitating a cruiser in two
+hits. Its bulk limits its utility against fighter-class
+craft, however.
+Mass Cannon: By firing projectiles almost as large as
+fighter-scale craft, the mass cannon inflicts tremendous damage on a target. Serious ammunition
+limitations hamper its wider-scale use.
+Lightning Charge Mantle: Modulation of the ship’s
+power core emits a cloak of MES lightning. While
+larger spike drive craft can shunt the energies
+away harmlessly, fighter-class ships are almost
+invariably destroyed if hit.
+Singularity Gun: One of the few surviving pretech
+weapons in anything resembling wide currency,
+this capital-class weapons system fires something
+mathematically related to a miniaturized black
+hole at a target.
+
+Ground Weapons vs. Ships
+On rare occasions, PCs will have to deal with small
+arms fire against their spaceship, or evade ground
+guns when trying to escape a port or land safely
+on a hostile world.
+As a basic rule of thumb, hostile TL3 small
+arms fire does no damage, TL4 small arms fire
+does 1d6 damage per ten minutes of persistent
+gunfire, and Heavy weapons do half their rolled
+damage, minus the ship’s Armor. Multiple Heavy
+weapons blazing away at a grounded free merchant can reduce it to unflyable scrap in short
+order, but a peppering of mag rifle fire is unlikely
+to do serious damage to a ship that decamps with
+sufficient speed.
+It is impossible to miss a grounded ship. The
+Armor Class of a ship in flight will vary with the
+situation; AC 10 for hovering nearby, AC 15 for
+close-to-earth flight, and AC 20 if the ship is simply flying within weapon range.
+Active ground-placed anti-ship defenses are
+a different matter. These massive lasers and energy projectors are absolutely lethal at atmospheric
+ranges. Avoiding them is a Pilot skill check at a
+GM-chosen difficulty of 8 to 10 for each round the
+ship is exposed, suffering 2d10 damage with AP
+20 on each miss. A desperate ship can get outside
+the gun’s firing angle if it can survive three rounds
+of this peril.
+
+Ship Weapon
+
+Cost
+
+Dmg
+
+Hard.
+
+Class
+
+TL
+
+Multifocal Laser
+
+100k
+
+1d4
+
+5
+
+Reaper Battery
+
+100k
+
+3d4
+
+4
+
+1
+
+1
+
+Fighter
+
+4
+
+1
+
+1
+
+Fighter
+
+4
+
+Fractal Impact Charge
+
+200k/500
+
+2d6
+
+Clumsy
+
+5
+
+1
+
+1
+
+Fighter
+
+4
+
+AP 15, Ammo 4
+
+Polyspectral MES Beam
+
+2m
+
+2d4
+
+5
+
+1
+
+1
+
+Fighter
+
+5
+
+AP 25
+
+Sandthrower
+
+50k
+
+2d4
+
+3
+
+1
+
+1
+
+Fighter
+
+4
+
+Flak
+
+Flak Emitter Battery
+
+500k
+
+2d6
+
+5
+
+3
+
+1
+
+Frigate
+
+4
+
+AP 10, Flak
+
+Torpedo Launcher
+
+500k/2.5k
+
+3d8
+
+10
+
+3
+
+1
+
+Frigate
+
+4
+
+AP 20, Ammo 4
+
+Charged Particle Caster
+
+800k
+
+3d6
+
+10
+
+1
+
+2
+
+Frigate
+
+4
+
+AP 15, Clumsy
+
+Plasma Beam
+
+700k
+
+3d6
+
+5
+
+2
+
+2
+
+Frigate
+
+4
+
+AP 10
+
+Mag Spike Array
+
+1m/5k
+
+2d6+2
+
+5
+
+2
+
+2
+
+Frigate
+
+4
+
+Flak, AP 10, Ammo 5
+
+Nuclear Missiles
+
+50k/5k
+
+Special
+
+5
+
+1
+
+2
+
+Frigate
+
+4
+
+Ammo 5
+
+Spinal Beam Cannon
+
+1.5m
+
+3d10
+
+10
+
+5
+
+3
+
+Cruiser
+
+4
+
+AP 15, Clumsy
+
+Smart Cloud
+
+2m
+
+3d10
+
+10
+
+5
+
+2
+
+Cruiser
+
+4
+
+Cloud, Clumsy
+
+Gravcannon
+
+2m
+
+4d6
+
+15
+
+4
+
+3
+
+Cruiser
+
+4
+
+AP 20
+
+Spike Inversion Projector
+
+2.5m
+
+3d8
+
+10
+
+3
+
+3
+
+Cruiser
+
+4
+
+AP 15
+
+Vortex Tunnel Inductor
+
+5m
+
+3d20
+
+20
+
+10
+
+4
+
+Capital
+
+4
+
+AP 20, Clumsy
+
+Mass Cannon
+
+Power Mass
+
+Qualities
+AP 20
+
+5m/50k
+
+2d20
+
+10
+
+5
+
+4
+
+Capital
+
+4
+
+AP 20, Ammo 4
+
+Lightning Charge Mantle
+
+4m
+
+1d20
+
+15
+
+5
+
+2
+
+Capital
+
+4
+
+AP 5, Cloud
+
+Singularity Gun
+
+20m
+
+5d20
+
+25
+
+10
+
+5
+
+Capital
+
+5
+
+AP 25
+
+104• EXAMPLE STARSHIPS
+
+EXAMPLE STARSHIPS
+Below are the final statistics for some of the more
+common starship models in post-Silence human space.
+Each entry includes the default NPC crew skill modifier
+and the normal number of Command Points each one
+gets each round under NPC crews.
+
+Costs are listed for the ship itself, for its six-month
+maintenance, and for the yearly employment of its
+standard crew complement. PCs naturally need not
+draw this pay, though they’ll still need to lay out 20
+credits a day per head for food and other basic supplies.
+
+Strike Fighter
+HP:
+8
+Power:
+5/1 free
+AC:
+16
+Mass:
+2/0 free
+Armor:
+5
+Crew:
+1/1
+Speed:
+5
+Hull Class:
+Fighter
+Crew Skill:
++2
+NPC CP:
+4
+Weapons: Reaper Battery (+4/3d4, Clumsy)
+Defenses: None
+Spike Drive-1
+Fittings:
+Atmospheric Configuration
+
+The standard drill-capable fighter craft of most TL4
+polities, this model retains a spike drive instead of replacing it with a cheaper systems drive. While the lone
+pilot would have to be desperate and heavily drugged
+to make an entire spike drill solo, it remains an option
+when no larger craft is available.
+This particular model is equipped with a reaper
+battery for dealing with small, lightly-armored civilian ships. “Bomber”-type fighters usually replace this
+with a fractal impact charge to threaten larger warships,
+while fighters built to dogfight their peers favor fitting
+a multifocal laser.
+
+Cost:
+
+305K base price, 15,250 maintenance,
+43,800 yearly crew cost for 1 pilot
+
+Shuttle
+HP:
+15
+Power:
+3/2 free
+AC:
+11
+Mass:
+5/0 free
+Armor:
+0
+Crew:
+1/20
+Speed:
+3
+Hull Class:
+Fighter
+Crew Skill:
++1
+NPC CP:
+4
+Weapons: None
+Defenses: None
+Spike Drive-1
+Fittings: Atmospheric Configuration
+Extended Life Support, 6 tons cargo
+Cost:
+
+210K base price, 10,500 maintenance,
+43,800 yearly crew cost for 1 pilot
+
+Free Merchant
+HP:
+20
+Power:
+10/0 free
+AC:
+14
+Mass:
+15/0 free
+Armor:
+2
+Crew:
+1/6
+Speed:
+3
+Hull Class:
+Frigate
+Crew Skill:
++1
+NPC CP:
+4
+Multifocal Laser (+3/1d4, AP 20)
+Weapons:
+Sandthrower (+3/2d4, Flak)
+Defenses: None
+Spike Drive-1, 160 tons of cargo space
+Fittings: Atmospheric Configuration
+Fuel Scoops, Fuel Bunker
+Cost:
+
+This craft is a conventional civilian shuttle, albeit one
+with a spike drive sufficient to get it to a neighboring
+system and enough passenger space to make it a minimally-acceptable transport for brave VIPs and light
+cargo. If used as an inter-system transport, however, at
+least three crew will be needed to safely navigate a drill.
+While cheap and flexible, the shuttle is entirely
+unarmed and acutely vulnerable to piracy or hostile
+warships. In such cases the pilot’s only recourse is to
+surrender or hope the small craft’s nimble maneuver
+drives can keep it away from the attacker long enough
+to get to safety.
+
+775K base price, 38,750 maintenance,
+131,400 yearly crew cost for 3 crew
+
+A mainstay of freebooting merchant-adventurers
+throughout human space, the standard free merchant
+is an extremely versatile craft, capable of hauling significant amounts of cargo to neighboring systems while
+requiring very few hands to operate it. Only one crew
+member is needed for in-system flight, though spike
+drills require three for normal margins of safety.
+The standard free merchant is not a warship, but
+its sandthrower is enough to discourage pirate shuttles
+and the other small or fragile craft that wreckers or
+primitive worlds tend to favor. The multifocal laser
+is ideal for a highly-skilled gunner who can snipe out
+important systems on an attacking vessel, but the ship
+lacks the armor and durability to stand up to a true warship. Of course, with a sufficiently expert crew, even a
+corvette might be threatened by the well-aimed guns
+of a small craft like this.
+
+EXAMPLE STARSHIPS •105
+Patrol Boat
+HP:
+25
+Power:
+15/1 free
+AC:
+14
+Mass:
+10/0 free
+Armor:
+5
+Crew:
+5/20
+Speed:
+4
+Hull Class:
+Frigate
+Crew Skill:
++2
+NPC CP:
+5
+Weapons: Plasma Beam (+4/3d6, AP 10)
+Defenses: None
+Spike Drive-2
+Atmospheric Configuration
+Fittings:
+Extended Stores, Boarding Tubes
+Armory, Ship’s Locker, Survey Sensors
+3.523M base price, 176K maintenance,
+Cost:
+657K yearly crew cost for 15 crew
+
+Corvette
+HP:
+AC:
+Armor:
+Speed:
+Crew Skill:
+Weapons:
+Defenses:
+Fittings:
+Cost:
+
+40
+Power:
+15/0 free
+13
+Mass:
+15/0 free
+10
+Crew:
+10/40
+2
+Hull Class:
+Frigate
++2
+NPC CP:
+5
+2 Plasma Beams (+4/3d6, AP 10)
+Sandthrower (+4/2d4, Flak)
+Hardened Polyceramic Overlay
+Spike Drive-2, Cargo Lighter
+Extended Stores, Boarding Tubes
+Armory, Ship’s Locker, Fuel Bunker
+5.973M base price, 298K maintenance
+1.314M yearly crew cost for 30 crew
+
+Heavy Frigate
+HP:
+50
+Power:
+25/0 free
+AC:
+15
+Mass:
+20/0 free
+Armor:
+10
+Crew:
+30/120
+Speed:
+1
+Hull Class:
+Frigate
+Crew Skill:
++2
+NPC CP:
+5
+2 Plasma Beams (+4/3d6, AP 10)
+Weapons:
+Torpedo (+4/3d8, AP 20, Ammo 4)
+Defenses: Hardened Polyceramic Overlay
+Spike Drive-2, Drop Pod, 16 Torpedoes
+Fittings: Fuel Scoops, Fuel Bunker, Armory
+Ship’s Locker, Boarding Tubes
+9.783M base price, 489K maintenance
+Cost:
+3.942M yearly crew cost for 90 crew
+
+Patrol boats are often the largest ships fielded by poor
+or backward frontier worlds that lack the shipyard facilities or available resources to build bigger military
+craft. Even so, the ability to field two patrol boats for
+the yearly maintenance cost of one corvette often appeals even to richer worlds that need more coverage
+than their available craft can provide.
+Patrol boats are the smallest independent warships
+fielded by most navies, as fighters are not normally
+considered capable of extended independent operation. They have considerable spike drive reach and are
+faster in-system than most of their potential targets.
+While their single mounted gun is vulnerable to being
+disabled by expert enemy gunners, the relatively thick
+armor of the ship and skilled damage control crew can
+mitigate that danger. A few patrol boats replace their
+survey sensor array with a sandthrower to up-gun the
+ship, but most prefer the additional edge in scanning
+potential smugglers.
+The usual ship of the line of most modestly-funded
+frontier navies, a corvette is a true warship, albeit of
+a minimal size. While it is unable to land on worlds
+with standard gravity, its cargo lighter allows crew and
+cargo transit from the surface of a world, and its extended stores allow for more than four months of field
+operation under normal crew parameters.
+Most pirates flying reworked free merchants
+or stolen patrol boats will turn tail as soon as a corvette shows up in the region. Good armor, multiple
+ship-killing guns, and trained boarding marines make
+a corvette a death sentence to most stellar ruffians, and
+even when a pirate wolf pack can bring one down, it
+usually comes at the cost of crippling damage.
+The model depicted here is standard for anti-piracy and basic system defense missions. Against cruiser-class warships, however, this corvette’s weapons
+have insufficient armor penetration to seriously threaten such a major warship.
+Sometimes confusingly called a “light cruiser”, a heavy
+frigate pushes the engineering parameters of a frigate
+hull to the maximum available to most TL4 worlds.
+Equipped with a torpedo launcher capable of threatening even cruiser-class enemies, the heavy frigate
+can intimidate any ship of its weight class. Its heavy
+crew complement and military drop pod fitting allow
+it to quickly dispatch well-armed marines to hot spots
+throughout a solar system.
+However, despite the large weapon loadout, the
+heavy frigate remains a frigate. Its armor is significantly inferior to that of a true cruiser-class warship, and
+most frigates built for same-class engagements can be
+a meaningful threat to it. It comes into its own as a
+bludgeon against the other small warships likely to be
+fielded by a peer star-faring polity.
+
+106• EXAMPLE STARSHIPS
+Bulk Freighter
+HP:
+40
+Power:
+10/2 free
+AC:
+11
+Mass:
+25/0 free
+Armor:
+0
+Crew:
+10/40
+Speed:
+0
+Hull Class:
+Cruiser
+Crew Skill:
++1
+NPC CP:
+4
+Weapons: Plasma Beam (+3/3d6, AP 10)
+Defenses: None
+Spike Drive-2, Cargo Lighter
+Fittings: Fuel Bunker, Ship’s Locker
+3,400 tons of cargo space
+6.088M base price, 304K maintenance
+Cost:
+657K yearly crew cost for 15 crew
+
+Found only in rich, peaceful regions of space, the bulk
+freighter is capable of hauling thousands of tons of
+goods between star systems. While it’s equipped with
+enough of a sting to discourage small-ship piracy, it’s
+woefully inadequate to handle a warship, or even an
+up-gunned free merchant.
+Some adventurers do find use for a bulk freighter
+hull, however, trading off some of its massive cargo
+space for more fittings and using customized modifications to allow the ship to support heavier power
+demands. While the end result is no match for a true
+cruiser, the sheer mass of the freighter can make it a
+dangerous opponent in the right hands.
+
+Fleet Cruiser
+HP:
+60
+Power:
+50/4 free
+AC:
+14
+Mass:
+30/0 free
+Armor:
+15
+Crew:
+50/200
+Speed:
+1
+Hull Class:
+Cruiser
+Crew Skill:
++2
+NPC CP:
+5
+Gravcannon (+5/4d6, AP 20)
+Weapons: Smart Cloud (+5/3d10, Cloud, Clumsy)
+2 Multifocal Laser (+5/1d4, AP 20)
+Defenses: Hardened Polyceramic Overlay
+Spike Drive-3, Drop Pod
+Armory, Ship’s Locker, Boarding Tubes
+Fittings:
+Fuel Scoops, Advanced Nav Computer
+60 tons of cargo space
+17.17M base price, 858K maintenance
+Cost:
+6.58M yearly crew cost for 150 crew
+
+The archetypal warship of post-Silence humanity, the
+fleet cruiser is a ship-eating monster compared to its
+smaller brethren in the navy. Only prosperous polities
+can build such powerful ships, and even they sometimes find it more practical to have a flexible fleet of
+small craft rather than a few heavily-armed cruisers.
+The chief advantage of a fleet cruiser is in its heavily-armored hull. Only special hunter-killer ships fitted
+with armor-piercing weaponry have any real chance of
+penetrating the cruiser’s thick skin. Those weapons are
+almost always more bulky and power-hungry than their
+peer weapons, so enemy polities must usually choose
+between building small ships that are very effective at
+defeating other small ships, or building hunter-killers
+that can threaten cruisers but are at a disadvantage
+against their less specialized brethren.
+
+Battleship
+HP:
+AC:
+Armor:
+Speed:
+Crew Skill:
+
+Built off the biggest hull class that TL4 polities can
+create, only the richest modern worlds can afford to
+fabricate these massive engines of war. Even those
+worlds with adequate resources to do so often balk at
+expending such a tremendous amount of money on a
+single ship.
+Those that do build battleships do so for a reason.
+The tremendous weight of fire these ships put out can
+pop a cruiser in a single firing pass, and its reinforced
+hull plating shrugs off all but the heaviest armor-piercing blows. Where cruisers often require hunter-killer
+frigates to take them out, battleships commonly require
+hunter-killer cruisers to disable them.
+The main weakness of a battleship is the fact that it
+is only a single ship… a single, extremely expensive ship.
+It can only attack or defend a single location at a time,
+and an enemy that has the time and resources to build
+specialized anti-capital ships with AP weaponry and
+expendable crews can bring the battleship down for far
+less money than it cost to build it.
+
+120
+17
+20
+0
++3
+
+Power:
+Mass:
+Crew:
+Hull Class:
+NPC CP:
+
+75/8 free
+50/0 free
+200/1,000
+Capital
+6
+
+Vortex Tunnel (+6/3d20, AP 20, Clumsy)
+Light. Charge Mant. (+6/1d20, AP 5 Cloud)
+Weapons:
+2 Multifocal Lasers (+6/1d4, AP 20)
+Gravcannon (+6/4d6, AP 20)
+
+Hardened Polyceramic Overlay
+Ablative Hull Compartments
+Spike Drive-3, Drop Pod
+Armory, Ship’s Locker, Boarding Tubes
+Fittings: Fuel Scoops, Advanced Nav Computer
+Ship bay/Fighter w/Shuttle
+Fuel Bunkers, 200 tons of cargo
+79.06M base price, 4M maintenance
+Cost:
+35M yearly crew cost for 800 crew
+
+Defenses:
+
+EXAMPLE STARSHIPS •107
+
+Building a Ship
+A fortunate adventurer has won the favor of a powerful shipping magnate, and has earned one million
+credits worth of astronautic work. The player thinks
+it’s an excellent chance to have a ship built to fit the
+adventuring party’s needs.
+She starts by looking over the ship hulls and
+quickly sees that a free merchant hull is the best she
+can afford. A shuttle hull might work, but such a
+ship is too fragile for her liking. The hull itself costs
+500,000 credits and comes with a drive-1 spike drive.
+It also has free Power and Mass scores of 10 and
+15 respectively. The player can fill that space with
+fittings and defenses as she wishes.
+First, she looks at weaponry. She wants enough
+firepower to discourage small ships, but she can’t
+mount weapons that require a cruiser or capital hull,
+and a plasma beam is far too expensive. She could
+settle for a multifocal laser, which is cheap, but she
+decides to up-gun to a fractal impact charge, trusting
+in the party’s Warrior to aim it well. It costs 200k
+credits, 5 power, 1 mass, and 1 free hardpoint. It can
+store up to 8 charges in the launcher since a frigate-class hull is one larger than the minimum needed
+to mount it. The charges themselves will cost her
+another 4,000 credits.
+
+Next, she thinks about better engines. She briefly considers a drive-3 upgrade, but it would take 4
+points of Power and Mass, leaving her almost no
+Power left for other fittings. She settles for a drive-2
+upgrade for 100k credits, 2 Power, and 2 Mass.
+She takes a moment to think about adding some
+hardened polyceramic overlay to the merchant as a
+defense, but the ship’s Armor is so low that it doesn’t
+seem worth the effort to harden it.
+The PCs will need to land, so she adds an atmospheric configuration at 50k and 2 Mass. She wants
+fuel scoops so she doesn’t have to trust to local refueling stations, so that’s 50k, 2 Power, and 2 Mass. Prudence recommends a fuel bunker in case she needs
+to drill out before refueling, adding 25k and 1 Mass.
+She’s so far spent 929,000 credits, 9 Power, and
+8 Mass. To spare bookkeeping, she puts in a ship’s
+locker for 25k, but an armory is too expensive; the
+PCs will just have to track their own weapons and
+ammo. The remaining Mass is turned into 140 tons
+of cargo space. Thus, the final ship costs 954,000
+credits and uses 9 Power, and 15 Mass. At a rate of
+25,000 credits of shipyard work a day, it’ll take the
+yards about 39 days to build, giving the party time to
+think about how they’ll pay for maintenance…
+
+Carrier
+HP:
+95
+Power:
+50/9 free
+AC:
+14
+Mass: 100/0 free
+Armor:
+10
+Crew: 200/1,500
+Speed:
+0
+Hull Class:
+Capital
+Crew Skill:
++3
+NPC CP:
+6
+Weapons: Gravcannon (+6/4d6, AP 20)
+Hardened Polyceramic Overlay
+Defenses:
+Ablative Hull Compartments
+Drive-3, Drop Pod, 1000 tons cargo
+Armory, Ship’s Locker, Workshop
+Fuel Scoops, Advanced Nav Computer
+Fittings:
+Lifeboats, Fuel Bunkers
+20 Ship Bay/Fighter w/Fighters
+5 Ship Bay/Frigate w/Corvettes
+126.88M base, 6.35M maintenance
+Cost:
+43.8M yearly crew cost for 1,000 crew
+
+The queen of every navy that has one, a carrier is the
+pinnacle of TL4 shipbuilding technology and a massive credit sink for any polity rich or desperate enough
+to build one. Every fully-equipped carrier holds more
+firepower than most modern navies can assemble, and
+a single carrier is more than enough to crush most TL4
+naval task forces.
+The carrier itself is only the vector for its tremendous payload of ships, both small fighters and corvette-type daughter craft. The ability to quickly alter
+the flight wings of a carrier allows a rich planet to tailor
+its loadout to the specific needs of a campaign, whether it’s destroying the interstellar commerce and asteroid mines of an enemy polity or going head-to-head
+against their cruiser line of battle. Many polities further
+optimize their carrier-loaded ships by removing their
+spike drives and replacing them with system drives, relying on the carrier to get them into position. Of course,
+if the mothership is destroyed in hostile territory, these
+orphans are doomed.
+While a carrier has a belly full of death, the ship
+itself is lightly gunned and has significantly weaker
+armor than its battleship brethren. Any polity rich
+enough to build a carrier knows well enough to equip
+it with an escort of other ships to screen it from hostile attentions. Lightly-armed as it is, a wing of fighter-bombers can leave it a burning hulk if it’s caught out
+without protection.
+
+108• MODIFYING AND TUNING STARSHIPS
+
+MODIFYING AND TUNING STARSHIPS
+Most ships are maintained in the condition they came
+from the shipyard, with the crew and the engineers
+working to keep things aligned with the shipwright’s
+specifications. Such rigid conformity with standard
+techniques ensures easy repair, cheap maintenance, and
+the ready ability to switch crews without requiring laborious retraining or familiarization. Not all engineers
+value these qualities so highly, however, and some prefer to install their own improvements.
+A ship’s engineer can alter the wiring, internal
+structure, or other specifications of a starship, either
+to improve overall performance or make tradeoffs that
+are useful to their needs. Making these modifications
+isn’t cheap, and they often require the strategic deployment of rare pretech ship components.
+Engineers with sufficiently vast resources, shipyard access, and available pretech components can
+completely re-engineer a ship to integrate their improvements in the basic hull structure. These improvements no longer require their special attention to keep
+them operational, allowing the engineer to focus on
+other modifications or allow less talented crewmen to
+keep the ship in fighting trim.
+
+Mods and Maintenance
+
+Every engineer has a Maintenance score, the same used
+for installing equipment mods as described on page 90.
+The score is equal to their Intelligence modifier plus
+their Constitution modifier plus three times their Fix
+score. Any mod maintenance is counted against this
+Maintenance score, whether for equipment or starships.
+An engineer can maintain a number of mods at
+once equal to their Maintenance score. If a ship mod
+is neglected for one week of active use, it breaks down.
+Any fittings or functions dependent on the mod also
+become inoperable until a sufficiently skilled engineer
+spends at least 8 hours repairing the mod, a process
+which requires time but no significant additional parts.
+Ships parked at a station or landing strip don’t count
+as “active” for this purpose, so the ship’s engineer can
+go off for a week’s adventure or shore leave without
+returning to a broken-down starship.
+More than one engineer can work to maintain a
+ship’s modifications, provided the maintenance officer
+has a Fix skill score as high as that needed to install the
+mod in the first place. This also assumes that the chief
+engineer and any assistants work together closely to
+properly teach the structure and quirks of the modification. The difficulty of maintaining this close teamwork
+and sourcing exotic parts to maintain a non-standard
+modification is one reason why very few NPC ships
+have mods. While they’re possible for elite craft and
+idiosyncratic prototypes, most military ships or corporate traders have too much of a logistical burden to
+support these odd alterations.
+
+Installing Mods
+
+Every starship mod requires a certain amount of refitting work and after-market parts, along with a potential need for one or more pretech components. These
+pretech components are not normally for sale, and are
+usually found only through salvage during adventuring or as rewards for favors performed for important
+personages. While they vary in structure and appearance, for convenience’s sake it’s assumed that a given
+component can serve in installing any mod.
+Building the mod can be done at a rate of one day’s
+work for the crew per 5,000 credits in mod cost, or
+one day per 25,000 credits if a shipyard’s services are
+available. Mods can also be torn out, a process taking
+less than a day that reclaims any pretech components
+used in their construction but wastes any credit investment in parts.
+Mod installation does not require a full shipyard,
+but it does assume the full crew of the ship is assisting
+the engineer in stripping components, welding in new
+fittings, and hauling heavy parts. A lone engineer can’t
+make mods to anything larger than a frigate-class hull,
+and that might take a week’s painstaking labor for every
+5,000 credits of cost.
+
+Redesigning Ships
+
+An engineer with vast amounts of money, components,
+and shipyard support can completely rebuild a ship hull
+to include a mod as part of its basic structure, or redesign an existing hull schematic to include the mod.
+This is much more expensive than a quick after-market
+addition, but the mod becomes part of the basic ship
+itself and requires no further Maintenance.
+To rebuild a ship with a mod, the engineer must
+spend five times the usual cost in credits and twice as
+many pretech components as usually required by the
+mod. A shipyard is mandatory for such extensive redesign, and can do the work at a rate of 25,000 credits
+worth each day.
+To build an entirely new hull that includes the mod
+as part of its design, only the normal price of the mod
+must be paid in credits and components. By integrating
+the modification into the ship’s basic blueprints, the
+engineer makes it much easier to install and maintain
+it. Of course, the entire hull must then be built from
+scratch at a shipyard, also at the usual rate of 25,000
+credits of work done per day.
+There’s a limit to the amount of flexibility an engineer has in such designs, however. A ship can only be
+rebuilt or redesigned with a number of mods equal to
+twice the engineer’s Fix skill score. Further mods can
+be bolted on afterwards, but these will require Maintenance to keep in operating order, just as with any
+other mod.
+
+MODIFYING AND TUNING STARSHIPS •109
+
+Example Starship Mods
+
+The following modifications aren’t the only alterations
+that a canny engineer can install on a starship, but
+they’re among the most common. Each one is listed
+with the minimum Fix skill required to install or maintain the mod.
+The credit price for most is expressed in a percent of the base hull cost; thus, to install a power trunk
+streamlining mod with a 10% cost in a free merchant
+hull would cost 50,000 credits, or 10% the cost of the
+base hull. In a battleship hull, that same mod would
+cost 6,000,000 credits.
+The pretech component cost is given in components per hull class. Thus, if a mod requires one component per hull class, it would take one component for
+a fighter-class hull, two for a frigate, three for a cruiser,
+and four for a capital-class hull. These pretech components are usually rare and restricted enough that they
+cannot be purchased on the open market. PCs need
+to find them during their adventures, acquire them
+through favors to powerful persons, or intentionally
+seek them out in salvage adventures.
+Most mods can be installed only once, though a
+few of them labeled otherwise can be duplicated as far
+as the ship’s infrastructure can support them.
+Cargo Efficiency Bays (Fix-1): The ship’s internal structure is adjusted to optimize available cargo space.
+The ship’s total free Mass is decreased by 10%,
+rounded up, but, each point of Mass dedicated to
+cargo space counts as two points. Cost: 10% of hull,
+1 component/hull class
+Compact Magazines (Fix-1): The ship can carry twice
+as much ammunition as its available weapons and
+magazine space would normally allow. Cost: 5%
+of hull, no components
+Drill Velocity Upgrade (Fix-2): The ship’s spike drive
+is counted as one level better when determining
+spike drill transit speed and maximum drill range,
+up to a maximum of drive-6. Cost: 10% of hull, 1
+component/hull class
+Emergency Drill Activation (Fix-3): The ship can engage
+its spike drives even when in dangerous proximity
+to a planetary body. When engaged, it can drill out
+in a single round. Doing so increases the difficulty
+of any spike drive skill check by +2 if in-system or
++4 if actually landed. Drilling out from the surface
+will destroy everything within 200 meters of the
+ship. The mod can be used only once every four
+weeks. Cost: 20% hull, 2 components/hull class
+Emergency Thruster Boost (Fix-1): Retune the engines
+for emergency power. Once per space combat,
+gain a +2 bonus to Speed for three rounds. Cost:
+10% of hull, no components
+Engine Optimization (Fix-2): The engines have been
+optimized for realspace maneuverability. The
+ship’s Speed increases by 1. Cost: 10% of hull, 1
+component/hull class
+
+Eternal Reactor (Fix-2): The ship’s fuel tanks are replaced with effectively everlasting pretech energy
+cores. It no longer needs to refuel for drills or operation. Cost: 5% of hull, 2 components/hull class
+Extended Mass Support (Fix-1): The engineer trims back
+the power core to allow for more ship mass. Lose
+up to ten points of free Power; gain half as many
+points of free Mass, rounded down. This mod can
+be installed multiple times. Cost: 10% of hull, one
+component
+Low Emissions (Fix-1): Any sensor checks to detect the
+ship have their difficulty increased by +2. Cost:
+10% of hull, 1 component/hull class
+Nemesis Tracker (Fix-3): The ship’s targeting computers are augmented with pretech prediction software. Once per ship combat, a gunner on the ship
+can take an Instant action to cause a weapon shot
+to hit, regardless of the hit roll. Cost: 5% of hull, 2
+components/hull class
+Oversized Mountings (Fix-2): Choose a specific weapon
+or fitting that normally requires a hull size one
+step larger than the ship the mod is installed on.
+The ship can mount that fitting. Cost: 15% of hull,
+1 component/hull size
+Power Trunk Streamlining (Fix-1): Sacrifice free hull
+space for superior power core efficiency. Lose up
+to five points of free Mass; gain twice as many
+points of free Power. This mod can be installed
+multiple times. Cost: 10% of hull, one component
+Q-Ship Cladding (Fix-1): Some or all of ship’s weapons
+are concealed from external observation and standard scans when they are not deployed for combat.
+The ship itself can be made to look like a merchant
+or freighter of its size class. Cost: 5% of hull, no
+components
+Regenerative Armor (Fix-3): The ship’s Armor score
+increases by 5 points. Cost: 15% of hull, 2 components/hull class
+Reinforced Armor (Fix-1): The ship’s Armor score increases by the Fix skill of the installing engineer.
+The ship loses one point of Power and one point
+of Mass. Cost: 5% of hull
+Specialized Mountings (Fix-1): Choose a specific weapon
+or fitting when this mod is installed. The chosen
+fitting requires only half the normal Power and
+Mass per fitting installation, rounded down to a
+minimum of 1. Cost: 10% of hull, no components
+Volley Capacitors (Fix-2): The ship’s weaponry has been
+altered for rapid firing. Once per combat, the
+ship’s gunner gets 4 Command Points that must
+be spent on gunnery actions. Cost: 10% of hull,
+no components
+Weapon Overcharge (Fix-2): One weapon of the engineer’s choice has been overcharged. It requires
+50% more Power than a usual installation, but
+rolls its damage twice and takes the better result
+each time. This mod may be installed more than
+once. Cost: 5% of hull, no components
+
+110• SPACE TRAVEL
+
+SPACE TRAVEL
+Interstellar travel takes place through metadimensional
+space, a higher-order continuum “understood” by only
+a handful of brilliant researchers and astronautic engineers. Fortunately, it is not necessary to have an intuitive understanding of the place in order to operate
+a spike drive starship. While modern postech spike
+drives are neither as powerful nor as efficient as the
+exquisite creations of the Terran Mandate, most TL4
+worlds can still put together the necessary components
+to get a ship from one stellar system to another.
+Within the gravity well created by a stellar body, a
+spike drive provides sub-light propulsion sufficient to
+get the ship to most system locations within a few days
+at most. Only at the edge of a solar system, where the
+gravitic influence of the star dwindles away to almost
+nothing, can the spike drive be fully engaged to catapult the ship into metadimensional space. This gravitic
+transition zone is critical for providing the necessary
+step-up and step-down for a spike drive. Without such
+a transition, a ship can neither climb into metadimensional space nor come down from those elevated dimensional frequencies. Only a star is sufficient to provide enough of a gravitic gradient; random interstellar
+rocks and debris don’t exert enough of an influence to
+form a usable transition zone.
+Ships are generally unable to “overshoot” a transition zone. If a ship is coming into a system from a spike
+drive course to the stellar northwest of the star, it will
+appear at the northwest edge of the solar system. Its
+pilot can’t choose to “overshoot” that region, traveling
+across the solar system to come down on the southeastern edge of the star’s transition zone. This property
+allows a solar system’s owner to fortify probable transit
+paths into the system, placing defenses and picket ships
+in the path of likely arrivals.
+This can be a difficult and expensive process if the
+star is in a crowded stellar neighborhood. The transit
+paths from each potential destination are different; if
+a star has two other systems to its east, it has to fortify
+two different arrival zones if it wants to be confident
+of detecting incoming ships from both stars. If an exceptionally powerful spike drive allows an intruder to
+drill in from a more-distant star, the local polity might
+have no local sensors at all in the region, having never
+anticipated that a ship might come directly from such
+a distant location.
+These relatively-fixed arrival zones only apply
+to ships arriving at a star. A ship can leave from any
+location on the rim, traveling toward any destination
+within reach of its spike drive. Thus, a ship that’s able
+to skulk past a system’s frontier sensors can usually find
+an empty region of space in the transition zone to skip
+out undetected. It also has no obligation to be on the
+“correct side” of the star to go leaping off toward a particular stellar destination.
+
+Making Spike Drills
+
+Interstellar spike drills are dangerous. Some sectors
+have the technology and friendly-enough metadimensional weather to make standard drill paths relatively
+safe for travel. Ships in these favored sectors can move
+between connected worlds with no significant chance
+of disaster. Other sectors are not so fortunate, nor are
+those ships that must forge through uncharted metadimensional space to reach their destination. Careless
+navigation or sheer bad luck can result in these ships
+being snuffed out by an unexpected surge of metadimensional energy or lost in the storms of hyperdimensional space.
+To make a successful spike drill, the target system
+must be within range. A spike drive has a hex range
+equal to its rating; a drive-3 can reach a star three hexes
+away on the sector map. Note that these sector maps
+are abstractions rather than strict 2D maps. A star three
+hexes away might be a vast distance away, but connected by a friendly stretch of metadimensional space. Conversely, an “empty” adjacent hex might have a star in
+it, but it’s surrounded by killing waves of impenetrable
+dimensional disruption. Because of this, conventional astronomical mapping isn’t overly useful to transit.
+The astronomers might know that there’s a star only a
+few light years away, but if the navigators can’t find a
+metadimensional path to it, it might as well be on the
+far side of the galaxy.
+A spike drill requires one load of fuel. Most ships
+can hold a single load of fuel at any one time. All can
+be refueled from the appropriate refineries or starport
+tending services, while others can use fuel scoop fittings to refuel from a star or gas giant. Other ships
+have fuel bunkers that can hold more than one load of
+fuel, for quick double-drills when speed is vital. Normal
+intra-system maneuvering uses no significant amount
+of fuel, and refueling costs a flat 500 credits per load.
+A spike drill requires time. A safe drill procedure
+requires half an hour to enter metadimensional space,
+though this process can be rushed at greater risk. The
+transit time is six days per hex traveled, divided by the
+spike drill rating. Thus, a drive-3 crossing two hexes
+would take four days, while a drive-1 moving to an
+adjacent hex would take six days. Daring navigators
+can “trim the course”, accepting greater risks in transit
+in order to increase their effective drive rating by 1 for
+purposes of determining the speed of travel, though
+this bonus doesn’t increase the drive’s maximum range.
+A spike drill needs a course record, or “rutter” to
+guide the pilot. Ideally, this is an up-to-date and recent
+record of the metadimensional currents and energetic
+weather between the origin and destination of their
+course, one reported by a recent traveler. The older and
+staler the readings of the rutter, the more dangerous
+
+SPACE TRAVEL •111
+the drill. Most rutters for commonly-traveled routes
+are freely available, and significant trade corridors
+usually have ones only a few days old available to any
+pilot making the drill. Rutters charting heretofore-unknown paths between stars are often kept jealously secret by their owners, and may require an adventure or
+a favor to obtain.
+Attempting to drill to a star without any rutter
+at all is insanely dangerous, the work of near-suicidal
+crew of adventurers willing to risk everything in order
+to obtain a secret route to some hopefully-unplundered
+world. Only a masterful interstellar navigator has any
+real hope of surviving such a blind drill.
+Finally, a spike drill needs a pilot. Only a human
+or other sentient-grade intellect is capable of dealing
+with the dangerously unpredictable perils of metadimensional space, as expert systems and other “dumb”
+robots simply can’t handle the random dangers. Most
+ships require at least three crew members to cover all
+the bridge watches necessary, though only one of these
+crew needs to be an actual pilot. In desperate circumstances, a lone pilot can use drugs to stay awake for as
+much as a week in order to single-handedly steer a ship
+to its destination.
+If all these ingredients are in place and the ship
+is at the edge of the solar system, a ship’s navigator
+can make an Int/Pilot skill check to make a successful
+spike drill, the process taking 30 minutes. If rushed,
+it takes only one ship combat round to execute. The
+base difficulty is 7, modified by the available rutter, the
+distance drilled, rushed procedures, and whether or not
+the navigator is trimming the course to speed up the
+transit. If the final difficulty is 6 or less, the drill is too
+safe and simple to have any risk of failure.
+Spike Drills
+Base difficulty for a spike drill
+
+7
+
+The course is totally uncharted
+The rutter’s more than 5 years old
+The rutter’s from 1 to 5 years old
+The rutter’s less than a year old
+The rutter’s less than a month old
+
++6
++2
++1
++0
+-2
+
+The drill’s distance, per 2 full hexes
+Trimming the course
+The drill activation was rushed
+
++1
++2
++2
+
+Intra-System Travel
+
+Traveling inside a solar system is much safer and more
+rapid than interstellar travel. Barring unusual perils or
+mechanical failure, such journeys can be made without
+Pilot skill checks or risk of dramatic mishaps.
+For convenience, space within a solar system is
+broken up in regions. Each region is simply a place of
+interest within the system; planets are regions, fortified
+arrival zones are regions, particular pirate lairs in the
+asteroid belts are regions, and so forth. Any particular
+place of interest and its satellite areas can be treated as
+a single region.
+The base travel time for moving inside a region is
+six hours. Thus, in six hours a ship could travel from a
+planetary starport to a site on the planet’s moon, or to
+a distant science station orbiting around the planet, or
+to a distress beacon in space near that world. Any place
+within that region can be reached within six hours, or
+faster at the GM’s discretion.
+The base travel time for moving between regions
+is forty-eight hours. A ship in orbit around one planet
+could thus travel to an entirely different planet, or to
+the transition zone at the rim of the system, or to a
+ship detected deep within system space, or to an asteroid pirate base, or to any other point of interest in the
+solar system.
+Base travel time is divided by the ship’s spike drive
+rating. Thus, a ship with drive-3 could reach another
+region in the system in only 16 hours. Bold navigators
+can “trim the course” to increase their effective spike
+drive rating by 1 by making a successful Pilot check at
+difficulty 9. On a failure, the travel actually takes twice
+as long as usual.
+3d6
+
+If the roll fails, something has gone wrong on
+the drill, and a roll on the failed navigation results are
+necessary. These mishaps don’t normally result in the
+summary death of the crew, but they often force the
+navigator to make emergency course changes or drill
+exits that might leave the ship in a dangerously unfriendly region of space.
+
+3
+
+Spike Drill Mishap
+Catastrophic dimensional energy incursion.
+Ship emerges around a star within 1d6
+hexes of the target destination with drive
+and all systems destroyed.
+
+Shear surge overwhelms internal systems.
+Ship emerges around star nearest to drill
+origin. 50% chance for each system to be
+disabled until repaired. If the spike drive is
+disabled, treat as if a 3 were rolled.
+6-8 Power spike. One system disabled until
+repaired, ship stuck in transit for full base
+time before being able to make another
+Pilot check. If the spike drive fails, treat as if
+a 3 were rolled.
+9-12 Ship off course. Spend base time in transit,
+then make another Pilot check.
+13-16 Ship off course, but detected early. Make
+another Pilot check.
+16-17 Drill successful, but takes twice base time.
+Drill successful and on time, by blind luck.
+18
+4-5
+
+112• SENSORS AND DETECTION
+
+SENSORS AND DETECTION
+Adventurers often find it necessary to be very discreet
+about their comings and goings within a solar system,
+as do pirates, hostile warships, smugglers, and other
+nefarious sorts. Space is wide and dark, and if a ship is
+careful to avoid inhabited regions it can often escape
+notice by a system’s inhabitants.
+
+Hiding and Seeking
+
+As a general matter it is very difficult to spot a ship in
+deep space when it doesn’t wish to be spotted. Once a
+ship’s energy signature is identified, however, it becomes much easier to follow the ship’s movement; such
+a positional fix is called a detection lock, and once a ship
+has been locked by an observer it can be tracked at any
+distance in the system.
+Fixing a lock on a target requires the observer to
+be in the same region of space and to win an opposed
+Int/Program skill check against the ship’s comms officer. If the observer wins the opposed roll, they get a
+detection lock on the ship. If they lose or tie, they remain oblivious to the ship’s presence and can try again
+in 24 hours. The active sensors used to form a detection
+lock can be detected by the target; they know they’ve
+been made. If the observing ship uses passive sensors,
+the lock is undetectable, but it’s more difficult to obtain.
+The observer takes bonuses and penalties to their
+opposed skill check based on the circumstances as listed
+below. This can alter their die roll substantially, and
+make concealment almost impossible for ships not
+specially equipped for stealth. The modifiers below are
+common ones, but particular regions of space may have
+their own hazards or complications, with some making
+detection so difficult that they become favorite lairs for
+pirates and malcontents.
+Observer is...
+Fighter
+Frigate
+Cruiser
+Capital
+Minor Outpost
+Major Station
+
+Mod
++0
++1
++2
++3
++2
++4
+
+Planet
+Passive sensors
+
++5
+-2
+
+Target Ship is...
+Fighter
+Frigate
+Cruiser
+Capital
+Station
+
+Mod
++3
++2
++1
++0
+-2
+
+Avoiding planetary
+population centers
+
++2
+
+The larger the ship, the better the sensors it will
+have, but the easier it is to spot it in space. Minor outposts would reflect small deep-space habs or listening
+posts, while major space stations would include most
+military stations and other significant fortifications.
+Ships that carefully avoid population centers when
+landing on a world can mitigate some of the danger of
+a planetary sensor network, leaving smugglers and pirates to prefer landing in remote, little-inhabited areas.
+
+To break a lock, a tracked ship needs to leave the
+region. As soon as it does, the observer and the ship
+repeat their opposed skill check. If the observer wins,
+it continues to track the ship, while a tie or loss means
+the ship slips the lock. Any observers in the destination
+region can attempt to pick up the ship immediately and
+then once every 24 hours, but the original observer is
+out of luck. Provided a ship is willing to escape to the
+region of deep space above or below the solar ecliptic,
+it’s extremely unlikely that there’ll be anything there to
+spot them. Of course, such escape also means staying
+clear of potential refuges. A ship that flees to the “edge
+of the system” region can drill out to safety from there,
+and unless they pick a chunk of the rim monitored
+by the locals, they can do so with impunity. Very few
+worlds can monitor the entire system perimeter.
+When rolling for observation, only roll once for
+any given group, outpost, or planet, using the best
+modifiers available. Thus, if a battle squadron including a cruiser and three frigates rolls to observe, the
+GM would use the skill bonus and +2 modifier for the
+cruiser’s crew. If a separate pirate ship was in the same
+region, the GM would roll for them as well, because
+they’re a separate force in the region.
+
+Pursuit and Escape
+
+Adventurers have a habit of drawing unfriendly attention from hostile ships. While escape from a combat
+engagement is a matter of maneuver jets and good piloting, long-range chases rely more on a ship’s spike
+drives to provide raw motive power.
+A pursuer must be in the same region of space to
+pursue and must have a detection lock. Of course, if the
+pursued lacks a detection lock on the pursuer, they’ll
+have no idea that they’re being chased.
+Both ships make Int/Pilot opposed skill checks,
+each adding their spike drive rating to the roll. If the
+pursuer wins or ties, they force an engagement and
+the ships are moved into combat range. If the pursued
+ship wins, it gets six hours of distance, modified by any
+difference in spike drive ratings; a drive-1 ship being
+chased by a drive-2 ship would have three hours, for
+example. It can use this time to reach a particular point
+inside the region, or can put it toward an attempt to
+escape the region entirely. Ships with spike drive-1 engines need 48 hours to enter a new region, so they are
+unlikely to avoid a determined pursuer; one with spike
+drive-3, on the other hand, can make the escape in only
+16 hours. Some pilots may attempt to speed this up by
+trimming their course.
+A pursuing ship can also use this six hours to aim
+toward a different region, if it thinks it knows where
+the ship is running. Assuming they can keep the detection lock when the pursued ship slips over the sub-stellar border, they can end up close on their prey’s heels.
+
+SENSORS AND DETECTION •113
+
+Scanning Planets and Ships
+
+Short-range scans of ships and planetary objects are relatively simple affairs. Any scan of a ship within combat
+range will reveal the ship’s hull type, obvious weaponry
+and damage, and registered ID code. A scan of a planet
+in orbit will always reveal basic information on atmosphere, geology, advanced energy-using surface communities, other ships in orbit, and any surface features
+designed to attract orbital interest.
+Comms officers can attempt to interrogate the
+scans, asking one question before rolling an Int/Program skill check against difficulty 8. On a success, the
+question is answered, while a failure means that the
+data is inconclusive and no further questions can be
+asked of it that day. Each question after the first success that same day is asked at a cumulative +1 difficulty
+modifier. Questions should be simple and direct.
+When scanning a ship, a comms officer might
+ask whether particular fittings or weapons have been
+
+MAINTENANCE AND REPAIR
+Ships are expensive things to keep flying, and many
+adventuring crews find themselves taking somewhat
+dubious work just to get enough money to keep their
+ship in the air.
+
+Spares, Repairs and Refueling
+
+Most ships have their repairs and maintenance done at
+a shipyard, but a ship can perform field maintenance
+and repair if they have the necessary parts. One ton of
+cargo space can hold 10,000 credits worth of spare parts.
+Any time required is quadrupled, however.
+Ship fuel costs a flat 500 credits per load.
+
+Six-Month Maintenance
+
+Every ship needs to spend 5% of its total non-crew cost
+every six months in order to pay for basic maintenance.
+Each such period that is skipped applies a -1 penalty to
+all ship skill checks and hit rolls. At -4, the ship gains a
+10% chance per month of breaking down entirely until
+backlogged maintenance is repaired. At a shipyard, this
+maintenance takes a day for a fighter hull, a week for a
+frigate or cruiser, and a month for a capital ship.
+
+Repairing Hulls and Systems
+
+Fixing ship hit points can be done at a cost of 1,000
+credits per point, with up to the presiding engineer’s
+Fix skill repaired in points each day. A disabled system can be jury-rigged back to functionality for onetenth the system’s cost and one day’s work per 25,000
+credits so spent. A jury-rigged system that is disabled
+again is destroyed. Full repairs of a disabled system cost
+one-quarter of its original price.
+Repairs made during combat do not need to be
+re-done or paid for afterwards, as they were performed
+before the damage could become critical and lasting.
+
+mounted, where good boarding points might be on the
+hull, whether the ship looks to be the product of a particular world or culture, or simply to question whether anything looks odd about the ship’s readings. The
+sensors can probe a meter or so beneath the hull skin,
+but they can’t intrude on a ship’s computer network or
+provide a map of interior spaces.
+When scanning a planet, a comms officer can ask
+about apparent capitals or spaceports, major industrial
+sites, unusual planetary weather patterns, unique allergens or atmospheric hazards, current local news transmissions, or identify hidden or low-tech communities
+that are large but do not have clear energy signatures.
+If they have the Survey Sensor Array fitting, they
+can do orbital visual spying accurate enough to read
+newsprint, in addition to asking questions about subterranean spaces, visible surface life forms of interest,
+crude maps of the interior spaces, and interesting energy readings.
+
+Sneaking In
+The free merchant Grendel has just drilled into a
+new system using charts her captain stole from an
+unfortunate pirate.
+As it happens, a small pirate base is positioned
+in the region, placed there by its inhabitants to
+keep an eye on any traffic from the adjacent system. They get a chance to detect the Grendel, and
+roll the pirate comm officer’s skill bonus of +2 plus
+another +2 for being a minor outpost, and a -2
+for using passive sensors to avoid alerting targets.
+Their total is 12. The Grendel’s comms officer is
+good, however, and gets a +2 for being a frigate-class ship. His Int/Program skill roll is a 13,
+meaning the base has not detected the ship.
+Now the free merchant gets a chance to spot
+the station, also using passive sensors at a -2 penalty. The outpost is a very visible space station, and
+takes -2 on its opposed roll, while the frigate gains
+a +1 on its check. The base rolls a 7 and the Grendel
+rolls an 8. The frigate has a detection lock on the
+pirate base.
+Her captain decides to sneak further into the
+system. She can’t be sure the station hasn’t spotted
+her, but it’s made no obvious sign of it and she
+wants to investigate the local planets and their inhabitants. The Grendel’s drive-2 engine can cross
+over to a planet’s region with 24 hours of travel.
+This will give the station one more chance
+to lock the ship, since it can try again in 24 hours.
+Even if it does successfully lock the free merchant,
+however, the captain bets they can lose it when
+they transfer out of the solar region. The pirate
+base might broadcast an alert to any other local allies, however, which could make things awkward.
+
+114• SPACE COMBAT
+
+SPACE COMBAT
+The clash of ships in the void, the flash of silent explosions and soundless death… these things are familiar to interstellar adventurers, and a natural hazard of
+the profession. While most adventurers seek to avoid
+such hull-melting conflagrations of war, sometimes the
+choice is not their own. When two or more ships close
+to combat range with the intent to kill, it’s time to fight.
+
+The Combat Round
+
+Space combat begins with a normal initiative roll, one
+made by each ship involved in the combat. Each rolls
+1d8 modified by the Intelligence or Dexterity modifier
+of the pilot, and they take their turns in order, with
+PCs winning ties. Once every ship has had a turn, the
+round starts over from the top. Initiative is not rerolled.
+A round of ship combat takes about 15 minutes, but
+Experts and Warriors can only use their special class
+abilities to reroll skill checks or ensure automatic hits
+once per engagement.
+On its turn, a ship’s captain decides in which order
+its various departments will act: bridge, gunnery, engineering, comms, and captain. Each department then
+chooses actions, choosing either from their specific
+department or a general action available to all departments. A department head can choose actions from
+only one category; they can’t pick from both. Some of
+these actions generate Command Points, allowing other
+departments to spend these points taking actions that
+require them. When all departments have acted, the
+next ship in order can go.
+If the ship is an NPC ship, the GM can abbreviate the process, giving it a fixed number of Command
+Points based on its general crew quality, with the ship
+being able to take whatever actions it needs using that
+total. Fighters and civilian ships usually have 4 Command Points, military or pirate ships have 5, native
+spacers and highly-trained warships have 6, and the
+finest NPC crews in space can muster 7 points.
+
+Ship Departments
+
+For purposes of interstellar combat, every ship is assumed to have five departments: bridge, gunnery, engineering, comms, and captain. A ship with too few
+crew to actually man these departments may have to
+double-up on staffing, but these five functions are the
+ones that are critical during space combat, and every
+ship has to be able to act on them.
+The bridge is where the ship’s piloting and navigation is done. This might be no more than the cramped
+cockpit of a starfighter or it might be a cavernous central control node in the bowels of a battleship. The
+bridge department handles attempts to escape combat,
+perform evasive maneuvers, or pursue a fleeing enemy.
+The gunnery department is in charge of the ship’s
+weaponry. If it’s used to blow pieces out of something
+
+unfriendly, it’s in the charge of the gunners who man
+this department. They’re the ones who fire a ship’s guns
+and make the targeting calculations necessary to snipe
+specific systems and weapons on a hostile target.
+Engineering keeps the ship flying when enemies
+are carving chunks out of her hull. They can perform
+damage control, boost the engines to speed a ship’s maneuvers, and execute emergency repairs to get a damaged system back online before it’s too late.
+The comms department doesn’t just handle inter-ship communications, but it also manages sensors,
+electronic warfare, and combat hacking duties. Their
+crew can baffle enemy targeting attempts, fool hostile
+sensors, and choke enemy computers with ECM.
+The captain is master of the ship and directs the
+other departments. On a warship, this discipline might
+be taut and automatic. On a ship piloted by PCs, obedience may be less certain. Regardless, the captain can
+boost the effectiveness of other departments, direct
+crew for perilous but necessary tasks, or convert otherwise-crippling hits into more manageable crises.
+For player-run ships, every PC should be put in
+charge of one of these departments, preferably the one
+that best suits their character’s skills. If a PC is totally
+incompetent for space combat, they can be given temporary control of the NPC officer who actually is in
+charge of the department, and can run that NPC as
+their character during the fight. If the ship is so small
+that there is no NPC available to run the department,
+then the PC is treated as a supernumerary officer, and
+can only take actions from the general action list available to all departments.
+Sometimes there are fewer PCs than there are departments. In that case, double-up the duties of two
+or more departments on a single PC. That PC can
+still only take actions from one departments per turn;
+any departments they don’t take an action from are
+assumed to use the Do Your Duty action, adding 1 Command Point to the ship’s available total. Thus, if a PC
+was in charge of both the bridge and the comms, she
+could take actions either from the bridge list, the comms list, or the general list of actions. If she didn’t pick
+any action from the bridge or comms list, the neglected
+department would simply use Do Your Duty to add +1
+Command Point to the ship’s available total. For a single-seat fighter, the lone crewman might have all five
+departments on his head. Such a pilot would be able to
+take actions from any single department each round
+with the other four providing 4 Command Points to
+fuel that action.
+Sometimes the PCs may want to swap departments in mid-battle for some reason, or to replace a
+department head who has been incapacitated. They
+may do so at the start of any given combat turn provided that the department heads involved do not object.
+
+SPACE COMBAT •115
+
+Actions and Command Points
+
+At the start of every ship’s turn, the captain decides the
+order in which the departments will take their action.
+In the chaos of combat, she can give directions to the
+heads, but they are not obligated to follow them.
+When a department’s turn comes up, the PC in
+charge chooses actions, either from their department
+list or the general action list. Some actions may require skill checks to execute properly, while others are
+automatically successful. Some actions may require
+Command Points to be spent in order to attempt them,
+while others give Command Points. A few prohibit the
+PC from doing any other action that round.
+Barring these actions, a department head can take
+as many actions as they have Command Points to spend
+on them. A gunnery chief with 4 Command Points, for
+example, could use the Fire One Weapon action twice,
+spending 2 Command Points each time, or he could
+use the Fire All Guns action once, spending 3 Command
+Points and leaving 1 left. The department head does not
+need to get permission to spend points from the rest of
+the crew; if he decides to burn the points to open fire
+when the rest of the crew wanted him to save them,
+that’s too bad for the rest of the crew. A traitorous or
+uncooperative department head can only be stopped
+by PC intervention with the Deal With a Crisis action.
+After every department has acted, all excess Command Points are lost. Ships normally start their turns
+with 0 Command Points.
+
+Attacks and Damage
+
+When a ship fires a weapon, it can choose any target
+involved in the combat. Either the gunnery department
+head, an NPC, or a nominated PC may make the attack,
+but a given gunner can man only one gun a round. The
+gunnery head is always the one to spend Command
+Points to fire, but their nominees may be the ones actually manning the guns and rolling the attacks.
+The gunner rolls a normal hit roll, using their
+base attack bonus plus the better of their Intelligence
+or Dexterity mods, plus their Shoot skill. If flying a
+fighter-class ship, Pilot may be used in place of Shoot.
+Foci that normally give bonuses to Shoot attacks, such
+as Gunslinger, do not apply to ship combat unless specifically noted as doing so. The luck ability of the Warrior
+class may be used once per fight to hit with ship guns,
+but cannot be used to negate a hit against their ship.
+If the hit roll equals or exceeds the target ship’s
+Armor Class, the attack is a success and the attacker
+may roll damage, again modified by the better of the
+gunner’s Intelligence or Dexterity modifiers. This damage is lessened by the target’s Armor score, which may
+in turn be negated by a gun’s Armor-Piercing quality.
+A successful hit by a plasma beam, for example, does
+3d6 damage plus the gunner’s attribute modifier, with
+an Armor Piercing quality of 10. Against a free merchant with an Armor score of 2, the full damage of the
+beam gets through, as the AP 10 cancels out all the
+merchant’s Armor.
+
+116• SPACE COMBAT
+Armor can negate all damage from a hit if it’s
+strong enough. If Armor completely negates the attack,
+the hit cannot disable systems.
+Sufficiently skilled gunners can use the Target System action to aim a shot at a particular weapon system,
+engine, or other fitting that seems vulnerable to the
+GM. On such a hit, the damage is halved, rounded up,
+before Armor is applied. If any damage gets through,
+that system is disabled and cannot be used until it is
+repaired. Engines lose one drive rank instead, so that
+a drive-2 spike drive becomes a drive-1 until repaired.
+Disabled systems hit again or drives reduced below
+drive-0 are destroyed, and cannot be repaired during
+combat. A ship with destroyed engines cannot perform
+any bridge actions and may be boarded at an attacking
+ship’s leisure, assuming its guns are also disabled.
+If a ship is reduced to zero hit points, fighter-class
+hulls are instantly destroyed with all hands. Larger
+ships are mortally damaged. Such crippled ships can
+take no action and will explode within 2d6 minutes
+unless the chief engineer succeeds in an Int/Fix skill
+check against difficulty 10. On a failure, the explosion is
+inevitable, while on a success the ship merely becomes
+a burnt-out hulk with all systems destroyed. If sufficiently vast amounts of repair supplies are still intact in
+the hold, a determined crew might be able to jury-rig
+the maimed ship into temporary operation.
+
+Ship Crises
+
+Instead of accepting some particularly gruesome hit or
+disabling attack, a PC ship can instead choose to accept
+a Crisis. The attack or the disabling hit is then negated,
+with no damage done. Instead, the GM rolls on the
+Crisis table to find out what dire event happened as
+a consequence of the hit, instead of the ship damage.
+Some of these Crises are continuing. They will
+continue to plague the ship until a PC can solve them
+with the Deal With a Crisis general action. Usually this
+involves a skill check at difficulty 10, but multiple PCs
+can choose to take the Deal With a Crisis action to cooperate in resolving the problem that round.
+Some of these Crises are acute. The PCs must resolve them before the end of the ship’s next turn or else
+something very bad will happen.
+A ship can accept only one Crisis per round, not
+including the Into the Fire or Keep it Together captain
+actions which may be taken at the captain’s discretion.
+Thus, if the ship is hit twice, only one of those hits can
+be converted into a Crisis unless the captain uses one
+of these actions. A ship accepts a Crisis if any of the
+department heads requests it, even if the rest of the
+heads don’t want one. Thus, if the ship’s main gun is hit,
+the gunnery chief can request a Crisis to prevent the hit
+even if the rest of the crew was against it.
+To simplify ship combat, NPC ships do not normally accept more than one Crisis per space combat,
+at most. They usually just take the damage or negative
+effects of hits straight until facing imminent ruin.
+
+Handling Crises
+
+To resolve a Crisis, a PC needs to take the Deal With
+a Crisis general action on their department turn. They
+must explain what they are doing to solve the problem
+to the GM, who will then tell them what combination
+of attribute and skill they should roll. The usual difficulty of resolving a crisis is 10, though the GM may
+increase or decrease that difficulty by up to 2 points
+either way depending on how bad the Crisis is and how
+useful the PC’s plan is to resolve it.
+If the PC succeeds in the roll, the Crisis is ended.
+Continuing Crises no longer apply their penalty to the
+ship, and acute Crises are defused before disaster can
+strike. If they fail, a continuing Crisis is unchanged and
+an acute one is yet unresolved.
+More than one PC can try to resolve a Crisis, either
+making an independent attempt if they have a relevant
+skill, or using their talents to aid the main responder
+with the usual rules for aiding another’s skill check.
+The Deal With a Crisis general action can also be
+used to get a scene’s worth of general activity aboard
+the ship. If a xenomorphic monster suddenly breaches
+the ship’s hull during a battle with its alien mothership,
+two of the PCs might take the Deal With a Crisis action
+to spend a scene battling the beast in the guts of the ship
+while the rest of the party tries to keep the ship fighting.
+
+Running a Crisis
+When a Crisis hits a ship, the GM should describe
+it in a concrete way. A Crew Lost crisis, for example,
+may be described as “A damage control squad has
+been trapped in the engine room and temperatures are rising dangerously high.” A Hull Breach
+might be described as “That last hit drove a support column through a capacitor bank; it’s about
+to explode.” It should be described as a specific
+problem that threatens the ship.
+In turn, when a PC chooses to Deal With a
+Crisis, they should indicate what it is exactly that
+they’re trying to do. A PC with Fix might declare
+that they’re trying to pump coolant into the engine room, or a telekinetic PC might try to forcibly
+eject the capacitor bank before it can explode.
+Don’t worry about being too technically precise with descriptions, or painstakingly deciding
+whether the ship has available coolant supplies
+or whether the capacitor is one ton or two. Decide whether or not the plan the PC is declaring
+is plausible or not in the general sense, and set the
+difficulty accordingly.
+Extremely good plans or applicable abilities
+might make the Crisis resolution check as easy as
+difficulty 8, while a very marginal plan that doesn’t
+seem likely to help might be difficulty 12. Whatever you do, keep it quick; don’t drag it out in play.
+
+SPACE COMBAT •117
+
+SHIP COMBAT ACTIONS
+Every PC can take one or more actions per ship round.
+PCs who are department heads can pick actions from
+their department. Any PC can pick from the general
+actions. Some actions prohibit any other act that round.
+Most actions have a cost in Command Points.
+Usually, some PCs choose to Do Your Duty or go Above
+and Beyond to generate Command Points, while others
+then spend them on actions for their department. All
+unspent Command Points are lost at the round’s end.
+NPC ships usually have a base number of Command Points they can spend each round, and may pick
+actions freely to spend them. For simplicity, NPC ships
+can’t usually generate more Command Points with
+their actions and can’t normally take Captain actions.
+
+Bridge Actions
+
+Escape Combat (4 CP): Roll an opposed Int/Pilot or Dex/
+Pilot skill check plus your ship’s Speed against the
+fastest opponent’s skill check plus their ship’s
+Speed. On a win, all enemy ships gain one point
+of Escape. If an enemy ship gets three points, after
+three uses of this maneuver, your ship gets away
+from that ship and is no longer in combat with it.
+Evasive Maneuvers (2 CP): Roll Int or Dex/Pilot against
+difficulty 9 to add your Pilot skill to the ship’s AC
+until its next turn. Usable once per round at most.
+Pursue Target (3 CP): Opposed Int/Pilot or Dex/Pilot
+skill check plus Speed against the target ship’s skill
+check plus Speed. On a win, you shed one point
+of Escape rating the target ship may have on you.
+
+Captain Actions
+
+Into the Fire (0 CP): Accept a Crew Lost Crisis and gain
+your Lead skill plus one in Command Points. You
+may do this at most once per round.
+Keep It Together (0 CP): Nullify a successful enemy hit
+and roll a Crisis instead. You can use this action
+in Instant response to an enemy hit but you may
+only use it once per round.
+Support Department (0 CP): Choose a department. One
+action that department takes will require 2 fewer
+Command Points. You can do this once per round.
+
+Comms Actions
+
+Crash Systems (2 CP): Roll an opposed Int/Program
+check against a targeted ship. On a success, it starts
+its next turn with a Command Point penalty equal
+to your Program skill.
+Defeat ECM (2 CP): Roll an opposed Int/Program
+against a targeted ship. On a success, any attacks
+this round by your ship against the target get a hit
+bonus equal to twice your Program skill.
+Sensor Ghost (2 CP): Succeed on a difficulty 9 Int/Program check to gain your Program as an AC bonus
+until the next turn. Usable once per round at most.
+
+Engineering Actions
+
+Boost Engines (2 CP): Roll Int/Fix versus difficulty 8. On
+a success, the ship’s Speed is increased by 2 until
+the start of the ship’s next turn.
+Damage Control (3 CP): Roll Int/Fix versus difficulty
+7. On a success, repair a number of lost hit points
+equal to your Fix skill times 2 for fighter hulls, 3
+for frigates, 4 for cruisers, and 6 for capital-class
+hulls. Each attempt of this action after the first in
+a fight increases its difficulty by a cumulative +1.
+Emergency Repairs (3 CP): Roll Int/Fix versus difficulty
+8. On a success, a disabled system is repaired or
+a damage-degraded drive has its rating increased
+by 1. Destroyed systems cannot be fixed this way.
+
+Gunnery Actions
+
+Fire All Guns (3 CP): Gunners fire all weapons mounted
+on the ship, designating targets as they wish.
+Fire One Weapon (2 CP): A gunner fires a single ship’s
+weapon of their choice.
+Target Systems (1 CP): A Fire One Weapon action you
+take this round may target a ship’s weapons, engine, or fittings the GM decides are vulnerable.
+Such targeted attacks take -4 to hit. On a hit, do
+half damage before applying Armor. If damage
+gets through the system is disabled or drive is
+degraded by 1 level. Disabled systems hit again
+are destroyed. You may take this action more than
+once to aim additional shots you may fire.
+
+General Actions
+
+All these general actions are exclusive; if you take one
+of these actions you can do nothing else in the round,
+either before or after you take the action.
+Above and Beyond (0 CP): Push yourself to help the ship
+or its crew. Pick an attribute and skill check and
+explain how you’re using it to help the ship. If the
+GM agrees, roll it against difficulty 9. On a success,
+gain your skill level in Command Points plus one.
+On a failure, take -1 Command Point.
+Deal With a Crisis (0 CP): Explain what you are doing
+to solve a Crisis and roll the relevant skill check.
+The difficulty is usually 10, plus or minus 2 depending on the situation and the effectiveness of
+your action. On a success, the Crisis is resolved.
+You may also use this action to aid another PC in
+resolving a Crisis, or to take one scene’s worth of
+other actions around the ship.
+Do Your Duty (0 CP): The ship gains 1 Command Point.
+PCs who head more than one department can act
+only in one of them; the rest automatically take
+this action. If invoked by a PC, they must name
+some plausible act the PC is doing to be useful, and
+can’t do the same act two rounds in a row.
+
+118• SPACE COMBAT
+
+SHIP CRISES
+Once per round, a ship may choose to accept a Crisis
+instead of taking an enemy hit. They must choose to
+do so immediately after damage is rolled, and only one
+player needs to request the Crisis to get it even if the
+rest of the party doesn’t want it. Once the Crisis is accepted, the hit is negated and the GM rolls on the table.
+The captain may also choose to voluntarily accept
+a Crisis through their Keep It Together or Into the Fire
+department actions. Use of these actions doesn’t count
+against the one-voluntary-Crisis-per-round maximum.
+Some Crises are continuing. They will apply a
+penalty to the ship that continues until some PC successfully performs a Deal With a Crisis action.
+Other Crises are acute. They inflict no immediate
+negative consequence, but if the PCs don’t resolve it
+by the end of the next combat round, an unpleasant
+consequence will ensue. The Crisis is then removed.
+The same Crisis rolled more than once will stack
+on the ship, though hits to empty cargo holds or dry
+fuel tanks may not be much of a problem to the ship.
+
+Dealing With a Crisis
+
+Any PC can Deal With a Crisis by taking that general action and describing what they’re doing to solve
+the problem. They then roll an applicable skill check
+against difficulty 10, possibly modified by up to plus or
+minus two depending on the GM’s judgment of their
+general plan and its likelihood of being helpful. On a
+success, the Crisis is resolved. All Crises are considered
+resolved at the end of an engagement.
+
+Crises
+
+Armor Loss: The hit melted an important patch of ship
+armor, cracked an internal support, or exposed a
+sensitive system. Until resolved, the ship’s Armor
+rating is halved, rounded down.
+Cargo Loss: The hit has gored open a cargo bay, threatening to dump the hold or expose delicate contents to ruinous damage. If not resolved by the end
+of the next round, lose d10*10% of the ship’s cargo.
+Crew Lost: Brave crew risk their lives to keep damaged
+systems operating. Describe the danger they face.
+If the Crisis is not resolved by the end of the next
+round, 10% of the ship’s maximum crew are incapacitated, not counting any Extended Life Support
+fittings. Half these crewmen are dead or permanently disabled, and the other half return to duty
+in a week. Extended Medbay fittings halve the number of dead and crippled. If the ship has run out
+of NPC crew when it takes this Crisis, a random
+PC must roll a Physical save; on a success, they
+lose half their hit points, while on a failure, they
+are mortally wounded. If not stabilized by the end
+of the ship’s turn through some PC taking a Deal
+With A Crisis action to heal them, they will die.
+
+d10
+1
+
+Ship Crisis
+Armor Loss
+
+Type
+Continuing
+
+2
+
+Cargo Loss
+
+Acute
+
+3
+
+Crew Lost
+
+Acute
+
+4
+
+Engine Lock
+
+Continuing
+
+5
+
+Fuel Bleed
+
+Acute
+
+6
+
+Haywire Systems
+
+Continuing
+
+7
+
+Hull Breach
+
+Acute
+
+8
+
+System Damage
+
+Continuing
+
+9
+
+Target Decalibration
+
+Continuing
+
+10
+
+VIP Imperiled
+
+Acute
+
+Engine Lock: The ship’s engine has been jammed or
+control circuits have gone non-responsive. Until
+resolved, no bridge actions can be taken, though
+the pilot can still perform general actions.
+Fuel Bleed: The ship’s fuel tanks have been holed or
+emergency vents have been force-triggered by
+battle damage. If not resolved by the end of the
+next round, the ship will jettison all fuel except the
+minimal amount needed for in-system operation.
+Haywire Systems: Critical command links have been
+damaged or disordered by the hit. Until resolved,
+the ship starts each round at -2 Command Points.
+Multiple such Crises can stack this penalty, crippling a ship until the Crises are resolved.
+Hull Breach: The hull has been damaged in a way that is
+currently non-critical but is about to tear open an
+important compartment or crumple on vital systems. If not resolved by the end of the next round,
+the ship will take damage: 1d10 for fighter-class
+hulls, 2d10 for frigates, 3d10 for cruisers, and 4d10
+for capital hulls, all ignoring Armor.
+System Damage: One of the ship’s systems has been
+cooked by the hit. The GM randomly picks a
+weapon, fitting, or engine; that system is disabled
+as if hit with a targeted shot, with drives suffering
+a 1 point drive level decrease. Disabled systems hit
+by this Crisis or drives reduced below drive-0 are
+destroyed and cannot be repaired during combat.
+Target Decalibration: The gunnery computers are
+hopelessly confused and cannot lock the ship’s
+weaponry on a target until this Crisis is resolved.
+VIP Imperiled: Shipboard damage threatens a random
+PC or important NPC. That victim must immediately roll a Physical saving throw; on a success,
+they lose half their hit points, and on a failure they
+are mortally wounded. NPC crew can make a free
+attempt to stabilize the downed VIP using their
+usual NPC skill bonus. If the NPC fails, and no PC
+takes a Deal With a Crisis action to successfully stabilize them by the end of the ship’s turn, they die.
+
+SPACE COMBAT •119
+
+The Thunder of the Guns
+The free merchant Grendel finds herself engaging the
+Sacred Wrath, a patrol boat of the Luminous Hegemony determined to stop the Grendel before it can
+deliver its cargo of military supplies to the rebel outpost that contracted the ship. Captain Wilhelmina
+Stokes knows she’s substantially outclassed by the
+patrol boat, but she trusts her comrades and is determined to blast her way through.
+The combat begins with an initiative roll. The
+Grendel’s pilot rolls 1d8 plus the best of his Intelligence or Dexterity modifiers, getting a 6. The
+Wrath’s pilot rolls a 4, so Grendel goes first.
+Grendel starts her turn with 0 Command Points.
+Captain Stokes decides that she’ll act first among the
+crew, and uses the Support Department action to aid
+the gunnery department; one action the gunner
+takes will be 2 Command Points cheaper than usual.
+The ship still has no Command Points, however, so Captain Stokes tells the comms chief to go
+next. Feeling daring, the comms chief decides to go
+Above and Beyond to help the ship, overclocking the
+ship’s computing core. The GM decides this is an
+Int/Program skill check, so the comms chief rolls it
+against difficulty 9. He fails his first roll, but uses his
+Expert class reroll benefit to try again, and gets it the
+second time. The ship gains 3 Command Points for
+the comms chief’s Program-2 skill.
+Stokes considers letting the gunner blaze away
+now, but she wants to go for a real torrent of fire to
+open the fight, so she asks the bridge pilot to act next
+to build more Command Points. He chooses to Do
+Your Duty, adding 1 CP and declaring that he’s lining
+the ship up for the shot.
+Three Command Points aren’t enough for the
+captain, so despite the gunner’s entreaties, she chooses for the engineer to go next. She also plays it safe,
+deciding to Do Your Duty and feed power to the guns.
+Lastly, there’s a sixth PC in the crew, a storyteller with absolutely no applicable space-faring skills.
+Even though he is no department head, the captain
+nominates him to act next, since every PC gets to act
+each round. Able to take only general actions, the
+storyteller chants a mighty lay of battle to encourage
+his comrades on to glory. The GM lets him roll a
+Cha/Perform skill check to go Above and Beyond, and
+he succeeds, adding 3 more Command Points from
+his Perform-2 skill.
+Now, at last, with 8 Command Points, the captain gives the gunner her signal. The gunner decides
+that it’s absolutely critical to defang the patrol boat
+before it can open up with its plasma beam. He
+chooses to Target Systems with his attack, spending
+1 CP. He knows the free merchant’s sandcaster has
+no chance of piercing the patrol boat’s armor, but
+his multifocal laser can cut through the ship’s plat-
+
+ing. Thus, instead of trying to fire the sandcaster this
+round, he decides to blaze away exclusively with the
+laser, using the Fire One Weapon action. Firing one
+weapon costs 2 Command Points and he has 5 left,
+plus the captain’s Support Department action to give
+him a zero-cost shot.
+The gunner is a grizzled Warrior and uses his
+class ability to make the first shot an automatic hit.
+He rolls 1d4 for damage, +1 for his Dexterity modifier, and gets a 3. The multifocal laser’s armor-piercing
+quality of 20 overwhelms the patrol boat’s Armor
+of 5, but since he’s Targeting Systems, his damage
+is halved, rounded up. The patrol boat takes 2 hit
+points of damage… but its plasma beam is now disabled until the boat’s crew can perform repairs.
+The gunner’s not satisfied; he wants that gun
+wrecked. He Fires One Weapon again for 2 CP, Targeting Systems once more for 1 CP, rolling a hit roll at
+-4 and using his Shoot skill and Dexterity attribute to
+modify his attack bonus. He hits with a 15 and does
+another 2 damage, destroying the gun.
+The GM decides that the patrol boat’s captain
+is willing to go to extremes to prevent this, and lets
+him accept a Crisis instead. The GM rolls 1d10 and
+gets the Hull Breach crisis; if the boat can’t resolve
+it by the end of the next round, it’ll take 2d10 hit
+points of damage that ignores Armor, but for now
+the gunner’s second hit is negated. The gunner has
+2 CP left, so he burns those and his captain-supplied
+free shot on two more attacks, both of which miss.
+The round ends, and if the Grendel had any CP left it
+would lose them now.
+Being a properly-trained military crew, the
+Sacred Wrath has 5 Command Points. Her captain
+knows that her absolute priority is getting her gun
+back online, so he spends 3 points to do Emergency
+Repairs from the engineer actions. The GM rolls her
+crew’s default +2 skill bonus and gets a 9, enough to
+fix the plasma beam and remove its disabled status.
+That leaves the NPC ship with 2 Command
+Points left, which is just enough to open fire. The
+gunner blasts away with the plasma beam, using his
+hit bonus of +4 to get a 17, enough to hit the Grendel.
+The plasma beam does 12 points of damage to the
+free merchant, its AP 10 defeating the target’s Armor.
+Captain Stokes can’t handle a hit like this and
+immediately accepts a Crisis. The GM rolls an Armor
+Loss result, halving the Grendel’s already-sad Armor.
+The next round then begins. The PCs have the
+edge, as the Wrath is going to need to Deal With a Crisis or take a heavy hit at round’s end. If the Grendel’s
+gunner can’t shut down that plasma beam, however,
+the free merchant runs the risk of eating more hits
+than it can survive… or trying to evade those hits and
+rolling a Crisis her crew can’t handle.
+
+

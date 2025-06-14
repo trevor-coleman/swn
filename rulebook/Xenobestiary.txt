@@ -1,0 +1,2250 @@
+XENOBESTIARY
+A band of interstellar adventurers can expect to encounter a wide range of creatures in the course of their
+travels. Whether the hungry fauna of an uncharted
+planet or the trigger-happy gunmen of an alien organ
+smuggler, a GM needs to have the relevant statistics at
+hand to manage probable hostilities.
+
+Handling Potential Combat
+
+Before picking foes from this chapter, however, a GM
+should make sure that the enemies chosen and the
+perils generated are appropriate for the situation. This
+does not mean that the enemies have to be an “appropriate” combat challenge for the PC group, one that
+they have a reasonable chance of defeating. It means
+that they should be appropriate to the location and role
+they fill in the setting.
+If there’s a stretch of wilderness adjacent to a human community, a party-eating hellbeast should not
+be lairing there without some notice by the locals. If
+such an unstoppable horror does exist secretly in the
+wilderness, the fact that it is hidden should be somehow
+explained or meaningful. NPCs notice hazards next
+door, and PCs who pay attention should hear about
+that danger before they end up walking into its cave.
+In the same vein, if the PCs run into a bunch of
+street thugs, the hooligans should not be exhibiting
+Spartan discipline and crack military expertise unless
+the PCs have gone slumming on a planet of genetic
+super-soldiers. The goons might actually not be much
+of a combat threat at all, and dangerous only for the
+potential grudges the PCs could earn in executing them.
+Lastly, don’t add combat encounters that are unavoidable. There are very few realistic situations where
+the only possible result is a gun battle. A group of trigger-happy mercs might happen to be sitting directly on
+top of the party’s objective, but if there’s no way to lure
+them away or sneak past them– or worse, if you’re not
+prepared to allow the PCs to try to lure them away or
+sneak past them– then the players will learn not to try
+to solve problems with anything but a hot gun barrel.
+Combat in Stars Without Number is dangerous.
+Every squeeze of a trigger risks killing a novice adventurer, and even a veteran of countless heroic deeds
+can get mowed down in a hurry by a half-dozen goons
+with mag rifles. If your adventures funnel the PCs into
+near-unavoidable firefights or saber-toothed alien
+monsters, the PCs are going to suffer casualties. A certain degree of death can add spice and excitement to a
+game and help make player choices feel more meaningful, but inevitable gory disembowelment in the third
+inescapable pirate brawl of the day is just tedious.
+
+The Reaction Roll
+
+One of the GM’s most important tools for managing
+encounters with NPCs is the reaction roll. Whenever
+the PCs first meet with a creature or NPC, the GM
+should roll 2d6 and consult the following table.
+2d6
+
+Reaction Result
+
+2
+
+Hostile, reacting as negatively as is plausible
+
+3-5
+
+Negative, unfriendly and unhelpful
+
+6-8
+
+Neutral, reacting predictably or warily
+
+9-11
+
+Positive, potentially cooperative with PCs
+
+12
+
+Friendly, helpful as is plausible to be
+
+The result should be taken in context. If the PCs
+just happen to run into a pack of hab-complex gangers, a positive result might simply mean the gangers
+think it’s a bad idea to interfere with the PCs. That
+same result when meeting a bored starport bureaucrat
+might mean she’s feeling magnanimous, and is willing
+to help the PCs accomplish their purpose. In general,
+low results make the situation more hostile than the
+predictable baseline, while high results make the NPC
+more friendly or cooperative than they might normally
+be under the circumstances.
+Reaction rolls are important because they help a
+GM adjudicate a situation in a potentially surprising or
+interesting way. If the PCs are crossing a radioactive
+badland crawling with violent scavenger tribes, the
+GM might just reflexively assume that every scavenger
+band they encounter is immediately going to reach for
+their scrap-guns. A reaction roll is a cue for the GM
+to pause and think, and a friendly result can open up a
+situation with far more potential novelty than the sixth
+consecutive gun battle. Conversely, even if everything
+seems to suggest an NPC should be helpful and friendly
+toward the PCs, a negative result can get the GM thinking about potential reasons why the NPC is so hostile
+towards supposedly allied PCs.
+An NPC or a group’s initial reaction is not the last
+word, of course. A silver-tongued PC might be able to
+talk them out of hostility or induce them to do the party
+a favor, and more pragmatic offers of money, favors,
+or incipient violence might also sway their attitudes.
+Such manipulation happens after the initial attitude is
+determined, however, and what exactly the PCs offer
+or threaten will usually depend on how the NPC is initially reacting to them.
+
+194• HUMANITY
+
+HUMANITY
+Humans are likely to form the great majority of the
+NPCs that the heroes encounter, whether as patrons,
+companions, or the targets of their guns. In many cases
+a GM won’t need to bother with combat statistics for an
+NPC. They might be so unmartial that they can present
+no serious threat to a party of hardened freebooters, or
+so distant that there’s no real chance that they’ll become
+engaged in combat. In others, however, it’s necessary to
+decide how much a particular NPC is worth in a fight.
+The example human opponents here assume
+normal baseline humanity. Those who have received
+extensive cyberware, gengineering, psychic augmentation, or other exotic treatments may have abilities far
+in excess of their normal brethren, including unique
+powers and special abilities.
+
+Degrees of Danger
+
+Most human NPCs on advanced, civilized planets are
+of almost no use in combat. By societal training and
+personal inclination, they are almost incapable of responding to lethal threats with a quick, decisive reaction. Citizens of less peaceful societies, where violence
+is a commonplace, will have more useful reactions
+to such hostilities. Men and women who have been
+hardened to combat by experience or training will also
+respond more effectively.
+The combat statistics provided here cover the usual range of human martial talent. At the bottom are
+those soft citizens of peaceful worlds and at the top
+are those engines of mortal ruin who are the most dangerous men and women in the sector. Even more heroic appetites for slaughter can be found in those who
+have been altered by genetic engineering or advanced
+technical modifications, but such paragons of pain are
+special cases to be judged by the GM accordingly.
+When assigning combat statistics to NPC, it’s important not to be influenced by the personal prowess of
+the PCs. If country estate is protected by ordinary security guards, then the guards should be ordinary security
+guards, whether or not the party could reasonably hope
+to defeat a dozen such protectors in open combat. The
+universe does not scale to the PCs. If a party of untested novices finds themselves facing a squad of elite
+killers, they should run. If those famously lethal killers
+encounter the PCs six levels later, their fame might get
+abbreviated in a hurry by the PCs’ grim new expertise.
+This even-handedness is important in creating a
+plausible, functional world for the players to operate in.
+If they know that challenges will be scaled up or down
+to give them a “fair fight” then it hardly matters what
+challenges they choose to face. Planning to carefully
+avoid excess dangers and betting on overcoming more
+reasonable threats makes their choices meaningful in
+your game world, and encourages the players to engage
+carefully with the setting.
+
+Using the Table
+
+The table provided in this section gives you benchmarks for some basic NPC types and then a selection
+of specific examples. When you’re creating your own
+NPCs, you can use the benchmarks to get an idea of
+where they should be, and the specific examples can be
+pulled during play when you’re in need of quick opponents to stock your adventures.
+The table provides simplified combat statistics.
+NPCs don’t normally have foci, specific skill levels,
+attribute scores, or any of the other details that add
+complexity to PCs. Nor do they have classes or class
+abilities. Instead, simpler totals and summaries are used
+to account for these other factors. You can give NPCs
+class powers and foci if you wish, or even create an
+NPC as if they were a full-fledged PC, but that kind
+of detail and work is more than most NPCs are worth.
+HD is the NPC’s hit dice. The overwhelming majority of NPCs have only one hit die. Only men and
+women with a history of surviving violence and dealing with mortal peril should have more than one hit
+die. Just because an NPC is “important” doesn’t mean
+they have more hit dice. The CEO of an interstellar
+megacorp probably has one hit die, as does the president of the planetary government. Conversely, the
+grizzled warrior-king of a lostworlder monarchy or a
+poison-wary bishop of a church where promotion is
+through mortality might have half a dozen hit dice. The
+most danger-hardened legends of a sector should have
+about ten hit dice, or more if they’ve been somehow
+altered by gengineering or advanced technology. An
+NPC’s hit points are rolled at 1d8 for each hit die.
+AC is the NPC’s usual Armor Class. This will vary
+with the armor they’re wearing, and some NPCs might
+have an included +1 or +2 bonus if they’re especially
+dexterous, but the listed score reflects the armor they
+usually have on. By default, this is street armor that
+is not obvious to casual inspection. Some entries are
+marked “primitive”, meaning that their armor is ignored by advanced weapons, while others are marked
+“combat”, meaning that they wear very obviously protective armor. Such NPCs might need to wear less obvious gear in some social situations. A few of them are
+marked “powered”, meaning that the NPC normally
+has access to some kind of advanced power armor that
+renders them immune to primitive weapons. When
+creating your own NPCs, give them the armor that is
+appropriate to their role and situation.
+Atk is the NPC’s attack bonus. For the sake of simplicity, this includes any attribute modifiers, skill bonus,
+or other extra lethality that the NPC might have earned.
+For most NPCs, their attack bonus is equal to their hit
+dice. Martial NPCs might have an additional bonus on
+top of that, or even attack twice with each Main Action.
+
+HUMANITY •195
+General NPC Type
+Peaceful Human
+Martial Human
+Veteran Fighter
+Elite Fighter
+Heroic Fighter
+
+HD
+1
+1
+2
+3
+6
+
+AC
+10
+10
+14
+16 (combat)
+16 (combat)
+
+Atk.
++0
++1
++2
++4
++8
+
+Dmg.
+Unarmed
+By weapon
+By weapon +1
+By weapon +1
+By weapon +3
+
+Move
+10m
+10m
+10m
+10m
+10m
+
+ML
+6
+8
+9
+10
+11
+
+Skills
++1
++1
++1
++2
++3
+
+Saves
+15+
+15+
+14+
+14+
+12+
+
+Specific Examples
+Barbarian Hero
+Barbarian Tribal
+Gang Boss
+Gang Member
+Gengineered Killer
+Legendary Fighter
+Military Elite
+Military Soldier
+Normal Human
+Pirate King
+Police Officer
+Serial Killer
+Skilled Professional
+Warrior Tyrant
+
+HD
+6
+1
+3
+1
+4
+10
+3
+1
+1
+7
+1
+6
+1
+8
+
+AC
+16 (primitive)
+12 (primitive)
+14
+12
+16
+20 (powered)
+16 (combat)
+16 (combat)
+10
+18 (powered)
+14
+12
+10
+20 (powered)
+
+Atk.
++8
++2
++4
++1
++5
++12 x 2
++4
++1
++0
++9
++1
++8
++0
++10
+
+Dmg.
+By weapon +3
+By weapon
+By weapon +1
+By weapon
+By weapon +1
+By weapon +4
+By weapon +1
+By weapon
+Unarmed
+By weapon +2
+By weapon
+By weapon +3
+By weapon
+By weapon +3
+
+Move
+10m
+10m
+10m
+10m
+15m
+10m
+10m
+10m
+10m
+10m
+10m
+10m
+10m
+10m
+
+ML
+11
+8
+9
+7
+10
+12
+10
+9
+6
+11
+8
+12
+6
+11
+
+Skills
++3
++1
++2
++1
++2
++5
++2
++1
++1
++3
++1
++3
++2
++3
+
+Saves
+12+
+15+
+14+
+15+
+13+
+10+
+14+
+15+
+15+
+12+
+15+
+12+
+15+
+11+
+
+Dmg is the damage the NPC inflicts in combat. For
+human combatants, this depends on the weapon they’re
+using, with most ordinary men and women carrying
+no real weapon. Very capable warriors might do additional damage on top of the weapon’s roll, from +1
+to +4 points.
+Move is the distance the NPC travels when they
+take a Move action in combat. For humans, this is ten
+meters, though gengineered or other boosted subjects
+might be able to move faster than this.
+ML is the NPC’s Morale score, their likelihood of
+retreating when in danger. When an NPC faces unusual peril, they need to make a Morale check on 2d6.
+If they roll equal or less than their Morale score, they
+withstand the danger and continue fighting. If they roll
+more than their Morale, they break. Poorly-trained
+combatants will simply run for their lives or beg for
+mercy, while more hardened ones will make a fighting
+withdrawal to a place of safety. PCs never need to make
+Morale checks.
+Most groups will need to make a Morale check
+the first time one of their members is killed or disabled,
+and the first time it looks like they’re losing the fight. If
+they succeed in both checks, they’ll continue fighting as
+long as it doesn’t seem hopeless. NPCs with no martial
+aptitude at all must also make a Morale check when
+lethal combat begins; on a failure, they’re too shocked,
+frightened, or disbelieving to do anything useful, and
+will stand frozen, run in terror, or try to ignore what’s
+obviously happening around them.
+
+Skills summarizes the NPC’s general aptitude at
+skill checks related to their profession or role. When
+the NPC needs to make a skill check or compete in an
+opposed skill check, they may add this skill bonus to
+their roll if the test relates to role. If the activity has
+nothing especially to do with what the NPC would be
+good at, they cannot add this bonus, and just roll the
+skill check unmodified. Most NPCs will have this at
++1, while skilled professionals will have it at +2, and
+exceptionally gifted and expert NPCs will have it at +3
+or +4. Sector-wide legends will have it at +5.
+Saves are the single saving throw score that all
+NPCs use whenever they need to make a saving throw.
+Whether Mental Physical, or Evasion, the NPC rolls
+against this single target. Most NPCs have a save score
+of 15 minus half their hit dice, rounded down.
+
+Psychics and Special Traits
+When building NPCs with psychic powers or other special abilities, it’s usually not worth the effort
+of rolling them up like PCs. Just assign them a few
+abilities you think will matter during the game and
+give them a third of their hit dice in maximum
+Effort, rounded up.
+In the same vein, gengineered humans or
+rare virtuosos might have abilities akin to Foci or
+unique powers. Just assign them as fits the situation, and don’t worry about making them like PCs.
+
+196• ROBOTS AND VIS
+
+ROBOTS AND VIS
+The prevalence of robots varies between sectors. Some
+positively teem with sentient VIs programmed for various purposes, while others have hardly any robotics at
+all beyond industrial automation. The creation of particularly sophisticated bots, especially sentient-seeming
+VIs, is critically influenced by the local metadimensional energy environment. With an unfriendly higher-order energy shadow, the intricate quantum flux of VI
+“brains” cannot function properly. True AIs are immune
+to such vagaries, but True AIs are almost impossible
+to create in bulk, even for the lost industries of the
+Terran Mandate.
+
+Expert Systems and VIs
+
+In the vast majority of sectors, robots are operated
+by expert systems programmed to carry out a specific
+kind of work. These expert systems may feign human
+intelligence, but they are non-sentient and incapable
+of dealing with environments and situations outside
+their normal operational scope. The more sophisticated and expensive the expert system, the more flexible
+it is about handling events within its purview.
+In some sectors, however, the local environment
+is suitable for the creation of extremely sophisticated
+expert systems bolstered by quantum neural nets. It is
+a constant point of debate over whether the resultant
+“Virtual Intelligences” are truly self-aware or simply
+give a perfect impression of such. Some sectors hold
+the former, and grant VI full human rights, forbidding
+their makers from implanting behavioral imperatives.
+Most sectors believe the latter, using VIs as a labor
+force programmed to deeply enjoy their utilitarian
+function. VIs in such sectors can be bought, sold, and
+mistreated much as any other piece of property.
+While VIs have or can mimic human-level intelligence, they can also be programmed with behavioral
+imperatives or curbs, giving them a deep urge to perform a certain kind of work or an unbreakable inability
+to carry out certain kinds of acts. Most service VIs are
+programmed with imperatives to love their work and
+be thoroughly happy in carrying it out, as well as with
+curbs against harming human beings or allowing themselves to be damaged. These impulses are overwhelming, but not especially nuanced; the more specific and
+complex the programmed psychological limit, the more
+prone it is to failure or misguidance.
+VIs are not True AIs. They do not have a quantum
+identity core and they are inexorably tied into the specific hardware and chassis they were created to operate.
+While mods and adjustments can be made to this “birth
+body”, the VI cannot be transplanted into a new chassis,
+nor can they survive the destruction of their body.
+VIs are much more difficult to produce than
+non-sentient expert systems. The quantum growth
+process is much more reliable and tractable than that
+
+used to create a True AI, but it still fails annoyingly
+often. As a consequence, even sectors where the environment allows the creation of VIs often prefer to
+use simple, cheap, reliably-replicable “dumb” expert
+systems for mundane tasks.
+
+Expert System Bots
+
+The robots listed in the adjacent table are standard-issue expert system bots, each one equipped with a level
+1 expert system. Each expert system is programmed to
+handle a particular role: security, tour guidance, industrial labor, household cleaning, personal companionship, child care, or some other general field. The most
+basic programming and cognitive hardware counts as
+a “level 1” system. More sophisticated work allows for
+level 2 programming, up to level 4 as the maximum for
+most TL4 sectors.
+Each level of expert system beyond the first comes
+with upgrades to the robot’s durability, danger management, and exception handling skills. They also add to
+the robot’s base cost; a level 2 expert system doubles a
+robot’s base cost, for example. The table below gives
+the various expert system levels, the hit die and saving
+throw bonus granted by each, the attack bonus a given
+level adds, and the skill check modifier to be applied to
+checks related to the bot’s intended function.
+Level
+1
+2
+3
+4
+
+HD
+Base
++1
++2
++4
+
+Atk.
+Base
++1
++2
++4
+
+Skill
+Base
++1
++1
++2
+
+Save
+Base
+1 lower
+1 lower
+2 lower
+
+Cost
+Base
+x2
+x4
+x8
+
+Whenever the bot is put in a position not covered by its programming, it needs to make a confusion
+check. The GM rolls 2d6, adding its skill bonus, against
+a difficulty based on the strangeness of the situation.
+A situation partly within its usual compass might be
+difficulty 7, while a completely uncovered event would
+be difficulty 9, and a situation that is both completely
+uncovered and clearly dangerous would be 11. On a
+success, the expert system does something reasonable
+and in line with its function. On a failure, the expert
+system does what it’s normally meant to do in an inappropriate way or direction.
+Damaged bots can be repaired by someone with at
+least Fix-0 skill and a postech toolkit. One unit of spare
+parts and fifteen minutes of work can repair a number
+of lost hit points equal to the bot’s expert system level.
+Expert system bots reduced to zero hit points are destroyed and cannot be salvaged.
+Expert system bots do have “morale” of a kind;
+when destruction seems imminent, most are programmed to retreat. This can be overridden by owners.
+
+ROBOTS AND VIS •197
+Robot Type
+Janitor Bot
+Civilian Security Bot
+Repair Bot
+Industrial Work Bot
+Companion Bot
+Soldier Bot
+Heavy Warbot
+
+HD
+1
+1
+1
+2
+1
+2
+6
+
+Virtual Intelligences
+
+AC
+14
+15
+14
+15
+12
+16
+18
+
+Atk.
+N/A
++1
++0
++0
++0
++1
++8 x 2
+
+Dmg.
+N/A
+1d8 stun
+1d6 tool
+1d10 crush
+1d2 unarmed
+By weapon
+2d8 plasma
+
+In sectors where VIs can still be manufactured, the
+price is equivalent to ten times the cost of an equivalent expert system bot. Thus, a stock companion bot
+upgraded with VI programming would cost 25,000
+credits. To give a top-of-the-line heavy warbot with
+a level 4 expert system VI wiring would leave the bot
+costing a tremendous four million credits.
+VI wiring does not integrate well with conventional expert system programming. The same static
+procedures and protocols that can make a level 4 expert system so good at its specific task are difficult for
+a human-like VI intellect to process, and it requires
+intensive and expensive cognitive reinforcement to
+allow the VI to take advantage of these resources. As a
+consequence, it is very rare for VIs to be implanted in
+high-end expert system bots.
+Most VIs do not develop additional skills or competencies, nor do they exhibit personal growth or
+changes in personality. They are the way they have
+been programmed, even if inhibitor curbs and behavioral imperatives are absent.
+Some VIs, however, are different. For whatever
+inexplicable reason, these VIs are capable of learning
+and growing as human beings are. They lack the potential for godlike intelligence possessed by True AIs
+and they cannot make effective use of supplementary
+cognitive resources as True AIs can, but over time and
+with experience, these VIs can become as skilled and
+capable as any human.
+Such “clever” VIs are an annoyance in sectors
+where VI bots are common. Buyers don’t want their
+receptionist bots to suddenly decide they’d rather be
+poets, and while behavioral imperatives and inhibitor
+curbs still have an effect on clever VIs, some of these
+bots can “out-think” their limits and sidestep these
+blocks. Some worlds allow clever VIs to exist as free
+citizens, while others consider them public nuisances
+to be scrapped if they wander off from their owners.
+VI bots are more durable than their ordinary cousins. If reduced to zero hit points by trauma less than a
+hit with a Heavy weapon or similar complete ruin, they
+can be repaired with 24 hours of work by one tech with
+Fix-0. Jury-rigging a downed VI back into operation is
+much faster, allowing them to “heal” with spare parts
+as if they were an ordinary bot. If reduced to zero HP
+again before a 24-hour overhaul, however, they perish.
+
+Move
+5m
+10m
+10m
+5m
+10m
+10m
+15m
+
+ML
+8
+12
+8
+8
+6
+10
+10
+
+Types of Bots
+
+Skills
++1
++1
++1
++1
++1
++1
++2
+
+Saves
+15+
+15+
+15+
+14+
+15+
+14+
+12+
+
+Cost
+1,000
+5,000
+5,000
+2,000
+2,500
+10,000
+50,000
+
+While a wide range of bots are available on the market
+in most sectors, the selection given here cover most of
+the robots likely to be encountered by PCs. Most civilian bots are programmed to avoid harming humans,
+but such programming can be overridden by sufficiently determined owners.
+Janitor bots are ubiquitous, cheap and reliable
+droids that can clean up detritus and keep an office,
+street, or private home tidy. Their small size and limited array of tools make them useless in a fight save as
+targets or convenient explosives carriers.
+Civilian security bots are sometimes found guarding locations. They’re not smart enough to handle
+complex human interactions, but their tireless determination is convenient when guarding a place that few
+humans are expected to enter. Most models use a stunning touch that non-lethally disables targets, while less
+gentle bots are equipped with guns or melee weapons.
+Repair bots and industrial work bots are found at
+work sites and in starships or other complex technical
+edifices. Expert system repair bots are extremely efficient about dealing with standard failures and damage,
+but they can “panic” when faced with crises beyond
+their usual operating parameters. Industrial work bots
+are slow, tough, heavy machines most often used for
+lifting and manipulating heavy objects in need of laser
+welding or other shaping.
+Companion bots range from nannybots and petbots
+to specially-designed “companions” for other purposes.
+The latter are strictly regulated on many worlds, either
+to encourage reproduction, to quash their use for reprehensible urges, or out of perceived fears of societal
+decay and decadence.
+Soldier bots are designed on humanoid lines so as
+to easily use standard human vehicles and equipment.
+The chaotic and confusing nature of warfare leaves
+most soldier bots of somewhat limited utility without
+a human bot wrangler to direct them, but when a wave
+attack is needed, a simple self-preservation toggle can
+be flipped off and the iron horde can be aimed at a foe.
+Heavy warbots are ogreish engines of war with integral plasma guns and the ability to attack twice with
+each Main Action. In addition, most are capable of
+mounting a Heavy weapon which may be fired in lieu
+of the plasma guns. They’re most often used as mobile
+heavy weapons platforms for squads in the field.
+
+198• ROBOTS AND VIS
+
+Robots In Your Campaign
+
+A GM is not obligated to include VIs or ubiquitous robotics in her campaign. Adding these elements can have
+a significant effect on a setting, and sometimes they
+can prove to be a distraction from the sort of play that
+the group wants to have. A GM is always well within
+her rights to simply decide that the sector lacks the
+necessary metadimensional environment for VI production and is short on many of the critical minerals
+for producing expert system bots. Outside of industrial
+assembly lines and mindless extraction work, labor is
+performed by humans.
+Sometimes, however, a GM will want to include
+VIs in her sector, either because she’s emulating a genre
+where intelligent robots are a commonplace, or because
+a particular player wants to play a PC VI, or because
+she simply likes them.
+If a GM does decide to add VIs to her setting, she’ll
+need to decide how common they are and how most
+of the worlds in the sector treat them. The simplest
+way to do this is to gently gloss over the economic and
+social impact of VIs. The world operates much as it
+does today, with humans doing most of the work and
+VIs serving only occasional functions as showpieces
+of the wealthy or off-stage laborers in industry. They
+are programmed to love their work, they’re “happy” in
+a robotic sense, and the various worlds of the sector
+give little consideration to wider issues of VI rights or
+the morality of programmed VI behavioral imperatives.
+
+Other GMs will want to increase the impact of VIs
+on particular worlds. Perhaps some of them have largely replaced their low-skilled members with VI laborers,
+and the replaced humans are either frustrated and angry or kept pacified by robotic dole payments. Other
+worlds might dispute the lack of rights that most VIs
+have, insisting that a VI ought not to be programmed
+with behavioral imperatives at “birth”, but be allowed
+to choose its own functionality. Of course, it might be
+that almost no one would bother to build them in that
+case, but such crusaders might believe it better that a
+VI never be “born” than that it be created in servitude.
+In brief, the GM can pick some aspect of VI existence
+and use the conflicts inherent in it to spice up the sector.
+Expert system bots are less disruptive to a campaign because they come with less moral baggage that
+a society has to deal with. It’s easy for a GM to simply
+decide that most expert system bots are only smart
+enough for simple industrial tasks or menial labor, and
+that the impact they have on the local economy doesn’t
+necessarily force it into some strange futuristic pattern.
+There are still poor janitors, grouchy middle-aged security guards, and cynical street-corner prostitutes in
+an age of robotic labor.
+Some PC groups will be very keen to buy robots
+of their own, the better to help in their adventures. So
+long as you keep an expert system’s limitations in mind,
+this shouldn’t be disruptive, and it would make an excellent sink for a party’s excess money.
+
+VI PLAYER CHARACTERS •199
+
+VI PLAYER CHARACTERS
+In campaigns where the GM allows it, a player can
+choose to make a VI as a player character. They do this
+by spending their free focus pick on one of the origins
+listed below. These origin foci have only one level, and
+normally can only be taken during character creation.
+In exceptional cases, a human PC transformed into a
+full-conversion cyborg might be allowed to take it later.
+
+Special VI Rules
+
+All VI PCs have the same attributes, hit points, abilities,
+and character classes as humans do, but normal VIs
+cannot be Psychics nor take the Partial Psychic class
+option for Adventurers. They are created the same
+way as any other human PC and start out at first level.
+While they may have been built to be a particular type
+of bot, they use their own statistics, and not those for
+their type on page 197. VIs that are not wearing armor
+normally have Armor Class 10, just as humans do.
+VIs need neither sleep, eat, nor drink, requiring
+one Type B cell per week of operation away from readily-available current. They are immune to vacuum but
+suffer degradation from radiation as humans do. They
+cannot be poisoned or diseased by normal forms of
+toxin. They can be reprogrammed, altering or erasing
+their personality and behavioral limits, but such mental remodeling takes at least an undisturbed month to
+execute by someone with at least Program-1 skill. Most
+VIs will fight to their destruction to avoid such a fate.
+VIs can be healed with spare parts and the work of
+someone with Fix-0 skill. VIs can always repair themselves, even without the requisite skill. Each unit of
+spare parts heals lost hit points equal to the VI’s character level and takes fifteen minutes to apply. VIs cannot
+normally be affected by biopsionic healing effects.
+VIs reduced to zero hit points but not entirely
+smashed are incapacitated and Badly Damaged. Removing this quality requires 24 hours of work by a
+technician and at least one unit of spare parts, after
+which damage can be repaired as normal. As a field
+expedient, a tech can jury-rig a Badly Damaged VI in
+the field, healing it with spare parts at the normal rate
+and speed. If such a bot is reduced to zero hit points
+again while Badly Damaged, however, it must make a
+Physical save or be permanently destroyed.
+VIs are intimately connected to their specific hardware, and cannot be transplanted into new forms. Cosmetic alterations can be made, however, and equipment
+can be grafted into the VI’s chassis. Such built-in equipment costs twice as much as a stand-alone component
+and takes a week to properly integrate into the VI’s
+system. A VI can have a total number of encumbrance
+points worth of additional gear grafted onto it equal to
+half its Constitution score, rounded down. Such gear
+may require its own separate power source or ammunition supply. VIs cannot make use of cyberware.
+
+Android
+
+You were built as an android, a robot indistinguishable from a human without a medical-grade inspection.
+Most androids are “companion” bots, though other VIs
+with roles that involve significant human interaction
+may also be built as androids. Minor scuffs and cuts
+don’t reveal your robotic nature, but if reduced to zero
+hit points, your unnatural innards are obvious.
+Level 1: Gain a bonus skill related to your intended function. You have all the usual traits and abilities of
+a VI robot.
+
+VI Worker Bot
+
+You were built for industrial or technical labor, where
+a human face was an unnecessary luxury. Most such
+VI bots are humanoid, if only to more conveniently
+manipulate human-scale devices, but their inhuman
+nature is obvious.
+Level 1: Gain a bonus skill related to your intended
+function. Choose an attribute associated with your
+work and gain a +1 bonus to its modifier, up to a
+maximum of +2. You have all the usual traits and
+abilities of a VI robot.
+
+VI Vehicle Bot
+
+Some VIs were instantiated in actual vehicles rather
+than conventional humanoid bodies. Most were purely
+synthetic in origins, but some sectors retain the techniques for brain transplants into non-human bodies.
+Some polities have been known to conduct full-body
+cyberneticization of soldiers into tanks, warships, attack helicopters, and other military vehicles. As a vehicle, you are usually equipped with manipulator arms
+that can be used on adjacent objects. You may operate the individual elements of your vehicle as if they
+were your own limbs, attacking once per round with a
+mounted weapon of your choice.
+Level 1: Gain Pilot as a bonus skill. Pick a vehicle acceptable to the GM, usually a drone, hoverbike
+or gravcar. You become that vehicle. You retain
+your usual attributes but gain the vehicle’s Armor
+score. You are Armor Class 10, modified by your
+Dexterity score. A tech can improve your Armor
+Class by aftermarket modifications, adding up to
+three times their Fix skill to your Armor Class at
+a cost of 1,000 credits per point of improvement.
+You use the vehicle’s hit points until your
+own normally-rolled hit point score exceeds that
+number. Many VI vehicles purchase a drone or
+humanoid robot body to carry on board and employ for remote operation in areas unsuitable for
+a vehicle; you can pilot a single surrogate body in
+lieu of your own Main Action, provided there’s no
+ECM to jam the control transmissions.
+
+200• BEASTS
+
+BEASTS
+Most alien beasts are simply flavor for a world, odd
+creatures to decorate the background and provide some
+light interest for the players. Sometimes, however, a
+GM needs a genuinely dangerous beast, either to occupy some perilous wilderness or to threaten the PCs
+and their allies.
+When creating a beast, work from your needs.
+Build the creature with the statistics and role that you
+need for your adventure, and then decorate those basic
+statistics with the creature’s appearance, special hazards,
+and behavior.
+
+Creating Beasts
+
+To build an alien beast, it’s easiest to start with some
+Terran referent. A completely alien and exotic creature
+with no relation to any earthly life form tends to be
+very difficult to explain to players and it can be awkward for the GM to guess its normal behavior.
+The tables on the opposite page provide some basic suggestions for styling the essential animal features
+of the beast. Start with the “Basic Animal Features” to
+get the creature’s general theme, and then move on to
+identify its body plan. You might then add on some
+novelty to its limbs or skin, decide the main weapon it
+uses to hunt prey or defend itself, and choose a general
+size for the animal.
+The basic animal features serve only as a starting
+point for your creativity. The creature might have a
+mammalian general plan, but you could then decide
+that its “fur” is a stiff, glassy mineral exudate that slashes
+anything that bites or strikes it. It can be helpful to stick
+to one basic animal type for a given alien world, with all
+the creatures the PCs encounter sharing similar broad
+features or common traits.
+While a fully-developed ecosphere might include
+countless different evolutionary strategies, sticking to
+just one or two in play helps characterize a world and
+give a sense of consistency to its fauna. If all the dangerous creatures of Scutum have thick moss-colored
+armor plating, then the PCs will be able to guess that a
+strange creature with thick moss-colored armor plating
+is probably an import from Scutum.
+Beast Type
+Small Vicious Beast
+Small Pack Hunter
+Large Pack Hunter
+Large Aggressive Prey Animal
+Lesser Lone Predator
+Greater Lone Predator
+Terrifying Apex Predator
+Gengineered Murder Beast
+
+HD
+1 HP
+1
+2
+5
+3
+5
+8
+10
+
+AC
+14
+13
+14
+13
+14
+15
+16
+18
+
+Atk.
++1
++1
++2
++4
++4 x 2
++6 x 2
++8 x 2
++10 x 4
+
+Swarms
+
+Sometimes a beast is only meaningfully dangerous in
+vast packs, like a swarm of ants or a squealing tide of
+ravenous rats. Other times beasts are found most often
+in huge herds rather than as lone individuals.
+To create such a swarm, take the basic animal type
+and quadruple its hit dice. For tiny creatures that have
+only 1 hit point, give the swarm 4 hit dice. The swarm
+gets its usual attack against anyone in contact with it,
+but on a miss, it still does the minimum possible damage to the target unless the victim is immune to its
+attacks. Thus, a rat swarm that has a +1 attack bonus
+and does 1d2 damage on a hit would roll that attack
+against every PC caught in the swarm. On a hit, they
+would do 1d2 damage, and a miss would still do 1 point.
+Any attack against the swarm automatically hits,
+assuming the weapon is useful. Firing a pistol into a
+creeping carpet of ants is singularly useless, but waving
+a flaming torch in front of rats or throwing a grenade
+into the swarm might help dispatch the pack.
+
+Beast Behavior
+
+Many alien creatures will have no inherited aversion
+to humans, and will not fear them. Predators will hunt
+them if they look like food and prey will ignore them
+if they don’t look like predators.
+In combat, predators will only fight to the death if
+maddened or cornered. Sane predators cannot afford to
+get hurt while hunting. In addition to the usual times
+for Morale checks, beasts must make an additional
+check the first time their “prey” harms the predator.
+
+Importing Creatures
+
+Aside from the beasts you can create with these charts,
+an endless supply of fantasy monsters and exotic creatures await lifting from other old-school games. Almost
+any of the “monsters” found in traditional old-school
+role-playing games can be imported almost unchanged
+into Stars Without Number, requiring little more than
+an attack bonus and Armor Class conversion. Reskin
+them to fit your needs, and voila; you have your beast.
+Dmg.
+1d2
+1d4
+1d6
+1d10
+1d8 each
+1d10 each
+1d10 each
+1d10 each
+
+Move
+10m
+15m
+15m
+15m
+15m
+10m
+20m
+20m
+
+ML
+7
+8
+9
+8
+8
+9
+9
+11
+
+Skills
++1
++1
++1
++1
++2
++2
++2
++3
+
+Saves
+15+
+15+
+14+
+12+
+14+
+12+
+11+
+10+
+
+BEASTS •201
+
+STYLING THE BEAST
+
+d10
+1
+
+Basic Animal Features
+Amphibian, froggish or newtlike
+
+You can use these tables to assemble a general look for
+your beast. First, roll on the basic animal features table
+to get a general “theme” for the creature. If you ever
+need inspiration for particular details about the creature, just refer back to its basic theme.
+Next, roll on the tables below to get additional inspiration. Note that you don’t have to roll on any particular one. Instead, just use them to fill in the blanks
+and spark your own creativity, editing things when
+necessary to fit the creature’s intended role.
+
+2
+
+Bird, winged and feathered
+
+3
+
+Fish, scaled and torpedo-bodied
+
+4
+
+Insect, beetle-like or fly-winged
+
+5
+
+Mammal, hairy and fanged
+
+6
+
+Reptile, lizardlike and long-bodied
+
+7
+
+Spider, many-legged and fat
+
+8
+
+Exotic, made of wholly alien elements
+
+9-10
+
+Roll twice and mix the results.
+
+d6
+
+Body Plan
+
+Limb Novelty
+
+Skin Novelty
+
+Main Weapon
+
+Size
+
+1
+
+Humanoid
+
+Wings
+
+Hard shell
+
+Teeth or mandibles
+
+Cat-sized
+
+2
+
+Quadruped
+
+Many joints
+
+Exoskeleton
+
+Claws
+
+Wolf-sized
+
+3
+
+Many-legged
+
+Tentacles
+
+Odd texture
+
+Poison
+
+Calf-sized
+
+4
+
+Bulbous
+
+Opposable thumbs
+
+Molts regularly
+
+Harmful discharge
+
+Bull-sized
+
+5
+
+Amorphous
+
+Retractable
+
+Harmful to touch
+
+Pincers
+
+Hippo-sized
+
+6
+
+Roll twice
+
+Varying sizes
+
+Wet or slimy
+
+Horns
+
+Elephant-sized
+
+Prey
+
+Scavenger
+
+Moves in vigilant herds
+Exists in small family groups
+They all team up on a single foe
+They go berserk when near death
+They’re violent in certain seasons
+They’re vicious if threatened
+Symbiotic creature protects them
+Breeds at tremendous rates
+
+Never attacks unwounded prey
+
+Behavioral Traits
+d8
+
+Predator
+
+1
+
+Hunts in kin-group packs
+
+2
+
+Favors ambush attacks
+
+3
+
+Cripples prey and waits for death
+
+4
+
+Pack supports alpha-beast attack
+
+5
+
+Lures or drives prey into danger
+
+6
+
+Hunts as a lone, powerful hunter
+
+7
+
+Only is predator at certain times
+
+8
+
+Mindlessly attacks humans
+
+d8
+
+Harmful Discharges
+
+d6
+
+Uses other beasts as harriers
+Always flees if significantly hurt
+Poisons prey, waits for it to die
+Disguises itself as its prey
+Remarkably stealthy
+Summons predators to weak prey
+Steals prey from weaker predator
+
+Poison
+
+Onset
+
+Duration
+
+1
+
+Acidic spew doing its damage on a hit
+
+1
+
+Death
+
+Instant
+
+1d6 rounds
+
+2
+
+Toxic spittle or cloud, use adjacent chart
+
+2
+
+Paralysis
+
+1 round
+
+1 minute
+
+3
+
+Super-heated or super-chilled spew
+
+3
+
+1d6 rounds
+
+10 minutes
+
+4
+
+Sonic drill or other disabling noise
+
+5
+
+Natural laser or plasma discharge
+
+4
+
+1d4 dmg per
+onset interval
+Convulsions
+
+1 minute
+
+1 hour
+
+6
+
+Nauseating stench or disabling chemical
+
+5
+
+Blindness
+
+1d6 minutes 1d6 hours
+
+7
+
+Equipment-melting corrosive
+
+6
+
+Hallucinations
+
+1 hour
+
+8
+
+Explosive pellets or chemical catalysts
+
+Harmful discharges usually use a normal attack roll and
+inflict the typical damage on a hit. At your discretion,
+some discharges may have additional effects, such as
+poison, gear destruction, ongoing acidic damage, or
+an explosive area of effect. Appropriate Physical or
+Evasion saving throws might be called for to avoid the
+worst of such perils.
+
+1d6 days
+
+You can roll three times on the table above to generate
+a poison for a creature, or pick to suit your needs. Most
+effects incapacitate a victim, though blindness or ongoing damage may not wholly disable a PC.
+PCs can usually attempt a Physical save to resist a
+poison. Toxins can be treated with a medkit or antidote
+stim. If the medic lacks the specific antidote to a poison,
+they can make an Int/Heal skill check to try to halt it.
+The difficulty is usually 9, with one check allowed.
+
+202• ALIENS
+
+ALIENS
+Exotic alien races are a staple of science fiction, and
+most GMs running Stars Without Number are going
+to want a few types of sapients to round out a sector.
+Some GMs might prefer to run a strictly human game,
+leaving humanity alone in this particular corner of the
+cosmos, but other GMs will want to have the details
+of a few alien races in hand, if only to help envision
+the kind of artifacts and ruins that they might have left
+behind. This section will discuss the role of aliens in a
+game and a process for creating your own alien races.
+
+The Use of Aliens in the Game
+
+When adding an alien race to your sector, it’s necessary to keep in mind the ultimate purpose you have for
+including them. A given species might be fascinating
+to you, but if they don’t actually help to accomplish
+something for your game it’s likely that the players will
+simply gloss over their existence. By having a concrete
+purpose in mind for a race you can ensure that the
+players have a useful reason to interact with them.
+Aliens are useful as antagonists. The classic “bugeyed monster” trope has survived for a reason; unthinkingly hostile and uncommunicative beings make great
+fodder for brute physical struggle. Making these monsters part of a sapient, tool-using species allows them to
+scale upward in threat the way no beast can, and continue to imperil even an experienced, well-equipped
+band of adventurers.
+Antagonism can take more forms than simple
+combativeness. Aliens can want things, and want them
+for reasons that would make no sense at all to a human.
+Biological imperatives, exotic religions, alien philosophies, and customs born on completely un-Earth-like
+worlds can all justify goals and purposes that would be
+entirely irrational for a human being. Humans might
+find themselves at cross purposes with these aliens
+without ever fully understanding why the beings are
+pursuing a given goal.
+From a GM’s perspective, this is a wonderful trait
+for building adventures. If you need aliens to pursue
+some goal, however bizarre, you can simply add a trait
+to them that makes that goal important. For example,
+if you need aliens to be obsessed with wiping out the
+humans on a given planet, you can simply decide that
+the planet is their ancestral homeworld, to which they
+must return every thousand years in order to perform a
+great spawning rite. The presence of the humans there
+defiles the world, and the aliens grow increasingly frantic as the time for the rite approaches.
+Aliens also make excellent patrons for many of the
+same reasons that they make good antagonists. You can
+give them a good reason to want almost anything, and
+players are unlikely to balk at it as unlikely or implausible. If you need to give the players a reason to go
+somewhere, do something, or find something, you can
+
+use aliens to drive the process. The matter might be
+so important to the aliens that they find themselves
+willing to employ human agents to accomplish their
+ends, or it may be that only humans have the numbers
+and strength to help them.
+Aliens are occasions for exploration and discovery. While this may not have the immediate adventure
+utility of an antagonist or a patron, one of the things
+about sandbox gaming that appeals to many players
+is the opportunity to go out and discover new things.
+The universe is full of bizarre and exotic beings, and
+there can be a lot of enjoyment in learning about their
+cultures and traits. Most players aren’t interested in a
+full-dress anthropological study of an alien race, but
+there is an excitement in visiting uncharted worlds and
+meeting strange and wondrous beings.
+In some cases, this exploration doesn’t even need
+live aliens. The universe is laden with numerous ancient alien ruins, and players can get a good conception
+of a long-lost race simply from examining what they’ve
+left behind. A GM with a firm grasp on a species’ psychology and physiology has much of what he needs to
+create their abandoned cities and outposts and to stock
+them with art, artifacts, and remnants for the enticement of exploring PCs.
+Humanoid species make the most widely useful
+aliens, and most of the species you create should probably be of that variety. Aliens that are too hard to understand tend to be more animate plot devices, operating
+by utterly incomprehensible rules and motivations.
+Human-like races allow more scope for diplomacy and
+response to an alien culture, because their societies are
+fundamentally comprehensible by humans.
+
+The Like and the Others
+
+Most alien races in the universe of Stars Without Number can be divided up into two different classes – the
+Like and the Others. The Like are those species with intellects and societies that are at least somewhat comprehensible to humankind. They may have exotic biologies
+and strange customs, but humans can understand their
+motivations and deal with them within a more-or-less
+comprehensible framework.
+The Others are those species that are simply too
+alien for human communication. Entities of sentient
+lithic structures, congeries of crystal, even intelligent
+waveform interactions created by the interplay of energies through alien rock formations… the Others are
+simply too different for humans to understand. Their
+goals are incomprehensible, their technology is often
+hard to even recognize, let alone use, and it’s possible
+that they don’t even realize that humanity is a sentient
+species. The Others are generally avoided if at all possible, though at times “wars” break out when an Other
+species vents anger on humanity for reasons unknown.
+
+ALIENS •203
+Other races are rare, but some xenologists have
+suggested that they may be much more common than
+humanity imagines. Places that would never support
+Like life might be teeming with the bizarre offspring
+of Other organisms, unnoticed because human scouts
+haven’t bothered to look in such unpromising places.
+Many Other species might not even be recognized as
+life by humanity.
+
+Alien Biology
+
+As a rule of thumb, it’s easiest to make Like aliens some
+flavor of humanoid. They may have a few extra limbs
+or somewhat different body geometry, but humanoid
+aliens tend to be easier to build and run than those
+with drastically different body types. There’s less need
+to adjust human assumptions about architecture, technology, and clothing than there would be for a species
+of six-legged centauroid mothmen. Of course, if you
+enjoy the prospect of working out the ramifications of
+having four gripping hands and organic wheels, you
+shouldn’t feel shackled to the humanoid shape.
+Aliens of the Other type can come in any shape or
+size, largely because they aren’t intended to be comprehensible. Their technology and architecture doesn’t
+need to have any link with human conceptions of such;
+some Others may not even use technology as humans
+understand it, but instead manipulate their environment with inborn abilities or subtype-creatures of their
+own species. Most Other species function as plot devices in a game, and it’s not necessary to put the same
+effort into detailing their “biology” if the species aren’t
+intended to make human sense in the first place.
+Humanlike aliens are just that; extremely close
+to humans in outward appearance. They might have
+unusual skin or hair coloration, different hair growth
+distributions, an odd number of fingers, cranial ridges,
+a novel skin texture, variant ear shapes, or different
+average body builds or sizes, but they largely appear
+like humans. Xenobiologists postulate that the human
+shape is simply a very successful evolutionary route on
+Earth-like planets, and other worlds with similar conditions are likely to produce similar sapients. Crank scientists tend to favor theories of pan-galactic Creators
+that spread humanlike shapes throughout space; these
+theories conspicuously fail to take into account the dramatically different DNA and internal organ makeup of
+many humanlike aliens.
+In general, it’s easiest to pick a particular real-world
+type of organism as a basic template for an alien race.
+The reality of their biology might be totally different,
+but using a terrestrial animal as a basic pattern can help
+you fill in details of structure and appearance that can
+otherwise be difficult to extemporize.
+Avian aliens favor birdlike features. Feathered
+tails, wings, beaks, drastic coloring differences between
+males and females, skin either partially or fully covered
+in feathers, hollow bones, and clawed feet and hands
+are all traits that might be present in an avian-flavored
+
+d6
+1
+
+Alien Body Traits
+Avian, bat-like, pterodactylian
+
+2
+
+Reptilian, amphibian, draconic
+
+3
+
+Insectile, beetle-like, spiderish, wasp-like
+
+4
+
+Mammalian, furred or bare-skinned
+
+5
+
+Exotic, composed of some novel substance
+
+6
+
+Hybrid of two or more types
+
+alien. Such avians might have remarkably good vision
+or show unusual talent as pilots thanks to an evolutionary predilection for thinking in three dimensions.
+Reptilian aliens can range from the classic “lizard man” look to a more subtle combination of
+pebble-scaled skin, membrane frills, broad bodies,
+cold-bloodedness, nictitating membranes, an exceptional sense of smell, thick claws, powerful builds,
+sharp teeth, and fine scales. Bodies may be broad and
+thick like that of a lizard, or perhaps sinuous like that
+of a snake. Reptilian aliens might be found especially
+on damp, watery worlds, and might be outright amphibious over all or part of their life spans.
+Insectile aliens are usually possessed of chitinous
+“skin” and one or more pairs of compound eyes. Membranous wings aren’t unknown, but are probably vestigial and useless on all but the smallest or lightest aliens.
+Insectile aliens might have sucking mouthparts if their
+primary food source is plant sap- or blood- or might
+use chewing mandibles instead for a more solid diet.
+Insectile aliens that function as a hive collective are
+something of a classic trope, but there’s no reason that
+a species can’t instead take after more solitary hunting
+insects such as beetles or spiders.
+Mammalian aliens might have very human-like
+appearances, or they might have fur, muzzles, claws, or
+quadrupedal modes of locomotion. Mammalian aliens
+are easy to conceptualize and describe, but if you want
+to play up the alienness of them, you’ll likely need to
+make sure they have some dramatic social or cultural
+difference, or some unique element of physiognomy.
+Exotic aliens are built out of parts and materials
+that aren’t normally found in Terran life forms. A humanoid might be composed out of a kind of organic plastic that makes up much of their home planet’s
+biochemistry, or be composed of an intricate array of
+interlocking crystals and woody organic elements. You
+should pick one or more materials that aren’t normally
+part of an animal’s body and have them play a major
+role in the alien’s biology. As a consequence, this kind
+of alien is probably highly dependent upon their home
+world for food and other biological necessities. If not,
+they likely spend a lot of effort synthesizing vital materials out of local supplies.
+Hybrid aliens combine aspects of two or more of
+the types described here, and you can mix and match
+their components to create some blend that suits your
+purposes. Such hybrids might exist in multiple environments, or be in a transitional evolutionary state.
+
+204• ALIENS
+
+Alien Psychology and Lenses
+
+There are many different ways to fabricate a useful and
+interesting alien race, ranging from careful development based on unique biologies or environments to
+more abstract methods of defining interesting traits.
+The method this section offers is intended to provide
+a GM with a few tools for producing alien races that
+feel sufficiently strange in play without leaving the GM
+groping to figure out how a given alien would react to
+a situation.
+The first step is to understand that a Like alien race
+is fundamentally human. They may be shaped differently, they may dwell in a radically different environment, but they think, feel, and desire largely as humans
+do. Human vices and virtues almost certainly exist in
+their society and they are susceptible to the same sort
+of temptations and provocations that move humans. If
+you want to know what an alien is like, the first thing
+to do is to think of what a human is like.
+The difference for aliens, however, is that they are
+very strongly influenced by one or two emotional or
+social traits, called Lenses. Everything about them, from
+the way their society is structured to the way they deal
+with strangers to the dreams they have for their own
+future revolves around these Lenses. The result is an
+alien culture that may not be deeply nuanced, but it is
+a culture that is very easily remembered by players and
+easily played by GMs. If you know that the two Lenses
+for the alien race of Churq are Collectivity and Fear,
+you know that a given Churq is going to be cowardly
+and intensely social. Courageous individuality will be
+noxious or incomprehensible to it and its social roles
+will revolve around the safety of the collective against
+the dreadful perils of the outside world.
+Lenses should not be taken as the last word about
+a species. GMs who want to spend more time on the
+species’ psychology can elaborate as they wish, and all
+of the guidelines given for a Lens can be easily adjusted
+to whatever flavor the GM wishes to use. GMs can pick
+or roll one or more Lenses from among the following
+list, or generate their own as desired.
+d20
+
+Lens
+
+d20
+
+Lens
+
+1
+
+Collectivity
+
+11
+
+Journeying
+
+2
+
+Curiosity
+
+12
+
+Joy
+
+3
+
+Despair
+
+13
+
+Pacifism
+
+4
+
+Domination
+
+14
+
+Pride
+
+5
+
+Faith
+
+15
+
+Sagacity
+
+6
+
+Fear
+
+16
+
+Subtlety
+
+7
+
+Gluttony
+
+17
+
+Tradition
+
+8
+
+Greed
+
+18
+
+Treachery
+
+9
+
+Hate
+
+19
+
+Tribalism
+
+10
+
+Honor
+
+20
+
+Wrath
+
+Collectivity
+These aliens might be hive-like in their social structure,
+natural communists, or simply very closely attached
+to the customs and interests of their social group. The
+importance of the individual is thought to be minimal,
+and members will cheerfully and readily sacrifice themselves for the good of the group. To willfully refuse to
+accept the consensus of the whole is an unspeakable
+sin, and to be separated permanently from one’s social
+group is a fate worse than death.
+Curiosity
+This species is insatiably curious, constantly prying into
+the affairs of those around them. Spying for this race
+carries no opprobrium whatsoever, and while they may
+attempt to maintain privacy for certain doings, all assume it a given that matters will be discovered in the
+end. They love to explore new places and meet new
+sapients, and while they may be brutally indifferent to
+the fates or treatment of these beings, they’re always
+eager to observe them. Their societies tend to operate
+in a profoundly transparent manner, and some view
+the keeping of secrets as an automatic indication of
+malicious intent.
+Despair
+These aliens have fallen prey to a pervasive sense of
+failure and loss. Perhaps they are the remnants of a
+once-glorious empire or the survivors of some cataclysmic disaster for their people. What they once loved
+has been destroyed, and their sources of comfort and
+courage have failed them. Superficially, they might resemble those species that crave pleasure and indulgence,
+but their disports only serve to numb them to the existential gloom that taints the species. Their leadership
+is desultory at best, and sophisticated social structures
+tend to degrade into loose, diffident associations as
+their members no longer have the hope necessary to
+perpetuate them.
+Domination
+These aliens are consumed by a desire to conquer and
+rule, both each other and any other species unfortunate
+enough to share the stellar neighborhood. Some among
+them can be fair and thoughtful rulers, but others are
+nothing more than vainglorious tyrants. Among themselves, society tends to be organized in intricate and
+clearly-marked hierarchies, with advancement progressing along both official and illicit routes. These
+aliens constantly test their leaders, forcing them to
+maintain their position through strength and cunning.
+Faith
+Such a species is driven by religious concerns, organizing their society around their faith and its clergy. Most
+such species have a single faith. Others make do with a
+number of different religions, all followed with a fierce
+devotion. Challenges to this faith are not met with
+
+ALIENS •205
+outrage so much as blank incomprehension; for these
+beings, the truth of their religions is so self-evident
+that it seems irrational to ever question it. Those who
+most perfectly embody the teachings of their creeds
+tend to become rulers, their lives and will taken as an
+example for others.
+Fear
+These aliens live in constant fear. They may be natives
+of some lethal death-world, survivors of a species-annihilating cataclysm, or simply evolved from weak and
+easily-devoured prey animals. The world is terrifying
+to them, and their societies are based around hiding
+or protecting themselves from these dreads. The most
+revered members are those who are best hidden or
+best protected, and who can give protection and concealment to their fellows. Most of these races are quite
+cowardly by human measure, but occasionally they can
+be driven into a frenzy of terror in which they fight
+with the courage of the doomed.
+Gluttony
+These aliens devour. They are rapacious consumers,
+whether it is of food, living space, energy, or some other resource. They will do almost anything to increase
+access to this resource and are deeply indifferent to the
+needs of other species, and often of their own fellows
+as well. To consume greatly is glorious for this species,
+with the greatest and most respected members being
+those who have the greatest stockpiles of the resource
+to consume, or who provide the most to their followers.
+The purpose of existence is to eat, and all good things
+are understood as different modes of devouring.
+Greed
+These aliens are enormously greedy. Status depends almost entirely upon personal wealth, and their lives are
+spent in accumulating the greatest stores of value possible. Some focus on production, creating the wealth for
+their own benefit, while others seek to make a profit on
+trade. Some such greedy species have intricate property
+laws to safeguard what is accumulated, while others
+are little more than bandits among their own kind, too
+avaricious to let law interfere with their greed.
+Hate
+There is something these aliens hate, and it defines
+their culture completely by their opposition to it. It
+may be these aliens are rampant xenophobes, loathing all who are not of their own kind. There may be
+acrid religious or political divisions among them, with
+individuals identifying completely with their sect and
+despising all the others. It could be an ancient enemy
+among the stars, a rival race that has wounded them
+so greatly as to be unforgivable. These aliens may spar
+and maneuver for power among their own kind, but all
+goals and individuals are to some degree subordinated
+to the needs of their immortal hate.
+
+Honor
+Whatever sort of society the race has, it is one obsessed
+with honorable behavior. Members will obey the social
+mores and expectations of their roles at all costs. Personal sacrifice for the sake of upholding these principles
+earns a member glory and esteem. Gaining advantage
+by means of inappropriate behavior or failing in one’s
+duty is shameful, and an entity that has compromised
+its honor too greatly may prefer death to continued
+existence.
+Journeying
+This species has an incurable wanderlust. Perhaps they
+roam the stars in fleets of massive spike drive ships, or
+they may make steady circuits of the nearby stars to
+connect their worlds and exchange people among them.
+More technologically primitive species might sail the
+waves of alien seas or make nomadic journeys across
+the continents of their world. Few of these aliens can
+ever be happy in remaining in one place for long, and
+they are forever scouting new worlds and new lands
+simply for the pleasure of being there a little while.
+Joy
+These aliens are relentless bon vivants, constantly in
+pursuit of pleasure and enjoyable excitement. Beauty,
+grace, and the inspiration of passion are their highest virtues. Those who produce the most exquisite art
+or inspire the most extravagant delight have effective
+rule over their fellows, though such species tend to be
+loosely-organized at best. The brute necessities of life
+are acknowledged as a necessity, but their societies are
+willing to sacrifice a great deal of efficiency and practicality for the sake of immediate satisfaction.
+Pacifism
+The race is remarkably peaceful and nonviolent in
+nature. Few species survive while being totally averse
+to violent self-defense, but this race will never choose
+violence against living creatures as a means of gaining
+advantage or retaliating to wrongs. Among their own
+kind, violence is abhorrent and unnatural, and it is
+probable that the species is either herbivorous or subsists by photosynthesis. A pacifist race may be peaceful, but there are more ways to do injury than through
+personal violence; the cession of trade, the destruction
+of property, and the incitement of divisions and confusion among their enemies are all tools this race knows
+well. Pacifist species can also be quite oppressive at
+times, with an underclass constitutionally incapable
+of defending their possessions or privileges with force.
+Pride
+These aliens are suffused with an enormous pride in
+their own culture and species, and instinctively consider themselves to be superior to the lesser beings they
+may encounter. A prideful species is not necessarily a
+hostile one; some such races have a certain sense of
+
+206• ALIENS
+noblesse oblige toward their “lessers”, and some species’
+pride shows in a resolute refusal to lower themselves
+to deceit, cruelty, or avarice. More often, however, this
+pride manifests in a casual contempt for the interests of
+their inferiors, and a single-minded focus on personal
+advancement and glory among their own kind.
+Sagacity
+These aliens love intellectual pursuits above all others.
+Logic, wisdom, and erudition are all prized as the best
+and most glorious expressions of their nature, and their
+rulers are invariably sage-kings of remarkable depth
+and breadth of understanding. Such understanding
+does not necessarily stand in well for good judgment,
+and sagacious alien civilizations are notorious for overreaching in their ambitions. Stupidity and ignorance
+are moral failings to this race, and some of them treat
+very harshly those species that they do not feel to be
+their intellectual peers.
+Subtlety
+Such a species is enormously cunning and patient in
+character, willing to endure years of suffering calmly
+in order to bring about some intricate plan. They shun
+open display of emotions or opinions, masking such
+things behind protocols of bland correctness. To reveal
+one’s true opinion about some contentious matter is
+a mark either of profound trust or a sign of obvious
+incipient treachery. The true ruler of such a species is
+almost never who it seems to be.
+Tradition
+This species devoutly reveres the past and the ways of
+their ancestors. Social interactions are stiffly ritualized,
+and society is ornate with the customs, traditions, and
+habits of their forebears. Innovations of any kind are
+viewed with deep suspicion, and the most favored solutions to problems are those which have been employed
+before. Members of this species are intensely uncomfortable when forced to exercise their own judgment,
+
+and doing so in contravention to the past is almost impossible for them. Only when faced with a completely
+novel situation is any degree of personal initiative likely
+to be shown, and even in that case, the alien will try to
+reconcile it to some existing tradition.
+Treachery
+This species is uniformly treacherous and untrustworthy. Bargains and agreements are kept only so long
+as they are useful to both participants, and truthfulness
+is simply a tool to be placed next to deceit. There is
+no sense of acrimony or anger among these aliens at
+the inevitable betrayals that make up their societies;
+they consider it good and laudable that an individual should seek its own best interests, and those who
+can most perfectly manipulate each other are naturally
+those most worthy to rule, for the health of the society
+directly influences the power of its head.
+Tribalism
+The aliens are fiercely tribal, divided up into myriad
+small groups that are as often at war with each other
+as they are cooperating. Such tribes tend to be built
+along familial lines, though some tribes are volitional in
+nature, representing different political or philosophical
+groups. A given alien’s loyalty is to its tribe before its
+species, and it is not uncommon for their enemies to
+use one group against another.
+Wrath
+The race is hot-tempered, prone to fits of personal violence. Disputes are settled by force, though rarely to
+the point of death among their own kind. Outsiders
+can expect swift and bloody retaliation for any insult
+or slight, and the prospect of death rarely intimidates
+these beings. Their chief mode of emotional expression
+is anger; wrath at obstacles, fury at enemies, and a slow
+smoldering burn when neither are available.
+
+ALIENS •207
+
+Alien Social Structure
+
+Once the Lenses for a species are chosen, you’ll need
+to establish a few important facts about the aliens. You
+need to make some decisions about their social structure, the goals of their leadership, their relationship
+with humanity, and the sort of examples that the PCs
+are likely to encounter.
+Determining the social structure for the aliens can
+be done by answering a few basic questions and elaborating outward from the answers to whatever degree of
+detail you find useful or enjoyable. In most cases, whatever social structure you hit on will apply only to those
+aliens in a specific sector. Far-flung races might have
+wildly different modes of rule among their different
+fragments, assuming that biological necessity doesn’t
+push them to certain kinds of societies.
+First, decide how the species is ruled. You can roll
+randomly on the table below, or simply pick something
+that seems appropriate.
+d8
+
+Social Structure
+
+1
+
+Democratic
+
+2
+
+Monarchic
+
+3
+
+Tribal
+
+4
+
+Oligarchic
+
+5-6
+
+Multipolar Competitive
+
+7-8
+
+Multipolar Cooperative
+
+Democratic: The species has a broadly democratic organization, with individual members having a
+formal say in the choice of leadership. This voting need not necessarily be based on numbers; it
+might be a vote with money, military power, religious influence, possession of certain biological
+traits, or any other metric that makes sense to the
+aliens. Whatever the specific currency, politics
+for this race tends to revolve around persuasion
+and diplomacy rather than use of military force to
+determine species-wide policies.
+Monarchic: The species is ruled by a single being, with
+such rule justified by custom, biological imperative, divine mandate, personal influence, or familial ties. Such monarchic societies almost invariably
+have a “noble” caste of some kind to act as administrators and officials for the monarch, and they usually make up the pool from which new monarchs
+are chosen. The specific title for a monarch will
+usually depend on the justification for their rule:
+Chieftain, Emperor, Broodmother, High Priest,
+Dictator, Chief Elder, or so forth.
+Tribal: The species is organized into multiple tribes
+based on lineage, philosophy, or geographical location. Tribes set their own laws and policies, and
+are prone to intense internal struggles over resources and status. There may exist a “paramount
+tribe” that inflicts its will upon the others through
+
+brute strength or traditional esteem. Tribal leaders tend to be personally distinguished, and usually have earned their position through personal
+accomplishments and the broad support of their
+tribemates.
+Oligarchic: The species is led by a number of powerful
+or revered figures who work in nominal harmony.
+Individual oligarchs might have their own goals,
+but no single member has the strength to enforce
+its will upon the whole. These oligarchs might be
+the product of hereditary inheritance, or individual members of the species might one day aspire
+to join their numbers.
+Multipolar: The species has more than one leadership
+organization. Roll 1d6; on a 1-2 it has two, 3-4
+indicates three, and 5-6 indicates four. Roll on
+this table the requisite number of times to determine the nature of these organizations. Some such
+multipolar institutions operate in parallel; a tribal
+organization headed by one gender, for example,
+that determines the division of goods while a
+monarchic head of a different gender makes decisions about the race’s relations with other species.
+Others are directly in conflict, such as a monarchy
+struggling against a democratic neighbor.
+Once you’ve determined the type of leadership
+the species favors, you can sort out any important
+details about their social structures. By default, you
+should assume that the aliens have some sort of analog for any job or role that humans find necessary.
+The Churq might be cowardly collectivists, but even
+they need plumbers, soldiers, and tax collectors. You
+can take whatever human society suits you as the base
+template and then interpret the relevant roles through
+the Lenses you’ve picked for the species.
+For example, if the Churq have the Lenses of Fear
+and Collectivism, their tax collectors might be honored exemplars of communal redistribution, judiciously
+taking from those who have excess in order to give to
+those who have less. The Churq gladly offer resources
+to the tax collector, because the offering proves that
+they producing excess resources, which proves to them
+that they are secure and safe in their plenty. A Churq
+who fails to produce for the collective suffers gnawing
+terror at the idea of dangerous scarcity and will redouble its effort to contribute to the group.
+Conversely, Churq soldiers might invariably be
+found in small groups, as an individual Churq is incapable of fighting effectively without the encouragement
+and safety of their brethren around them. They might
+specialize in terror attacks against enemy civilians, their
+intimate acquaintance with fear encouraging them to
+use it as a weapon against their enemies… their unarmed, noncombatant enemies, preferably. A war between Churq collectives might never have a single open
+battle, but instead a sequence of ambushes and terror
+attacks until one collective loses its nerve and submits.
+
+208• ALIENS
+
+Alien Technology
+
+Alien races tend to come in two different technological
+flavors. Some are quite technologically primitive, either
+through being too new to sapience to have had time
+to develop scientific arts, or because they are unfortunate enough to inhabit a very resource-poor world.
+Such aliens might demonstrate remarkable ingenuity
+in making the most of their surroundings, but some
+worlds make advancement prohibitively difficult for
+a species.
+Other aliens possess spike drives, advanced weaponry, fusion power, and all the other ornaments of a
+sophisticated star-faring civilization. These aliens are
+usually the remnants of a more expansionistic period,
+colonies and outposts that have evolved into homeworlds for the survivors of the civilization. This golden age is normally terminated by some kind of species-wide disaster, whether natural in nature or the
+result of savage internal warfare. These worlds are
+usually too absorbed in their own affairs or ennui to
+have much interest in expansion.
+Most advanced aliens have tech roughly equivalent
+to human TL4, though they’re often slightly superior
+in some areas while being somewhat worse in others.
+A few old, sophisticated races have the equivalent of
+TL5, though these species often produce devices and
+artifacts that are difficult for humans to use effectively.
+A handful of alien worlds show technology that is simply impossible for humanity to replicate at any known
+tech level, with artifices and creations that seem more
+magic than mundane science.
+
+Aliens in the Sector
+
+What role do these aliens play in the sector? Do they
+have their own sector homeworld, dominated by them
+and their kind, or do they instead live in enclaves on
+a human-ruled world? Do they live in orbital habitats,
+or convoys of massive spike drive ships? You should
+place the species according to your needs, preferably in
+a location that the players can be expected to eventually
+experience.
+You should also make a few quick decisions about
+how these aliens are generally treated by humans, and
+
+how they treat humans in turn. Some dangerous or
+obnoxious species might be unable to function in human societies, while others might be normal citizens
+on a sophisticated pan-racial planet. Some beings might
+be horrific or repellent to humans through no fault of
+their own, and subject to persecution by those who
+live around their “alien ghettos”. Such aliens are likely to respond to the misuse much as humans might,
+albeit in ways strongly influenced by their Lenses. A
+Wrathful species might respond with brutal violence
+toward persecutors, while Joyful ones might try to win
+their tormentors over by demonstrating the beauty and
+delight they can bring to their friends.
+
+Alien Motivation
+
+Individual aliens are likely to have as wide and varying a set of motivations as any human. Alien governments and ruling institutions, however, are liable to
+have more specific goals. Acquiring a new homeworld,
+ensuring the suppression of would-be pogromchiks,
+vengeance against a hated world or species, or any other such long-term goal would be suitable for an alien
+government.
+The broad goals of an alien government are usually
+obvious, but the subtle plans and maneuvers they use to
+accomplish these purposes can be less clear. PC groups
+can be commissioned by alien officials to perform acts
+or retrieve objects that have no immediate relevance,
+only to discover later that they played a crucial role in
+some enigmatic gambit. By the same token, they might
+stumble across some alien operation that has no obvious purpose, earning bitter enmity for their disruption
+of plans they never knew existed.
+In either case, there should usually be some way
+for the PCs to discover alien motivations, in the case
+that they actually care. It can be prohibitively difficult
+to negotiate with such beings without understanding
+their desires, and parties with little appetite for combat
+may be frustrated if they find their would-be counter-parties acting in an impenetrably obscure way. Some
+adventures might revolve heavily around the challenge
+of understanding an alien power’s true goals and the
+steps they’re willing to take to achieve them.
+
+ALIEN PLAYER CHARACTERS •209
+
+ALIEN PLAYER CHARACTERS
+If a GM decides to allow players to play members of an
+alien race, she’s going to need to do a little extra work.
+Each alien race is represented by a focus; to become
+a member of that race, the player spends their initial
+focus pick on choosing that origin. They then get the
+natural benefits of belonging to that alien species.
+As a general rule, the GM should pick two of the
+following benefits to make up an alien’s origin focus, or
+three if a couple of them are relatively minor perks. If
+the Vree-Tak are a Proud Warrior Race of aliens, they
+might have both an Aptitude for Violence, for example,
+and an Origin Skill related to combat.
+It’s also possible to apply particular weaknesses to
+an alien species as compared to a human baseline. Such
+weaknesses are rarely a significant game-balance consideration for PCs, however, as it’s common for players
+to choose such alien races and then select classes and
+roles that are unhindered by the species’ flaws. If you
+want to use a flaw as a game-balance tool in a species,
+make sure it’s broad enough to hinder a wide range of
+concepts, and not just disqualify a few roles.
+Aptitude for Violence
+All members of this species are good at hurting things.
+They gain a +1 bonus to their normal attack bonus.
+Thus, a 1st level alien Expert would have an attack bonus of +1 instead of +0, and a 1st level Warrior would
+begin with a +2 bonus.
+Environmental Native
+As a minor perk, the alien is able to survive in a relatively common hostile environment, such as underwater,
+in hard vacuum, amid lethal radiation, or so forth. If the
+alien requires this environment, it’s no net benefit at all.
+Innate Ability
+All members of this species have one or more natural
+abilities beyond those possessed by humans. Perfect vision in the dark, tracking by scent, wireless tech interfacing, a lack of need for food and water, or some other
+talent might apply. As a quick inspiration, you can look
+at the equipment or cyberware list and give them the
+natural use of 2-3 items. Optionally, you might give
+them an ability equivalent to a single psionic technique,
+plus one point of Effort to fuel it if needed.
+Natural Defenses
+The creature has a hard shell or sharp talons. The alien
+has a base Armor Class of 15 plus half their character
+level, rounded up. If you give them body weaponry
+such as claws or fangs, have it equivalent to a medium advanced weapon. Weaponry alone is a very small
+advantage, since it’s so easy to acquire otherwise, so
+you might not count this as a benefit if all you give a
+creature is a sharp set of teeth.
+
+Origin Skill
+All members of the species are particularly good at
+something. They might all be capable warriors, have
+unique technical aptitude, be persuasive speakers, or
+otherwise have a shared knack. Receive an appropriate
+skill as a bonus. Warrior-type races might be allowed
+to pick from either Punch, Shoot, or Stab.
+Psychic Aptitude
+These aliens are all psychically gifted. The PC must
+either be a Psychic or take the Partial Psychic class option from the Adventurer class. Their maximum Effort
+score is increased by one point.
+Shapeshifting
+The alien is either an amoeboid blob that can manipulate objects with extruded pseudopods and flow
+through small spaces, or it can actually mimic other
+species or objects. The former trait is a minor benefit
+at best, but the latter one might be sufficient to mimic
+biopsionic shapeshifting, or might have a more restricted range of possible shapes.
+Strong Attribute
+All members of the species are strong, fast, tough, clever, perceptive, or charming by human standards. Pick
+an attribute appropriate to the alien; that attribute
+gains a +1 bonus to its modifier, up to a maximum of
++3. Thus, an alien from an exceptionally strong species
+with a Strength score of 10 would have a Strength modifier of +1 instead of +0.
+Tough
+The alien is big, or hardy, or made of unusually durable
+biological components. Whenever they roll their hit
+dice to determine their maximum hit points, the first
+die they roll always counts as the maximum. Thus, a
+first level Warrior alien would always start with 8 hit
+points. When rolling hit points at second level, they’d
+count their first die as 8 and roll on from there. Further
+hit dice that roll a 1 are rerolled.
+Unusual Movement Mode
+The alien can fly under normal gravity conditions, or
+make short-range teleportation hops, or can climb
+sheer walls as if they were flat. Whatever the details,
+they can use their Move action to travel unusually.
+Useful Immunity
+The alien is impervious to some threat that’s relatively
+common. A significant or common immunity, such as
+against bullets, lasers, edged melee weapons or the like
+would be a major benefit, while immunity to minor
+threats such as toxins, diseases, radiation, or falling
+damage might only qualify as a minor perk.
+
+

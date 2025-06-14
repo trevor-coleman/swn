@@ -3,7 +3,7 @@
 ## Changes Made
 
 ### New Party Structure
-```
+```text
 party/
 ├── README.md                     # Explains organization
 ├── starfall-whisper.md          # Shared ship

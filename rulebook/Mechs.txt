@@ -1,0 +1,2099 @@
+300• MECHS
+
+MECHS
+Hulking figures of ceraplast, reinforced plating, and
+all-important quantum tap arrays, mechs were some
+of the most imposing war machines of the Second
+Wave of human expansion. While few worlds retain
+the economic base to build and support these titans of
+war, some can still be found in long-abandoned Mandate military bases or in the armies of worlds that have
+jealously preserved the secrets of their construction.
+
+Born in Fire
+
+At the beginning of the Second Wave of human colonization the warfare on advanced worlds had become
+almost exclusively a matter of standoff engagements.
+Microdrones, sat-missiles, and guided ordnance of
+every variety made the battlefield a living hell for
+those luckless infantry who were forced to face a wellequipped enemy. Attackers could engage at trans-continental range with very little chance of their missiles
+and drones being brought down, as their command
+channel encryption was simply too good and their
+ECCM too strong for defensive jammers to defeat. All
+the advantages were with the offense.
+It wasn’t until 2348 and the escape of the rogue AI
+Draco that this deadlock was broken. The quantum tap
+techniques that Draco had used to translate his matrix
+core data into a nearby warship could be repurposed
+to other uses. Instead of attempting to defeat a hostile
+projectile’s guidance cryptography, a jammer could
+reach into the device’s electronic brain to scramble the
+contents with a blast of random static.
+Most computing devices were not overly susceptible to quantum tap disruption. Onboard error-checking solved out the static quickly and ordinary operation followed. For the split-second timing required by
+guided weaponry, however, those few milliseconds of
+confusion were lethal.
+The ECM created by a quantum tap array was devastating. Even the most sophisticated error-correction
+protocols could not scrub the static before the sat-missile or microdrone was hopelessly off course. The taps
+could not usually control the data they inserted into
+hostile systems, but it was not necessary to be precise
+when raw noise sufficed to blind their targets.
+The results of quantum tap ECM revolutionized
+naval warfare. Ships were now able to mount defensive systems that effortlessly negated all but the fastest,
+best-shielded projectiles. Space combat was forced into
+knife-fighting range, with ships blasting each other
+with direct-fire energy beams and brute Newtonian
+mass weapons that had no guidance to scramble.
+Today, remote drones and guided munitions are
+of limited use in space combat. Every ship from the
+humblest far trader on up has quantum ECM woven
+into its basic comm infrastructure, and defeating it is
+prohibitively difficult for modern TL4 tech.
+
+Made In His Image
+
+While quantum tap technology was an easy fit for
+starships, developing a mobile ground version was
+much more difficult. The tap required several emitters kept at appropriate distances from each other to
+avoid cross-interference. Furthermore, the taps had to
+be several meters above the planetary surface if they
+were to avoid confusing backscatter.
+Military designers struggled with the complex set
+of requirements for a ground-based quantum tap array. Some mounted tall emitters on standard armored
+vehicles, with long alloy spars jutting out to either side
+to ensure the minimal distance. Others attempted to
+build aerostat emitters, individual units that would
+hover in the correct interference patterns. All of these
+plans foundered on one or another technical difficulty.
+It wasn’t until 2405 that a researcher finally entertained the idea of a humanoid walker as a platform
+for a tap array. Mounting the emitters in the walker’s
+“forearms” and “neck” would maintain a reasonably efficient spatial configuration, and would lift the emitters high enough to avoid terrestrial backscatter. The
+walker itself would be a powerful computing platform
+and generator mount to support the ECM generated
+by the emitters, and the armor would give the taps a
+better chance of surviving the battlefield.
+There were numerous technical issues with putting a humanoid walker onto a battlefield, but none
+of them were insurmountable. Integral grav planes
+helped to stabilize and support the walker even on soft
+or uneven terrain, and much of the technology that had
+been developed for AI armatures could be scaled up to
+provide the basic lines of a “mech”, as they were called.
+By maintaining a roughly humanoid shape for the
+mech, a human pilot could employ standard pretech
+neural interface technology to control the machine as
+a natural extension of his or her own body. The additional stability of a treaded or grav-sled base just wasn’t
+enough to outweigh the assimilation advantage of actually giving the mech a humanoid pair of legs.
+From that point on, mechs became a familiar sight
+on human battlefields. While they were far more expensive than an equivalent weight of gravtanks or other
+conventional war machines, they could shelter kilometers worth of terrain from the attentions of guided
+projectiles and remote drones. As their importance
+became clear, the need to defend them from attackers
+prompted new developments in weapon and defensive
+system mountings.
+Still, the vast expense of building and maintaining
+a mech force discouraged their use as the main body of
+a Second Wave army. Gravtanks, armored personnel
+carriers, and platoons of assault-suited infantry were
+still far more flexible and economical to deploy in bulk.
+
+MECHS •301
+
+Refinement and Decay
+
+As with any military device, mech development rapidly
+specialized into several different forms and designs, all
+calibrated to different purposes on the battlefield. Even
+the enigmatic researchers of the Psionic Authority became involved in their development.
+There were three major types of mech hulls: shock,
+specialist, and psimech hulls. Shock mechs were designed for direct assault on hardened fortifications or
+for anti-mech combat. Specialist hulls were optimized
+for particular battlefield duties, especially defensive
+measures and high-mobility recon. Psimech hulls were
+the rarest of the three varieties, ancient pretech hulls
+intended to amplify the abilities of a psychic pilot for
+battlefield use.
+Aside from type, mechs also were classified by hull
+classes. The smallest mechs were “suits”, little more
+than armored exoskeletons roughly three meters tall.
+Suits were intended to support the small teams of elite
+shock troopers who made up the tip of an attacking
+force’s spear. The armor and equipment loadouts on
+suits were very light compared to their larger brethren,
+but they greatly enhanced a soldier’s survivability in the
+face of heavy fire. Most suits were too small to mount
+quantum tap arrays.
+
+One step larger than suits were light mechs, most
+of which were six to eight meters tall. Light mechs
+were naturally among the most maneuverable and agile of the mech classes, while still being large enough
+to support the fusion cores necessary for antigrav fins
+or heavy weaponry. Light mechs could equip surprisingly vicious weapon loadouts, as so little power was
+required to move the hull.
+Heavy mechs were the titans of the battlefield, ten
+to thirteen meters tall. This bulk is a significant drain
+on fusion cores, and most heavy mechs were wired
+to provide sudden large surges of power to hungry
+fittings. Heavy mechs could mount the widest range
+of defensive equipment and bear the thickest armor,
+keeping them standing when smaller hulls would fail.
+Despite this elaborate development, mech deployment became more and more uncommon in the latter
+years of the Second Wave. They were an expensive
+solution to a minor problem on the frontier, where
+brushfire wars and guerrilla insurgencies rarely had the
+vast stores of guided munitions that had scourged the
+older battlefields of the core worlds. For the price of a
+single heavy shock mech and a few months of its maintenance, a commander could acquire four gravtanks
+and their vortex cannon armaments, or scores of Nemesis expert-system warbots. Without the ever-present
+threat of unstoppable remote bombardment, the mechs
+were a remedy to a problem that no longer existed.
+Gradually, inevitably, mechs faded from the petty
+battlefields and ambushes of the frontier. They stood
+silent in sealed Mandate bases or in the armories of
+border warlords, too expensive to run save on occasions of dire necessity. Their pilots were left to become
+gravtank drivers or flyer jockeys, or just to keep fighting until some dumb-fire rocket got a lucky hit.
+In the chaos of the Scream and the Silence that followed, most of the known mech caches were plundered
+for spare parts. Others were raised for a last ride to
+damnation as their owners spent them extravagantly
+to seize disordered worlds. Few were left operational
+forty years after the disaster, and on even fewer worlds
+did sufficient industry remain to rebuild or repair them.
+Those mechs that do remain are often units recovered from a long-lost Mandate cache or deep-space
+supply depot. A few worlds still have the tech sufficient
+to build them, and a logistical pipe somehow too limited to allow for mass movement of troops or armor.
+These worlds are rare, and it is more often that surviving mechs are simply used as the shock troopers for a
+larger army of more conventional weaponry.
+But still, here and there among the scattered
+worlds of mankind, mechs can still be found rising unexpectedly to meet their foes. For all their lost purpose,
+they remain matchless at their intended role. They are
+echoes of another time, tools meant for precise and
+ancient purposes that no longer exist in a coarser age.
+They are iron ghosts from a different age, and they
+whisper of ambitions that modern rulers scarce recall.
+
+302• MECHS
+
+Mech Combat
+
+Combat involving mechs operates in much the same
+way as any other form of combat. Mechs have weapons,
+an armor class based on their durability and size, and
+hit points to reflect their physical condition. Combat
+largely works just as it does at human or starship scales,
+with a few adjustments.
+Mechs have Armor ratings in the same way that
+other vehicles do, and suit-class mechs use it the same
+way. The Armor score is subtracted from the damage
+done by each attack that hits, except for damage done
+by explosives or TL4 Heavy weapons or that done by
+other massive tools of violent disassembly. Light and
+heavy mechs are even more durable, and are immune
+to ordinary small arms, subtracting their Armor rating
+from the damage done by Heavy weapons.
+Mechs also have Speed ratings which are used just
+as described in the Vehicles section of the equipment
+chapter, with Pilot as the relevant skill for checks. For
+situations when it is important to determine a mech’s
+movement rating in meters, multiply suit speed by 10
+meters and light and heavy mech speed by 20 meters to
+find their rate of movement for one round.
+A mech’s pilot can fire all of the guns mounted on
+a mech each turn, and may fire them at different targets within range. Targets must all be selected before
+the attacks begin, however, and cannot be altered that
+round. If all guns are trained on an enemy who’s taken
+out with the first lucky shot, the remaining attacks are
+wasted. Suit pilots can fire personal weapons if they
+choose, but they cannot fire both their own sidearms
+and their suit’s equipment in the same round.
+Most mechs have substantial internal ammunition
+magazines, but the amount is not unlimited. A single
+attack roll might represent several seconds of full-auto
+gunfire. After each fight in which an ammunition-using weapon is fired, the pilot must make a Shoot skill
+check modified by Wisdom against difficulty 6. On a
+success, he fired judiciously and still has ammunition
+remaining. On a failure, he has run out of ammo for
+that gun. The difficulty of the check increases by 1 after
+each fight. Ammunition magazines are fully refreshed
+as part of each mech’s maintenance cycle. Energy weapons, melee weaponry, and psitech guns never run out
+of ammunition.
+The integral quantum ECM tap arrays mounted on
+light and heavy mechs negate almost all indirect guided
+ordnance within line of sight of the mech, defeating
+incoming projectiles up to ten or twenty kilometers
+away, depending on conditions. As a general rule, on
+a battlefield with mechs, an attacker needs to be able
+to see a target to hit it. Alternately, dumb fire rockets
+or heavy artillery can be used to bombard a mech force,
+as these munitions have no guidance systems to scramble. This ECM is not relevant in defending against the
+weapons listed in this section, but it can make an enormous difference on a battlefield contested by advanced
+military forces.
+
+Mechs, Psionics, and Abilities
+
+Mechs are treated as extensions of the wearer for the
+purpose of special abilities. Warriors can use their class
+ability to avoid or ensure a hit while piloting one, and
+psionic abilities that apply effects to an ally or enemy
+usually apply to their mech as well if such an effect is
+reasonable. The precognitive benefits of Destiny’s Shield
+can plausibly aid a mech pilot, for example, but none of
+the biopsionic powers could mend scorched metal and
+broken composites. Mechs are not valid targets for the
+Synthetic Adaptation biopsionic technique.
+Psychics with the Teleportation discipline can
+teleport their mech at no additional weight cost if it is
+a psimech. Teleporters with level Teleportation-2 or
+greater skill in the discipline can manage to shift the
+weight of a suit even if it isn’t a psimech variant. Light
+and heavy mechs of the shock or specialist variety are
+too heavy for any teleporter to move.
+
+Mech Damage and Repair
+
+Mechs take damage normally, but leave their pilot unharmed until they are finally destroyed. In most cases,
+the enormous energies being thrown around a modern
+battlefield make the wearer’s hit points largely irrelevant. For small mech suits, however, the individual
+toughness and stamina of the pilot can make a difference. When a suit-class mech is damaged by an attack,
+the pilot may choose to take the entire hit off their own
+hit points, to represent their gradual loss of stamina,
+focus, and luck.
+Mechs are fully functional until their last hit points
+are destroyed. Once reduced to zero hit points, the hull
+is inoperable and the pilot is exposed to the outside
+atmosphere. In hostile environments, most pilots wear
+vacc suits against this unfortunate possibility.
+The pilot of a mech reduced to zero hit points must
+also make a Physical save; on a success, they escape
+the hull with one-quarter of their current hit points,
+rounded up. On a failure, they are mortally wounded and will require swift application of biopsionics or
+lazarus patches if they are to survive.
+Repairing one hit point’s worth of damage on a
+suit costs 500 credits. The same repair on a light or
+heavy mech costs 1,000 credits worth of materials. A
+single tech can repair a number of hull points of damage equal to their Fix skill plus one for each hour of
+work. Suits can be repaired with no more than the
+necessary spare parts and a portable toolkit, but light
+and heavy mechs require more sophisticated repair facilities. Remote repair vehicles and heavy haulers are
+standard support elements for most mech units.
+Mechs can resist any normal extreme of environment, from hard vacuum to a planetary atmosphere
+of poisonous vapors. Any environment harsh enough
+to damage a vehicle will apply the same penalties to a
+mech. Mech suits are equipped with three days of food,
+water, and atmosphere, while light and heavy mechs
+can support their occupants for up to a week.
+
+MECHS •303
+
+Manipulation and Smashing
+
+Mechs are remarkably agile machines, and can perform
+any act of physical dexterity possible for a normal human being. All suits and most larger hulls are equipped
+with “hands” of some sort for manipulating objects,
+usually waldoed to even finer manipulators that can
+handle and utilize human-scale objects. Integral stability gravs in all mechs allow them to move over any
+surface that can support their weight. Suit hulls can
+operate without major difficulty inside most buildings,
+but light and heavy mechs are usually forced to remain
+on roadways or solid ground if they lack grav flight.
+Mech hulls are extremely strong. A suit can normally tear a suit-sized hole in a standard postech exterior wall with four rounds of effort, while a light mech
+can smash a hole big enough for it to pass through in
+only two rounds. Heavy mechs crush barriers with terrible ease, smashing huge holes in an obstruction with
+just a single round of effort. Lighter or more primitive
+construction gives way in half the time, while fortified
+armorplast barriers may require 1d6 times as many
+rounds, or be completely impervious.
+If raw lifting weight becomes relevant, suits can
+lift and carry one metric ton, light mechs can manage
+five tons, and heavy mechs can manage twenty tons.
+More than this might be theoretically possible for a hull,
+but it taxes the grav stabilizers too badly, and will almost always end up toppling the mech or “fenceposting”
+it thigh-deep into the softer soil beneath it.
+Skill rolls made in a mech suit are treated as normal skill checks, with Pilot being the relevant skill.
+
+Maintenance
+
+The fusion cores that power the hulls require no refueling, but the engines, servos, magazines, electronics,
+and fittings all need regular maintenance and refitting
+in order to remain functional. Mechs can operate up
+to 24 hours before maintenance is required. For each
+further two hours of operation, a cumulative -1 penalty is applied to all hit rolls and skill checks with the
+mech. When the penalty hits -10, the mech shuts down.
+“Parked” mechs don’t count as being in active use.
+Maintenance for a hull requires the same tools and
+facilities as does repair. In one hour, a single tech can
+maintain a number of heavy mechs equal to their Fix
+skill rating plus one. They can maintain twice as many
+light mechs and four times as many suits. A maintenance cycle for a suit requires spare parts and ammunition costing 500 credits, while one for a light mech
+costs 1,000 and a heavy costs 2,000.
+Keeping a mech force in the field is expensive.
+Most commanders prefer to run a maintenance cycle
+daily, though some resource-strapped leaders minimize
+the active use of their mechs and try to stretch out the
+periods between upkeep. These frugal ways can come
+back to haunt a detachment when they’re suddenly
+pressed by enemies who have no intention of giving
+them the time they require to refit their mechs.
+
+Piloting Mechs
+
+Mech control systems rely on contact-free neural scanning and imaging technology combined with induced
+somatic feedback projectors. No special harness is required, and any armor with an encumbrance value of 1
+or less can be worn by a pilot without interfering with
+the mech’s operation. There is almost never any kind
+of key or lockout on a combat mech; the security of the
+mech is usually based on it being located in the middle
+of a high-tech military base, and not on possession of
+a keycard or passcode. A few hours of basic training
+will allow anyone to operate a mech, though elaborate maneuvers may be impossible for those without at
+least Pilot-0 skill. Most somatic controls are sufficiently
+flexible to handle human, alien, VI, or True AI pilots.
+Interfacing with a mech requires 1d6 rounds, minus the pilot’s Pilot skill. Climbing into a light or heavy
+mech cockpit usually takes an additional round, as does
+donning a suit.
+There is normally room inside a mech to transport the wearer’s readied and stowed equipment. Even
+a suit-class mech can carry a hundred kilos of additional
+gear without slowing down, and light and heavy mechs
+can cart around tons worth of cargo. Such loads tend
+to be highly vulnerable to enemy fire, as they’re often
+protected by nothing thicker than a width of cargo netting. In most cases, it won’t be important for the GM
+to worry about encumbrance for mech pilots. If the
+mech is blown up and the pilot survives, he escapes
+with his usual gear while anything strapped to the mech
+is destroyed.
+
+Twisting Metal
+Mechs are extremely difficult to damage. Even
+a light mech is armored with advanced pretech
+composites and active defenses sufficient to shrug
+off all but the most advanced or brutal weaponry.
+By default, only TL4 Heavy weapons can
+harm a light or heavy mech. Old-fashioned RPGs
+or machine guns just can’t muster the necessary
+force to crack the iron shells of these engines.
+In some cases, however, TL3 hardware is sufficient to harm a mech. Heavy shaped charges can
+damage a mech, as can direct hits by howitzers or
+other field artillery. Such attacks will still have to
+contend with the mech’s Armor rating, but they
+could at least theoretically bring down the beast.
+Other forces simply upgrade existing TL3
+tech into TL4 equivalents. These weapons have
+the same combat statistics as their more primitive
+brethren, but they’re equipped with the advanced
+explosive charges or augmented ammunition that
+can hurt a modern mech. PCs who want to get
+their hands on these upgraded machine guns and
+rocket launchers can usually find them on any TL4
+world with an active arms trading industry.
+
+304• DESIGNING MECHS
+
+DESIGNING MECHS
+Mech hulls are defined by many of the same traits possessed by a starship, with a few adjustments made for
+the unique nature of these engines of war.
+Maintenance must be performed on a mech after
+every 24 hours of operation. For every further two
+hours or fraction thereof, the mech suffers a cumulative -1 on all hit rolls and skill checks. This entry gives
+the cost in spare parts and consumables for performing
+a maintenance pass on a given hull. In one hour, a single tech can service a number of heavy mechs equal to
+their relevant Fix skill plus one. Twice as many light
+mechs and four times as many suits may be services in
+the same time. Suits can be serviced with little more
+than the spares and a portable toolkit, but light and
+heavy mechs require support vehicles with work cranes
+and more extensive tool selections.
+Armor functions in the same way as starship armor
+for most mechs, rendering them immune to damage
+from anything smaller than TL4 Heavy weapons, and
+subtracting from any incoming damage. Suit mechs are
+an exception, being much smaller and comparatively
+more fragile. Their armor subtracts from the damage
+done by small arms, but Heavy weapons ignore it
+Hit Points are lost as normal to attacks that damage the mech. Once the mech reaches zero hit points,
+the pilot must make a Physical saving throw; on a success, they escape the mech with one-quarter of their
+current hit points, rounded up. On a failure, they are
+mortally wounded. Pilots of suit-class mechs may opt
+to take the full damage of an attack off their own hit
+points after the dice are rolled, reflecting a strike that
+rattles or exhausts the pilot without doing significant
+damage to the hull itself.
+Speed, Armor Class, Power, Free Mass, and
+Hardpoints all function for mechs just as they do for
+starships. Fittings, weapons, and defenses are all added
+to the base hull up to the maximum load permitted by
+a hull’s free mass and power.
+
+Building a Mech
+
+First, choose a hull class, either a suit, light, or heavy
+mech. Then determine whether it will be a heavily-armored shock model, a fast and versatile specialist model,
+or one of the rare psimech types designed for psionic
+pilots. Any type may be piloted by any character, but
+non-psychics cannot effectively use psi fittings.
+Select appropriate fittings from the table in this
+section. Each fitting has a cost in free mass and power,
+and the total requirements of all fittings, weapons, and
+defenses cannot exceed the suit’s rated power and mass.
+Some fittings also have a minimum hull size, and cannot be mounted on smaller mechs. Psitech fittings can
+only be mounted on psimechs.
+Mech fittings can only be installed once for any
+particular system, unless noted otherwise. Mech fittings usually require a particular minimum hull class
+for installation, with suit-class hulls being unable to
+mount Skywatch Drones or Comm Interceptors. Psi-based
+fittings can be mounted only on psimechs and can be
+used only by psionic pilots.
+Select the desired weaponry and special defenses
+for the mech, taking into account their free mass and
+power costs. Weapons also take up one or more hardpoints, and a mech is limited in the number of available
+hardpoints for a given model. A mech may be equipped
+with as many weapons as it has hardpoints, power, and
+mass to support.
+Tally up the cost of the hull, fittings, weapons, and
+defenses, and make sure that you haven’t overspent
+your available power, mass, hardpoints, or budget.
+Most TL4 worlds aren’t capable of building mechs.
+They were always specialized tools, most useful in interplanetary warfare where logistics limits were tight,
+and the lack of rare resources and need has contributed
+to the loss of the tech. Still, at the GM’s discretion, some
+worlds may still be able to build them from scratch.
+
+Hull
+Cost
+Maint
+Speed Armor
+HP
+AC Power Mass Hardpt
+Class
+Shock Suit
+150k
+500
+4
+12#
+15*
+18
+10
+5
+2
+Suit
+Specialist Suit
+150k
+500
+6
+8#
+10*
+17
+5
+10
+1
+Suit
+Psi Suit
+300k
+500
+4
+8#
+15*
+20
+5
+5
+1
+Suit
+Light Shock
+500k
+1,000
+3
+15
+40
+16
+20
+10
+3
+Light
+Light Specialist
+500k
+1,000
+5
+10
+30
+15
+10
+20
+2
+Light
+Light Psimech
+1m
+1,000
+3
+10
+40
+17
+10
+10
+2
+Light
+Heavy Shock
+1m
+2,000
+2
+25
+70
+15
+40
+20
+6
+Heavy
+Heavy Specialist
+1m
+2,000
+4
+15
+50
+14
+20
+40
+3
+Heavy
+Heavy Psimech
+2m
+2,000
+2
+15
+60
+16
+15
+15
+3
+Heavy
+# Suit-class armor does not apply against Heavy weapons. Light and Heavy mechs are immune to non-Heavy attacks.
+* Pilots of suit-class mechs may choose to take an attack’s damage against their own hit points after it is rolled.
+
+DESIGNING MECHS •305
+
+MECH FITTINGS
+Active Camo Surface: This sophisticated mix of chromatic paneling and holoprojectors renders the
+mech surprisingly difficult to spot at a distance.
+Suits gain a +2 bonus to Sneak skill checks made
+against observers more than ten meters away.
+Light mechs gain the same bonus against observers more than fifty meters away, and heavy mechs
+apply it against spotters more than a hundred meters away.
+Ammunition Cells: Mech guns are voracious with their
+ammunition, and these cells increase the load
+available to the mech’s guns. When making a Wis/
+Shoot roll to determine whether or not a mech
+has run out of ammo for a gun after a given fight,
+the pilot can ignore the first failed skill check. The
+Mech Fitting
+
+Cost*
+
+ammo cells cannot help again until after a maintenance cycle. Ammunition cells may be fitted more
+than once on a mech.
+Antigrav Nodes: These nodes enable a mech to fly at
+their standard rate of movement. Pretech-grade
+grav nodes can lift a heavy mech, but the great
+majority of grav propulsors can only be fitted to
+suits or light mechs. If pretech nodes are found
+on the open market at all, the price is sure to be at
+least 500,000 credits.
+Augmented Enviroseals: Specialized equipment for
+mechs intended to operate on worlds with invasive or corrosive atmospheres. These seals can
+hold out against contamination or erosion for at
+least four times as long as most vehicles on the
+
+Power
+
+Mass
+
+Class
+
+Effect
+
+Active Camo Surface
+
+25k
+
+1
+
+2#
+
+Suit
+
+Shifts the hull’s coloration to blend with the locale
+
+Ammunition Cells
+
+10k
+
+1#
+
+1
+
+Suit
+
+Extends the ammunition supply available to a mech
+
+Antigrav Nodes
+
+50k
+
+2#
+
+4#
+
+Suit
+
+Allows flight in most gravitic environments
+
+Augmented Enviroseals
+
+15k
+
+1
+
+2
+
+Suit
+
+Allows extended operation in hostile environments
+
+Breaching Tool
+
+20k
+
+1
+
+1#
+
+Suit
+
+Carves large holes in stationary obstacles
+
+Bridging Laminates
+
+10k
+
+1
+
+1#
+
+Light
+
+Creates a road capable of supporting the mech
+
+Cargo Space
+
+1k
+
+0
+
+1
+
+Suit
+
+Grants room to carry an amount of protected cargo
+
+Comm Interceptors
+
+30k
+
+2
+
+5
+
+Light
+
+Allows attempts to descramble enemy communications
+
+Construction Array
+
+50k
+
+1#
+
+3#
+
+Light
+
+Allows mech to serve as a construction facility
+
+Drop Sheathing
+
+10k
+
+0
+
+1#
+
+Suit
+
+Conceals an orbital insertion
+
+Escape Pod
+
+25k
+
+1
+
+1#
+
+Light
+
+Improves the odds of a pilot surviving mech loss
+
+Field Medical Unit
+
+25k
+
+2
+
+1#
+
+Suit
+
+Allows extensive battlefield medical support
+
+Fire Control Unit/Master
+
+100k
+
+2
+
+3#
+
+Light
+
+Grants friendly mechs a selective fire ability
+
+Fire Control Unit/Slave
+
+20k
+
+1
+
+1#
+
+Light
+
+Necessary for using an ally’s FCU/Master
+
+Grav Chutes
+
+20k
+
+1
+
+1#
+
+Suit
+
+Allows orbital insertion of a mech
+
+Inquisitor Probe
+
+60k
+
+1
+
+1#
+
+Suit
+
+Psi. Allows a telepath to read a target’s intentions
+
+Integral Maintenance
+
+30k
+
+2
+
+1#
+
+Light
+
+Auto-applies field maintenance
+
+Jump Coil
+
+60k
+
+1
+
+1#
+
+Suit
+
+Psi. Allows a teleporter to translocate other mechs
+
+Kinesis Boost
+
+60k
+
+1
+
+1#
+
+Suit
+
+Psi. Allows a telekinetic to increase mech Speed
+
+Neural Activity Sensors
+
+60k
+
+1
+
+1#
+
+Suit
+
+Psi. Allows any psychic to detect sentient minds
+
+Neural Static Generator
+
+60k
+
+1
+
+1#
+
+Suit
+
+Psi. Allows a metapsion to negate psimech powers
+
+Omen Tap
+
+60k
+
+1
+
+1#
+
+Suit
+
+Psi. Allows a precog to hinder hit or skill rolls
+
+Panoptic Cloud
+
+25k
+
+2
+
+2#
+
+Light
+
+Emits a swarm of microscopic sensors
+
+Polyspectral Sensors
+
+40k
+
+1
+
+1#
+
+Suit
+
+Penetrating sensor scan within one hundred meters
+
+Pulse Transceiver
+
+75k
+
+2
+
+5
+
+Suit
+
+Allows intra-system faster-than-light communication
+
+Skywatch Drones
+
+40k
+
+1
+
+2#
+
+Light
+
+Launches drones to observe remote areas.
+
+Vivification Field
+
+60k
+
+1
+
+1#
+
+Suit
+
+Psi. Allows a biopsion to stabilize wounded
+
+Void Thrusters
+
+25k
+
+1#
+
+2#
+
+Suit
+
+Allows flight in zero or trace-gravity environments
+
+# Multiply this requirement by 2 for light mechs and 4 for heavy mechs
+* Multiply all base costs by 3 for light mechs and 6 for heavy mechs
+
+306• DESIGNING MECHS
+world. The interval between radiation saving
+throws is also multiplied by four.
+Breaching Tool: A combination of a pickaxe and a demolitions charge, a breaching tool can be used to blow
+a mech-sized hole in any standard postech building material with one round of effort. Against
+hardened military structures designed specifically
+to repel such efforts, the same hole takes 1d6+1
+rounds to dig.
+Bridging Laminates: A slurry of clastic composites
+mixes with soil or gravel drawn into the mech’s
+feed chutes before being projected into a tough,
+durable bridge over chasms or trenches. A mech
+can produce 20 meters of bridge per round to a
+maximum distance of 60 meters for any single
+span. The bridge can bear the weight of a mech
+of the same size class that built it, and a total of
+600 meters of bridges can be constructed between
+maintenance cycles. Breaking a hole in the bridge
+requires the infliction of 20 points of damage, or
+40 to completely smash a span.
+Cargo Space: This space is protected and pressurized.
+If the mech is destroyed, the pilot rolls 1d6; the
+cargo survives on a roll of 3 or more. Cargo space
+in a suit can carry up to one hundred kilos. A light
+mech can stow up to 500 kilos, and a heavy mech
+can manage 2,000 kilos. Some cargo spaces are
+refitted for passengers.
+Comm Interceptors: These polyspectral snoops pick up
+and automatically decrypt transmissions made
+or received near the mech. Civilian comms are
+automatically broken, while successfully compromising a military enemy’s comms requires line of
+sight with the source or a recipient and a successful opposed Program skill check.
+Construction Array: This mobile repair and construction array allows a mech to serve as a functioning
+postech workshop and earthmover for field engineering purposes. A mech with a construction
+array can be used to perform repairs and maintenance on itself and other mechs, if spare parts
+are available. Most arrays allow for carrying up
+to twice the mech’s own hit points in repair parts.
+Drop Sheathing: Most mech drops involve nothing
+more than grav chutes to slow the machine’s orbital insertion. Sometimes it’s necessary to drop
+mechs in the teeth of an opposing force, in which
+case drop sheathing is often added to a mech’s
+equipment loadout. This ablative shielding burns
+away in the atmosphere, but while it lasts, it forces
+defending sensors to make a Program skill check
+at difficulty 10 to detect the mech’s insertion.
+Escape Pod: This armored cockpit is programmed to
+eject from a fatally compromised mech, landing
+the pilot in a random direction 1d20 x 100 meters
+from the downed mech. Pilots with an escape pod
+may reroll a failed Physical save to avoid mortal
+injury when their mech is destroyed.
+
+Field Medical Unit: Fire-and-forget medical drones and
+heavy diagnostic computing support allow the
+mech to provide medical treatment for downed
+comrades. When the mech pilot spends a round
+guiding the med drones, he provides trauma care
+equivalent to a lazarus patch for up to twenty
+downed allies within a two-hundred meter radius,
+using his own Int/Heal for the skill check.
+Fire Control Unit: These units come in master and slave
+versions, with up to five slave units linking to a
+single master. So long as the master unit’s mech
+remains functional and within a one-kilometer
+range, it and the other units linked with it can
+assign weapon attacks one at a time, rolling hit
+and damage for each before firing the next.
+Grav Chutes: Mechs with grav chutes take no damage
+from falls, even from orbital insertions.
+Inquisitor Probe: By targeting a visible person or mech,
+the psimech pilot with at least Telepath-1 can
+force the person or pilot to make a Mental saving throw. If failed, the user gains an impression
+of their current tactical plan and the foremost
+thoughts in their mind. A successful save renders
+the target immune to this fitting for 24 hours.
+Integral Maintenance: This system can automatically
+apply a maintenance cycle to itself with 30 minutes of downtime. A mech can carry supplies for
+up to seven maintenance cycles in the unit.
+Jump Coil: Any psychic teleporter can translocate their
+own psimech, but the jump coil allows the pilot to
+teleport up to five additional allied mechs of equal
+or smaller size along with him, provided they are
+within 10 meters of him.
+Kinesis Boost: Any psionic with at least Telekinesis-1
+can use this psitech to boost their Mech’s Speed
+rating by 2 and gain +2 to all initiative rolls.
+Neural Activity Sensors: This psitech functions for any
+psionic, and allows them to automatically detect
+the presence of sentient minds within two kilometers, with a margin of error of roughly 50 meters
+for any given mind. The species of sentient can be
+recognized, but not individuals.
+Neural Static Generator: A counterpsi tech, this fitting
+allows a psion with at least Metapsionics-1 to
+automatically negate any psi-based mech fitting
+targeted at it or any visible ally within 400 meters.
+The mech also gains 5 additional points of Armor
+against psi weapons.
+Omen Tap: A psionic pilot can force a visible target to
+reroll a successful hit roll or skill check. This ability can be used once per round, and a maximum
+number of times per hour equal to the pilot’s Precognition skill level times two.
+Panoptic Cloud: A swarm of tiny aerostat sensors surrounds the mech out to 200 meters, giving them a
+constant awareness of their surroundings within
+that range. The sensors provide both audio and
+visual data, and only atmosphere-tight seals can
+
+DESIGNING MECHS •307
+keep them out. Their presence will trigger most
+advanced security alarms, however.
+Polyspectral Sensors: These sensors use an array of
+emissions to form a crude model of the terrain 100
+meters in front of the mech, providing rough detail down to objects one-third of a meter in size. It
+cannot penetrate EM-hardened barriers, but does
+not normally trigger security alerts.
+Pulse Transceiver: The pulse transceiver effectively
+functions as a faster-than-light communications
+laser with a range sufficient to reach the outer rim
+of a solar system. Provided the mech knows the location of a receiver, two-way communication can
+be conducted. The data channel is limited to text
+and still images. Commercial commsats can also
+serve as receivers if a military unit is not available.
+Skywatch Drones: These small aerostat drones are onethird of a meter in length, with a range of up to
+ten kilometers. They can loiter above a site for
+up to eight hours before losing power, and can
+be recharged with an hour in the mech’s rack.
+
+The drones have standard and infrared telescopic
+video sensors and can hover at altitudes of up to
+one thousand meters. While difficult to spot with
+the naked eye, skywatch drones are very easy for
+modern anti-air defenses to locate, and rarely last
+more than ten or twenty seconds over a military
+target before being brought down. Any damage
+will bring down a drone, but hitting one at maximum altitude with a hand weapon requires a hit
+on armor class 25.
+Vivification Field: This psitech augmentation is designed to key onto recognized allies on the battlefield. When a mech equipped with a field is piloted
+by a psychic with at least Biopsionics-1, it automatically stabilizes mortally wounded allies within
+100 meters, with no action required by the pilot.
+Void Thrusters: These microscale grav plates allow a
+mech to fly at its normal base Speed. This flight
+functions only in zero-gee or microgravity environments, but can eliminate falling damage in
+standard gravity, even for orbital insertions.
+
+MECH DEFENSES
+Augmented ECM Projector: The quantum taps on this
+mech have been tuned to interfere with the targeting of enemy weapon systems, at the cost of additional power drawn from the motive servos. The
+mech has an effective +2 armor class bonus against
+attacks from other vehicles or mechs, though its
+Speed rating is reduced by 1.
+Hardened Polyceramic Overlay: A relative of the same
+hardened plating used on military warships, this
+plating reduces the armor piercing quality of attacking weapons by 5. Thus, a heavy laser that
+normally ignores 25 points of its target’s armor
+now only ignores 20.
+MES Shunt Channels: Complex psitech-derived shielding circuitry provides limited protection against
+psi-based weapons, adding 10 points of Armor
+that only count against weaponry with the Psi
+quality. This armor stacks with any gained from
+a Neural Static Generator.
+
+Morphic Silhouette Damper: Holoprojectors and pulsed
+ECM conspire to make it much more difficult to
+fix the mech in a weapon’s sights. The effective
+range of any weapon targeted at the mech is reduced by half. This benefit is lost if the attacker is
+within 50 meters of the mech.
+Redundant Systems Buffer: Substantial power and mass
+is devoted to a complex array of redundant systems, increasing the amount of punishment the
+heavy mech can take before it is finally destroyed.
+Vanguard Plating: Blast vent channels, localized force
+fields, and advanced damage control monitors
+are used to defang armor-piercing weaponry
+used against the heavy mech. The armor-piercing quality of an attacking weapon is reduced by
+15. This defense does not stack with a Hardened
+Polyceramic Overlay.
+
+Mech Defense
+Augmented ECM Projector
+
+Class
+Light
+
+Cost*
+75k
+
+Power
+2#
+
+Mass
+1#
+
+Effect
++2 AC bonus, -1 Speed penalty
+
+Hardened Polyceramic Overlay
+50k
+1#
+1#
+Light AP quality of attacking weapons reduced by 5
+MES Shunt Channels
+25k
+1#
+2#
+Suit
+Grants Armor 10 versus Psi weaponry
+Morphic Silhouette Damper
+25k
+1#
+2#
+Suit
+Halves an attacking weapon’s Range
+Redundant Systems Buffer
+75k
+10
+5
+Heavy Adds +20 hit points
+Vanguard Plating
+100k
+15
+5
+Heavy Reduces AP of attacking weapons by 15
+# Multiply this requirement by 2 for light mechs and 4 for heavy mechs
+* Multiply all base costs by 3 for light mechs and 6 for heavy mechs
+
+308• DESIGNING MECHS
+
+MECH WEAPONRY
+Mech weaponry normally requires Shoot skill to fire
+and relies on the user’s Intelligence or Dexterity to determine hit and damage modifiers. Most NPC pilots
+have a total attack bonus of +3 and damage bonus of
++1. Veteran pilots average +5 to hit and +2 damage,
+while the grizzled elite rarely have less than +7 to hit
+and +2 damage.
+Some weapons can be fired to suppress. Every target in front of the weapon that is not under hard cover
+is automatically hit for half normal damage, rounded
+down. A successful Evasion saving throw by the targets
+eliminates this damage.
+
+Special Weapon Qualities
+
+Ammo: This weapon uses physical ammunition. After
+the end of every fight in which it was fired, the
+pilot needs to make a Shoot skill check modified
+by Wisdom against a difficulty of 6. On a failure,
+ammo for the gun has run out until the next maintenance cycle is complete. The check difficulty increases by 1 after every fight until maintenance.
+Anti-personnel: Armored vehicles, fortifications, and
+light and heavy mechs are immune to these light
+weapons.
+AP: The weapon ignores this many points of a target’s
+armor. The Hardened Polyceramic Overlay or Vanguard Plating defense upgrades may lessen the effectiveness of this quality. The most a weapon’s AP
+rating can do is reduce a target’s effective armor
+to zero. It cannot add additional damage to a hit.
+Cone: The weapon fires in a conical pattern that many
+meters long and wide at its end. All targets within
+the cone must make an Evasion saving throw or
+be hit, with no hit roll required. Targets behind
+hard cover save automatically.
+Melee: Melee weapons can only be used in hand-tohand combat, and no non-melee weapon can be
+used that same round. Pilots use either Punch or
+Stab for hit rolls. Mech melee weapons do not inflict Shock damage.
+Psi: Psi weapons use metadimensional energy channels to completely ignore a target’s Armor rating,
+except for any armor granted by the MES Shunt
+Channel defense fitting. Defenses such as Hardened
+Polyceramic Overlay have no effect on psi weaponry.
+Pilots may optionally choose to use an appropriate
+psychic skill with psi weapons, even melee varieties. Psi weapons rely on Wisdom or Constitution
+to modify attack and damage rolls, rather than
+Dexterity or Intelligence.
+Slow: After firing, the attacker must roll an Int/Shoot
+skill check against difficulty 8. For psi weapons,
+use Int and an applicable psychic skill. On a failure,
+the gun must cool down for one round before it
+can be fired again.
+
+Mech Weapon List
+
+Banshee Vox: A focalized sonic blast stuns and disorients all organic life in the path of this weapon.
+Damage done by a banshee vox is nonlethal, and
+targets brought to 0 hit points by it will wake up
+1d4 hours later with 1 hit point. Targets inside a
+vehicle or behind hard cover are immune.
+Beam Lance: More power-hungry and harder to mount
+than a heavy laser, the beam lance is meant to cut
+through heavy armor on enemy shock mechs.
+Cutter Plates: Rotating blades, force-field shearing
+planes, or just a really big axe; cutter plates are
+meant for melee combat and carving large holes
+through obstacles. Suit cutter plates do 1d12 damage, light mech ones do 2d12, and heavy mech
+plates do 3d12.
+Finger of God: A psitech weapon that can be mounted
+only on psimechs and used by a psionically-active
+pilot, the Finger of God is a brutal weapon that
+operates soundlessly and without visible emissions. The psychic piloting the mech selects the
+target and channels a massive surge of metadimensional energy through it. The blast ignores
+all conventional armor and can be expected to
+suddenly reduce anything smaller than a heavy
+mech into a smoking heap of scrap.
+Heavy Machine Gun: A standard choice for anti-personnel weaponry, though its TL3 tech makes
+it useless against mech Armor. Upgraded TL4
+equivalents cost twice as much.
+Hydra Array: A standard gunnery weapon mounted on
+a mech, fired in volleys as normal for the weapon.
+Improvised Weapon: This object is something large
+and heavy that the mech has snatched up to use
+as a weapon. Suits do 1d8, light mech do 2d8, and
+heavy do 3d8.
+Inferno Projector: A spray of superheated plasma turns
+everything within thirty meters of the projector’s
+aperture into charcoal and casualty reports.
+Laser, Anti-Air: This standard light laser has been retuned to optimize it for firing at airborne targets,
+and the range has been greatly increased. It can
+pick off spy units such as Skywatch Drones automatically once they have been spotted. The laser
+is optimized for firing at “clean” airborne targets,
+however, and suffers a -4 penalty to hit when aiming for ground-bound targets.
+Laser, Anti-Vehicle: A standard gunnery weapon recalibrated for mech use. When it hits a target with
+Armor, it can reroll any “1”s on the damage dice.
+Laser, Heavy: A mainstay of heavy shock mechs.
+Laser, Light: The light laser trades the enormous penetrating power of its heavier cousin for a lighter
+power drain and easier fitting requirements.
+
+DESIGNING MECHS •309
+Mech Weapon
+
+Cost
+
+Dmg
+
+Pwr Mass
+
+Hard.
+
+Range
+
+Hull
+
+Special
+
+Banshee Vox
+
+35k
+
+2d12
+
+5
+
+3
+
+1
+
+30
+
+Light
+
+Cone 30m, Anti-personnel
+
+Beam Lance
+
+100k
+
+5d8
+
+15
+
+5
+
+3
+
+1k/2k
+
+Heavy AP 30
+
+Cutter Plates
+
+20k
+
+1d12/class
+
+5
+
+3
+
+1
+
+Melee
+
+Suit
+
+AP 10, Melee
+
+Finger of God
+
+300k
+
+4d12
+
+6
+
+3
+
+2
+
+500/1k
+
+Heavy
+
+Psi, Slow
+
+Heavy Machine Gun
+
+10k
+
+3d6 #
+
+3
+
+2
+
+1
+
+500/2k
+
+Suit
+
+AP 5, Ammo
+
+Hydra Array
+
+40k
+
+3d6 #
+
+6
+
+3
+
+1
+
+2k/4k
+
+Light
+
+AP 5, Ammo
+
+Improvised Weapon
+
+-
+
+1d8/class
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Inferno Projector
+
+35k
+
+4d6
+
+6
+
+3
+
+2
+
+20
+
+Light
+
+AP 10, Cone 20m, Slow
+
+Laser, Anti-Air
+
+40k
+
+3d8
+
+5
+
+2
+
+2
+
+6k/12k
+
+Suit
+
+AP 10, Special, Slow
+
+Laser, Anti-Vehicle
+
+20k
+
+3d10
+
+7
+
+3
+
+2
+
+500/1k
+
+Suit
+
+AP 15
+
+Laser, Heavy
+
+75k
+
+3d12
+
+10
+
+4
+
+3
+
+1k/2k
+
+Heavy AP 20
+
+Laser, Light
+
+35k
+
+3d8
+
+5
+
+2
+
+1
+
+500/1k
+
+Light
+
+AP 10
+
+MES Knife
+
+100k
+
+1d12/class
+
+1
+
+1
+
+1
+
+Melee
+
+Suit
+
+Psi, Melee
+
+Mindburner
+
+200k
+
+4d10
+
+2
+
+2
+
+1
+
+20
+
+Light
+
+Cone 20m, Psi
+
+Plasma Thrower
+
+50k
+
+4d10
+
+10
+
+2
+
+2
+
+250/500
+
+Light
+
+AP 10
+
+Rail Cannon
+
+150k
+
+4d12
+
+20
+
+5
+
+4
+
+2k/4k
+
+Heavy AP 45, Slow, Ammo
+
+Railgun
+
+16k
+
+3d8 #
+
+7
+
+4
+
+2
+
+1k/2k
+
+Light
+
+AP 15, Ammo
+
+Razor Cloud
+
+30k
+
+3d10
+
+4
+
+3
+
+2
+
+30/60
+
+Light
+
+Anti-personnel, Ammo
+
+Rocket Launcher
+
+8k
+
+3d10
+
+3
+
+2
+
+1
+
+2k/4k
+
+Suit
+
+AP 5, Ammo
+
+Vortex Cannon
+
+150k
+
+5d12
+
+15
+
+5
+
+3
+
+1k/2k
+
+Heavy AP 10
+
+Wheatcutter Belt
+
+20k
+
+2d12
+
+2
+
+3
+
+1
+
+10/20
+
+Light
+
+Melee
+
+Anti-personnel Ammo
+
+# weapon can fire to suppress
+MES Knife: This psitech weapon focuses a beam of
+aligned metadimensional energy into a melee
+weapon that ignores Armor ratings. Suits do 1d12
+damage with the knife, light mechs do 2d12, and
+heavies do 3d12.
+Mindburner: Named for the horrific hallucinations
+provoked in the few targets to survive a glancing
+brush from the weapon, the mindburner ruthlessly boosts the electrical activity in its targets, burning out human minds and electronic devices with
+equal efficiency. Conventional Armor is ignored
+by the weapon.
+Plasma Thrower: While the range of this energy weapon is shorter than that of a light laser, it brings
+slightly more damage to the battlefield.
+Rail Cannon: The queen of the battlefield, the rail cannon is a weapon so heavy it can only be mounted
+on a heavy shock mech. A single rod from a rail
+cannon can punch through the best vanguard defensive plating as if it were tissue. The weapon is
+prone to overheating, however, and makes cruel
+demands on a mech’s power grid.
+Railgun: A standard gunnery weapon fitted for mech
+use. Some pilots prefer it over the heavy laser for
+the sake of the suppressive fire it can lay down its
+good armor-piercing profile, albeit at the cost of
+having to deal with ammo depletion at times.
+
+Razor Cloud: Designed to counter infantry swarms, the
+razor cloud pulses fractal shrapnel in a cloud of
+steel around the mech. Any target within 30 meters is automatically hit, and may make an Evasion
+save for half damage. Any target within 60 meters
+is automatically hit for half damage, and may make
+an Evasion save to take none. Hard cover protects
+a subject from the cloud.
+Rocket Launcher: A standard Heavy weapon, popular
+with suit pilots who need more range than a heavy
+machine gun can provide. Rocket launchers also
+have difficulty in locking on targets of human size
+or smaller, applying a -4 to any hit rolls against
+them. Conventional rocket warheads are shaped
+for maximum armor penetration rather than explosive radius, and mech pilots can use them even
+against very close targets without blast danger.
+Upgraded TL4 equivalents cost twice as much.
+Vortex Cannon: While commonly mounted on grav
+tanks, a vortex can also be fitted to a mech.
+Wheatcutter Belts: A standard anti-personnel weapon
+refitted for mech use. When triggered, a belt of
+explosives fires off a scything blast of shrapnel on
+any side of the mech. All creatures within 10 meters must make an Evasion save for half damage.
+Those within 20 meters take half damage, and can
+make an Evasion save to take none at all.
+
+310• EXAMPLE MECH DESIGNS
+
+EXAMPLE MECH DESIGNS
+Mass: 5/0 free
+Hit Points: 15
+AC: 18
+Weaponry TL4 Rocket Launcher (3d10, AP 5, Ammo), Cutter Plates (1d12, AP 10, Melee)
+
+Achilles Shock Suit
+Cost: 178,000
+
+Power: 10/2 free
+Armor: 12 against non-Heavy
+Speed: 4
+
+Defenses None
+Fittings None
+A cheap baseline shock suit, the Achilles relies on its pilot’s skills to make up for the lack of elaborate hardware. The
+rocket launcher gives the Achilles teeth against enemy armored vehicles or aircraft, while the cutter plates can chew
+through a ferrocrete wall before rapidly shredding any defenders on the other side. Shock-grade armor plating helps
+ensure that the Achilles can survive as a doorkicker for a strike team. Still, the loadout mix forces an Achilles pilot
+to be extremely versatile in weapon handling skills for best results.
+Ulysses Specialist Suit
+Cost: 266,000
+
+Power: 5/0 free
+Armor: 8 against non-Heavy
+Speed: 6
+
+Mass: 10/3 free
+Hit Points: 10
+AC: 17
+
+Weaponry None
+Defenses None
+Fittings Cargo Space (100 kilos), Field Medical Unit, Polyspectral Sensors, Antigrav Nodes
+The Ulysses sacrifices all onboard weapons, leaving the pilot to defend himself with personal small arms in favor of
+packing significant support hardware into the suit’s armored shell. Polyspectral sensors make the suit an excellent
+scout and command unit, while the field medical unit aids in recovering downed allies. The antigrav nodes even allow
+this suit to fly for extended periods, and a Ulysses can lift up to two of its allies with it as it vaults ground obstacles.
+Power: 5/4 free
+Cost: 400,000
+Armor: 8 against non-Heavy
+Speed: 4
+Weaponry MES Knife (1d12, Psi, Melee)
+
+Hecate Psi Suit
+
+Mass: 5/4 free
+Hit Points: 15
+AC: 20
+
+Defenses None
+Fittings None
+Eldritch engines that were rare even in their heyday, the Hecate was designed as a basic platform for a mech-trained
+combat psychic. Its large amount of unassigned power and mass allowed the psychic to fit the particular support
+hardware that best complemented his or her talents, while the integral MES knife was a backup weapon in case of
+sudden confrontation. Most Hecate pilots were expected to remain well behind the front line. Their talents were
+rare and valuable enough to risk only in the best causes, and much of the suit’s engineering margin was devoted to
+advanced ECM and damage control systems.
+Angurvadal Light Shock Mech
+
+Power: 20/4 free
+
+Mass: 10/0 free
+
+Cost: 760,000
+Armor: 15
+Speed: 3
+Hit Points: 40
+Weaponry Railgun (3d8#, AP 15, Ammo), TL4 Heavy Machine Gun (3d6#, AP 5, Ammo)
+
+AC: 16
+
+Defenses Hardened Polyceramic Overlay (-5 to enemy AP qualities)
+Fittings Ammunition Cells x2
+A walking bullet fountain, the Angurvadal is meant to provide long-range fire support against enemy armor, or to
+take the brunt of an advance as needed. Extended ammunition magazines keep it firing after multiple engagements.
+Curtana Light Specialist Mech
+Cost: 1,003,000
+Armor: 10
+
+Power: 10/0 free
+Speed: 5
+
+Mass: 20/3 free
+30
+Hit Points:
+AC: 15
+
+Weaponry TL4 Rocket Launcher (3d10, AP 5, Ammo)
+Defenses None
+Fittings Field Medical Unit, Panoptic Cloud, Skywatch Drones, Pulse Transceiver
+The Curtana is favored by commanders and recon units. Its remarkably powerful sensor and surveillance fittings can
+give its pilot a near-supernatural understanding of the battlefield, in addition to its ability to communicate with HQ.
+
+EXAMPLE MECH DESIGNS •311
+Durandal Light Psimech
+Cost: 1,605,000
+
+Armor: 10
+Weaponry Mindburner (4d10, Cone 20m, Psi)
+
+Power: 10/4 free
+Speed: 3
+
+Mass: 10/2 free
+Hit Points: 40
+AC: 17
+
+Defenses Hardened Polyceramic Overlay (-5 to enemy AP qualities)
+Fittings Escape Pod, Neural Activity Sensors
+Much like its smaller psi suit brethren, the Durandal is designed with substantial unassigned power and mass in order
+to accept whatever psitech fittings best suit the skills of its pilot. These additions can substantially increase the cost
+of the base hull, which is built to provide multiple redundant survival measures for a psychic pilot. Even a Durandal
+without additional fittings can act as a near-faultless early warning system for incoming enemy sentients.
+
+Scorn Heavy Shock Mech
+Cost: 1,586,000
+
+Power: 40/2 free
+Speed: 2
+
+Mass: 20/1 free
+Hit Points: 70
+AC: 15
+
+Armor: 25
+Weaponry Rail Cannon (4d12, AP 45, Slow, Ammo), Railgun (3d8#, AP 15, Ammo)
+Defenses None
+Fittings Breaching Tool, Integral Maintenance, Ammunition Cells x2
+
+When a fortress stands between an army and victory, a Scorn is sent to correct the situation. Its massive armor plates
+are immune to all but specially-fitted gunnery, and its integral weaponry can smash through almost any substance
+known to human science. The Scorn is the product of late Second Wave military science, however, and is built for
+a battlefield that will only rarely see an opposing mech force. It is somewhat less optimized for facing specialized
+anti-mech units that are equipped with the right armor-piercing weaponry to take the beast down.
+Odium Heavy Specialist Mech
+Cost: 2,485,000
+Armor: 15
+Weaponry Heavy Laser (3d12, AP 20)
+
+Power: 20/1 free
+Speed: 4
+
+Mass: 40/1 free
+Hit Points: 50
+AC: 14
+
+Defenses None
+Fittings Construction Array, Integral Maintenance, Skywatch Drones, Polyspectral Sensors, Pulse Transceiver
+While the Odium provides much the same communications and recon abilities as the smaller Durandal, it is distinguished by the heavy mech-killing laser it mounts and the integral construction array that allows it to serve as a
+remote maintenance and repair facility for numerous other mechs. A single Odium can give a sufficient number of
+techs the platform they need to keep an entire mech force operational in the field, or assist in constructing elaborate
+field structures and fortifications.
+Despite Heavy Psimech
+Cost: 3,060,000
+
+Power: 20/8 free
+Speed: 2
+
+Armor: 15
+Weaponry Finger of God (4d12, Psi, Slow), MES Knife (3d12, Psi, Melee)
+
+Mass: 20/8 free
+Hit Points: 60
+AC: 16
+
+Defenses Hardened Polyceramic Overlay (-5 to enemy AP qualities)
+Fittings Neural Activity Sensors
+These vanishingly rare mechs were always somewhat experimental, even in the late days of humanity’s golden age.
+The sheer mass of sophisticated psitech components requires for their construction was almost impossible to acquire
+on the frontier, and the few Despites that are found in the modern day are almost always attached to Mandate military
+research facilities. While substantial mass and power are left unused to allow for pilot-specific fittings, even an unfitted
+Despite possesses enormous firepower. The psitech Finger of God weaponry can effortlessly bypass enemy armor,
+and the gigantic MES blade generated by its melee defense array can carve open a gravtank with a few solid strokes.
+
++
++
++
++
+
+Name
+Mods
+
+Name
+Mods
+
+Name
+Mods
+
+Name
+Mods
+
+AC
+
+AC
+
+AC
+
+Name
+Mods
+
+Name
+Mods
+
+Name
+Mods
+
+Armor
+
++
+
+Lvl 7 = 39xp
+Lvl 8 = 54xp
+Lvl 9 = 72xp
+Lvl 10 = 93xp
+Lvl 11+ = +24
+
+XP
+
+Total Atk Bonus
+
+Lvl 2 = 3xp
+Lvl 3 = 6xp
+Lvl 4 = 12 xp
+Lvl 5 = 18 xp
+Lvl 6 = 27xp
+
+Range and Ammo
+
+Level
+
+Class
+
+Background
+
+Name
+Mods
+
+Weapons
+
+Species
+
+Employer
+
+Homeworld
+
+Name
+
+Stars Without Number
+
+Credits
+
+Readied Items
+
+Foci
+
+Base Atk Bonus
+
++
+
+Debts
+
+Work
+Biopsionics
+Metapsionics
+Precognition
+Telekinesis
+Telepathy
+Teleportation
+
+Max Enc = STR ÷ 2
+
+Lvl
+
+Lvl
+
+Lvl
+
+Lvl
+
+Lvl
+
+Lvl
+
++1 Focus at lvl 2, lvl 5, lvl 7 & lvl 10
+
+Skill Points
+
+Max: +2 at lvl 3 | +3 at lvl 6 | +4 at lvl 9
+
+Warrior = +Lvl | Other = +(Lvl ÷ 2)
+Partial Warrior = +1 at lvl 1 & lvl 5
+
+Cost: new value + 1
+
+Pilot
+Program
+Punch
+Shoot
+Sneak
+Stab
+Survive
+Talk
+Trade
+
++3sp per lvl (Experts: +1 bonus non-combat)
+
+Administer
+Connect
+Exert
+Fix
+Heal
+Know
+Lead
+Notice
+Perform
+
+Evasion
+
+Mental
+
+Max = CON
+
+Permanent:
+
+Warriors: Additional +2 per level
+
+Max:
+
+Psionic Effort
+
+Psionic Techniques
+
+WIS
+
+CON
+
+Max:
+
+Boosts: 1st: 1sp (lvl 1) | 2nd: 2sp (lvl 1)
+3rd: 3sp (lvl 3) | 4th: 4sp (lvl 6) | 5th: 5sp (lvl 9)
+
+CHA
+
+INT
+
+DEX
+
+STR
+
+3 (-2) | 4-7 (-1) | 8-13 (+0) | 14-17 (+1) | 18 (+2)
+
+Attributes
+
+Effort: 1 + Highest Psychic Skill + Highest of Wis or Con
+
++1 on new Psychic Skill Lvl
+
+Cybernetics / Innate Abilities
+
+16 - lvl - [Str | Con] 16 - lvl - [Dex | Int] 16 - lvl -[Wis | Cha]
+
+Saves
+Physical
+
+System Strain
+
+(1D6 + Con) x Level
+
+Hitpoints / Conditions
+
+Character Sheet
+
+Assets / Owned Property
+
+Equipment in Storage
+
+Non-Encumbering Equipment
+
+Stowed Equipment (Backpack)
+Max Enc = STR
+
+Starship Details
+
+Aliases / ID’s
+
+Vehicle, Robot, and Drone Details
+
+Current Goals
+
+Languages Known
+
+Contacts and Allies
+
+Noteworthy Achievements
+
+Notes to Remember
+
+

@@ -1,0 +1,2817 @@
+ADVENTURE CREATION
+After developing one or more worlds, a GM ought to
+have a fairly substantial list of Friends, Enemies, Places,
+Complications, and Things appropriate to a given planet. An experienced GM may well be able to assemble
+an interesting adventure out of these pieces, but even
+the most practiced designer might be hard-pressed to
+come up with enough interesting setups to fill out an
+entire sector.
+The method that follows is by no means the best
+or only way to devise an adventure, but it’s a procedure
+that will do the job for a working GM. This method
+work best if you’ve already generated a world using
+the tools in the Sector Creation chapter, but the basic
+outlines can function even without such support.
+
+Identify Your Needs
+
+The first step in creating an adventure is identifying
+what, precisely, you need the adventure to do. If you’ve
+been following the recommended pattern for running
+your campaign, the last session ended with you asking
+the players what goal they wanted to pursue next time.
+If this is for the first adventure to kick off a campaign,
+you might need something that introduces the players
+to the setting and gives them a short adventure to get
+them working together smoothly. If you’re creating
+backup content that you can deploy rapidly when the
+players catch you off guard, then that might be a third
+sort of purpose behind your work. Whatever it is, you
+need to keep this basic goal in mind as you create the
+adventure content. Adventures are created to be playable content at the table, so it needs to work for you.
+Often, players are somewhat equivocal when they
+tell you what sort of effort they plan to make for the
+next session. Sometimes their intentions will be clear
+and direct, such as pursuing a nemesis who got away
+from them last time with a cargo hold full of alien artifacts. Other times, it will be something more nebulous,
+like “Find a good deal on cargo for our ship” or “Explore
+some of the alien ruins you mentioned were on this
+world”, or “Do something really unkind to the planetary
+duke who shot down our starship”.
+When things are clear, you’ll have an easy time
+creating an adventure. If they’re chasing the nemesis,
+you know you need to create an adventure revolving
+around them pursuing this evildoer and encountering
+plausible challenges on the way. If the guidance you’ve
+been given is less precise, more of the details are up to
+you. You might create an adventure about a “bargain”
+cargo deal that threatens to go very bad, or draw up an
+alien ruin for them to explore, or introduce a plucky
+band of anti-ducal rebels for the PCs to encounter,
+along with the problems those rebels have. So long as
+what you’re making is logically connected to what they
+want from you, you’ll be able to deliver a fine time at
+the table.
+
+Sometimes, however, the players ask for something you know is going to be impossible, or something that you know will be rapidly reconsidered by
+the group. Maybe the nemesis has fled into the bowels
+of an ultra-high-security orbital citadel, or you know
+that the duke is actually dying of biopsionic cancer and
+will be dead in a few more days. If the information is
+available to the PCs, you can point this out to them
+and let them reconsider their goals. They might give
+up on pursuing the nemesis, for example, or change
+their goal to that of finding some way to penetrate the
+defenses around the orbital station. It’s important not
+to completely shut down impractical plans, but instead
+suggest alternate routes that might turn “impossible”
+into merely “very difficult”.
+Be willing to follow the players’ lead on alternate
+routes. If there’s not a compelling reason to shoot down
+an idea or assumption about the world, run with it. If
+they ask if there are rebels or traitors or spy networks
+they might be able to contact to get the information
+they need to crack the defenses, then tell them yes. If
+the players are going to be kind enough to map out
+your adventure creation needs for you, let them do the
+work unless there’s a very good reason otherwise.
+Other times, however, the players don’t have the
+information they’d need to realize that their intentions
+are impractical. You know they’re going to get ten minutes into the next session before they realize that what
+they planned to do is totally impossible. You can’t write
+them an adventure that gives them a chance of succeeding at the goal, not without violating common sense or
+already-established game world facts, so what do you
+do in such situations? There are two general ways to
+handle this: anticipate their next course of action, or
+prepare filler content.
+There are times when you can tell that the players
+are going to hit the obstacle and immediately look for
+a way around it. Maybe they discover the nemesis has
+fled to the orbital at the start of the next adventure,
+but a convenient NPC suggests that there’s a way to
+get the passcodes onto the station if the PCs are able
+to contact a certain information broker. You write the
+adventure to help you handle the PCs’ attempts to find
+and convince the broker to help them, because you’re
+confident that the group isn’t going to just shrug and
+let the nemesis go.
+On other occasions, however, you don’t have that
+confidence. You really aren’t sure what the PCs will decide to do when they see their initial goal is impractical.
+In this case, you write some filler content, designed to
+give the players something fun to do for the session
+while they figure out their next plan. This sort of filler
+content can often be written far in advance of its actual
+need, and over the course of a long campaign it’s likely
+you’ll end up with several sessions worth of this prep
+
+174• ADVENTURE CREATION
+work kept ready in your GM folder, available for deployment whenever the PCs start doing things you’re
+not prepared to handle yet. This section will include
+some specific advice on how to build this kind of filler
+content and how to insert it into play.
+In the end, the goal at this stage is to have a clear
+idea of what sort of content you need to have prepped
+for the next session. Once you know what kind of material you need to make, you can go on to the next stage.
+
+Choose Ingredients
+
+The next step in creating the adventure is to look back
+at your sector information and the tags and elements
+you’ve rolled up for the planet the PCs are on. You’ve
+already created some NPCs, complications, and places
+to work with, so now’s your chance to take advantage
+of your preparations. If the PCs are somewhere that
+hasn’t had that work done already, take a moment to
+fabricate an appropriate Friend, Enemy, Complication,
+Thing, and Place suitable for the setting. You’ll use these
+ingredients to create the adventure in the next step.
+While you can pull the ingredients directly from
+your sector file, you can also take a moment to customize them to the situation. Maybe there’s a particular
+NPC you know is going to show up next time, given
+the party’s ambitions, or there’s a specific macguffin
+that’s in circulation right now. You can adjust these
+ingredients to fit the specific circumstances and help
+smooth transitions between adventures. The same people can keep showing up when it’s logical that they’d
+be involved, and the other elements can persist to help
+give a sense of continuity to events.
+It’s also useful to pull in regular callbacks from
+prior adventures. The things that PCs do have consequences, and sometimes those consequences persist for
+quite some time. Try to put at least one callback to prior
+events or people into each adventure, even if it’s just a
+cameo from an NPC, or a newsflash giving up-to-date
+reporting on some situation the PCs were involved in.
+The more that the PCs feel like they’re really making
+a difference in the campaign world, the more engaged
+they’re going to be with the setting.
+Try to make sure that the ingredients you use are
+logical and coherent elements of your campaign setting.
+Pulling antagonists or macguffins from the starry void
+can be convenient, but an ingredient that just comes
+out of nowhere, with no foreshadowing or visible connection to the rest of the campaign, is an ingredient
+that some groups might find jarring and difficult to
+interact with. In the absence of some visible connection to the rest of the campaign, it’s hard for a party
+to get their hands around an ingredient and deduce
+intelligent, rational ways to interact with it. A planetary
+tyrant they’ve known about for a few sessions is much
+easier to deal with than an alien overlord fresh out of
+drillspace, because the tyrant is part of a setting and
+context they’ve had a chance to understand.
+
+Assemble the Outline
+
+With the adventure ingredients in hand, it’s time to put
+together the basic outline of the adventure. An outline
+isn’t meant to fill in every detail and supply every fact
+you need to run the adventure, but merely to give you
+a basic idea of the adventure’s premise and point out
+the kind of information you’ll need to prepare for play.
+If you’re pressed for time and don’t feel like assembling your own outline, flip forward in this section
+to a list of one hundred plot seeds. Take your Friends,
+Enemies, Complications, and other world elements and
+slot them into a seed that looks appropriate to your
+needs. You now have your outline and can skip to the
+next step in creating the adventure.
+If you’d rather spend more time developing the
+outline, you’ll want to pick three basic elements to
+make up its essential frame. Not every adventure involves all three elements, but usually you’ll need representative examples of each. You’ll need a Problem to
+drive the adventure, a Person to serve as an antagonist
+or point of entry to the Problem, and you’ll need a Place
+to set the events as they play out.
+Your Problem is the core of your adventure, and
+is an unstable or untenable situation that the PCs can
+meaningfully affect. The players aren’t going to care
+about problems so big or so intractable that their actions won’t have any consequential effect. They’re
+going to be engaged with problems small enough, or
+specific enough, that they feel that their choices can
+really change the outcome.
+Some Problems are self-attractive to the players. If
+the party wants to explore an alien ruin on this world,
+then simply putting an unexplored alien art museum
+where they can get at it will be enticement enough. The
+Problem is that the PCs want what’s inside the museum, but there are some dangers or difficulties that are
+preventing them from plundering its age-old secrets.
+Your job in that case will be to make the overcoming of
+those difficulties interesting enough to satisfy the players. Whenever you have a situation where the players
+want X, your Problem can simply consist of placing X
+and then making it plausibly difficult to get to.
+Other times, this isn’t going to be enough. Perhaps,
+the planet’s savage water barons are locked in a bloody
+struggle over control of the ancient Mandate-era hydroforming installation, control of which will leave
+one of them the undisputed master of the arid world.
+Certainly, the services of a small band of recklessly courageous adventurers could be vital in penetrating the
+installation’s automatic defenses, but why should the
+players care which tattooed savage gets to be master?
+The Person is your way of connecting the players
+with the Problem, when the Problem is not one that
+naturally attracts their interest. The Person provides
+the human connection between the party and the situation, either through being a sympathetic figure who
+appeals to the group’s desire to help, or through being
+a dangerous antagonist who forces a response.
+
+ADVENTURE CREATION •175
+Of course, an adventure can involve more than
+one important NPC, and the players might end up with
+multiple reasons to engage with the Problem. But by
+focusing on at least one important Person, you make
+sure that the players have a real reason to care about
+the Problem and provide yourself with a contact point
+through which to pass on information about the situation. Even an antagonist can serve as a useful chance
+to dump setting info on the players and clue them in
+to adventure opportunities. A blood-distilling water
+baron who wipes out a sand village that helped the
+party in an earlier adventure informs the players not
+only that the water barons exist on the world, but that
+this particular vampire warlord is on his way to seize
+the hydroforming station.
+At this stage, pick one Person to be the connection between the Problem and getting the PCs directly
+involved. Give them a name and a sentence or so describing how they’re going to pull the PCs in, but don’t
+worry about fleshing them out further at this point.
+You might add additional people to the mix if you know
+there are certain other NPCs you want to involve in the
+situation, but you can delay this to the next step.
+Finally, you need to choose a Place where this adventure is going to take place. Some sessions will occur
+in multiple Places, with the heroes gallivanting around
+the planet or solar system to deal with the Problem in
+multiple locations, but every adventure needs at least
+one Place to contain the action.
+Sometimes the Place itself is the focus of the action. If the PCs are looting an alien art museum, then
+the museum itself is going to be the major element of
+importance in the adventure. You’re going to have to
+make it a sufficiently interesting, complex, and engaging location to support a full session’s adventure.
+Other times, the Place is just a backdrop to the action. A Problem involving tribal warfare in the steaming xeno-jungles of some gas giant moon might have
+the terrain be a factor in things, but the jungle itself
+is not expected to be interesting enough to keep the
+players occupied with no further action. In these situations, the Place informs and shapes the Problem and
+gives color and flavor to events, but you don’t have to
+build it out into playable content by itself.
+For now, define the Place that contains the Problem and make sure they’re connected in some way.
+Even if the Place is just giving flavor and style cues to
+the Problem, it should be clear to the players that whatever is going on here is a thing that is going on in this
+particular Place. Make the tribal warfare the kind that
+would occur in a jungle, with swift canoes fashioned of
+giant beetle shells and ambushes that take advantage of
+the perils of the alien jungle. The more the Place affects
+what is happening, the more it matters to the game.
+Once you’ve chosen a Problem to deal with, a
+Person to connect the party with the situation, and a
+Place where all of this is going to unfold, you’re ready
+to move on to the next step in creating your adventure.
+
+Fleshing It Out
+
+You know the basic outline of the adventure, so this
+stage is where you add the extra information you need
+to actually play it out at the table. Some GMs need very
+little of this, and can improvise an evening’s play out
+of nothing more than an outline and a few sketched
+notes. Most GMs require a little more preparation to
+be comfortable with running an adventure. As you go
+through this process, let your own comfort level be
+your guide on how detailed and elaborate your preparation work should be, but make sure to cover the basic,
+critical parts of the adventure first before you spend
+time detailing contingencies and what-ifs.
+To start the process, ask yourself the following
+questions to determine what sort of preparation work
+you need to do.
+What maps do I need? If you expect the PCs to
+assault a location, you’re going to need a map good
+enough to support that. You can pull something close
+off the web, scribble in any tweaks needed for your adventure, and use it accordingly. Maybe the abandoned
+missile silo plans you’ve downloaded are actually being
+used as a hidey-hole for a rebel leader, but all it takes
+is a few coats of GM paint and the players won’t know
+the difference.
+The more carefully and intently the PCs are going
+to be interacting with a site, the more you’re going to
+need a map for it. A tense political meeting that takes
+place on some orbital resort station might not need a
+map at all if the focus is around the politics of it. If you
+know a terrorist group is going to bomb the talks and
+try to assassinate the diplomats, however, then you’re
+going to need enough of a map to support the PCs’ inevitable attempts to foil or escape the bloodshed.
+What places do I need to make interesting? This is
+a special case that you’ll run into when the adventure
+involves exploring a site. A simple diagram of a location is all you need to run a firefight there, but when
+the thrust of the adventure involves plumbing the unknown mysteries of a site, there better be some halfway-decent mysteries there to plumb. There should be
+perilous dangers, satisfying rewards, and interesting
+gubbins to manipulate in the place, elements informed
+by the map’s nature and origins. If the PCs are exploring a Chittik hive-station, they ought to be finding
+things that make sense in the context of a man-eating
+alien beetle home, while an abandoned Mandate control center should be full of the dusty relics of that lost
+star-spanning human empire.
+The art of creating an interesting site to explore is
+worth a book in itself, but the tools later in this chapter
+can help give you some ideas. Another useful source of
+inspiration exists in countless old-school fantasy adventure modules; just dig through them for interesting setpieces, reskin them as super-science, and flavor
+them with the style of whatever place they’re in. Never
+hesitate to plunder existing content for your game. You
+are but one GM, and your time and effort are finite.
+
+176• ADVENTURE CREATION
+What NPCs will I need to detail? When you detail an
+NPC, you give them a hook, a motivation, a want, and
+a power. The hook is simply some visual or behavioral
+detail that will help them stick in the players’ memory. Reeking cigars, chrome-plated fingers, a habit of
+finishing every sentence with ’you think?’, or any other unique detail can help the players remember them
+when a name might slide off their recollections. These
+hooks also give you a hint for descriptive detail when
+you’re playing out an encounter with the PCs.
+A motivation is simply that; what the NPC wants
+from life, what immediate goal or ambition they have.
+Often, this is related to the Problem; the NPC wants
+a particular outcome from the situation. Sometimes
+this is a broader life goal, like the desire for vast wealth,
+or a particular person’s love, or revenge on an enemy.
+A want is what they want specifically from the PCs.
+Usually this is something that helps them achieve their
+motivation, some assistance the PCs can give or action
+they can take that will further the NPC’s motivation.
+A power is what they can do to help or harm the PCs,
+whether that consists of giving vital info, exerting their
+influence for or against the PCs, or simply the threat
+of their physical violence against the party. An NPC’s
+power is why the PCs should care about their want.
+Give the NPC combat statistics at this point if you
+think it likely they’re going to get in a fight. Remember
+that most people in the galaxy are normal human beings with no unique combat prowess. Just because an
+NPC is the president of a megacorp doesn’t necessarily
+mean he’s got more than 1 hit die, especially if he’s
+led a life otherwise insulated from physical danger and
+threats to his life.
+What default outcomes will you need to establish?
+In an unstable situation, it’s assumed that events will
+shake out a certain way if the PCs don’t get involved,
+or don’t try to redirect events a particular way. Take
+a moment to decide what’s going to happen in the adventure if the players don’t change things. How will
+the situation resolve itself, and what will happen to the
+NPCs involved? If there’s a particular timeline to the
+adventure, when certain things will happen at certain
+times, note it down.
+If the adventure is especially time-sensitive, make
+sure the PCs are given adequate warning about it.
+While the party might reasonably be expected to understand that a tribal assault on a fortified desert community isn’t going to continue forever, if the town is going
+to collapse in three hours then they need to know that
+every minute counts. Let NPCs warn them of the dwindling resistance, let the enemies make visible progress
+toward success, and otherwise ensure that the natural
+warnings inherent in the situation are properly passed
+on to the players. They can’t realize how serious a situation is if the GM won’t tell them what their PCs can see.
+What are the rewards to dealing with the Problem?
+You need to figure out what exactly the PCs are supposed to be getting out of their efforts. If they’re plun-
+
+dering an alien treasure-house, what exactly are they
+going to find there? If they save the desert community,
+what kind of help or reward do they receive? Is there
+some way that solving this Problem will advance a PC’s
+personal goals? Sometimes the reward of a situation is
+simply avoiding some terrible outcome, but too many
+of these charity jobs or self-defense adventures can
+leave the players feeling like chumps.
+Determining the rewards in experience points,
+cash, or plunder can be delicate, so there’s a separate
+section in this chapter devoted to helping you do just
+that. Your choice will depend largely on how quickly
+you want the PCs to advance in personal power and
+how plausible it is that a given situation might offer a
+considerable reward.
+Lastly, how will the PCs get involved? You’ve got a
+Person to hook them in, or the Problem itself is attractive to the PCs, but how exactly are you going to
+connect the players to the adventure? Figure out the
+details of how you’re going to introduce the adventure to the players and take note of the information,
+resources, and situation they’ll encounter when they
+step into the scenario.
+
+Polish It Up
+
+You’re almost finished with your adventure. All you
+need to do now is put yourself in your party’s shoes
+and think about how they’re likely to experience the
+adventure. You know your players better than any
+author could, so you know the ways they’re likely to
+react to NPCs, how they like to deal with problems,
+and what sort of things make them sympathetic or angry. Don’t worry about some platonic Ideal Adventurer
+when you’re doing a mental walkthrough of the adventure. Worry about the people you know are going to
+be playing this.
+If you’ve created a sandbox-style adventure with
+the steps above, there won’t be any written-out “path”
+through the adventure. You’ll have a situation, some
+NPCs, and the resources you need to handle the players
+interacting with that situation. Maybe they’ll resolve
+it to their liking, and maybe they’ll end the session by
+booking a fast ship offplanet with a furious mob at their
+heels. Your only concern at this stage is making sure
+the adventure is logical, approachable, and engaging.
+Is the adventure logical? If your adventure is contradicting facts that have already been established about
+the world, the players are going to want to see a good
+reason for it. If they break into a slum warehouse to
+find it full of elite special-ops combatants, they’re going
+to want a very good explanation for such a seemingly-irrational encounter. They don’t have to see every
+explanation or understand every dramatic deviation
+from reasonable expectations, but you should know
+these reasons, and the players should be confident that
+the reasons exist.
+If you design an adventure by “story logic”, where
+the most important thing is maintaining a genre feel
+
+ADVENTURE CREATION •177
+and good adventure pacing, the players are going to
+react in story-logical ways. When presented with an
+obstacle, they’re going to assume that their heroes are
+expected to have a reasonable chance to overcome
+that obstacle. When faced with a dangerous combat
+foe, they’re going to assume the enemy is at least theoretically beatable by the group, and when encountering a seemingly-invincible challenge, they’re going to
+look around for the right story levers to pull to make
+it somewhat more vincible. This style of running a
+game is perfectly valid, and it is indeed preferable for
+groups that want to maintain a certain genre feel, but
+it’s not usually how Stars Without Number adventures
+get made.
+The default Stars Without Number assumption is
+that adventures operate on established setting logic. If
+something should be somewhere, it is, whether or not
+the PCs can hope to overcome it. If an ally is locked
+away in the bowels of a max-security prison, the PCs
+might simply not have any reasonable way to get them
+out unless they can change the situation through supplemental adventures. When the PCs see a terrifyingly
+dangerous foe, that foe really is terrifyingly dangerous,
+and some PCs are almost certainly going to die if they
+decide to fight. The PCs have no cosmic authorial protection, and if they put themselves in no-win situations,
+they are going to lose.
+With that in mind, look at your adventure and
+make sure it is not the sort of challenge or situation
+that would only be essayed by someone convinced that
+they are the first-book protagonist of a sci-fi trilogy.
+Don’t expect the PCs to do unreasonable things or face
+ridiculous obstacles just because they’re part of the adventure. A canny player group will make a point of
+avoiding unjustified perils and staying well clear of unbeatable difficulties. They won’t bite on your adventure
+if it seems a fast-track journey to an unmarked grave.
+Is the adventure approachable? This has to do with
+your hook and the overall appeal of the situation. What
+is it about this situation that’s going to pique player
+interest? Knowing what you know about your players,
+is this the sort of thing they’re going to jump into? Even
+if you’re confident that the players will want to get involved, you need to make sure they have a clear way
+into the situation. If it’s a roil of political intrigue, give
+them somebody to contact. If it’s a mysterious alien
+ruin, give them a map to it.
+It’s not your job to develop a clear route through
+the adventure, a step-by-step sequence of events that
+can predictably lead to success. It is, however, your job
+to give the PCs a way to get involved in the situation.
+If you can’t see an obvious “first step” to the adventure,
+then it’s unlikely your players will be able to see one.
+Is the adventure engaging? An adventure which
+is about something fundamentally uninteresting to the
+players is just not going to hold their attention. Good
+sports will try to get through it simply because it’s what
+you created for them, but other players will start play-
+
+ing with their phones, talking about extraneous matters, or just doing something else in-game. Even if the
+PCs have a logical reason to care about the adventure,
+if the players are not invested, they aren’t going to have
+a very good time.
+To build engagement, use elements your players
+love and elements your players hate. What do your
+players really like? What kind of NPCs, situations, and
+activities do they really enjoy? Don’t worry about abstract players, just think about the specific people you
+are playing with. Conversely, what kind of villains do
+they absolutely despise? What sort of evildoing gets
+them fired up with righteous wrath? It’s important
+not to push things into gratuitous grimdark, but if you
+have some players who really hate slavers, then that’s
+a good cue to make beating down slavers an element
+in an adventure.
+Once you’ve polished up the adventure, done a
+mental walk-through of events, and ensured that it is
+logical, approachable, and engaging, then you’re ready
+to play.
+
+Creating Filler Adventures
+
+Sometimes a GM gets caught flat-footed by the players.
+They do something or choose a goal that the GM is
+totally unprepared to manage. A GM is well within
+their rights to call a pause and explain to the players
+that they’re just not ready to handle that yet, and if the
+players want to do it, they can do it next session, after
+the GM has had time to prep something for it.
+Other times, however, the GM will just throw in
+a quick filler adventure. These are adventures built expressly for running when the GM is caught by surprise
+or runs out of prepared content for the evening. Filler
+adventures are built much like any other adventure, but
+their priorities are different. Filler adventures should
+be insistent, short, and simple.
+The adventure needs to be insistent; it needs to
+present a situation that the PCs absolutely must deal
+with right this minute. A terrorist attack, a criminal
+stealing a PC macguffin, a friend frantically calling for
+help… the adventure needs to grab the PCs and distract
+them from whatever it was they were trying to do.
+Even so, the adventure should be short. A filler
+adventure shouldn’t take longer to complete than it
+takes for you to come up with a good response to the
+players’ initial goal. You just need to keep the players
+entertained long enough for you to figure out what
+you’re going to do, so a filler adventure shouldn’t eat
+up more than a session at most.
+Lastly, the adventure should be simple. Don’t burn
+yourself out on complex entanglements and relations
+to the existing adventure. If you can come up with a
+good tie-in quickly, great, but the ideal filler adventure
+is general enough to slot in almost anywhere.
+Unused bits and pieces of your regular adventures
+can be used as filler components. Don’t waste your
+work; if the PCs haven’t seen it, save it for later use.
+
+178• ADVENTURE REWARDS
+
+ADVENTURE REWARDS
+Player characters all have their own reasons for seeking
+adventure in the trackless void, but pragmatic rewards
+of wealth, power, and influence tend to be popular.
+When designing your adventures, how should you apportion rewards, whether in experience points, pretech
+artifacts, or credits?
+
+Rewarding Credits
+
+The first thing to understand about the credit economy in your campaign is that “too much money” is not
+a significant problem to have. Unlike many types of
+games, there’s really nothing the PCs can do with large
+amounts of money that will allow them to drastically improve their own personal power. They can hire
+minions, they can buy starships, they can get cyberware,
+and they can use their wealth as a bludgeon of influence,
+but at the end of the day they still basically have the
+same character sheet as before.
+In the same vein, in a sandbox campaign there is
+no storyline to disrupt. If the PCs suddenly luck into
+a stellar tyrant’s ransom, then the campaign is about
+what they do with the money. Maybe it lets them casually crush the problems they used to have, but now
+they’ve got an entirely new set of concerns befitting
+their newfound wealth. Unless the PCs simply decide
+to stop adventuring after a lucky strike, their future
+campaign sessions will simply be flavored with great
+wealth and the problems and possibilities that come
+along with it.
+So don’t worry about “keeping the PCs hungry”.
+Just let them acquire the logical amount of money that
+their deeds and situation would earn them. If they do
+a significant favor for a megacorp CEO, they should be
+earning a lot more than they’d get from the heartfelt
+gratitude of a lostworlder peasant whose life they saved.
+With that in mind, here’s an adjacent list of reasonable credit amounts that can be applied to adventures.
+If the PCs do work for someone, they’ll get paid to the
+extent that they earned it and the patron can afford it.
+If they come across lost loot or valuable cargo, you can
+use these numbers to gauge what a “big haul” would be
+to most people in the setting.
+
+Rewarding Ships and Major Items
+
+Most groups are going to want to get their own starship
+relatively early on in the campaign. You might even
+have the acquisition of a beaten-up merchant ship be
+the result of the introductory adventure. While it’s
+certainly possible for a sci-fi campaign to spend most
+of its time on a single world or for PCs to hitch rides
+with allies and existing transport ships, most players
+are going to want to get their own set of thrusters.
+The basic guideline for rewarding a ship or any
+other major piece of hardware is that it’s going to take
+at least one session of adventure to get it, assuming you
+
+Reward Type
+A lot of money to a slum dweller
+Slum dweller’s maximum funds
+A lot of money to an ordinary worker
+Ordinary worker’s maximum funds
+A lot of money to an affluent person
+Affluent person’s maximum funds
+A lot of money to a wealthy person
+Wealthy person’s maximum funds
+A lot of money to an oligarch
+Oligarch’s available liquid funds
+Moderately-skilled short contract work
+
+Amount
+50
+100
+500
+1,000
+2,500
+5,000
+25,000
+100,000
+1 million
+5 million
+20 / day
+
+An illegal but not serious crime job
+
+500
+
+Serious but non-capital criminal job
+Kill someone who isn’t very important
+Kill a significant or well-guarded target
+Kill a major government official
+
+1,000
+5,000
+50,000
+250,000
+
+think it’s reasonable to allow it in the first place. The
+PCs are going to have to come up with a plan or look
+for an opportunity to grab the thing they want if they
+don’t have the money to buy it outright.
+You can use this principle when the PCs want
+anything, whether it’s a ship, a particular ally, a base
+of operations, or anything else that can’t reasonably
+buy. Make them adventure for it. You can give them
+suggestions and ideas, but it’s up to them to come up
+with a plan for getting their hands on what they want.
+Once they’ve done that, all you need to do is make
+up an adventure revolving around their efforts, and
+you’ve got your evening’s entertainment. As always,
+you should be watchful for opportunities to make PC
+ambitions into easy adventure outlines.
+
+Rewarding Experience Points
+
+There are several different methods to award experience points. The one you choose will depend largely on
+the kind of campaign you want to run and the speed of
+advancement you want for the PCs.
+The basic experience award for each member of
+a party is three points. This assumes a fairly fast rate
+of advancement, with PCs reaching second level after
+their first award. If you want a slower one, drop it to
+two points, or even one. All members of the group
+should get the same basic award unless you want PCs
+of different levels in your group.
+When do you hand out this basic award? You have
+several different choices.
+Use a session-based system. Hand out the award at
+the end of every gaming session, assuming the PCs
+were trying to accomplish something worthy of their
+
+ADVENTURE REWARDS •179
+
+skills. Parties that coast along without facing any real
+challenges might not receive the award.
+Use a personal goal-based system. Have every PC list
+at least one long-term goal and one short-term goal.
+If they achieve a short-term goal during the session,
+give them a basic award. If they manage to succeed at
+a long-term goal, give them triple that amount of experience. Different characters can share the same goals if
+they wish, and it’s up to the GM to decide whether or
+not a particular goal is challenging enough to deserve
+a reward. PCs can pick new goals or change old ones
+at the end of each session.
+Note that if you use this method different PCs will
+advance at different rates, depending on how often they
+reach their goals. This isn’t a problem if the group is
+fine with it, and if PCs work to make sure the party
+isn’t focusing too much on the goals of only a few members. If you want to help encourage spreading the focus
+around, you can rule that no PC can get goal XP again
+until someone else in the group has achieved a goal.
+Use a mission-based system. Have the group agree
+on a mission or goal at the end of each session or at the
+start of the campaign. When the group reaches that
+goal, they all get an experience award. They can choose
+to change their goal at the end of every session, or pick
+a new one if they’ve attained their original purpose. If
+they choose a particularly hard mission they might get
+an extra bonus, at the cost of a greater risk of failure.
+
+Use a loot-based system. This sort of campaign
+doesn’t use experience points. Instead, it uses cash.
+Every PC needs to earn 5,000 credits of liquid funds
+in rewards or loot before reaching second level. Then
+they need to earn 10,000 more to reach third, 20,000
+more to reach fourth, and so on, with the new amount
+needed doubling at each level. Only wealth they’ve
+earned adventuring and converted into spendable credits counts toward this amount. Once a PC gains a level,
+their running “score” is reset to zero, and even huge
+hauls can’t boost them more than one level at a time.
+This experience method strongly incentivizes
+ruthless plundering, and might result in uneven advancement if the party doesn’t split their earnings evenly. It does make for a laser-focused game of freebooting
+avarice, however.
+Use a spending-based system. This works the same
+way as the loot-based system, but the credits they earn
+only count if the PC spends them. Credits spent on personal equipment, cyberware, vehicles, or other directly
+useful items don’t count. Only credits “wasted” in revelry, charity, supporting some NPC cause, building a
+power base, or otherwise interacting with the game
+world count toward the PC’s advancement.
+This, too, can result in a party with PCs of varying character level over time, as some choose to buy
+hardware and others elect to “waste” the money. It does
+encourage a great deal of engagement, however.
+
+180• PROBLEMS
+
+CREATING PROBLEMS
+Every Problem boils down to a fundamental conflict. A
+person wants something and they can’t have it, or they
+don’t want something and are being forced to accept
+it, or they have something and it’s being threatened, or
+they want something and someone else wants it too. At
+the bottom of every Problem there’s a conflict the PCs
+can engage. These tables on these two pages provide
+some cues for generating Problems for your adventures.
+First, roll 1d8, 1d10, and 1d10 on the Conflict
+Type table on the opposite page. The first roll gives
+you an idea of the general type of conflict at the bottom
+of the adventure. It might be a matter of money, old
+grudges, a natural catastrophe, ethnic struggles, or one
+of several other root causes. You can stop at this point
+if the cue is sufficiently inspirational.
+Otherwise, the next roll gives you the overall situation of the conflict. This is the backdrop to the adventure, and while the PCs may not be able to resolve the
+entire conflict, they should be able to make a difference
+in this particular skirmish. You can take this general
+context and decide on a specific event or situation that’s
+causing the conflict at the heart of the Problem.
+If further inspiration is needed, the third roll gives
+you a specific focus for the Problem. Something is happening, and there are at least two sides involved; one
+that is in favor of what is happening, and one that is
+
+opposed. Just put forces on both sides of the focus and
+you’ll have your starting Problem.
+Some Problems have the PCs on one of the sides.
+If “Money was stolen from someone” and “The PCs are
+owed it”, then the PCs themselves will have a powerful
+incentive to involve themselves in the conflict. Other
+Problems only have people on one side; if there’s a catastrophic natural disaster, the disaster itself is unlikely
+to have motivations or goals, while the hapless victims
+doubtless are struggling to survive.
+To add further decoration to the circumstances,
+you can roll on the tables below. The Restraint table
+gives you a reason why the conflict hasn’t boiled over
+yet, and why the PCs might be a wildcard that can resolve the problem at hand. Some Problems can keep
+a long time with a sufficiently stern Restraint, which
+makes them convenient when you need to make filler
+adventures that can stay in storage until you need them.
+The Twist table gives you a turn you can add to
+the Problem, something to complicate the situation and
+shake up easy assumptions about how it will play out.
+At all times, you should be looking for chances to
+insert elements you’ve already created for this world.
+Use Enemies for antagonists, Friends for allies, and
+slip in Complications when you need additional twists.
+GMing is tough enough without making extra work.
+
+d20
+
+The Restraint
+
+The Twist
+
+1
+
+The government is cracking down on the conflict
+
+There’s a very sharp time limit for any resolution
+
+2
+
+One side seems invincibly stronger to the other
+
+The sympathetic side is actually a bunch of bastards
+
+3
+
+Both sides have “doomsday” info or devices
+
+There’s an easy but very repugnant solution to hand
+
+4
+
+A prior conflict ended horribly for both of them
+
+PC success means a big benefit to a hostile group
+
+5
+
+Foreign participants are keeping things tamped
+
+The real bone of contention is hidden from most
+
+6
+
+Elements of both sides seek accommodation
+
+A sympathetic figure’s on an unsympathetic side
+
+7
+
+The conflict is only viable in a narrow location
+
+There’s a profitable chance for PCs to turn traitor
+
+8
+
+Catastrophic cost of losing a direct showdown
+
+The “winner” will actually get in terrible trouble
+
+9
+
+Each thinks they’ll win without further exertion
+
+There’s a very appealing third party in the mix
+
+10
+
+They expect a better opening to appear soon
+
+The PCs could really profit off the focus of the strife
+
+11
+
+Former ties of friendship or family restrain them
+
+The PCs are mistaken for an involved group
+
+12
+
+Religious principles are constraining them
+
+Somebody plans on screwing over the PCs
+
+13
+
+One side’s still licking their wounds after a failure
+
+Both sides think the PCs are working for them
+
+14
+
+They’re building up force to make sure they win
+
+A side wants to use the PCs as a distraction for foes
+
+15
+
+Their cultural context makes open struggle hard
+
+The PCs’ main contact is mistrusted by their allies
+
+16
+
+They expect an outside power to hand them a win
+
+If the other side can’t get it, they’ll destroy it
+
+17
+
+They’re still searching for a way to get at their goal
+
+The focus isn’t nearly as valuable as both sides think
+
+18
+
+One side mistakenly thinks they’ve already won
+
+The focus somehow has its own will and goals
+
+19
+
+A side is busy integrating a recent success
+
+Victory will drastically change one of the sides
+
+20
+
+An outside power threatens both sides
+
+Actually, there is no twist. It’s all exactly as it seems.
+
+PROBLEMS •181
+d8
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Conflict Type
+Money
+
+Revenge
+
+Power
+
+Natural Danger
+
+Religion
+
+Ideology
+
+Ethnicity
+
+Resources
+
+d10
+
+Overall Situation
+
+d10
+
+Specific Focus
+
+1-2
+
+Money is owed to a ruthless creditor
+
+1-2
+
+Organized crime wants it
+
+3-4
+
+Money was stolen from someone
+
+3-4
+
+Corrupt officials want it
+
+5-6
+
+A sudden profit opportunity arises
+
+5-6 A sympathetic NPC needs it
+
+7-8
+
+There’s a hidden stash of wealth
+
+7-8
+
+The PCs are owed it
+
+9-0
+
+Money is offered from an evil source
+
+9-0
+
+It will disappear very soon
+
+1-2
+
+Someone was murdered
+
+1-2
+
+It was wholly justified
+
+3-4
+
+Someone was stripped of rank
+
+3-4
+
+The wrong person is targeted
+
+5-6
+
+Someone lost all their wealth
+
+5-6 The reaction is excessive
+
+7-8
+
+Someone lost someone’s love
+
+7-8
+
+The PCs are somehow blamed
+
+9-0
+
+Someone was framed for a crime
+
+9-0
+
+Both sides were wronged
+
+1-2
+
+An influential political leader
+
+1-2
+
+They’ve betrayed their own
+
+3-4
+
+A stern community elder
+
+3-4
+
+Someone’s gunning for them
+
+5-6
+
+A ruling patriarch of a large family
+
+5-6 They made a terrible choice
+
+7-8
+
+A star expert in a particular industry
+
+7-8
+
+9-0
+
+A criminal boss or outcast leader
+
+9-0 They’re oppressing their own
+
+1-2
+
+A cyclical planetary phenomenon
+
+1-2
+
+Anti-helpful bureaucrats
+
+3-4
+
+A sudden natural disaster
+
+3-4
+
+Religious zealots panic
+
+5-6
+
+Sudden loss of vital infrastructure
+
+5-6
+
+Bandits and looters strike
+
+7-8
+
+Catastrophe from outside meddling
+
+7-8
+
+The government hushes it up
+
+9-0
+
+Formerly-unknown planetary peril
+
+9-0 There’s money in exploiting it
+
+1-2
+
+Sects that hate each other bitterly
+
+1-2
+
+Charismatic new leader
+
+3-4
+
+Zealot reformers forcing new things
+
+3-4
+
+Mandatory state religion
+
+5-6
+
+Radical traditionalists fighting back
+
+5-6
+
+Heavy foreign influence
+
+7-8
+
+Ethnic religious divisions
+
+7-8
+
+Religious purging underway
+
+9-0
+
+Corrupt and decadent institutions
+
+9-0
+
+Fighting for holy ground
+
+1-2
+
+A universally-despised fringe group
+
+1-2
+
+Terrorist attack
+
+3-4
+
+Terrorists with widespread support
+
+3-4
+
+Street rioting
+
+5-6
+
+A political party’s goon squads
+
+5-6
+
+Police state crackdown
+
+7-8
+
+Dead-end former regime supporters
+
+7-8
+
+Forced expulsions
+
+9-0
+
+Ruthless ascendant political group
+
+9-0 Territory under hostile rule
+
+1-2
+
+A traditionally subordinate group
+
+1-2
+
+Forced immigration
+
+3-4
+
+An ethnic group from offworld
+
+3-4
+
+Official ethnic ghettos
+
+5-6
+
+A dominant caste or ethnicity
+
+5-6
+
+Rigid separation of groups
+
+7-8
+
+An alien or transhuman group
+
+7-8
+
+Group statuses have changed
+
+9-0
+
+Two groups that hate each other
+
+9-0
+
+Rising ethnic violence
+
+1-2
+
+There’s a cache of illegal materials
+
+1-2
+
+Someone thinks they own it
+
+3-4
+
+A hidden strike of rare resources
+
+3-4
+
+The state is looking for it
+
+5-6
+
+Cargo has been abandoned as lost
+
+5-6
+
+It has its own protectors
+
+7-8
+
+Land ownership is disputed
+
+7-8
+
+Rights to it were stolen
+
+9-0
+
+A resource is desperately necessary
+
+9-0
+
+Offworlders want it badly
+
+They usurped their position
+
+182• PEOPLE
+
+CREATING PEOPLE
+You’ll need People to help the PCs get involved in your
+adventure and to flesh out the personalities and important figures in the Problem. Not every NPC needs
+to be worked up fully, but it can be convenient to have
+a few spare People around to drop in when the players
+suddenly take an interest in a bit-player NPC you never
+expected they’d focus on.
+To generate a Person, start with their motivation.
+This is what the Person wants out of life, their major
+focus and drive. The deals they offer and the actions
+they take should revolve around this motivation. Different people will go to different extremes to follow
+this motivation, so you shouldn’t feel obligated to make
+it a monomania for them, but it’s the basic driver of
+their actions.
+Next, pick a want. This is the immediate thing the
+NPC thinks will most effectively advance their motivation. If the latter is “Promote a friend or offspring’s
+career” and the want is “Burn down or destroy a particular structure”, then you simply have to figure out how
+burning down that place is going to advance the NPC’s
+daughter’s career. The want is what the NPC is most
+likely to desire the PCs to help them achieve.
+Now determine their power. This is what the
+NPC can use to pay off the PCs or threaten them into
+compliance. If a Person hasn’t got any power to help
+d20
+
+Initial Manner
+
+or harm the party, the PCs aren’t going to have much
+motivation to care about their wants. Not every NPC
+will have much power, but they should all be able to do
+something to help or hinder the PCs.
+Then you determine a hook, a visual or character
+quirk that will help you describe them during play and
+help the players remember who they are.
+Lastly, if you want to make life a little easier for
+yourself, you can roll or pick an initial manner of
+approach and a default deal outcome for the Person.
+These additional tables help smooth out the handling
+of PC deals and negotiations with the NPC.
+The initial manner is simply how the NPC will
+deal with the PCs during their initial meeting. Maybe
+they’ll be effusively appreciative of the party’s capabilities, or maybe they’ll be full of thin-lipped disapproval,
+but their manner can give you some cues for playing
+out the NPC’s interactions with the party.
+The default deal outcome can give you a cue as to
+how or if the NPC will keep any deal they make with
+the PCs. In some cases, you’ll already know whether
+or not the NPC will play fair with the party, either because you know they’re essentially trustworthy people
+or you know they’re double-dipped bastards. The table
+is convenient when you’re not quite sure if an NPC is
+as good as their word.
+Default Deal Outcome
+
+1
+
+Ingratiating and cloying
+
+They’ll screw the PCs over even at their own cost
+
+2
+
+Grim suspicion of the PCs or their backers
+
+They firmly intend to actively betray the PCs
+
+3
+
+Xenophilic interest in the novelty of the PCs
+
+They won’t keep the deal unless driven to it
+
+4
+
+Pragmatic and businesslike
+
+They plan to twist the deal to their own advantage
+
+5
+
+Romantically interested in one or more PCs
+
+They won’t keep their word unless it’s profitable
+
+6
+
+A slimy used-gravcar dealer’s approach
+
+They’ll flinch from paying up when the time comes
+
+7
+
+Wide-eyed awe at the PCs
+
+They mean to keep the deal, but are reluctant
+
+8
+
+Cool and superior attitude toward PC “hirelings”
+
+They’ll keep most of the deal, but not all of it
+
+9
+
+Benevolently patronizing toward outsiders
+
+They’ll keep the deal slowly and grudgingly
+
+10
+
+Sweaty-palmed need or desperation
+
+They’ll keep the deal but won’t go out of their way
+
+11
+
+Xenophobic mistrust of the PCs
+
+They’ll be reasonably punctual about the deal
+
+12
+
+Idealistic enthusiasm for a potentially shared cause
+
+They’ll want a further small favor to pay up on it
+
+13
+
+Somewhat intoxicated by recent indulgence
+
+They’ll keep the deal in a way that helps them
+
+14
+
+Smoothly persuasive and reasonable
+
+They’ll keep the deal if it’s still good for them
+
+15
+
+Visibly uncomfortable with the PCs
+
+They’ll offer a bonus for an additional favor
+
+16
+
+Grossly overconfident in PC abilities
+
+Trustworthy as long as the deal won’t hurt them
+
+17
+
+Somewhat frightened by the PCs
+
+Trustworthy, with the NPC following through
+
+18
+
+Deeply misunderstanding the PCs’ culture
+
+They’ll be very fair in keeping to their agreements
+
+19
+
+Extremely well-informed about the PCs’ past
+
+They’ll keep bargains even to their own cost
+
+20
+
+Distracted by their current situation
+
+Complete and righteous integrity to the bitter end
+
+PEOPLE •183
+d20
+
+Their Motivation
+
+Their Want
+
+1
+
+An ambition for greater social status
+
+Bring them an exotic piece of tech
+
+2
+
+Greed for wealth and indulgent riches
+
+Convince someone to meet with the NPC
+
+3
+
+Protect a loved one who is somehow imperiled
+
+Kill a particular NPC
+
+4
+
+A sheer sadistic love of inflicting pain and suffering
+
+Kidnap or non-fatally eliminate a particular NPC
+
+5
+
+Hedonistic enjoyment of pleasing company
+
+Pay them a large amount of money
+
+6
+
+Searching out hidden knowledge or science
+
+Take a message to someone hard to reach
+
+7
+
+Establishing or promoting a cultural institution
+
+Acquire a tech component that’s hard to get
+
+8
+
+Avenging a grievous wrong to them or a loved one
+
+Find proof of a particular NPC’s malfeasance
+
+9
+
+Promoting their religion and living out their faith
+
+Locate a missing NPC
+
+10
+
+Winning the love of a particular person
+
+Bring someone to a destination via dangerous travel
+
+11
+
+Winning glory and fame in their profession
+
+Retrieve a lost or stolen object
+
+12
+
+Dodging an enemy who is pursuing them
+
+Defend someone from an impending attack
+
+13
+
+Driving out or killing an enemy group
+
+Burn down or destroy a particular structure
+
+14
+
+Deposing a rival to them in their line of work
+
+Explore a dangerous or remote location
+
+15
+
+Getting away from this world or society
+
+Steal something from a rival NPC or group
+
+16
+
+Promote a friend or offspring’s career or future
+
+Intimidate a rival into ceasing their course of action
+
+17
+
+Taking control of a property or piece of land
+
+Commit a minor crime to aid the NPC
+
+18
+
+Building a structure or a complex prototype tech
+
+Trick a rival into doing something
+
+19
+
+Perform or create their art to vast acclaim
+
+Rescue an NPC from a dire situation
+
+20
+
+Redeem themselves from a prior failure
+
+Force a person or group to leave an area
+
+d20
+
+Their Power
+
+Their Hook
+
+1
+
+They’re just really appealing and sympathetic to PCs A particular odd style of dress
+
+2
+
+They have considerable liquid funds
+
+An amputation or other maiming
+
+3
+
+They control the use of large amounts of violence
+
+Visible cyberware or prosthetics
+
+4
+
+They have a position of great social status
+
+Unusual hair, skin, or eye colors
+
+5
+
+They’re a good friend of an important local leader
+
+Scarring, either intentional or from old injuries
+
+6
+
+They have blackmail info on the PCs
+
+Tic-like overuse of a particular word or phrase
+
+7
+
+They have considerable legal influence here
+
+Specific unusual fragrance or cologne
+
+8
+
+They have tech the PCs might reasonably want
+
+Constant fiddling with a particular item
+
+9
+
+They can get the PCs into a place they want to go
+
+Visible signs of drug use
+
+10
+
+They know where significant wealth can be found
+
+Always seems to be in one particular mood
+
+11
+
+They have information about the PCs’ current goal
+
+Wears badges or marks of allegiance to a cause
+
+12
+
+An NPC the PCs need has implicit trust in them
+
+Extremely slow or fast pace of speech
+
+13
+
+The NPC can threaten someone the PCs like
+
+Wheezes, shakes, or other signs of infirmity
+
+14
+
+They control a business relevant to PC needs
+
+Constantly with a drink to hand
+
+15
+
+They have considerable criminal contacts
+
+Always complaining about a group or organization
+
+16
+
+They have pull with the local religion
+
+Paranoid, possibly for justifiable reasons
+
+17
+
+They know a great many corrupt politicians
+
+Insists on a particular location for all meetings
+
+18
+
+They can alert the PCs to an unexpected peril
+
+Communicates strictly through a third party
+
+19
+
+They’re able to push a goal the PCs currently have
+
+Abnormally obese, emaciated, tall, or short
+
+20
+
+They can get the PCs useful permits and rights
+
+Always found with henchmen or friends
+
+184• PLACES
+
+CREATING PLACES
+Places can be very simple to create or very complex. If
+a Place is only needed as a backdrop for events and you
+don’t expect the PCs to spend much time exploring it,
+you really don’t need anything more than a name and
+a few sentences of description for the table. If it’s to be
+an alien ruin, enemy base, or some other structure that
+the PCs are going to carefully interact with, you’ll need
+something more interesting.
+For the former type of place, just pull an appropriate Place from the world generation data you’ve already
+created. You can then give it some background activity
+from the table below. If it’s an urban, civilized sort of
+location, you can roll for a Civilized Ongoing to indicate what’s happening there right now. If it’s a lost ruin,
+wilderness glade, or other wild place, roll or pick from
+the Wilderness Ongoings list.
+If the PCs plan to investigate the place, you’ll want
+a Reward to determine what worthwhile thing the PCs
+might find there. In some cases, you’ll already know
+what the Reward should be; if the PCs are going into
+an alien ruin to dig out a lost macguffin, then the macguffin itself will be the reward. You can still use the
+Reward table to create some secondary loot prospects
+in the place if you wish, the better to reward careful
+exploration and creative overcoming of the area’s inevitable hazards.
+d20
+
+Reward
+
+Those hazards can be derived from the opposite
+table. The first roll gives a general type of hazard that
+the PCs will have to face in an area or sub-area of the
+Place, while the specific examples and possible dangers
+provide more concrete suggestions.
+You can apply these hazards to specific parts of
+the Place, or if the area is too small to sustain much
+mayhem, you might roll once and apply it generally to
+the entire location.
+One of the easiest ways to quickly produce an interesting area to explore is to go online and loot the
+web for old-school-style fantasy adventure modules.
+In many cases, the maps and floor plans can be stolen
+outright, while the room contents can be reskinned
+with suitably sci-fi flavor. Most of these old adventures
+use game mechanics that are similar to those used by
+Stars Without Number, such as hit points, Armor Classes, damage rolls, and gold piece values that can easily
+be converted to credits. If you mix and match these
+components, using pieces from multiple adventures to
+stitch together what you need, even those players who
+might have experienced the original adventure won’t
+be able to recognize your handiwork.
+This principle of constructive looting is important
+to any sandbox GM. Save creative energy for where it
+counts. Everywhere else, plunder without shame.
+
+Civilized Ongoings
+
+Wilderness Ongoings
+
+1
+
+Large cache of credits
+
+Local festival going on
+
+Bandits have moved in
+
+2
+
+Precious cultural artifact
+
+Angry street protests
+
+Flooding swept through
+
+3
+
+Vital data on the party’s goal
+
+Minor fire or other disorder
+
+Part of it has collapsed
+
+4
+
+Missing or kidnapped VIP
+
+Merchants and peddlers active
+
+Refugees are hiding here
+
+5
+
+Advanced pretech artifact
+
+Tourists from another country
+
+Dangerous animals lair here
+
+6
+
+Key to some guarded location
+
+Building repair or maintenance
+
+A rebel cell uses it for a base
+
+7
+
+Ancient treasure object
+
+Recent vehicle crash
+
+Smugglers have landed here
+
+8
+
+Recently-stolen goods
+
+Public art performance
+
+Foreign agents meet here
+
+9
+
+High-tech robotic servitor
+
+Angry traffic jam
+
+A hermit has taken up residence
+
+10
+
+Token item of ruling legitimacy
+
+Missionaries for a local religion
+
+A toxic plant is growing wild
+
+11
+
+Juicy blackmail material
+
+Loud advertising campaign
+
+An artist seeks inspiration here
+
+12
+
+History-rewriting evidence
+
+Memorial service ongoing
+
+An ancient structure was dug out
+
+13
+
+Alien artifact of great power
+
+Road work halting traffic
+
+The weather has turned savage
+
+14
+
+Precious megacorp data files
+
+Power outage in the area
+
+A vehicle crashed nearby
+
+15
+
+Map to some valuable thing
+
+Police chasing criminals
+
+Some locals are badly lost
+
+16
+
+Forbidden but precious drug
+
+Annoying drunks being loud
+
+Religious pilgrims come here
+
+17
+
+Legal title to important land
+
+Beggars seeking alms
+
+Locals fight over control of it
+
+18
+
+Awful secret of local government
+
+Constructing a new building
+
+Nature threatens to wipe it out
+
+19
+
+Cache of precious goods
+
+Local thugs swaggering around
+
+An old shrine was raised here
+
+20
+
+Stock of valuable weaponry
+
+Aerial light display
+
+A shell of a building remains
+
+PLACES •185
+d8
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Hazard
+Social
+
+Legal
+
+Environmental
+
+Trap
+
+Animal
+
+Sentient
+
+Decay
+
+PC-induced
+
+d10
+
+Specific Example
+
+d10
+
+Possible Danger
+
+1-2
+
+An explosively temperamental VIP
+
+1-2
+
+An allied NPC breaks ties
+
+3-4
+
+An unknown but critical social taboo
+
+3-4 An enemy is alerted to them
+
+5-6
+
+A case of mistaken identity
+
+5-6 A new enemy is made
+
+7-8
+
+An expectation for specific PC action
+
+7-8
+
+9-0
+
+A frame job hung on the PCs
+
+9-0 An opportunity is lost
+
+1-2
+
+A regulation unknown to the PCs
+
+1-2
+
+Substantial monetary fine
+
+3-4
+
+A tax or confiscation
+
+3-4
+
+Imprisonment for the party
+
+5-6
+
+Vital gear is prohibited here
+
+5-6
+
+Confiscation of possessions
+
+7-8
+
+Lawsuit from an aggrieved NPC
+
+7-8
+
+Deportation from the place
+
+9-0
+
+A state agent conscripts PC help
+
+9-0
+
+Loss of rights and protections
+
+1-2
+
+Heavy background radiation
+
+1-2
+
+Catch a lingering disease
+
+3-4
+
+A planetary sickness foreigners get
+
+3-4
+
+Suffer bodily harm
+
+5-6
+
+Strong or weak local gravity
+
+5-6 Take a penalty on rolls
+
+7-8
+
+Gear-eating microbial life
+
+7-8
+
+Lose some equipment
+
+9-0
+
+Unpredictable psychic power field
+
+9-0
+
+Psychic abilities are altered
+
+1-2
+
+Alarm system attached to a trap
+
+1-2
+
+Something set on fire
+
+3-4
+
+Snare left for local animals
+
+3-4
+
+Guards are summoned
+
+5-6
+
+Hermit’s self-defense measure
+
+5-6
+
+Fall to a new area
+
+7-8
+
+Long-dead builder’s trapsmithing
+
+7-8
+
+Equipment is damaged
+
+9-0
+
+New occupant’s defensive trap
+
+9-0
+
+Subject is injured
+
+1-2
+
+Dangerous local swarm vermin
+
+1-2
+
+They have a ranged attack
+
+3-4
+
+A big predator lair
+
+3-4
+
+They’re venomous
+
+5-6
+
+Pack hunters haunt the area
+
+5-6
+
+Dangerously coordinated foe
+
+7-8
+
+Flying threats pounce here
+
+7-8
+
+Killing them inflicts a fine
+
+9-0
+
+Monstrous beast sleeps or is torpid
+
+9-0 Their deaths cause an effect
+
+1-2
+
+A group hostile to intruders
+
+1-2
+
+Immediate combat
+
+3-4
+
+Trickster thieves and con-men
+
+3-4
+
+Treacherous feigned friend
+
+5-6
+
+Hostile expert-system robots
+
+5-6
+
+Lead the PCs into a trap
+
+7-8
+
+Secrecy-loving rebels or criminals
+
+7-8
+
+Demand payment or loot
+
+9-0
+
+Another area-clearing group
+
+9-0 Activate other area defenses
+
+1-2
+
+Crumbling floor or ceiling
+
+1-2
+
+Ruptures to release a peril
+
+3-4
+
+Waste or heating tubes rupture
+
+3-4
+
+Toxic or radioactive debris
+
+5-6
+
+Dangerous standing liquid
+
+5-6
+
+Explosive decompression
+
+7-8
+
+Maintenance robots gone haywire
+
+7-8
+
+Invisible or slow-acting toxin
+
+9-0
+
+Power plant is unstable
+
+9-0
+
+Fires or explosions
+
+1-2
+
+Activating a system causes a disaster
+
+1-2
+
+Horrible vermin are admitted
+
+3-4
+
+Catastrophic plan proposed by NPCs
+
+3-4
+
+Local system goes berserk
+
+5-6
+
+Removing loot triggers defenses
+
+5-6
+
+Something ruptures violently
+
+7-8
+
+Handling an object ruins it
+
+7-8
+
+Ancient defenses awaken
+
+9-0
+
+Leaving a thing open brings calamity
+
+9-0 The PC’s goal is imperiled
+
+Cads think the PCs are allies
+
+186• ADVENTURE SEEDS
+
+ADVENTURE SEEDS
+The hundred ideas that follow are basic outlines for
+various adventures. Just take the components you’ve
+rolled for a given planet, slot them in the spaces noted
+in the adventure seeds, and build out from there to
+create an evening’s entertainment.
+If you want something more complicated than
+these basic seeds provide, you can string several of
+them together, gluing them into a single perilous circumstance to occupy the heroes.
+As a general rule of thumb, a single seed should
+occupy the group for a single session’s worth of adventure. If you need to create more content than that, you
+can scale events by adding additional complications or
+breaking the adventure up into several additional tasks
+or obstacles that must be overcome before the PCs can
+successfully resolve it.
+1. An Enemy seeks to rob a Friend of some precious
+Thing that he has desired for some time.
+2. A Thing has been discovered on property owned
+by a Friend, but a Complication risks its destruction.
+3. A Complication suddenly hits the party while
+they’re out doing some innocuous activity.
+4. The players unwittingly offend or injure an Enemy,
+incurring his or her wrath. A Friend offers help in
+escaping the consequences.
+5. Rumor speaks of the discovery of a precious Thing
+in a distant Place. The players must get to it before
+an Enemy does.
+6. An Enemy has connections with offworld pirates
+or slavers, and a Friend has been captured by them.
+7. A Place has been seized by violent revolutionaries
+or rebels, and a Friend is being held hostage by
+them.
+8. A Friend is in love with someone forbidden by social convention, and the two of them need help
+eloping.
+9. An Enemy wields tyrannical power over a Friend,
+relying on the bribery of corrupt local officials to
+escape consequences.
+10. A Friend has been lost in hostile wilderness, and
+the party must reach a Place to rescue them in the
+teeth of a dangerous Complication.
+11. An Enemy has committed a grave offense against a
+PC or their family sometime in the past. A Friend
+shows the party a weakness in the Enemy’s defenses.
+12. The party is suddenly caught in a conflict between
+two warring families or political parties.
+13. The party is framed for a crime by an Enemy, and
+must reach the sanctuary of a Place before they can
+regroup and find the Thing that will prove their
+innocence and their Enemy’s perfidy.
+
+14. A Friend is threatened by a tragedy of sickness, legal calamity, or public humiliation, and the only
+one that seems able to save them is an Enemy.
+15. A natural disaster or similar Complication strikes
+a Place while the party is present, causing great
+loss of life and property unless the party is able to
+immediately respond to the injured and trapped.
+16. A Friend with a young business has struck a cache
+of pretech, valuable minerals, or precious salvage.
+He needs the party to help him reach the Place
+where the valuables are.
+17. An oppressed segment of society starts a sudden
+revolt in the Place the party is occupying. An Enemy simply lumps the party in with the rebels and
+tries to put the revolt down with force. A Friend
+offers them a way to either help the rebels or clear
+their names.
+18. A vulnerable Friend has been targeted for abduction, and has need of guards. A sudden Complication makes guarding them from the Enemy seeking
+their kidnapping much more difficult. If the Friend
+is snatched, they must rescue them from a Place.
+19. A mysterious Place offers the promise of some
+precious Thing, but access is very dangerous due
+to wildlife, hostile locals, or a dangerous environment.
+20. An Enemy and a Friend both have legal claim on
+a Thing, and seek to undermine each other’s case.
+The Enemy is willing to do murder if he thinks he
+can get away with it.
+21. An Enemy seeks the death of his brother, a Friend,
+by arranging the failure of his grav flyer or shuttlecraft in dangerous terrain while the party is coincidentally aboard. The party must survive the
+environment and bring proof of the crime out
+with them.
+22. A Friend seeks to slip word to a lover, one who is
+also being courted by the Friend’s brother, who
+is an Enemy. A Complication threatens to cause
+death or disgrace to the lover unless they either
+accept the Enemy’s suit or are helped by the party.
+23. An Enemy is convinced that one of the party has
+committed adultery with their flirtatious spouse.
+He means to lure them to a Place, trap them, and
+have them killed by the dangers there.
+24. An Enemy has been driven insane by exotic recreational drugs or excessive psionic torching. He
+fixes on a PC as being his mortal nemesis, and
+plots elaborate deaths, attempting to conceal his
+involvement amid Complications.
+25. A Friend has stolen a precious Thing from an Enemy and fled into a dangerous, inaccessible Place.
+The party must rescue them, and decide what to do
+with the Thing and the outraged Enemy.
+
+ADVENTURE SEEDS •187
+26. An Enemy has realized that their brother or sister
+has engaged in a socially unacceptable affair with
+a Friend, and means to kill both of them unless
+stopped by the party.
+27. A Friend has accidentally caused the death of a
+family member, and wants the party to help him
+hide the body or fake an accidental death before
+his family realizes what has happened. A Complication suddenly makes the task more difficult.
+28. A Friend is a follower of a zealous ideologue who
+plans to make a violent demonstration of the
+righteousness of his cause, causing a social Complication. The Friend will surely be killed in the
+aftermath if not rescued or protected by the party.
+29. A Friend’s sibling is to be placed in a dangerous
+situation they’ve got no chance of surviving. The
+Friend takes their place at the last moment, and
+will almost certainly die unless the party aids them.
+30. Suicide bombers detonate an explosive, chemical,
+or biological weapon in a Place occupied by the
+party where a precious Thing is stored The PCs
+must escape before the Place collapses on top of
+them, navigating throngs of terrified people in the
+process and saving the Thing if possible.
+31. An Enemy who controls landing permits, oxygen
+rations, or some other important resource has a
+prejudice against one or more of the party members. He demands that they bring him a Thing
+from a dangerous Place before he’ll give them the
+goods.
+32. A Friend in a loveless marriage to an Enemy seeks
+escape to be with their beloved, and contacts the
+party to snatch them from their spouse’s guards at
+a prearranged Place.
+33. A Friend seeks to elope with their lover, and contacts the party to help them meet their paramour
+at a remote, dangerous Place. On arrival, they find
+that the lover is secretly an Enemy desirous of their
+removal and merely lured them to the place to
+meet their doom.
+34. The party receives or finds a Thing which proves
+the crimes of an Enemy- yet a Friend was complicit
+in the crimes, and will be punished as well if the
+authorities are involved. And the Enemy will stop
+at nothing to get the item back.
+35. A Friend needs to get to a Place on time in order to
+complete a business contract, but an Enemy means
+to delay and hinder them until it’s too late, inducing Complications to the trip.
+36. A locked pretech stasis pod has been discovered by
+a Friend, along with directions to the hidden keycode that will open it. The Place where the keycode
+is hidden is now owned by an Enemy.
+37. A fierce schism has broken out in the local majority
+religion, and an Enemy is making a play to take
+control of the local hierarchy. A Friend is on the
+side that will lose badly if the Enemy succeeds, and
+needs a Thing to prove the other group’s error.
+
+38. A former Enemy has been given reason to repent
+his treatment of a Friend, and secretly commissions them to help the Friend overcome a Complication. A different Enemy discovers the connection, and tries to paint the PCs as double agents.
+39. An alien or a human with extremely peculiar spiritual beliefs seeks to visit a Place for their own reasons. An Enemy of their own kind attempts to stop
+them before they can reach the Place, and reveal
+the Thing that was hidden there long ago.
+40. A Friend’s sibling is an untrained psychic, and has
+been secretly using his or her powers to protect
+the Friend from an Enemy. The neural damage
+has finally overwhelmed their sanity, and they’ve
+now kidnapped the Friend to keep them safe. The
+Enemy is taking this opportunity to make sure
+the Friend “dies at the hands of their maddened
+sibling”.
+41. A Friend who is a skilled precognitive has just received a flash of an impending atrocity to be committed by an Enemy. He or she needs the party
+to help them steal the Thing that will prove the
+Enemy’s plans while dodging the assassins sent to
+eliminate the precog.
+42. A Friend who is an exotic dancer is sought by an
+Enemy who won’t take no for an answer. The
+dancer is secretly a Perimeter agent attempting to
+infiltrate a Place to destroy maltech research, and
+plots to use the party to help get him or her into
+the facility under the pretext of striking at the Enemy.
+43. A young woman on an interplanetary tour needs
+the hire of local bodyguards. She turns out to be a
+trained and powerful combat psychic, but touchingly naive about local dangers, causing a social
+Complication that threatens to get the whole
+group arrested.
+44. A librarian Friend has discovered an antique databank with the coordinates of a long-lost pretech
+cache hidden in a Place sacred to a long-vanished
+religion. The librarian is totally unsuited for danger, but necessary to decipher the obscure religious
+iconography needed to unlock the cache. The
+cache is not the anticipated Thing, but something
+more dangerous to the finder.
+45. A fragment of orbital debris clips a shuttle on the
+way in, and the spaceport is seriously damaged in
+the crash. The player’s ship or the only vessel capable of getting them off-planet will be destroyed
+unless the players can organize a response to the
+dangerous chemical fires and radioactives contaminating the port. A Friend is trapped somewhere
+in the control tower wreckage.
+46. A Friend is allied with a reformist religious group
+that seeks to break the grip of the current, oppressive hierarchy. The current hierarchs have a great
+deal of political support with the authorities, but
+the commoners resent them bitterly. The Friend
+
+188• ADVENTURE SEEDS
+seeks to secure a remote Place as a meeting-place
+for the theological rebels.
+47. A microscopic black hole punctures an orbital station or starship above the world. Its interaction
+with the station’s artificial grav generators has
+thrown everything out of whack, and the station’s become a minefield of dangerously high or
+zero grav zones. It’s tearing itself apart, and it’s
+going to collapse soon. An Enemy seeks to escape
+aboard the last lifeboat and to Hell with everyone
+else. Meanwhile, a Friend is trying to save his engineer daughter from the radioactive, grav-unstable
+engine rooms.
+48. The planet has a sealed alien ruin, and an Enemy-led cult who worships the vanished builders.
+They’re convinced that they have the secret to
+opening and controlling the power inside the ruins, but they’re only half-right. A Friend has found
+evidence that shows that they’ll only devastate the
+planet if they meddle with the alien power planet.
+The party has to get inside the ruins and shut down
+the engines before it’s too late. Little do they realize that a few aliens survive inside, in a stasis field
+that will be broken by the ruin’s opening.
+49. An Enemy and the group are suddenly trapped in
+a Place during an accident or Complication. They
+must work together to escape in time.
+50. A telepathic Friend has discovered that an Enemy
+was responsible for a recent atrocity. Telepathic
+evidence is useless on this world, however, and if
+she’s discovered to have scanned his mind she’ll be
+lobotomized as a ’rogue psychic’. A Thing might
+be enough to prove his guilt, if the party can figure out how to get to it without revealing their
+Friend’s meddling.
+51. A Friend is responsible for safeguarding a Thingyet the Thing is suddenly proven to be a fake. The
+party must find the real object and the Enemy who
+stole it or else their Friend will be punished as the
+thief.
+52. A Friend is bitten by a poisonous local animal
+while in a remote Place. The only antidote is back
+at civilization, yet a Complication threatens to delay the group until it is too late.
+53. A lethal plague has started among the residents of
+the town, but a Complication is keeping aid from
+reaching them. An Enemy is taking advantage of
+the panic to hawk a fake cure at ruinous prices,
+and a Friend is taken in by him. The Complication
+must be overcome before help can reach the town.
+54. A radical political party has started to institute
+pogroms against “groups hostile to the people”. A
+Friend is among those groups, and needs to get out
+of town before an Enemy uses the riot as cover to
+settle old scores.
+55. An Enemy has sold the party an expensive but
+worthlessly flawed piece of equipment before
+
+lighting out for the back country. He and his plunder are holed up at a remote Place.
+56. A concert of offworld music is being held in town,
+and a Friend is slated to be the star performer. Reactionary elements led by an Enemy plot to ruin
+the “corrupting noise” with sabotage that risks
+getting performers killed. Meanwhile, a crowd
+of ignorant offworlder fans have landed and are
+infuriating the locals.
+57. An Enemy is wanted on a neighboring world for
+some heinous act, and a Friend turns up as a bounty hunter ready to bring him in alive. This world
+refuses to extradite him, so the capture and retrieval has to evade local law enforcement.
+58. An unanticipated solar storm blocks communications and grounds the poorly-shielded grav vehicle
+that brought the group to this remote Place. Then
+people start turning up dead; the storm has awoken a dangerous Enemy beast.
+59. A Friend has discovered a partially-complete schematic for an ancient pretech refinery unit that produces vast amounts of something precious on this
+world- water, oxygen, edible compounds, or the
+like. Several remote Places on the planet are indicated as having the necessary pretech spare parts
+required to build the device. When finally assembled, embedded self-modification software in the
+Thing modifies itself into a pretech combat bot.
+The salvage from it remains very valuable.
+60. A Complication ensnares the party where they are
+in an annoying but seemingly ordinary event. In
+actuality, an Enemy is using it as cover to strike at
+a Friend or Thing that happens to be where the
+PCs are.
+61. A Friend has a cranky, temperamental artificial
+heart installed, and the doctor who put it in is the
+only one who really understands how it works.
+The heart has recently started to stutter, but the
+doctor has vanished. An Enemy has snatched him
+to fit his elite assassins with very unsafe combat
+mods.
+62. A local clinic is doing wonders in providing free
+health care to the poor. In truth, it’s a front for
+an offworld eugenics cult, with useful “specimens”
+kidnapped and shipped offworld while ’cremated remains’ are given to the family. A Friend is
+snatched by them, but the party knows they’d
+have never consented to cremation as the clinic
+staff claim.
+63. Space pirates have cut a deal with an isolated
+backwoods settlement, off loading their plunder
+to merchants who meet them there. A Friend goes
+home to family after a long absence, but is kidnapped or killed before they can bring back word
+of the dealings. Meanwhile, the party is entrusted
+with a valuable Thing that must be brought to the
+Friend quickly.
+
+ADVENTURE SEEDS •189
+64. A reclusive psychiatrist is offering treatment for
+violent mentally ill patients at a remote Place. His
+treatments seem to work, calming the subjects
+and returning them to rationality, though major
+memory loss is involved and some severe social
+clumsiness ensues. In actuality, he’s removed
+large portions of their brains to fit them with remote-control units slaved to an AI in his laboratory. He intends to use them as drones to acquire
+more “subjects”, and eventual control of the town.
+65. Vital medical supplies against an impending plague
+have been shipped in from offworld, but the spike
+drive craft that was due to deliver them misjumped,
+and has arrived in-system as a lifeless wreck transmitting a blind distress signal. Whoever gets there
+first can hold the whole planet hostage, and an Enemy means to do just that.
+66. A Friend has spent a substantial portion of their
+wealth on an ultra-modern new domicile, and invites the party to enjoy a weekend there. An Enemy has hacked the house’s computer system to
+trap the inhabitants inside and use the automated
+fittings to kill them.
+67. A mud slide, hurricane, earthquake, or other form
+of disaster strikes a remote settlement. The party
+is the closest group of responders, and must rescue
+the locals while dealing with the unearthed, malfunctioning pretech Thing that threatens to cause
+an even greater calamity if not safely defused.
+68. A Friend has found a lost pretech installation, and
+needs help to loot it. By planetary law, the contents
+belong to the government.
+69. An Enemy mistakes the party for the kind of offworlders who will murder innocents for pay- assuming they aren’t that kind, at least. He’s sloppy
+with the contact and unwittingly identifies himself,
+letting the players know that a Friend will shortly
+die unless the Enemy is stopped.
+70. A party member is identified as a prophesied savior
+for an oppressed faith or ethnicity. The believers
+obstinately refuse to believe any protestations to
+the contrary, and a cynical Enemy in government
+decides the PC must die simply to prevent the risk
+of uprising. An equally cynical Friend is determined to push the PC forward as a savior, because
+that’s what’s needed.
+71. Alien beasts escape from a zoo and run wild
+through the spectators. The panicked owner offers
+large rewards for recapturing them live, but some
+of the beasts are quite dangerous.
+72. A trained psychic is accused of going feral by an
+Enemy. The psychic had already suffered severe
+neural damage before being found for training,
+so brain scans cannot establish physical signs of
+madness. The psychic seems unstable, but not violent- at least, on short acquaintance. The psychic
+offers a psychic PC the secrets of a unique psychic
+technique if they help him flee.
+
+73. A Thing is the token of rulership on this world,
+and it’s gone missing. If it’s not found rapidly, the
+existing ruler will be deposed. Evidence left at a
+Place suggests that an Enemy has it, but extralegal
+means are necessary to investigate fully.
+74. Psychics are vanishing, including a Friend. They’re
+being kidnapped by an ostensibly-rogue government researcher who is using them to research the
+lost psychic disciplines that helped enable pretech
+manufacturing, and they are being held at a remote
+Place. The snatcher is a small-time local Enemy
+with unnaturally ample resources.
+75. A Friend desperately seeks to hide evidence of some
+past crime that will ruin his life should it come to
+light. An Enemy holds the Thing that proves his
+involvement, and blackmails him ruthlessly.
+76. A courier mistakes the party for the wrong set of
+offworlders, and wordlessly deposits a Thing with
+them that implies something awful- med-frozen,
+child-sized human organs, for example, or a private catalog of gengineered human slaves. The
+courier’s boss shortly realizes the error, and this
+Enemy tries to silence the PCs while preserving
+the Place where his evil is enacted.
+77. A slowboat system freighter is taken over by Enemy separatist terrorists at the same time as the
+planet’s space defenses are taken offline by internal
+terrorist attacks. The freighter is aimed straight at
+the starport, and will crash into it in hours if not
+stopped.
+78. Alien artifacts on the planet’s surface start beaming
+signals into the system’s asteroid belt. The signals
+provoke a social Complication in panicked response, and an Enemy seeks to use the confusion
+to take over. The actual effect of the signals might
+be harmless, or might summon a long-lost alien AI
+warship to scourge life from the world.
+79. An alien ambassador Friend is targeted by xenophobe Enemy assassins. Relations are so fragile
+that if the ambassador even realizes that humans
+are making a serious effort to kill him, the result
+may be war.
+80. A new religion is being preached by a Friend on
+this planet. Existing faiths are not amused, and
+an Enemy among the hierarchy is provoking the
+people to persecute the new believers, hoping for
+things to get out of hand.
+81. An Enemy was once the patron of a Friend until
+the latter was betrayed. Now the Friend wants revenge, and they think they have the information
+necessary to get past the Enemy’s defenses.
+82. Vital life support or medical equipment has been
+sabotaged by offworlders or zealots, and must be
+repaired before time runs out. The only possible
+source of parts is at a Place, and the saboteurs can
+be expected to be working hard to get there and
+destroy them, too.
+
+190• ADVENTURE SEEDS
+83. A Friend is importing offworld tech that threatens
+to completely replace the offerings of an Enemy
+businessman. The Enemy seeks to sabotage the
+friend’s stock, and thus ’prove’ its inferiority.
+84. An Exchange diplomat is negotiating for the opening of a branch of the interstellar bank on this
+world. An Enemy among the local banks wants to
+show the world as being ungovernably unstable,
+so provokes Complications and riots around the
+diplomat.
+85. An Enemy is infuriated by the uppity presumption
+of an ambitious Friend of a lower social caste, and
+tries to pin a local Complication on the results of
+his unnatural rejection of his proper place.
+86. A Friend is working for an offworld corporation
+to open a manufactory, and is ignoring local traditions that privilege certain social or ethnic groups,
+giving jobs to the most qualified workers instead.
+An angry Enemy seeks to sabotage the factory.
+87. An offworld musician who was revered as little less
+than a god on his homeworld requires bodyguards.
+He immediately acquires Enemies on this world
+with his riotous ways, and his guards must keep
+him from getting arrested if they are to be paid.
+88. Atmospheric disturbances, dust storms, or other
+particulate clouds suddenly blow into town, leaving the settlement blind. An Enemy commits a
+murder during the darkness, and attempts to frame
+the players as convenient scapegoats.
+89. An Enemy spikes the oxygen supply of an orbital station or unbreathable-atmosphere hab dome
+with hallucinogens as cover for a theft. Most victims are merely confused and disoriented, but
+some become violent in their delusions. By chance,
+the party’s air supply was not contaminated.
+90. By coincidence, one of the party members is wearing clothing indicative of membership in a violent
+political group, and thus the party is treated in
+friendly fashion by a local Enemy for no obvious
+reason. The Enemy assumes that the party will go
+along with some vicious crime without complaint,
+and the group isn’t informed of what’s in the offing
+until they’re in deep.
+91. A local ruler wishes outworlders to advise him of
+the quality of his execrable poetry- and is the sort
+to react very poorly to anything less that evidently
+sincere and fulsome praise. Failure to amuse the
+ruler results in the party being dumped in a dangerous Place to “experience truly poetic solitude”.
+92. A Friend among the locals is unreasonably convinced that offworlder tech can repair anything,
+and has blithely promised a powerful local Enemy that the party can easily fix a damaged pretech
+Thing. The Enemy has invested in many expensive spare parts, but the truly necessary pieces are
+kept in a still-dangerous pretech installation in a
+remote Place.
+
+93. The party’s offworld comm gear picks up a chance
+transmission from the local government and automatically descrambles the primitive encryption
+key. The document is proof that an Enemy in government intends to commit an atrocity against a
+local village with a group of “deniable” renegades
+in order to steal a Thing kept in the village.
+94. A Friend belongs to a persecuted faith, ethnicity,
+or social class, and appeals for the PCs to help a
+cell of rebels get offworld before the Enemy law
+enforcement finds them.
+95. A part on the party’s ship or the only other transport out has failed, and needs immediate replacement. The only available part is held by an Enemy,
+who will only willingly relinquish it in exchange
+for a Thing held by an innocent Friend who will
+refuse to sell at any price.
+96. Eugenics cultists are making gengineered slaves
+out of genetic material gathered at a local brothel.
+Some of the unnaturally tempting slaves are being
+slipped among the prostitutes as bait to infatuate
+powerful officials, while others are being sold under the table to less scrupulous elites.
+97. Evidence has been unearthed at a Place that substantial portions of the planet are actually owned
+by members of an oppressed and persecuted group.
+The local courts have no intention of recognizing
+the rights, but the codes with the ownership evidence would allow someone to bypass a number
+of antique pretech defenses around the planetary
+governor’s palace. A Friend wants the codes to pass
+to his friends among the group’s rebels.
+98. A crop smut threatens the planet’s agriculture,
+promising large-scale famine. A Friend finds evidence that a secret government research station
+in the system’s asteroid belt was conducting experiments in disease-resistant crop strains for the
+planet before the Silence struck and cut off communication with the station. The existing government considers it a wild goose chase, but the party
+might choose to help. The station has stasis-frozen
+samples of the crop sufficient to avert the famine,
+but it also has less pleasant relics….
+99. A grasping Enemy in local government seizes the
+party’s ship for some trifling offense. The Enemy
+wants to end offworld trade, and is trying to scare
+other traders away. The starship is held within a
+military cordon, and the Enemy is confident that
+by the time other elements of the government
+countermand the order, the free traders will have
+been spooked off.
+100.A seemingly useless trinket purchased by a PC
+turns out to be the security key to a lost pretech
+facility. It was sold by accident by a bungling and
+now-dead minion of a local Enemy, who is hot after the party to “reclaim” his property… preferably
+after the party defeats whatever automatic defenses and bots the facility might still support.
+
+AN EXAMPLE OF ADVENTURE CREATION •191
+
+AN EXAMPLE OF ADVENTURE CREATION
+The GM has just started a new campaign, and he needs
+to brew up an initial adventure to pull the party together and get them accustomed to the sector he’s just
+created. He knows what planet the PCs are going to
+begin on and he knows he wants them to end up owning a battered free merchant starship by the end of the
+session, but the rest is still up in the air.
+He starts by deciding whether or not to use an adventure seed. While he sees a few that might work, he
+decides instead to roll up this adventure from scratch.
+The world he’s created is a planet known to its
+natives as Delaine, with the world tags “Alien Ruins”
+and “Xenophobes”. The Delainers have numerous unexplored alien ruins on their world, but fear them as
+potential sources of catastrophe. They hate outsiders
+because the offworlders are constantly prodding at the
+ruins and trying to loot them, and care nothing for the
+disasters they might unleash on the locals.
+The GM knows that his first batch of PCs are very
+unlikely to all be Delainers, so he decides that they were
+all passengers on a smuggler ship that tried to land on
+Delaine and loot one of the ruins. The Delainer defense
+grid spotted the ship and knocked it down, however,
+and the PCs were among the few survivors. Maybe the
+PCs were initially part of the smuggler crew, or maybe they were just oblivious passengers. The GM will
+let each player decide what their PC’s role was during
+character creation.
+The first step is to pick a Problem for the PCs to
+get involved in. On the face of it, the obvious Problem
+for the PCs is that they’re marooned on a hostile world
+and need to get off before the natives find them and
+either kill or imprison them.
+The GM wants something a little more specific
+than this, however. He rolls some dice on the Conflict
+table, and comes up with “Ethnicity” for the Conflict,
+with “Two groups that hate each other” and “Official
+ethnic ghettos”. Given Delaine’s history, the GM decides that any non-native Delainers present when the
+world shut down its contact with other planets were
+separated out into remote ethnic reservations, far away
+from the ruins. These “offworlders” have been here for
+generations but are despised by the native Delainers.
+With that established, the GM decides that the
+PC’s ship was shot down near one of these reservations,
+and the bitter offworlders are interested in helping people whom the Delainers hate. But who will the initial
+Person the PCs contact be?
+The dice paint the picture of an offworlder motivated to redeem themselves from a prior failure,
+who wants to find proof of a rival NPC’s malfeasance,
+who knows where significant wealth is to be found,
+and wears a particularly odd style of dress. From this,
+the GM creates “the Captain”, a former ruin smuggler
+whose crew was gunned down while trying to loot an
+
+alien ruin. Only he survived, and his guilt is intense.
+He still wears a nautical captain’s hat, and is hiding out
+among the offworlders. He knows where he’s hidden
+his ship and can guide the PCs to it if they can make
+the dangerous overland journey.
+The GM isn’t so certain about the Captain’s want,
+however. While something like that would make a
+good sideline for a longer adventure, he wants this
+initial adventuring session to be relatively short and
+straightforward. He replaces the want with the Captain’s desire for the PCs to get him and his young offworlder wife off the planet, bringing them to just about
+any place that isn’t on Delaine. He’s willing to give the
+PCs his ship if they just help him get away.
+Why hasn’t the Captain snuck off with his young
+bride yet? To answer that question, the GM turns to
+the Places section and rolls up a hazard. The result is
+“Sentient”, which means that there’s an intelligent enemy between the Captain and the ship. The GM mulls
+over the possibilities for a while, and decides the Captain wasn’t the only survivor. His first mate made it out
+too, and blames the Captain. He’s gathered together a
+small band of offworlder rebels and is seeking to loot
+ruins and harm Delainers, because he can’t operate the
+ship without the Captain’s security codes and he’s not
+sufficiently talented to hack the locks himself.
+At this point, the GM looks at the adventure and
+identifies the bits he needs to flesh out. He needs to
+detail the Captain, the first mate, the offworlder rebels,
+and the Delainer security chief who will seek to apprehend the PCs if they’re not sufficiently stealthy. All of
+these people will need combat stats. The Captain’s wife,
+the offworlder reservation locals, and other bit NPCs
+are unlikely to get into a fight, and don’t need stats.
+The GM decides he doesn’t need a map for the
+offworlder reservation settlement, but he does need
+a map of the terrain between the settlement and the
+hidden ship. He downloads a suitable terrain map from
+the web for that. On the map, he plants a few Wilderness Ongoings from the Places table that the PCs may
+or may not encounter depending on how they chart
+their course.
+The last detail to flesh out is the first mate’s rebel
+camp, and how the PCs might get at the starship they’re
+guarding. The GM decides that it’s not reasonable for
+the first mate to have accumulated a vast number of
+minions, but there are too many for the PCs to comfortably engage. The PCs will have to think of some
+way to distract them, or possibly sic the Delainer security chief on them before they can get to the ship. It’s
+not the GM’s job to hand them a solution, so they’ll
+have to puzzle it out on their own.
+With that done, the starting adventure is ready.
+The GM might add some more details and fluff, but
+what he has is a playable start to a campaign.
+
+

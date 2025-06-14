@@ -11,14 +11,10 @@
             "id": "64c2bf52e656321e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sectors/abiha-omicron/systems/audrima/joantopha/locations/spacestation--peta-2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "spacestation--peta-2"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sectors/abiha-omicron/systems/audrima/joantopha/locations/spacestation--peta-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for spacestation--peta-2"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sectors/abiha-omicron/systems/audrima/joantopha/locations/spacestation--peta-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from spacestation--peta-2"
+              "title": "Outgoing links"
             }
           },
           {
@@ -170,42 +164,42 @@
   },
   "active": "83e0bd77a49c71cc",
   "lastOpenFiles": [
-    "src/extract-sector-data.ts",
-    "src/sector-types.ts",
-    "src",
-    "prompts/update-indexes.md",
-    "prompts",
-    "tsconfig.json",
-    "package.json",
-    "sectors/abiha-omicron/systems/audrima/joantopha/locations/spacestation--shardi-4.md",
-    "sectors/abiha-omicron/systems/buruker-urdia/madiera/locations/spacestation--chefu-5.md",
-    "sectors/abiha-omicron/systems/buruker-urdia/madiera/planet--madiera.md",
-    "sectors/abiha-omicron/systems/buruker-urdia/system--buruker-urdia.md",
-    "sectors/abiha-omicron/systems/audrima/villa/planet--villa.md",
-    "sectors/abiha-omicron/systems/audrima/joantopha/planet--joantopha.md",
-    "sectors/abiha-omicron/systems/audrima/joantopha/locations/spacestation--peta-2.md",
-    "sectors/abiha-omicron/factions/aurelius-consortium.md",
-    "sectors/abiha-omicron/systems/Dul-Yaq/Cou/planet.md",
-    "sectors/abiha-omicron/systems/campera/aurelius-belt/locations/asteroidbase--orinda-mine-base.md",
-    "sectors/abiha-omicron/systems/campera/aurelius-belt/locations",
-    "sectors/abiha-omicron/systems/campera/aurelius-belt/belt--aurelius-belt.md",
-    "sectors/abiha-omicron/systems/campera/aurelius-belt",
-    "sectors/abiha-omicron/systems/campera/suadiyy/locations/spacestation--oudemans-4.md",
-    "sectors/abiha-omicron/systems/campera/suadiyy/locations/refuelingstation--davies.md",
-    "sectors/abiha-omicron/systems/campera/suadiyy/planet--suadiyy.md",
-    "sectors/abiha-omicron/systems/campera/suadiyy/locations",
-    "sectors/abiha-omicron/systems/campera/suadiyy",
-    "sectors/abiha-omicron/systems/campera/ias/locations/orbitalruin--galap-5.md",
-    "sectors/abiha-omicron/systems/campera/ias/planet--ias.md",
-    "sectors/abiha-omicron/systems/campera/ias/locations",
-    "sectors/abiha-omicron/systems/campera/danassa/locations/researchbase--bronkhorst-4.md",
-    "sectors/abiha-omicron/systems/campera/danassa/planet--danassa.md",
-    "sectors/abiha-omicron/systems/mardo/islaanreon/locations/spacestation--rayadurg-2.md",
-    "sectors/abiha-omicron/systems/mardo/islaanreon/locations/spacestation--niesten-9.md",
-    "sectors/abiha-omicron/systems/mardo/islaanreon/locations/researchbase--longa-9.md",
-    "sectors/abiha-omicron/systems/mardo/islaanreon/planet--islaanreon.md",
-    "sectors/abiha-omicron/systems/varadha-shangit-xv/actolyt/locations/researchbase--phillips-5.md",
-    "sectors/abiha-omicron/systems/varadha-shangit-xv/actolyt/planet--actolyt.md",
+    "rulebook/Xenobestiary.txt",
+    "rulebook/True Artificial Intelligences.txt",
+    "rulebook/Transhuman Campaigns.txt",
+    "rulebook/The History of Space.txt",
+    "rulebook/Systems.txt",
+    "rulebook/Starships.txt",
+    "rulebook/Space Magic.txt",
+    "rulebook/Societies.txt",
+    "rulebook/Sector Creation.txt",
+    "rulebook/Psionics.txt",
+    "rulebook/Mechs.txt",
+    "node_modules/eslint/node_modules/@humanwhocodes/retry/README.md",
+    "node_modules/eslint/node_modules/escape-string-regexp/readme.md",
+    "node_modules/eslint/README.md",
+    "node_modules/@typescript-eslint/eslint-plugin/README.md",
+    "node_modules/@typescript-eslint/scope-manager/README.md",
+    "node_modules/micromark-core-commonmark/readme.md",
+    "node_modules/mdast-util-to-markdown/readme.md",
+    "node_modules/@eslint/plugin-kit/README.md",
+    "node_modules/@eslint/config-array/README.md",
+    "node_modules/micromark/readme.md",
+    "node_modules/@eslint/plugin-kit/node_modules/@eslint/core/README.md",
+    "node_modules/acorn/README.md",
+    "node_modules/@eslint/markdown/README.md",
+    "node_modules/acorn/CHANGELOG.md",
+    "node_modules/ajv/README.md",
+    "node_modules/@typescript-eslint/eslint-plugin/node_modules/ignore/README.md",
+    "node_modules/@typescript-eslint/typescript-estree/node_modules/brace-expansion/README.md",
+    "node_modules/micromark-extension-frontmatter/readme.md",
+    "node_modules/mdast-util-frontmatter/node_modules/escape-string-regexp/readme.md",
+    "node_modules/@eslint/js/README.md",
+    "node_modules/eslint-scope/README.md",
+    "node_modules/@types/estree/README.md",
+    "node_modules/@eslint/config-helpers/README.md",
+    "node_modules/mdast-util-from-markdown/readme.md",
+    "node_modules/mdast-util-find-and-replace/node_modules/escape-string-regexp/readme.md",
     "images/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-14T15%3A34%3A30Z&ske=2025-06-15T15%3A34%3A30Z&sks=b&skv=2024-08-04&sig=6MAfxWbUVW8ROesfV3zqnFxzhMDKEA4ODYbqOvW2WUw%3D.png",
     "681298b33549761ba5c305b0_img-landing-team@2x.png"
   ]

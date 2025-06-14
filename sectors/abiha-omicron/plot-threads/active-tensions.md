@@ -17,10 +17,10 @@
 - **Status**: CRITICAL - Recovering
 - **Context**: Failed disconnect from Resonant Dawn network ([Sanctuary incident](../sessions/2025-05-30-resonant-dawn-sanctuary.md))
 - **Risk**: Potential transformation like the Interpreter
-- **New Ability**: [Network Echo](../abilities/network-echo.md) grants Protocol memory access
+- **New Ability**: [Network Echo](../../../party/lance-bahringer/network-echo-ability.md) grants Protocol memory access
 - **Management**: Must limit use to avoid further damage
 - **Advantage**: Can access Architect memories
-- **Character**: [Lance Bahringer](../party/lance-bahringer.md)
+- **Character**: [Lance Bahringer](../../../party/lance-bahringer/character-sheet.md)
 
 ### Archive Judgment
 - **Status**: RESOLVED (off-screen during Lance's journey)
@@ -32,7 +32,7 @@
 - **Context**: Engaged consortium forces at [Battle of Cou](../sessions/2025-06-12-cou-approach-battle.md)
 - **Recent**: Destroyed 2 patrol boats, disabled corvette *Profit Margin*
 - **Assets**: Protocol tracking device, black box data on party
-- **Knowledge**: Now has [Starfall Whisper's](../party/starfall-whisper.md) full identity
+- **Knowledge**: Now has [Starfall Whisper's](../../../party/starfall-whisper.md) full identity
 - **Warning**: Commander Zhou: "Some prizes cost more than ships"
 - **Faction**: [Aurelius Consortium](../factions/aurelius-consortium.md)
 
@@ -47,7 +47,7 @@
 - **Carriers**: Sister Meris and [Harmonic Prayer refugees](../sessions/2025-06-12-cou-approach-battle.md)
 
 ### Navigator-Khyber Connection
-- **Revelation**: [Dallas](../party/dallas-jacobi.md) and [Kaedim](../party/kaedim-vecc.md) show unusual compatibility patterns
+- **Revelation**: [Dallas](../../../party/dallas-jacobi/character-sheet.md) and [Kaedim](../../../party/kaedim-vecc/character-sheet.md) show unusual compatibility patterns
 - **Historical Context**: Navigators were historically exploited by [Khyber lineage](../lore/khyber-line.md)
 - **Archive Founded**: By escaped navigators opposing Khyber control ([Archive Experience](../sessions/2025-05-07-archive-experience.md))
 - **Question**: Is their meeting coincidence or manipulation?

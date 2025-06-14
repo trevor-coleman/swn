@@ -5,7 +5,7 @@ Reorganizing repository to separate content by sector while maintaining cross-se
 Party information will remain at root level as it's constant across campaigns.
 
 ## Target Structure
-```
+```text
 swn/
 ├── party/                     (constant across campaigns - stays at root)
 ├── sectors/

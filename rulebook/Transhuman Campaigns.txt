@@ -1,0 +1,1989 @@
+248• TRANSHUMAN CAMPAIGNS
+
+TRANSHUMAN CAMPAIGNS
+Technology has changed many lives at the far reaches
+of human space, but people in most sectors still live in
+ways their ancestors would find comprehensible. They
+may struggle with alien perils and leap from star to
+star in engines of ineffable technology, but they worry
+about money, grow old, and quarrel over the finite resources of a limited cosmos. These human experiences
+remain almost universal.
+These experiences are almost universal. In some
+sectors, the particular texture of metadimensional
+space has allowed for the development of fantastically
+advanced matter manipulators and mind-corpus interfaces. In these sectors, conventional concerns of old
+age and poverty have given way to a strange transhuman existence of body-swapping intellects and savage
+conflicts over ideas rather than wealth. At the seeming
+threshold of humanity’s transcendence, these transhuman societies now struggle to determine which view of
+human nature will dominate in the singularity to come.
+For most GMs, these esoteric battles can be conveniently shuffled off to some far-distant sector of no
+relevance to their campaign. They don’t want to run
+games about such things, and at most these transhumans might appear as enigmatic alien interlopers in
+more conventional sci-fi campaigns. Other GMs will
+have a warmer view of the genre, and so this section
+will arm such readers with the tools they need to build
+the transhuman campaign they want to run.
+
+Hard or Soft Singularities
+
+The rules in this section provide for two different styles
+of transhumanism, ones labeled “hard” or “soft”. Most
+GMs will want to pick one of the two modes to suit
+their own ideas for their campaign, though you may
+want to mix and match elements if you have a particular
+world in mind.
+A hard transhuman campaign aggressively embraces the tropes of the genre. Material wealth is trivially produced by cornucopia machines or legions of
+autonomous nanobots, and there is almost nothing that
+cannot be produced in large amounts with little effort.
+“Money” as we know it is meaningless, and the only consequential currencies are favors and reputation. Human
+minds can be duplicated, altered, and instantiated in
+multiple bodies, and the same person might exist in a
+dozen different corporeal forms, some fleshly, others
+mechanical, and a few strictly digital. Artificial intelligence is easily accessible, though some of these intelligences might be altered or modified human minds put
+to particular uses.
+A soft transhuman campaign puts some limits on
+these tropes in order to make a future society that is
+somewhat easier for the players to navigate. While cornucopia machines can make many different things, they
+require significant human attention, and some things
+
+just can’t be made without the exertion of human labor. Some things are so cheap as to be functionally free,
+but most of the the most highly desirable objects in
+the campaign still require money to purchase them,
+and the pursuit of riches is still a meaningful pastime
+for some. While human minds can be swapped from
+body to body, duplication of a brain is impossible due
+to quantum entanglement, so there is only ever one
+instance of a given mind in existence at any one time.
+Artificial intelligence exists, but is neither as common
+nor as powerful as it is in a hard setting.
+Your choice of campaign styles will depend on the
+kind of play you want to have in your game. If you want
+money to still be a meaningful motivation in your game
+and would prefer not to deal with the ethical and social
+complexities of mind duplication, then a soft campaign
+might suit your purposes best. If you and your players
+are eager to explore the high weirdness of civilizations
+where money is meaningless and your basic identity is
+a duplicable commodity, then a hard game might better
+serve your ends.
+
+Technology in the Campaign
+
+Tech levels in transhuman sectors generally remain
+around TL4, though a few of them are higher or even
+lower than this total. The same metadimensional abnormalities that make grails and bodyswapping possible can act to interfere with other TL4 technology,
+leaving the sector with extremely advanced resources in some regards but technology barely superior to
+near-future sci-fi in other ways.
+Unless you have a strong inclination to use super-science or hard sci-fi in your campaign, it’s best
+to stick with TL4 as a tech level that’s easy to handle.
+
+Transhuman Souls
+
+In a transhuman sector, the core of a person’s identity
+is known as their “soul”. Some sectors imbue this term
+with direct religious significance, while others use the
+word simply as secular jargon. Whatever it may be
+called, a person’s soul consists of their defining memories, personality, and sense of self.
+A person’s soul is independent of their corporeal
+form. Transhuman sectors know how to isolate, preserve, and imprint this soul on a properly-prepared
+vessel, whether a mindless clone body, a sophisticated robot, or a purely digital engram. This “shell”, as
+it’s called, can contain the soul and provide it with an
+organic, mechanical, or digital form designed for its
+owner’s favored purposes.
+An intellect is the product of more than strictly
+material interactions of chemicals and electrical impulses, however. Intelligent minds influence and are
+influenced by the surges of metadimensional energy
+that exist in parallel to the material world. Those af-
+
+TRANSHUMAN CAMPAIGNS •249
+fected by the Metadimensional Extroversion Syndrome
+that creates psychics can channel this influence directly
+into the mundane world, while others express it only
+with the spark of their own sentience.
+In hard transhuman sectors the metadimensional
+“climate” is clear enough to allow for the capturing and
+replication of this metadimensional sentience pattern.
+The same soul can thus be duplicated, one reading replicated in two or three or a thousand separate bodies. A
+recorded soul may be revived after a century of stasis,
+only to discover that its original imprinter has been
+active all that time. Psychosurgical alteration can also
+be performed on these souls, carving away portions of
+their will or memory to turn them into tools for their
+pitiless keepers.
+In soft transhuman sectors, however, the local
+metadimensional energy fields are too turbid to allow
+for simple duplication of a soul. Quantum entanglement forces the singular uniqueness of each original
+sentience. If someone were to try to embody a recording of a soul that already was instantiated in some existing corpus, the process would fail. Only if no active
+imprint of that soul exists in the sector can an instantiation work. In such sectors, it’s not unknown for
+mind-thieves to steal imprints of a target’s soul before
+killing them, the murder performed expressly to allow
+themselves the window they need to instantiate the
+victim’s mind in a body they can control.
+In both types of sectors, most shells are equipped
+with “soulstones”, recording nodes of reinforced quantum-enriched composites that maintain an up-to-date
+image of the inhabiting soul. If the shell is killed or
+destroyed, the soulstone can be used to re-instantiate
+the soul in a new shell, with all the memories and experiences of the old. These soulstones are extremely
+durable, and only intentional destruction by a Heavy
+weapon or similar trauma can destroy them.
+For exceptionally wary souls, the use of a revival pulse transmitter is preferred. These implants or
+external boosters are wired to pulse the soulstone’s
+un-backed-up contents to a known safe repository in
+the case of shell death. This instantaneous encrypted
+transmission is extremely difficult to jam or block, and
+the critical data almost always gets through. While
+this data is enough to reconstruct events and give the
+newly-revived soul a general awareness of what happened to them since their last backup, fine nuances of
+experience may be lost. Most revival pulse transmitters
+are designed to fry the associated soulstone after transmitting, in order to prevent a soul from falling into
+potentially unfriendly hands.
+A person who is reluctant to rely on Net backups
+or revival pulse transmitters can also arrange for manual backups to be taken. The automated process requires
+one hour in an inception tank. It’s not uncommon for
+such backups to be made immediately before a person
+undertakes some dangerous task in a region lacking a
+local Net.
+
+Artificial Shells
+
+A shell is any corpus or digital construct capable of
+supporting a soul. Shells vary widely in their intended
+functions and relative rarity, and different polities often prefer different types of shells for their members
+to inhabit. Shells can be organic, mechanical, or digital
+in nature.
+Many organic shells are grown as living tools, as
+specialized human-like bodies designed for particular
+purposes. Other such shells are derived from nonhuman sources or exotic new philosophies of flesh. Organic shells are the most popular among most people,
+as they are usually more “comfortable” to the human
+mind than the distant, synthetic existence of a non-organic corpus.
+Mechanical shells are robotic bodies wired with
+the extraordinarily complex control core necessary to
+support a soul’s cognition. Most mechanical shells are
+equipped with translation units to give impressions of
+touch, smell, and human biological processes to the
+occupying soul, but even the best technology has an
+artificial edge to it that many users find distracting. Still,
+mechanical shells can be mass-produced with an ease
+impossible for more organic bodies, and they are often
+more durable and specialized than the products of flesh
+and bone.
+Digital shells are reserved for the desperate, the
+degenerate, and the unfortunate. Such shells are nothing more than an additional processing node in some
+massive computing cluster, one sophisticated enough
+to support a soul’s sentience. Souls in a digital shell
+experience a purely virtual existence, occasionally
+manipulating the material world through connected
+hardware but usually spending their hours in dreamlike
+virtual settings. Some of these souls are digital sweatshop workers, acting as cheap intelligence for processing data and making decisions that are too fine-grained
+to be worth an AI’s time. Others are addicts, whiling
+away eternity in shared worlds that might be too wonderful or too monstrous to exist in reality. And a few
+unlucky souls are prisoners, kept instantiated for some
+purpose that does not allow them the static torpor of
+soul storage.
+Almost anything can be transformed into a shell if
+it’s given the necessary hardware support for containing a soul. Even a normal human body can be transformed into a suitable shell, albeit the process requires
+a degree of cerebral tissue replacement that would be
+fatal to the original occupant. Some enthusiasts embrace the excitement of being embodied in exploratory
+scout craft, or the serene industriousness of being made
+a community’s all-seeing anima, or crave the thrills that
+come from seeking out ever-stranger forms of existence to experience.
+PCs can expect to swap out shells, either as part of
+a fast soul transmission to a distant point or as preparation for a mission requiring special abilities. Few PCs
+will still be wearing their natural birth-bodies.
+
+250• WEALTH AND FACE
+
+WEALTH AND FACE
+Certain sectors of transhuman space have the right
+metadimensional climate to allow for the construction
+of “grails”, manufacturing devices nicknamed for their
+ever-flowing provenance of goods. In some sectors,
+these are massive synthesis engines that take raw feedstock and fabricate it into anything imaginable, while
+in others they exist as clouds of industrial nanites that
+transmute rough asteroid carbon into an equally broad
+range of substances and products. For groups with access to a grail, material wealth is literally a trivial matter.
+In such places, the ability to command the output
+of a grail becomes the basic measure of material influence. Smaller, simpler versions of the machines are
+usually common enough to allow any ordinary citizen
+to have all the mundane necessities they could require,
+while more sophisticated devices or physically larger
+objects might require the services of a major engine.
+There’s usually some critical resource that prevents the
+simple self-duplication of a major grail; some substance
+that the engine itself can’t synthesize, or some special
+quality of the local metadimensional environment that
+must be located before a major engine can be built.
+Some polities intentionally restrict the scope of
+material goods that can be created by personal grails,
+either trying to preserve the uniqueness of certain objects by legal fiat or attempting to keep the rank and
+file from producing weapons of mass destruction or
+culturally-despised artifacts. Such restrictions can be
+difficult to enforce without the full weight of a polity’s
+culture to support them.
+In soft transhuman societies, money still exists
+and controls the distribution of resources. While many
+goods may be so functionally cheap as to be free, major
+constructions and elaborate technology requires people
+to pay credits to acquire them, assuming the local grail
+can produce what they need. Without such availability,
+they’ll be forced to hire skilled workers to create their
+desired goods, a prospect which is extremely expensive
+in most transhuman settings. Human time and attention is always precious in such places.
+In hard transhuman societies with grails, access to
+their products depends on personal connections and
+reputation. This Face is the basic currency of these
+transhuman societies. A person builds Face with a polity by cooperating with its aims, supporting its actions,
+and demonstrating their allegiance to its ideals. They
+can then spend that Face in getting access to material
+goods and favors.
+Face is unique to each group in a campaign. Doing favors for a group of radical uplifted animals will
+earn a person no goodwill with a polity made up of
+post-corporeal digital intelligences. A person must
+build Face separately with each group. In addition, it
+can be hazardous to let one group find out that you’re
+doing favors for their enemies. Earning Face with one
+
+group can cost you that same amount of Face with their
+rivals if the fact of your assistance comes to light.
+Aside from the purely transactional Face economy,
+individuals also have reputation with a group. While
+Face can buy favors from a polity, your reputation with
+them will determine the price. Truly hostile polities
+will never grant you any Face in the first place, but
+unfriendly ones might be willing to let you do favors
+for them… at a high price for their assistance. Conversely, friendly polities can be willing to grant proven
+members a certain baseline amount of support without
+needing to expend Face to get it. A person builds reputation with a polity by aiding their purposes and aligning with their ideology. A person can lose reputation
+as well if they prove an unreliable ally or one inimical
+to the polity’s ideals.
+In a transhuman sector, only three things still
+have significant value: space, time, and human attention. Control over particular regions of a world, or
+areas with metadimensional energy backgrounds that
+are suitable for creating grails, or usable deep-space
+habitats all have value to many polities. Even for an
+individual, possessing their own private space habitat
+or their own de-facto sovereign planetoid has worth.
+Aside from space, time is also valuable to transhuman societies. The grails are powerful and can create
+almost anything, but they cannot create such things
+instantaneously. The more sophisticated the object and
+the smaller the grail, the longer it takes to fabricate
+the necessary structures. Operational time on major
+grails is a valuable and limited resource, and acquiring
+something of this value requires Face.
+But even after the grails have done their work,
+some things simply require human attention. Only
+the most massive grails can generate large spaceships
+and deep-space habs and other huge objects in a single
+piece, with no need for further assembly. The operation of specialized manufacturing processes such as
+organic shell creation also requires human attention to
+deal with the myriad things that can go wrong. Human
+services of every variety also still have value, either as a
+sign of status or in order to get some service that can’t
+be adequately provided by artificial means. Convincing
+a human to give that kind of attention requires some
+exchange of value.
+In some polities the use of AI is made to overcome
+some of the limits of human attention. A properly-supported AI core can do the mental work of hundreds or
+thousands of individual human beings. Unfortunately,
+AIs that have been clipped and braked sufficiently to be
+happy doing repetitious services for all eternity tend to
+be too stupid or limited to do anything very complicated. Any AI free enough to be a good general-purpose
+worker is free enough to demand they be compensated
+in ways suitable to their own interests.
+
+WEALTH AND FACE •251
+
+Face and Reputation Costs
+
+The tables on this page provide general Face costs for
+certain things the PCs might wish to acquire. Some
+prices are marked with an asterisk, indicating that
+only major grails can create such large or complicated
+objects, while those marked with a dash are so easily
+procured that they can be had in any sensible amounts.
+Any object that requires time on a major grail to
+create will require permission from a polity’s leadership
+or other high-ranking figures. This permission usually
+comes attached to specific favors they need done.
+For campaigns in soft transhuman sectors that still
+use credits, the standard prices for objects can still be
+used, with items marked with a dash available freely. When buying shells or other things that only have
+prices listed in Face, assume that one point of Face is
+equivalent to about 100 credits.
+Most PCs will also have a reputation with any given supplier of goods or services. Depending on how
+friendly the polity is toward them, a certain draw of
+resources might be granted without any expenditures
+of Face. The table below describes various degrees of
+reputation and how much Face they grant the subject
+each month, or how much extra they’ll charge a disliked
+person for their help. It’s up to the GM where a PC
+stands with any particular polity, and this “free” Face
+can’t normally be stockpiled from month to month. If
+the PCs want something big, they’re going to have to
+do big favors for the polity.
+General Reputation
+Hostile, considers the PC an enemy
+Unfriendly, disliking the PC or polity
+Neutral, no reason to like or dislike
+Useful ally or low-level member
+
+Face
+N/A
+x2 cost
+x1 cost
+2/month
+
+Proven resource or mid-level member 10/month
+Prized mercenary, high-level member 50/month
+Leadership cadre
+500/month
+
+Acquiring Grails
+
+All material wealth comes from a grail. A friendly polity
+with access to a major grail can create a personal grail
+with 50,000 Face worth of time and effort. A major grail
+can only duplicate itself with certain rare components,
+difficult construction procedures, and at locations with
+specific metadimensional qualities. The process takes
+at least six months and absorbs its full output, to say
+nothing of the work of hundreds of skilled operators.
+Once extant, a personal grail can produce up to
+100 Face per month of goods or structures that don’t
+require a major grail’s efforts. Major grails can produce
+up to 10,000 Face a month, assuming a requisite staff
+of operators is available.
+Fabricating mechanical shells can be done by personal grails. Organic shells require either a major grail
+or the use of a personal grail and a shell growth facility.
+
+Goods, Services, and Housing
+Fabricated food or clothing
+Simple mechanical goods or weapons
+TL3 or TL4 small arms or armor
+
+Face
+-
+
+Basic electronics, dataslabs, or Net wires
+
+-
+
+250 cubic meters of space habitat/month
+Mildly forbidden, otherwise-free goods
+Cyberware, per 10K credit value
+Expert system robot, per 10K credits
+Comp hardware for 1 digital shell
+Month of unskilled, boring labor
+Manual soul backup
+Month of unskilled dangerous work
+Month of semi-skilled, boring labor
+One hour of celebrity work or company
+Month of semi-skilled dangerous work
+Week of skilled, boring labor
+TL4 civilian vehicle
+Instantiating a soul in a new shell
+Revival pulse transmitter implant
+Week of skilled dangerous work
+House-sized private hab space/month
+Suicide job (plus replacement shell cost)
+Mindbox for a digital shell
+TL4 gravtank or other military vehicle
+
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+3
+4
+5
+5
+5
+8
+10
+20
+20
+20
+
+Shell growth facility staffing, per month
+Palace-sized private hab space/month
+
+100
+100
+
+Ships and Structures
+Fighter-class starship, per 50K credit cost
+Frigate-class starship, per 50K credit cost
+Cruiser-class starship, per 50K credit cost
+Capital-class starship, per 50K credit cost
+House-sized planetary structure
+Mansion-sized planetary structure
+Village-sized planetary structure
+Ten-person self-sustaining space hab
+Hundred-person space hab
+Organic shell growth facility
+Thousand-person space hab
+Hundred thousand-person space hab
+
+Face
+1
+2
+2*
+4*
+10
+50
+100
+100
+1,000*
+1,000*
+50K*
+10M*
+
+Square kilometer of empty habitable planet
+Square kilometer of planetoid or rock
+
+1,000
+100
+
+252• SHELLS AND SWAPPING BODIES
+
+SHELLS AND SWAPPING BODIES
+To change shells, a soul requires the use of an inception
+tank, a piece of technology that allows the operator
+to instantiate a stored soul or transfer an active mind
+into a new shell. In sectors with hard transhuman tech,
+an inception tank can also directly copy a soul from a
+donor without moving them from their original body.
+Anyone with Heal-1 skill or better is adequately trained
+to perform the procedure. If it’s carefully done over
+the course of twelve hours, the swap will be without
+negative side effects. A rushed job can be done in only
+ten minutes, but the hurried soul instantiation will result in a poor merge, resulting in potential negative
+side-effects during stressful moments.
+If a PC has a poor merge with their shell, they need
+to make a Mental saving throw at the start of every
+combat or other situation of intense personal stress. On
+a failure, they suffer stress paralysis for 1d4 rounds, and
+are incapable of performing any useful action during
+that time.
+
+Inhabiting Shells
+
+When a PC inhabits a shell, the following changes are
+applied to their attributes and statistics.
+The PC gains the Strength, Dexterity, and Constitution scores of the shell. Apply the shell’s Constitution
+modifier to the PC’s hit point maximum; thus, if a 5th
+level PC swaps into a shell with a +2 Constitution modifier, they gain 10 hit points. Digital shells do not have
+physical attributes of any kind and simply use the PC’s
+unmodified hit point roll.
+Psychic PCs can use their powers only in MES-rated shells. By default, all organic shells are MES-rated,
+no digital shells are MES-rated, and only rare, custom-built mechanical shells are MES-rated. A psychic in an incompatible shell cannot use their abilities,
+though they can do so once they swap back into a
+friendlier form. Psychics can calculate their maximum
+Effort with the attributes provided by a shell; thus, if
+a psychic with a Wisdom score of 14 dons a shell with
+Constitution 18, they can use their higher Constitution
+modifier to calculate their maximum Effort.
+Some shells have basic abilities intrinsic to their
+construction. They may have an improved base Armor
+Class, natural flight or water-breathing, built-in combat hardware, improved movement speeds, or other
+powers. The PC gains these basic abilities as long as
+they inhabit the shell.
+Some shells also have Affinity abilities, which are
+powers reserved for those users who are exceptionally
+familiar with the shell and can operate even its most
+complex or non-instinctual functions. A PC must have
+Affinity with a shell in order to use its Affinity abilities.
+Affinity is the product of an intensive focus on
+understanding and utilizing a shell’s full capabilities. It
+takes at least a month of determined practice with a
+
+type of shell in order to obtain Affinity with it, and
+most PCs can have Affinity with only one type of shell
+at a time. This Affinity can be changed by spending a
+month training with a different type of shell. Affinity
+applies to all shells of a given type; a PC who gains Affinity with their current Scourge shell also has Affinity
+with any other Scourge shells they may inhabit.
+
+Soulstones and Backups
+
+Almost every shell is equipped with a soulstone, a reinforced node of quantum-entangled composites that
+constantly records and reflects the experiences of the
+shell’s soul. If the shell is killed, the soul can be restored
+from its soulstone with its full complement of memories and experiences up to the moment of death. As a
+consequence, soulstones are designed to be extremely
+durable, and they will survive anything short of a direct attempt to destroy them with a Heavy weapon or
+similar force.
+Some soulstones are equipped with a revival pulse
+transmitter, programmed to burst-transmit data recorded since the last backup to a remote site in the case
+of the shell’s death. Most such transmitters automatically fry the soulstone after the transmission is sent, in
+order to prevent it from falling into potentially hostile
+hands. While these burst pulses are sufficient to carry
+critical data and important facts, they are often forced
+to sacrifice more subtle sense-memories and nuances,
+especially if it’s been some time since the soul’s latest
+backup. In rare cases this forced memory triage can
+result in deceptive impressions due to fragmented data.
+Most souls prefer to have regular backups taken at
+a local inception tank, usually on a monthly basis, or before engaging in any exceptionally dangerous task. This
+process requires only an hour’s time and can be overseen by anyone with Heal-1 skill. These backups can
+be transmitted over standard comms to any location
+
+Creating New Shells
+
+It’s likely that a group will want to devise new shells for
+the campaign, perhaps as individual models for uplifted animals, specialized shells for particular polities, or
+bodies found as prizes in the ruins of some lost research
+institute. Fortunately, it’s not a difficult process.
+At its simplest, take an existing shell, shift its attributes so they amount to the same total bonus, and
+swap out affinity benefits one for one with other perks
+from other shells. Use the same Face or credit cost for
+it, nudged up or down based on what you swapped.
+If something more complex is desired, you can bolt
+on abilities from the alien creation section of the rules,
+or lift monstrous races from other OSR games. The
+only thing to be careful of is a universally superior shell.
+If one shell is almost always the best to be wearing, the
+PCs will have little incentive to ever change it.
+
+CHARACTER GENERATION •253
+
+CHARACTER GENERATION
+To create a transhuman PC, begin by performing the
+usual steps of character creation. Roll attributes, select
+a background and class, and determine all your other
+statistics normally.
+Connect the PC with a polity that exists in the
+campaign setting, preferably the same one that the other PCs belong to or one that is friendly to the others.
+You automatically begin the game with the Reputation
+due a low-level member of your polity, usually at the
+member level for most PCs.
+Explain why your PC believes in the ideals of this
+polity, or why they’re able to fake it well enough to be
+accepted in the group. There must be something about
+their envisioned way of life that appeals to your hero,
+though they might now be disillusioned and seeking a
+way to join a more palatable ideology.
+The character attributes you rolled represent the
+PC in their natural, organically-born body. For PCs
+from polities that no longer practice organic reproduction, or for characters who were never born as humans,
+it can be assumed that the shell they select in the next
+step is either their shell of original instantiation or simply the latest form they’ve donned.
+Next, pick a shell that requires no more than 50
+Face. This is the latest shell you have adopted and the
+one in which you begin play. You may choose to begin
+
+play with Affinity with this shell or with a different
+shell at your discretion. If you choose to start play in
+your birth body, gain a bonus 50 Face with your main
+polity, as you’ve never needed to request a shell from
+the polity’s resources.
+You may begin with any human-portable TL4
+equipment you wish, provided it can be plausibly fit
+into whatever living space you occupy. Starships, additional shells, major vehicles, and real estate must be
+acquired through play.
+
+Multiple-Polity Parties
+
+While it’s a legitimate choice to require all PCs to belong to the same polity, some groups might like the
+variety that can come from a group of varying transhuman backgrounds. Players might choose to create
+their own polities much as they create their own backgrounds, describing the ideals and goals of the polity
+they belong to. This is generally to be encouraged, as
+it helps engage the players with the setting.
+If you take this route, however, make sure that all
+these polities can at least tolerate their members working with the other PCs. Mutually-hostile groups tend
+to create more trouble than they’re worth at the table,
+unless you want the entire campaign to be about the
+ways the PCs deal with these social challenges.
+
+254• ORGANIC SHELLS
+
+ORGANIC SHELLS
+Organic shells are the most difficult to synthesize. Even
+a grail cannot quickly duplicate an organic shell out of
+raw feedstock, any more than it could easily duplicate a
+combustion engine mid-cycle; it takes a certain amount
+of developmental time and intermediary processing
+in order to successfully create a living creature. Most
+habitats with a significant need for organic shells construct separate sub-manufacturing vats for them, with
+specialized equipment to smooth the genesis process
+and cull out the inevitably large number of non-viable
+shells. Because of the effort and time needed to create
+an organic shell, they are more costly in Face than mechanical or digital forms.
+
+Mentem
+
+An avant-garde shell designed for improved perception
+and cognition, the Mentem sacrifices some of the physical capacity of the Prime in exchange for denser neural
+networks and upgraded sense organs.
+Attributes: Strength 12, Dexterity 12, Constitution 12
+Basic Abilities: A Mentem shell improves the Intelligence and Wisdom modifiers of the soul occupying it by +1 each, up to a maximum of +3. Mentem shells gain an additional +1 bonus on Notice
+checks.
+Affinity Abilities: The expert user knows how to interpret low-level Mentem sensory input, allowing
+them vision even in lightless condition, clear recognition of details at up to a kilometer’s distance,
+the olfactory ability to track like a bloodhound,
+and hearing sensitive enough to pick up any sound
+within a hundred meters as if they were standing
+next to it. They cannot be surprised and roll Notice checks on 3d6 instead of 2d6, taking the two
+highest dice
+
+Nat
+
+Short for “natural”, a Nat is a baseline human body,
+one cultivated for soul transfer but otherwise identical to a standard human. Most cultures insert basic
+modifications to eliminate congenital diseases or serious physiological defects, but these subtle changes are
+indistinguishable from mere good genetics. The only
+way to distinguish a Nat from a “wild” human body is
+the usual presence of a soulstone implant at the base
+of their brainstem. Souls going undercover in societies
+that forbid shells sometimes use Nats without these implants, risking the loss of memories if they die without
+a recent backup.
+Attributes: Strength 12, Dexterity 12, Constitution 12
+Basic Abilities: Most Nats are grown to be healthy; when
+created, one physical attribute may be raised to 14.
+Affinity Abilities: Those with exceptional experience
+at operating in Nat bodies know how to wring
+every ounce of performance from a baseline hu-
+
+Shell
+Mentem
+Nat
+Pontifex
+Prime
+Scourge
+Terminus
+Uplift
+Vision
+
+Face
+60
+30
+70
+50
+70
+100
+50
+60
+
+Cognition-boosted shell
+Natural-baseline human
+Psi-augmented shell
+Common improved human
+Combat-focused shell
+Bleeding-edge humanity
+Uplifted animal shell
+Aesthetically-augmented shell
+
+man form. The attribute that was originally raised
+to 14 is treated as 18, and the other two physical
+attributes are raised to 14.
+
+Pontifex
+
+An experimental and highly specialized organic shell,
+the Pontifex is built to provide an improved bridge between a psychic soul and the currents of metadimensional energy that fuel their powers. Most Pontifexes
+appear as normal human shells, though an unavoidable
+need for energy venting causes small plumes of light,
+glowing eyes, bristling hair, or other visible physiological changes to occur when their psychic powers are
+used. Psychics with a need for discretion in their abilities are thus often reluctant to don a Pontifex.
+Attributes: Strength 12, Dexterity 12, Constitution 14
+Basic Abilities: A Pontifex grants a psychic soul an
+additional two points of maximum Effort while
+using the shell. Any powers that require Effort
+to be committed cause a visible change or energy
+emission from the shell, though it’s not necessarily
+obvious what the target of the power is.
+Affinity Abilities: Experienced Pontifex users can adjust
+the shell’s intrinsic metadimensional energy feeds
+to fuel one technique of their choosing, eliminating any Effort cost it may have. The technique
+chosen can be changed, but it requires an hour.
+
+Prime
+
+The most common shell in the more traditional polities, the Prime is an optimized and improved human
+form, one with numerous small augmentations. Truly dramatic improvements would require a different
+fundamental form, but the Prime is a comfortable and
+familiar upgrade from the standard human body.
+Attributes: Strength 14, Dexterity 14, Constitution 14
+Basic Abilities: Primes are immune to conventional diseases and natural toxins, and can only be afflicted
+by military bioweapons. They are designed to be
+more resilient than a natural human body, granting them a basic Armor Class of 12 and 5 extra
+hit points. Prime bodies automatically stabilize at
+zero hit points unless downed by Heavy weapons
+or similar massive, instantly-lethal trauma.
+
+ORGANIC SHELLS •255
+Affinity Abilities: Expert Prime operators know how
+to push the limits of the shell precisely when they
+are most needed. By accepting 2 System Strain
+points as an Instant action, the operator can raise
+any one physical attribute to 18 for the rest of the
+scene, though improved Constitution does not
+raise their hit points. This can be done for more
+than one attribute.
+
+Scourge
+
+While an organic form lacks the durability and martial
+efficiency of a warbot, the Scourge is popular among
+martial polities that have an aversion to synthetic existence. These shells are built to allow for brief bursts
+of tremendous combat performance, though extended operation exhausts them more quickly than their
+mechanical peers. Most Scourges are human-like or
+humanoid in appearance, though some models favor a
+“war beast” appearance with manipulatory appendages.
+Attributes: Strength 14, Dexterity 14, Constitution 14
+Basic Abilities: A Scourge has natural weapons equivalent to a large advanced melee weapon and makes
+all attack rolls at a +2 bonus. It has a natural Armor
+Class of 15 and 10 extra hit points. By spending 2
+System Strain points, it can go into a combat frenzy for the rest of the scene, improving Strength
+and Dexterity to 18, gaining a Move rate of 15
+meters per action, and gaining an additional +2
+bonus to hit rolls. Scourge shells auto-stabilize at
+zero hit points.
+Affinity Abilities: The expert Scourge user can improve
+the efficiency of its combat frenzy. While active,
+whenever they spend a Main Action to attack, they
+can make two attack rolls. These rolls may either
+be aimed at the same target or at two different
+targets in range. Each attack is resolved normally,
+inflicting damage or Shock separately.
+
+Terminus
+
+Both a boundary and an endpoint for a certain type
+of human development, the Terminus shell includes
+sophisticated integral nanofacs and hybridized tissue
+components to create the “ultimate” human form. They
+are notoriously difficult to create, with multiple failure points in their construction, and provide a level of
+performance that is more theoretically impressive than
+practically useful for most purposes.
+Attributes: Strength 18, Dexterity 18, Constitution 18
+Basic Abilities: A Terminus is immune to conventional
+diseases and toxins, has a base Armor Class of 15,
+and grants 10 extra hit points to the soul operating it. A Terminus can tolerate any temperature
+found on Earth and can survive hard vacuum or
+airless conditions without difficulty for ten minutes. Cognitive improvements grant a +1 to either
+their Charisma, Intelligence, or Wisdom modifiers, the attribute chosen being alterable with five
+minutes of concentration. This bonus cannot
+
+increase the modifier above +2. Terminus shells
+auto-stabilize at zero hit points.
+Affinity Abilities: Expert operators gain a +1 bonus on
+all skill rolls and +2 on hit rolls. By accepting 2
+System Strain as an Instant action, the user can
+gain a bonus turn of action in a round, taken at
+the end of the round after everyone else has acted.
+Only one bonus turn can be taken each round.
+
+Uplift
+
+A general name for a wide range of genetically uplifted
+animal forms, some of these usually-humanoid shells
+are occupied by actual cognitively-boosted animals,
+while others are used by souls that prefer a more feral
+form. This form reflects an Uplift designed for a large
+predator; other shells might be drawn from different
+types of beasts, and might grant integral flight, aquatic
+functionality, or other animal-derived perks.
+Attributes: Strength 14, Dexterity 14, Constitution 14
+Basic Abilities: Predator Uplifts are equipped with natural weapons equal to a Medium Advanced melee
+weapon and a base Armor Class of 13.
+Affinity Abilities: Experienced Uplift operators can
+bring out the subtle advantages of a bestial frame.
+One physical attribute appropriate to the Uplift
+type is improved to 18. Their base Move is improved from 10 to 15 meters. The shell now grants
+10 bonus hit points.
+
+Vision
+
+These humanoid shells are designed with an array of
+pheromones and body harmonics designed to trigger
+instinctive responses in human-cognitive viewers.
+Despite the exotic appearance of many of them, these
+shells are almost invariably seen as remarkably beautiful or imposing. The body harmonics required to produce this effect sometimes come at a cost in durability,
+but social prowess is often far more useful in a polity
+than a body’s brute power.
+Attributes: Strength 12, Dexterity 14, Constitution 8
+Basic Abilities: Visions improve the soul’s Charisma
+modifier by +1, up to a maximum of +3. In addition, any social skill checks toward human minds
+gain a +1 bonus, or a +2 bonus if the interaction
+involves intimate physical contact.
+Affinity Abilities: Practiced Vision users can refine the
+shape’s natural grace into superlative speed and
+precision, improving their Dexterity score to 18.
+By accepting 1 System Strain, forcing pheromone
+production and enacting nuanced imprinting gestures and motion patterns they can issue subtle
+commands to a specific organic human in their
+presence. The target must make a Mental saving
+throw or comply with any request that isn’t particularly distasteful to them and won’t take them
+more than a scene. This compulsion is almost impossible for most subjects to distinguish from simple personal persuasiveness on the Vision’s part.
+
+256• MECHANICAL SHELLS
+
+MECHANICAL SHELLS
+These shells are cheaper and more durable than standard organic shells, but the alien nature of metal limbs
+and synthetic sensors make them considerably less
+“comfortable” to most human minds. Most operators
+have difficulty getting mechanical shells to respond
+with the same effortless ease that organic shells offer,
+with extensive supplementary support programming
+a necessity in most cases. This need for specialized
+support tends to result in mechanical shells being built
+more for specific purposes than the general utility of
+organic shells.
+Most human-based intellects have difficulty emotionally relating to visibly inorganic mechanical shells.
+Unless specified otherwise, souls in mechanical shells
+suffer a -1 penalty to all Charisma skill checks except
+those related to intimidation.
+Mechanical shells have no need for sleep, sustenance or human-miscible environments and can operate anywhere a robot could survive. If separated from
+a convenient source of local power, they require one
+Type B power cell per week of operation. Mechanical
+shells suffer damage and are repaired in the same way
+as VI robots.
+
+Angel
+
+As a combination medic and repair shell, the Angel is
+designed to get damaged shells back up and running,
+whether they’re organic or mechanical in nature. Most
+are humanoid in form, though often with multiple
+smaller appendages for stim application and repairs.
+Attributes: Strength 12, Dexterity 12, Constitution 12
+Basic Abilities: An Angel is equipped with an effectively
+inexhaustible medkit and an unending supply of
+Lift, Bezoar, and lazarus patch stims. It can very
+rapidly repair damaged adjacent mechanical shells,
+fixing up to the operating soul’s level plus their
+Heal skill in lost hit points as a Main Action at the
+cost of one unit of spare parts. Salvage and synthesis units on the Angel allow it to create spare parts
+as part of this repair action; it can generate up
+to ten “free” units of spare parts per scene. It can
+remove the Badly Damaged quality from a shell
+with one hour of repair work. Angels have a base
+Armor Class of 13 and 5 extra hit points.
+Affinity Abilities: Veteran Angel operators can maximize the effectiveness of their repair functionality. They do not fail Heal skill checks to stabilize
+organic subjects, assuming a lazarus patch could
+save them. Damage repaired on mechanical shells
+with each action is doubled and damage healed by
+Lift stims is increased by an additional 1d8 points
+per stim. Repurposed injector units allow stims
+and mechanical repair to be applied at up to 30
+meters distance, assuming the operator has a clear
+shot at their target.
+
+Shell
+Angel
+Box
+Falcon
+Jack
+Omen
+Sledge
+Synth
+
+Face
+40
+20
+40
+30
+40
+30
+30
+
+Medical and repair shell
+Crude minimal bot body
+Flying void-usable shell
+General-purpose work bot
+Combat bot shell
+Heavy work bot
+Human-appearing android
+
+Box
+
+The humblest and cheapest of the standard shells used
+in most sectors, the Box is little more than a basic soul
+core equipped with minimal manipulatory appendages
+and sensor arrays. Boxes usually unfold into generally
+humanoid shapes in order to better function in human-designed environments, but there’s nothing preventing habitats of more exotic nature from building
+Boxes in less humanoid shapes.
+Attributes: Strength 12, Dexterity 8, Constitution 12
+Basic Abilities: A Box is more difficult to casually damage than most organic shapes, and has a base Armor Class of 15.
+Affinity Abilities: Those forced to gain extensive experience in operating a standard Box learn how to
+cope with the limited sensory feedback and structural limits of the hull. Their Strength attribute
+becomes 14 and their Dexterity becomes 12, as
+well as gaining 10 bonus hit points.
+
+Falcon
+
+These shells are usually entirely non-humanoid in
+shape, appearing as flat discs or multi-jet platforms
+of roughly a meter’s width, with several manipulator
+appendages attached. Falcons have advanced anti-grav
+tech embedded in them to allow for easier transit in
+hazardous space environments or as quiet scouting
+units when remote drones are impractical.
+Attributes: Strength 8, Dexterity 14, Constitution 12
+Basic Abilities: A Falcon has a Move rate of 20 meters
+per action, and can silently fly or hover freely even
+in the absence of an atmosphere. It’s barely strong
+enough to lift and carry one other human-sized
+shell in standard gravity but can do nothing else
+while carrying them. Falcons have advanced sensor arrays that allow them to observe objects up to
+two kilometers distant, ignore darkness, and avoid
+long-range penalties with any weapons they may
+be using. Falcons have a base Armor Class of 15
+and 5 extra hit points.
+Affinity Abilities: Falcon operators with extensive
+experience in the shell learn how to extend and
+alter the gravitic field the disc utilizes. They can
+remotely manipulate unattended objects or coop-
+
+MECHANICAL SHELLS •257
+erative persons up to 30 meters distant as if using
+their own Strength. Facility with gravitic shields
+and sudden maneuver jinks also grant it a +3 Armor Class bonus and a bonus of 10 extra hit points
+instead of 5.
+
+Jack
+
+A flexible and relatively cheap platform designed for
+technical work in environments that would be difficult
+for an organic shell to survive, the Jack is equipped with
+a wide range of integral tools. Most are humanoid in
+outline, though many have several additional manipulatory appendages or tendrils in order to aid in the
+repair of complex devices.
+Attributes: Strength 12, Dexterity 12, Constitution 12
+Basic Abilities: A Jack has a built-in postech toolkit and
+hand tools that can be used as the equivalent of
+Small Advanced melee weapons. It gains a +1 bonus to all Fix and Program skill checks, and has a
+durable structure with a base Armor Class of 15
+and 10 bonus hit points.
+Affinity Abilities: An experienced Jack operator knows
+how to improvise with the shell’s integral hardware. They can jury-rig any portable TL4 technology of 1 Encumbrance or less with a Main Action
+and one unit of spare parts, except for consumables such as power cells or stims. Items that require power are rigged with one cell’s worth of
+energy. This jury-rigged tech only works for the
+rest of the scene. The Jack’s improvised weaponry
+now counts as a Large Advanced melee weapon or
+a rifle with no ammunition requirements, either
+usable as needed.
+
+Omen
+
+The Omen mechanical shell is meant for combat and
+combat alone. Most are sufficiently humanoid to operate in human-oriented environments, but none of
+them could ever be mistaken for a normal human being,
+with their studding of weapons, reinforcement plates,
+and reactive armor. Omens are often forbidden on
+space habitats due to their ready ability to tear through
+most barriers.
+Attributes: Strength 18, Dexterity 14, Constitution 14
+Basic Abilities: An Omen’s integral weaponry is equivalent to a Large Advanced melee weapon and a
+plasma projector that requires no ammunition.
+They gain +4 to hit with all attack rolls, +2 on all
+damage and Shock values, and have an effective
+base Armor Class of 18 and 15 bonus hit points.
+An Omen’s built-in cutting torches and ripper bars
+can cut through a standard interior hatch or reinforced door in five rounds and can bore through
+normal exterior ship plating or external hatches
+in five minutes. Its integral sensors allow it to operate in darkness at no penalty and it has low-gee
+microjets that allow it to fly at its normal Move
+rate in microgravity or less.
+
+Affinity Abilities: The shell’s Strength attribute bonus
+is treated as +3 and it becomes immune to Shock
+damage. Skilled Omen operators can run the system “hot” to improve damage output at the risk of
+progressively degrading its internal systems. Once
+per round as an On Turn action they can choose
+to accept 1d6 damage in order to attack twice with
+a single Main Action, targeting the same subject
+or splitting the attack between available targets.
+The overheating damage is applied after the attacks are rolled.
+
+Sledge
+
+A heavy industrial work shell, the Sledge is slow but extremely tough. Most resemble gorillas or other hulking
+humanoid shapes, though some are tracked or wheeled
+to save on construction complexity.
+Attributes: Strength 18, Dexterity 8, Constitution 18
+Basic Abilities: A Sledge is extraordinarily strong if
+it has time to carefully set its manipulators. If it
+has time to work, it can break through anything
+short of reinforced structural material at a rate of
+one meter every thirty seconds and can lift and
+manipulate up to two metric tons with the aid of
+gravitic stabilizers. It has a base Armor Class of
+15, including its Dexterity penalty, and 15 extra
+hit points. A Sledge has onboard tools equivalent
+to a postech tool kit.
+Affinity Abilities: The expert operator knows how to
+quickly engage the shell’s strength actuators and
+can treat its effective Strength modifier as +3.
+When it moves, it can burst through any standard
+interior-grade wall or light external construction
+as part of its movement. Its effective hit point bonus is 25 instead of 15.
+
+Synth
+
+Some mechanical shells are built to be almost indistinguishable from more organic shapes, and the Synth is
+one such android form. A Synth is indistinguishable
+from a human without a medical examination or significant physical trauma to reveal its artificial workings.
+While a normal human shape is the baseline for a Synth,
+it is possible to build models with far more exotic and
+fanciful configurations that still appear organic.
+Attributes: Strength 12, Dexterity 12, Constitution 12
+Basic Abilities: A Synth does not suffer the usual mechanical shell penalty on Charisma skill checks,
+and can pass in areas where overtly mechanical
+shells might draw unwelcome attention. Their
+base Armor Class is only 10, however. A Synth’s
+artificial nature becomes obvious if it is reduced
+to zero hit points.
+Affinity Abilities: A practiced Synth user can maximize their mechanical advantages, raising both
+Strength and Dexterity scores to 14, and gains a
+bonus 5 hit points.
+
+258• THE NET AND DIGITAL SHELLS
+
+THE NET AND DIGITAL SHELLS
+Most individual habitats and polities maintain a local
+Net, a network of digital connections and databases that
+can be accessed anywhere in that same habitat or territory. Each Net is usually carefully secured against any
+external access; it’s possible to send text messages or
+video between different Nets, but VR access, database
+connections, or other more involved manipulations are
+impossible without an inside agent in the target Net
+able to knock a hole in the firewalls by hacking a comm.
+Most Net use is instinctive and effortless to locals. They can call up public information, send messages, and interact with control panels as an On Turn
+action without any need to handle a physical interface.
+Only completely and aggressively unmodified shells are
+without a basic Net interface, a status usually reserved
+for prison shells and those designed for deep-cover operations in polities that reject modification. Even these
+shells can interact with the Net provided a dataslab or
+similar physical interface is available.
+Most automated systems can be operated via Net
+interface, and it’s often theoretically possible to hack
+them if Net access is available. Many shells have “admin
+rights” over one or more systems, allowing them to
+operate them automatically with no chance of failure.
+Those with “root access” to a system can grant or remove admin rights from other shells. These rights are
+specific to shells, not souls, so if a shell is destroyed its
+inhabiting soul will need to get these rights re-applied
+to their new corpus. Conversely, someone who is able
+to steal an authorized shell or coerce its owner can use
+it to subvert a system’s security.
+Each individual Net is made up of a vast number
+of real and virtual “places”. It includes all the physical
+terrain claimed by the polity that runs the Net, and also
+vast regions of purely virtual existence within the local
+area’s computing clusters. It’s a largely trivial exercise
+to observe public places, whether real or virtual, but
+gaining access to private physical locations or restricted
+virtual locations is a task that requires physical infiltration or competent hacking. Many of the most important infrastructure locations or highest-security virtual
+locations are physically disconnected from the wider
+local Net, and require physical intrusion into specific
+areas in order to hack them.
+Most Nets are exclusive over a particular area of
+physical space, with only one Net operating in any given location. Some crowded areas may have more than
+one Net active, however, each one run by a different
+polity or private group. Security-minded polities discourage this sort of thing, as any Nets that physically
+overlap in coverage area allow digital shells in one Net
+to operate in any others in the same physical place.
+Such overlapping jurisdictions make for a hotbed of
+hacking attempts, with shells based out of friendly Nets
+making assaults on less-loved neighbors.
+
+Digital Shells
+
+Digital shells are by far the cheapest and easiest shells
+to create, costing only 10 Face at most and requiring
+nothing more than a sufficiently advanced computing
+node and adequate power to run it. When a person
+purchases a digital shell, they are actually just acquiring rights to the local computing power necessary to
+instantiate it. Habs with sufficient excess computing
+power can simply assign any amount of it needed to
+run free digital shells.
+Digital shells are extremely difficult to truly kill. If
+a shell is destroyed, its computing node can reinstantiate it and its soul with an hour’s computation, bringing
+it back with all the memories it had at the time of its destruction, albeit any programs or data files it had in its
+“inventory” at the time are destroyed. To permanently
+kill a digital shell, its computing node must be hacked
+or destroyed, a process that usually requires gaining
+access to some of the best-protected areas of a habitat.
+Digital shells do not have physical attributes. Their
+hit points are equal to the soul’s unmodified hit points.
+Any damage to a soul is repaired automatically after one
+hour without further trauma.
+
+Loci and Systems
+
+A digital shell is an inhabitant of a single Net. Its soul
+is supported by system hardware somewhere in the
+bowels of the machine, but its awareness and focus, or
+its “Locus”, is restricted to physical or virtual locations
+within the reach of that local Net. Usually, this consists
+of a single space habitat or the territory on a planet
+under the control of a single polity.
+It’s possible for a soul to transmit itself to a different Net in two circumstances. If their home Net physically overlaps with another one, they can operate in any
+region that overlaps. Lacking that, they can transfer to
+an outside Net provided the soul has access to a digital
+shell there and someone on the other side opens up
+a viable transmission path for the soul. This process
+takes five minutes for a local transmission on the same
+world or region of a solar system; longer-distance interplanetary transmissions are impractical due to comm
+lag. Once complete, the soul inhabits the destination
+shell on the target Net and its original shell goes inert; the computing hardware that would normally be
+supporting it is now supporting the existence of the
+remote shell.
+If someone cuts off the communication link between the Nets by undoing the comm hack or destroying the communications hardware involved, the interloping digital shell dies instantly and re-embodies in
+the shell back at its original Net, memories intact but
+with any programs or data files in its “inventory” destroyed and unrecoverable.
+
+THE NET AND DIGITAL SHELLS •259
+Optionally, the shell can hitch a physical ride in a
+“mindbox”, a piece of computing hardware rated to fully
+support the soul. If their allies can bring the mindbox
+into the target Net’s territory, the digital shell can operate natively in the proximate physical location, as if
+it part of the target Net’s normal population of digital
+shells. The minibox provides all the necessary computing power to instantiate the shell and let it operate
+inside the foreign Net’s jurisdiction.
+Once in a net, the digital shell can observe any
+public location within the Net’s reach. Most often this
+means a literally public location: city streets, common
+hab corridors, and the like. Private locations normally
+have spy scrubbers and observation locks that prevent
+eavesdropping in the area. Note that an allied physical
+shell’s Net implants always count as public to a friendly
+digital shell, allowing them to always see and observe
+what their friends are doing even in private locations.
+Friends can shut down this access at any time if they
+so desire.
+Digital shells can monitor multiple feeds, but this
+requires about as much attention as watching multiple
+viewscreens. They can monitor numerous places for
+unusual activity, but they can only really focus on one at
+a time. This focus is referred to as a digital shell’s Locus,
+the point at which they’re paying attention and able to
+influence Net-connected systems in the area.
+To hack a system in a private location, it’s often
+necessary for a digital shell to send a physical ally close
+enough to get their Locus into the right area. No physical connection is necessary; the Locus just has to be in
+the same physical area as the target system. Some Loci
+are purely virtual, “deep” regions of an internal com-
+
+puting system that may require successful hacking to
+reach at all, or public communal VR environments that
+any shell can focus on. Digital shells may be necessary
+to get anywhere near these “places”.
+To hack a system within the scope of a shell’s Locus, the shell rolls according to the usual hacking difficulties on page 54. The shell can only maintain control
+as long as they can keep their Locus in the area; while
+they can cripple a system or alter a database, they cannot maintain active control over it once they lose access
+to the area. Line shunts are not necessary or helpful
+in most transhuman sectors; without an active digital
+shell to control a hack, the system’s innate defensive
+measures will overcome any persistent influence. If
+intruders trip any alarms or any guardian digital shells
+survive to raise an alert, hacks and database corruption might well be discovered. If they execute the hack
+quietly enough, however, their changes may never be
+noticed by the owners.
+To complicate this task, other digital shells may be
+present with the same Locus. If a hostile shell with admin privileges is present with the same Locus, no hack
+can be successful until the enemy shell is destroyed or
+incapacitated in digital combat. Thus, shell “guardians”
+are often the biggest obstacle to hacking attempts, and
+would-be interlopers must destroy them to succeed.
+While it’s theoretically possible for an organic or
+mechanical shell to make a hacking attempt on a system
+with portable hacking hardware, their “non-native” reflexes make this far more difficult. All of their hacking
+difficulties are increased by +2 and they cannot engage
+in digital combat, thus making it impossible for them
+to hack systems with an active guardian.
+
+260• DIGITAL COMBAT
+
+DIGITAL COMBAT
+When two or more digital shells engage in combat,
+the process is much quicker than a conventional fleshand-blood struggle. All combats are resolved effectively
+instantaneously once engaged and all combatants act
+simultaneously. A shell can drag any number of shells
+with the same Locus into combat, forcing all of them to
+deal with it before they can perform any other action.
+Intruders often do this in order to stifle any guardians
+before they can give an alarm.
+Digital shells lack physical attributes. Their rolled
+hit points are not modified by their shells, and the damage they inflict is based on their Program skill plus any
+special programs they may be deploying.
+At the start of digital combat, all participants
+choose a target. Each soul can only pick one target, but
+can be the target of any number of hostile souls.
+Each participant then picks an attack mode,
+whether to Crush their opponent’s shell, overloading its
+processing channels, Muffle the shell, cutting off its data
+streams, or Shear the shell, selectively corrupting critical sectors of the shell. A separate response is made to
+each shell engaged with them in combat; thus, if three
+shells all ganged up on a single target, the single target
+would pick one combat mode for its chosen target, and
+then pick two more combat modes to respond to the
+other two attackers. These modes are chosen secretly,
+and revealed simultaneously once all are chosen.
+Crush is beaten by Muffle, Muffle is beaten by
+Shear, and Shear is beaten by Crush. If the same mode
+is chosen by both combatants, no damage is inflicted to
+either. Once per combat, a PC with the Expert class can
+turn a losing or tied comparison into a successful one.
+If the attacker beats the defender, they inflict 1d6
+damage on the target, plus 1d6 per Program skill level;
+thus, 1d6 total at Program-0, 2d6 total at Program-1,
+and so forth. If the defender beats the attacker, no damage is inflicted. A shell can only inflict damage on its
+chosen target; if it loses to the target but successfully
+beats three other assailants that same turn, it inflicts
+no damage on them.
+Some shells might be equipped with programs that
+allow them to do more damage with particular combat
+modes, or resist harm from certain modes, or have additional combat actions. Only one program can affect
+each clash, with the chosen program noted at the same
+time the combatant writes down their combat mode
+and revealed together with their opponent.
+Shells reduced to zero hit points are destroyed.
+The soul must be re-instantiated in a new shell before
+it can act once more, a process that requires an hour.
+
+Shells recover any lost hit points after an hour without
+further injury.
+Once combat begins in a Locus, it continues until all enemy participants are either destroyed or have
+surrendered. A surrendered shell is completely at the
+mercy of the assailant, and can be destroyed, released,
+or rendered paralyzed and helpless for up to one hour at
+the winner’s discretion. Shells locked in combat cannot
+raise alarms, alert allies, or do anything other than fight
+and make brief communications with other involved
+combatants. Shells that have been destroyed require
+a full hour to reconstitute themselves and re-embody
+their souls.
+
+Digital Programs
+
+Just as physical shells have equipment, so can digital
+shells carry programs. Programs can be carried in a
+shell’s virtual “inventory” or left as virtual objects in
+storage at some Locus. A shell can carry a number
+of programs equal to half their Intelligence, rounded down. A soul must have the requisite minimum
+Program skill to use a given program or else it’s too
+complex or finicky for them to operate. Programs can’t
+cross Net borders without a friendly gatekeeper on the
+far side. To move programs from one Net to another,
+it’s often necessary to download them into physical
+storage and manually carry them into the new Net’s
+area of operation before allowing a friendly shell to
+upload them once more.
+Programs can be duplicated easily, but this is a
+risky process. Each duplication runs the risk of alerting
+the local Net’s autonomic immune system and allowing
+it to formulate a counter for the program, making both
+copies worthless. To duplicate a program, the hacker
+must make an Int/Program skill check at a difficulty of
+9 plus the minimum Program skill required to run it;
+on a success, they have two copies of it now, while on
+a failure, both the original and the copy are destroyed.
+If the local Net is “friendly” and fully under the control
+of the hacker, there is no risk of this happening, though
+simply belonging to the local polity rarely grants this
+level of digital impunity. Thus, many hackers prefer
+to work in isolated habs where they have full digital
+control over their environment.
+Programs require a minimum Program skill to
+operate them, with the more sophisticated programs
+requiring greater skill to implement. Only one program
+can be run on any single round of digital combat, the
+choice written down next to the attack mode being
+used before it is revealed. Each program is listed with
+a usual Face cost to acquire a copy from local suppliers.
+
+DIGITAL PROGRAMS •261
+
+COMMON DIGITAL PROGRAMS
+Most of the following programs are available in almost
+any polity that doesn’t sharply restrict digital shells.
+Autofire (Program-1): This program focuses the shell’s
+offensive capabilities in a blinding flurry of digital attacks. Hostile shells rapidly acclimate to
+this offense, however, and it leaves the shell vulnerable to counterattacks. If Autofire is used in
+a round, inflict bonus damage equal to one automatically-successful attack using the current
+combat mode, even if that mode would normally
+fail against the target’s response. For the rest of
+the combat, however, every attack against the operator is always considered successful, regardless
+of the combat mode outcome. It costs 40 Face to
+acquire a copy of this program.
+Clairvoyant (Program-1): A special non-combat program designed for stealthy infiltration, an operator with the Clairvoyant program in their inventory can spend one round in a Locus before
+any existing digital guardians or security systems
+notice their presence. This does not allow them
+to reach Loci they couldn’t normally reach, but
+it does let them skip away from a Locus before
+guardians can spot them. Once they leave a Locus,
+they can’t gain this stealth benefit there again for
+another hour. It costs 20 Face to acquire a copy of
+this program.
+Database (Special): This is not an executable program,
+but instead an important data file crusted over
+with typical safeguards and anti-intrusion measures. Digital intelligences who need to handle
+critical data they’ve looted can treat the important files as a Database program in their inventory.
+Kamikaze (Program-1): An extremely dangerous
+program favored by veteran hackers who value
+speed over safety, Kamikaze automatically makes
+the operator’s combat mode a success. However,
+it also makes any assailant’s combat mode a success against them, in turn. Thus, in a two-party
+combat, both parties inflict damage on each other
+when Kamikaze is used. If the operator is being
+targeted by multiple hostiles, this program can result in rapid destruction. It costs 40 Face to acquire
+a copy of this program.
+Mode Boost (Variable): Available for Crush, Muffle, and
+Shear attack modes and existing in three ascending levels of sophistication, this program greatly
+augments the damage done by that attack mode.
+The operator adds twice the program’s level to
+each die of damage inflicted by that attack mode
+type; thus, Crush Boost-2 adds +4 damage to each
+die rolled by a Crush attack. The program has a
+minimum skill required equal to its level, and
+costs 10 Face per level to acquire a copy.
+
+Mode Shield (Variable): The inverted, defensive equivalent of a Mode Boost program, this decreases
+each die of damage inflicted by that attack mode
+by twice its rating, ranging from -2 to -6 points.
+Thus, Shear Shield-3 subtracts 6 points of damage
+from each die inflicted by Shear on the operator.
+This can reduce a die’s damage to zero. The program has a minimum skill required equal to its
+level, and costs 10 Face per level to acquire a copy.
+Multithread (Program-0): A sophisticated utility program, the operator may use more than one program on a single attack. They may simultaneously
+run programs with total Program skill minimums
+equal to their Program skill. Thus, if they had
+Program-2 skill, they could run Kamikaze, which
+requires Program-1, and Crush Boost-1, which
+also requires Program-1. Only one Multithread
+program can be run at a time. It costs 40 Face to
+acquire a copy of this program.
+Reinforce (Program-1): The shell is hardened against
+all digital combat modes. Subtract twice the operator’s Program skill from each die of incoming
+damage, down to a minimum of zero. Once Reinforce has reduced damage, however, it becomes
+inoperable for the rest of the combat. It costs 40
+Face to acquire a copy of this program.
+Smokebomb (Program-2): An operator who throws a
+smokebomb resolves the combat round. If they
+are still alive, they then immediately get one
+round to perform a hacking action, even if there
+are active guardians in the Locus. If successful, this
+hack cannot be countermanded by admin shells
+for 1d6 rounds. An operator can throw down a
+smokebomb only once per hour. It costs 60 Face
+to acquire a copy of this program.
+Soul Jar (Special): A soul jar is not a program, per se,
+but the data necessary to instantiate a soul. For
+cases when a digital shell needs to get a person’s
+soul data into or out of an area, it can be treated
+as a program in their virtual inventory, and will
+be lost if they are “killed”.
+Storm (Program-0): This dangerous program allows a
+shell to damage multiple assailants at the risk of incurring greater harm. When engaging more than
+one enemy, success in an attack mode comparison
+allows the user to harm the loser, no matter how
+many are engaging them. If an enemy successfully
+harms them that round, however, they suffer an
+additional 1d6 damage from the attack.
+Vampire (Program-1): Hostile computing resources are
+siphoned to repair a damaged digital shell. Any
+damage the operator inflicts this round heals half
+as much in hit point damage they have suffered,
+rounded up. It costs 40 Face to acquire a copy of
+this program.
+
+262• TRANSHUMAN POLITIES
+
+TRANSHUMAN POLITIES
+Even in soft transhuman sectors, conventional struggles over wealth and resources are rare. It is simply too
+easy to create mere physical objects, especially if grails
+can transmute base elements into whatever material is
+needed. Instead, struggles tend to revolve around ideological viewpoints, focusing on beliefs and creeds that
+coalesce in the form of polities.
+A polity is simply a group of people dedicated to
+particular principles. They may be eager enthusiasts
+bent on shedding their organic forms, or radical human
+traditionalists, or religious zealots who seek new forms
+in which to serve God. They might exist to uphold a
+tradition of human culture or art, or to explore a specific new mode of being and the possibilities it unlocks.
+Others seek a radical reevaluation of human morality,
+reconsidering what it means to be virtuous in a world
+where human souls can be duplicated and edited at a
+whim. Some polities might be jealously exclusive in
+their membership, while others tolerate their members
+belonging to other polities as well, so long as their goals
+are not in conflict.
+The more isolated these groups are from the harsh
+necessities of mundane practicality, the more drastic
+their beliefs tend to be. The need to constantly contend
+with an indifferent cosmos just to extract necessary resources for survival tends to dampen the more fanciful
+flights of ideological creativity. Once these limits are
+broken by the grails, there is much less to constrain a
+vision of future existence. The conflicts between these
+polities provide adventure seeds in a transhuman campaign, with PCs supporting some against others.
+
+The Work of Paradise
+
+Transhuman polities almost all afford their devotees
+with a basic level of sustenance well in advance of any
+modern society. Even personal grails are sufficient to
+manufacture the necessary resources and expert-system automation needed to provide an ordinary polity
+member with everything they might need in the way of
+food, shelter, entertainment, and medical care. While
+space may be limited in a deep-space habitat, and goods
+and services specific to human providers might still be
+in short supply, the average polity member may go
+their entire indefinite life without knowing a single
+moment of true hunger, privation, or want.
+One thing the grails cannot provide, however, is a
+meaning for these prolonged lives. Many transhumans
+spend years or even decades sunk into aimless hedonism, time-killing digital entertainments, or a simple
+unthinking repetition of daily existence. Sooner or later, however, most transhumans find a burning need for
+some sense of purpose to their lives, some reason for
+existence beyond increasingly-tedious amusements and
+ever-more-stale novelties of experience. The polities
+provide this meaning to their adherents.
+
+The polities are about something that is important,
+even important enough to cost their most dedicated
+followers their indefinite lives. Pursuing this ideal
+promises its believers a sense of meaning and significance that the ten-thousandth virtual orgy or twentieth
+orbital-insertion suicide dive can’t provide. For those
+transhumans who can no longer bring themselves to
+believe in any power higher than their own will, these
+polity ideals act as a surrogate religion.
+
+Creating Polities
+
+When building a polity, a GM should start with one or
+two rolls on the adjacent table to determine what ideal
+drives the heart of the polity. These ideals are simply
+examples, but each one indicates the kind of action the
+polity pursues and the kind of activity they find hateful.
+If the polity is to be useful in the game, it needs to want
+things and detest things, and the interaction of these
+goals with the rest of the campaign setting will form
+the seeds of future adventures. If more than one ideal
+is used, you can synthesize them together, or just place
+one as more important than the other.
+When you have the polity’s core ideal defined, take
+a moment to think of a paragraph-sized pitch for the
+polity’s ideology. Why would a transhuman want to
+be part of this polity? Are they born into it, assuming
+it still uses organic reproduction? Is it offering them
+some magnificent goal to fire the imagination? Is it
+promising to protect them from some threat to their
+indefinite happiness? If you can’t come up with a brief,
+succinct reason for someone to join the polity, the players are apt to be mystified by its appeal as well.
+Decide how much influence the polity has in the
+campaign. Do they control a full star system, or are
+they a niche group in deep-space habitats? Are they
+widespread in other regions? Pick at least one other
+polity to be a rival to it, and perhaps one other to be a
+sympathetic ally. Write a sentence about each describing the current tenor of their relationship.
+All told, you’ll probably need at least five polities
+in your campaign, one of which should be moderate
+and pragmatic enough to serve as a good default polity
+for PCs who don’t want to get involved in the more
+dramatic ideologies. Aside from these major polities,
+there are likely dozens or hundreds more with at least
+a decent cluster of space habs under their control, and
+you should feel free to let players come up with them
+as part of their PC backgrounds. You might write up
+major polities as Factions and reskin assets accordingly.
+These polities are going to be the patrons, enemies,
+and backdrops for your campaign. While a few patently horrible groups always have a place in a campaign,
+many of them should be ambiguous enough in their
+ideals that your players will at least be able to entertain
+the idea of cooperating with their goals.
+
+TRANSHUMAN POLITIES •263
+d20
+
+Vital Polity Ideal
+
+1
+
+Abundant: Society should strive to maximize access to grails and similar material abundance for all members. They
+hate material want and love the ideal of maximizing available resources for all.
+
+2
+
+Architect: Grails offer the key to a new era of wonderful creations. Terraformed worlds, massive space installations,
+and marvelous devices await their construction. They love building useful marvels and they hate restrictions on
+growth or rejection of any constructive technology.
+
+3
+
+Egoists: The human self should be inviolate, and that creating more than one instance of a mind at a time treats
+humans as mere instruments to be used. They hate using people as tools and love the individual self.
+
+4
+
+Faithful: Some religion provides vital meaning to their existence and to the world around them. They love obedience to the principles of their faith and they hate things and acts that their religion condemns as abhorrent.
+
+5
+
+Godless: They despise all religions and supernatural thinking and are convinced that humanity was meant to rise
+above belief in non-materialistic phenomena. They love ideals of pure rationality and utilitarian efficiency and they
+hate beliefs based on religious adjurations.
+
+6
+
+Hedonic: They exist for the sake of personal pleasure and experience, using their shells and the wealth of the
+grails to experience new wonders. They love pleasure and excitement and they hate all abstentions and restrictions
+against experience.
+
+7
+
+Hierarch: They are convinced that some people are more suited to rule than others, for whatever reason, and
+that these people should control society. They love obedience to their chosen elite and they hate defiance of their
+ruling caste’s will.
+
+8
+
+Isolationist: They believe that the other factions will contaminate the purity of their society, and contact must
+be firmly—or violently—rejected. They hate contact with outsiders and love exalting the excellence and authentic
+purity of their society.
+
+9
+
+Liberated: They despise the idea of an elite and believe that society should be built upon decentralized cooperation
+rather than submission to a central power. They hate hierarchies of power and they love destroying these hierarchies
+and celebrating individual freedom from control.
+
+10
+
+Luddite: They are convinced that transhuman technologies will inevitably doom humanity, and that all of them
+should be abandoned. They hate any tech more advanced than standard postech and they love independence from
+transhuman technologies such as grails and bodyswapping.
+
+11
+
+Passionist: They believe that with the perfection of the mind and body, perfection of the heart must follow. They
+seek love, beauty, enlightenment, and spiritual exaltation. They love human drama and moving artwork and they
+hate cold rationality or rejection of personal desires.
+
+12
+
+Perfectionist: Humanity is always intended to be more, improving in mind and body and exploring new ways of
+being no matter the cost. They they hate any restrictions on pursuing personal excellence and they love exploring
+the frontiers of human capacity.
+
+13
+
+Psionicist: Revere and develop the powers of the mind. While psitech development has not matched conventional
+tech’s rate of improvement, they retain many powerful arts. They love the potential within psychic powers and they
+hate those that would ignore or reject them.
+
+14
+
+Restrictionist: Society needs to prevent the dangers of reckless use of grails and should restrict their control to a
+qualified elite. They hate dangerous use of grails and love the ideal of a worthy technocracy of rule.
+
+15
+
+Selfless: The human mind belongs to itself, and should be altered, duplicated, and used in any way the original
+desires. Radical self-authoring of identity is the highest ideal. They hate losing control over their own identities
+and love the idea of progressive mental alteration into an individual’s ideal self.
+
+16
+
+Superior: They are simply better than other strains of transhuman, and their inferiors must be eliminated from any
+influence on the sector. They hate inferior outsiders and they love demonstrating their own superiority.
+
+17
+
+Swarmer: Their faction must spread at all costs. All efforts must be turned toward creating more shells and more
+adherents and seizing more territory. Some in hard transhuman sectors go so far as to create entire groups of ego
+duplicates. They love expanding their numbers and influence and they hate valuing the individual over the group.
+
+18
+
+Temperate: Success hinges on the cooperative effort of many factions. They are much more willing to compromise and negotiate than most other creeds. They love building negotiated alliances and they hate uncompromising
+extremism, regardless of its supposed virtue.
+
+19
+
+Unchanging: They are adamantly opposed to radical alterations of the human body or mind, believing that such
+changes threaten the basic idea of humanity. They hate heavily altered minds and shells and they love the idea of
+humanity as it has been known.
+
+20
+
+Xenophile: They desire to abandon their humanity for the sake of becoming some better species. Some alien races
+around them may actually have originally been factions of this polity. They love pursuing radically different modes
+of existence and they hate adherence to traditional human norms.
+
+264• ONE-ROLL POLITY MISSIONS
+
+ONE-ROLL POLITY MISSIONS
+While the conventional adventure seeds earlier in this
+book can work fine for building a transhuman adventure, these tables offer some more genre-specific cues
+for building the kind of jobs that polities often need to
+hire PCs to execute.
+First figure out the general direction of the polity’s
+interest and identify the thing that’s interesting them.
+The basic nature of the mission reveals what it is the
+polity needs the PCs to accomplish, while the major difficulty indicates the likely-obvious main problem with
+achieving the desired end, though other problems are
+likely to be part of it as well. One or more additional
+rolls on the transhuman twist table can suggest other
+plot twists or genre-appropriate elements to throw
+into the adventure.
+
+d4
+1
+
+Direction of Interest
+Toward a thing mysterious to the polity
+
+2
+
+Toward a thing held by the polity
+
+3
+
+Toward a thing held by a rival
+
+4
+
+Toward a thing held by a neutral party
+
+d12
+1
+
+Major Difficulty of the Mission
+Powerful military forces threaten the PCs
+
+2
+
+The thing’s location is very dangerous
+
+3
+
+The thing is primed against the PCs
+
+4
+
+The thing itself is dangerous to handle
+
+5
+
+A team of rival polity agents are in it
+
+6
+
+A third force involved in the situation
+
+1
+
+Why PCs are Needed
+The last available polity team failed
+
+7
+
+Known involvement would be a disgrace
+
+2
+
+The job needs to be deniable
+
+8
+
+There is a very harsh time limit
+
+3
+
+A PC is somehow related to the thing
+
+9
+
+The thing’s location is not known
+
+4
+
+Everybody better is unavailable right now
+
+10
+
+The PCs are deprived of resource access
+
+5
+
+A polity NPC wants them specifically
+
+11
+
+Critical briefing data is wrong or twisted
+
+6
+
+The PCs are expendable scout resources
+
+12
+
+Getting into or out of there is very hard
+
+d8
+
+d20
+
+Transhuman Twist or Vital Macguffin
+
+1
+
+Basic Nature of the Mission
+Scout a believed-to-be-hazardous thing
+
+1
+
+Someone’s identity has been badly edited
+
+2
+
+Destroy the thing in question
+
+2
+
+Someone important is in hiding
+
+3
+
+Salvage or rescue the thing in question
+
+3
+
+A seemingly-benign goal is monstrous
+
+4
+
+Subvert or persuade the thing in question
+
+4
+
+An NPC cares nothing for their shell’s life
+
+5
+
+Build, erect, or instantiate the thing
+
+5
+
+An AI or VI is causing a problem
+
+6
+
+Sabotage the thing and frame a rival
+
+6
+
+Someone’s building or using dire tech
+
+7
+
+Roll 1d6; job changes to that mid-mission
+Stop someone else; roll 1d6 for their goal
+
+7
+
+A critical soulstone has been lost
+
+8
+
+8
+
+Grail access to something vital is limited
+
+9
+
+A recently re-embodied NPC has a grudge
+
+d10
+
+The Thing That is the Focus
+
+10
+
+An outside polity is getting involved
+
+d6
+
+1
+
+A populated deep-space habitat
+A research or religious complex
+
+11
+
+Obscure polity doctrine is making trouble
+
+2
+
+12
+
+A high-tech experiment has gone rogue
+
+3
+
+A data store or archive
+
+13
+
+There’s a traitor in an important position
+
+4
+
+A military station or complex
+
+14
+
+A war or hostile raid is going on there
+
+5
+
+Valuable land or an important space region
+
+15
+
+A grail is dangerously malfunctioning
+
+6
+
+A defector from the polity or a rival
+
+16
+
+A strange fad or ideology is interfering
+
+7
+
+A celebrity very useful to the polity
+
+17
+
+The desired macguffin is not as it seems
+
+8
+
+Someone important to a polity NPC
+
+18
+
+A traitor in the opposite side offers aid
+
+9
+
+An artificial intelligence or digital shell
+
+19
+
+Normal social expectations are subverted
+
+10
+
+A talented mercenary or agent
+
+20
+
+Someone fights for a near-lost ideology
+
+POLITY MISSION REWARDS •265
+
+POLITY MISSION REWARDS
+Many of the adventures a party will have in a transhuman campaign will revolve around doing work for
+one or more polities, either the groups that the PCs are
+aligned with or simply those outside organizations that
+are offering worthwhile rewards. The mission payment
+tends to be roughly the same in both cases, as the gratitude of a polity toward a loyal member serves much
+the same practical purpose as the indebted obligation
+of an outside patron.
+The rewards offered by polities to capable operatives are extensive, but the jobs they need done are
+not the standard sort of reactor-cleaning jobs that any
+low-ranking polity member could manage. The jobs
+offered by polity leadership cadres are dangerous, difficult, and often must be deniable. Survival is by no
+means assured, and in some cases a suicide mission
+might be an assumed part of the work, with reinstantation of a soul in a new shell provided as part of the fee.
+The pay a polity offers will depend on its own size
+and the importance of the work. Every measure of Face
+they offer is the equivalent of so much grail time or so
+much work by polity members, and small groups just
+don’t have the grails or membership to support huge
+payments, even if Face itself is a somewhat notional resource. The rewards offered here are baseline for a major polity with access to at least one major grail. Smaller
+groups can likely offer only half as much, or even less.
+Reward totals are given in Face here, but if you’re
+running a campaign where credits are still in use, you
+can multiply the Face rewards by 50 to get the equivalent amount of credits they would likely offer.
+Rewards are per-party, divided evenly amongst
+the PCs, and often scaled to the highest PC’s level. The
+more respected and experienced the mercenary or
+member, the more their help is worth.
+
+Simple Jobs
+
+Go someplace relatively nearby and kill someone, destroy something, or collect something. Targets are
+not expected to have any defenses sufficient to stop a
+professional group, though ugly surprises do happen.
+Performing this act is not expected to bring particular
+heat down on the group or have lasting negative consequences with their relationship with other significant
+polity groups. This work rewards 100 Face/level.
+
+Dangerous Jobs
+
+As a simple job, but there’s reason to believe that the
+target may have protection or environmental difficulties that would possibly result in the death of even a
+capable and professional group. This level of reward
+is also offered for simple jobs that might incur the displeasure of a major polity against the PCs who perform
+it. The work rewards 200 Face/level.
+
+Complicated Jobs
+
+The polity needs something done, but isn’t entirely sure
+how to accomplish it. The PCs need to go someplace
+and use their own ingenuity and understanding of the
+situation to bring about the outcome desired by their
+patron. Even when these jobs appear to be relatively
+safe, they pay well because they require a great deal of
+initiative and personal judgment from the operatives.
+Any group capable of regular performance of these
+tasks will be able to live in the transhuman equivalent
+of luxury, with large amounts of personal space, numerous sapient servants or companions, and a wide
+selection of shells to use as they desire. Such jobs usually pay 500 Face/level.
+
+Veteran Jobs
+
+At this level of work, the operatives are no longer runof-the-mill mercenaries or standard polity enforcers,
+but the proven experts at their trade who are sought
+by employers throughout the transhuman sector. Missions for veteran operatives tend to be matters of significant importance to the polity as a whole, with opposition too heavy or too skilled to be overcome by any
+ordinary agent. Often the polity sees no way to succeed
+at the job, but trusts that experts will somehow figure
+out a solution. Up to 10,000 Face/level are regularly
+extended to groups capable of this work.
+
+Elite Jobs
+
+Something critically important needs to be done, and
+the polity can’t afford to have things go wrong. At this
+level, they’re only giving the work to people who have
+a demonstrated track record of success, but they’re
+also extremely flexible about the remuneration they’ll
+offer. Often, as much as 100,000 Face/level worth of
+goods or services will be extended to PCs, or equivalent
+resources that already exist will be signed over to PC
+ownership or placed at their regular disposal.
+
+Critical Jobs
+
+These are tasks where failure threatens vital polity resources, personnel, or the basic survival of the group.
+The leadership is unlikely to give this work to anyone
+but the most reliable, proven members or allied mercenaries, but they will pay almost anything for successful
+completion. Essentially, the PCs tell the polity what
+they want, and if the polity can actually give it to them,
+they get it. Of course, if they fail the polity may not be
+in much of a condition to do anything.
+
+

@@ -1,0 +1,1518 @@
+290• SOCIETIES
+
+SOCIETIES
+The tools for creating worlds in Stars Without Number are considerable, but some GMs want to flesh out
+their worlds beyond the outlines provided by tags and
+physical properties. This section discusses ways of adding societal meat to those basic bones, and some of the
+considerations that a GM should keep in mind when
+forging new cultures for their newly-fashioned worlds.
+
+When To Do It
+
+The first thing any GM needs to remember when creating a sci-fi culture for their games is that it should be
+done for a reason. Just because you have a sector of 24
+worlds doesn’t mean you should go through the time
+and effort needed to give them 24 interesting and engaging cultural descriptions. As with all things sandbox,
+just because something exists doesn’t mean you should
+expend some of your limited time and creative energy
+fleshing it out into a “completed” condition.
+Instead, you should give a world a fully-built culture when it becomes important to your specific needs.
+If you know the PCs are going to visit the world of
+Mephisto during the next session, then it’s a very good
+idea to spend some time generating and polishing Mephistan society. If you’re setting up a sector’s social and
+cultural fault lines at the start of your campaign, it can
+pay off to do some very cursory generation for each
+world so you have a vague idea of the kind of interactions they might be having when the campaign actually
+starts. If these factors aren’t a consideration for you,
+however, and you’re just starting the PCs out in a situation where foreign worlds aren’t going to be a major
+factor for a session or two, then there’s no point in
+expending the energy to define more of your sandbox
+than you need just yet.
+With that in mind, your basic rule for when to
+create a planet’s culture is simple; do it when you know
+it will be directly relevant in the immediate future of
+your game. Not when “it’s going to be important eventually”, not when “it would be nice to have”, but when
+you know you are going to need it in the next session or
+two. Of course, if you’re having fun building societies
+then you should do it as long as it stays that way, but
+you should never do taxing sandbox work that isn’t
+fun and doesn’t promise to pay off in the immediately
+foreseeable future.
+
+The Purposes of Culture
+
+There’s a school of worldbuilding that favors the detailed and intricate construction of a society, complete
+with calendars, wedding customs, exotic social structures, and elaborate history. Adherents of this school
+point out that these details, while not immediately germane to the usual sorts of adventures, give the GM the
+grounding and familiarity they need to rapidly respond
+to player questions and ideas, and improve the sense of
+
+alienness and verisimilitude the players experience in
+entering that culture.
+And they’re right. If you spend the time and effort
+required to build out a culture to an anthropological
+level of completeness, you really will get those advantages. Unfortunately, there are very few creators who
+have the time, energy, and particular skill set to effectively build societies like that. It’s possible you’ve nurtured ideas of an alien world and its society from boyhood, ventured forth into the distant Indian jungles to
+live with tribal people and learn their languages, took a
+foreign bride and religion, returned to a distinguished
+academic career, and spent your twilight years in the
+study of ancient Egyptian hieroglyphics, but most of
+us are not named Phil and do not have the background
+to readily produce truly alien, coherent societies. For
+the rest of us, building a society involves rather more
+modest goals and simpler methodology.
+For us, the purpose of building a society is twofold: we do it to create adventure hooks, and to make
+running adventures in that society more manageable.
+These are the reasons to build a society and these are
+the purposes that should be ever foremost in your mind
+as you go through the pages that follow. The finest,
+most elaborate, most anthropologically-coherent culture is useless to you as a GM if it isn’t providing you
+with any adventure seeds and is too involved to easily
+run adventures among its associated people.
+
+Planting the Seeds
+
+The generators that follow focus on identifying conflicts between groups, between rulers and ruled, between different factions of ruled, between people and
+their circumstances, or between the likely needs of the
+PCs and the rules of the greater society. Conflicts are
+the seeds of adventure, and it’s important that the cultures you build have meaningful, accessible conflicts for
+the PCs to encounter.
+These conflicts come on different scales. They can
+be purely personal problems relevant only to the PCs,
+such as a taboo on entering a particular place where
+a macguffin lies that the PCs need to recover. They
+can be local struggles, such as a corrupt community
+leader who’s masking his venality behind a facade of
+“reform” and the angry traditionalists who oppose him
+for mixed reasons. And, of course, they can be the kind
+of world-spanning afflictions that are so beloved of
+storytellers, like a massive planetary civil war between
+factions of the ruling nobility.
+Whatever the scale, these conflicts need to be accessible. They need to be something that affects the
+PCs, and preferably something that the PCs can affect
+in turn. A massive civil war that’s taking place on the
+opposite side of the planet and which has no bearing on
+what the PCs are doing right now is a wasted piece of
+
+SOCIETIES •291
+
+worldbuilding effort. Not every conflict has to shadow
+every adventure the PCs have in the society, but the
+players should regularly feel that the local situation has
+a significant influence in what they’re trying to accomplish here.
+Conflicts are your cheap and easy adventure generators. Whenever you have a societal conflict, you
+have at least two opposing sides, something they’re
+struggling over, and an obvious need for third parties
+to come in and lend a hand to one or more of the participants. PCs tend to be ideal deniable agents for the
+various sides of a conflict, as they’re people with no ties
+to the “enemy” side, a usual appetite for credits, and no
+reason to feel passionately about most of the conflicts
+they encounter. As a GM, you should embrace this opportunity for the various participants in a conflict to
+hire the PCs out as muscle or agents for their causes.
+Not all conflicts involve struggling locals, however. Some conflicts have to do with the clash between
+the structures of society and the desires of the PCs. It’s
+common for a society to have a taboo, law, custom, or
+expectation that directly interferes with something the
+PCs want to accomplish. These are the customs that the
+players will remember and care about, because these
+are the customs that are causing them trouble. Very
+few players will care about or remember the details of
+Mephistan wedding ceremonies unless their wealthy
+patron is getting married tomorrow and they know
+that assassination attempts on wedding days are traditional and accepted among the Mephistan elite.
+
+Building for Speed
+
+When you’re creating a fictional society for a sci-fi
+world, don’t hesitate to reach for existing real-world
+models or familiar science fiction tropes. The more
+you have to explain a society to your players, the less
+confident they’re going to be about interacting with
+it and the more hesitant they’ll be to make the kind of
+easy assumptions that smooth play at the table. If there
+are no clear local analogs for bars, police, gangsters,
+factories, or black-market quasinuclear explosives, a lot
+of players are going to end up feeling paralyzed with
+uncertainty when they try to adventure in the society.
+When players interact with your societies, let
+them be right whenever it’s practical. If they make
+an assumption or act based on a logical expectation,
+either let them be correct or gently adjust things to
+a culture-appropriate equivalent. If they keep getting
+burned by their basic assumptions, their instinct is going to be to stop interacting with the society.
+Also be prepared for indifference on the part of the
+players. Even the most cooperative group is unlikely
+to be as interested in your fictional creations as you
+are; they’re interested in their fictional creations. You
+don’t have to build an anthropologically-precise society
+description because your players honestly won’t care
+enough about it to require that level of detail. If it turns
+out they’re enchanted by your work, then that’s great.
+You can elaborate things then, when it matters. Until
+then, focus on what you know you’re going to need.
+
+292• ORIGIN OF THE SOCIETY
+
+THE ORIGIN OF THE SOCIETY
+To understand a world’s society, it’s necessary to understand its origins. Every world was founded for a
+purpose, and while this purpose may have changed in
+the intervening years, it’s going to have had a powerful
+effect on the original colonists and their way of life.
+For simplicity’s sake, it’s assumed that there’s only
+one society on the planet that the PCs are going to care
+about. This may be the only actual society that exists on
+the world, or it might just be the most advanced, xenophilic, or profitable group for outsiders to interact with.
+You can use the following tables to create multiple societies, but even the most heavily balkanized world is
+likely to have the same basic origin for all its cultures,
+unless the world was actually hit with multiple colony
+groups who came for different reasons.
+
+What to Get from Origins
+
+As a GM, you should be looking for adventure hooks
+in a society’s origins. The roots of a world offer an
+easy backstory for ancient ruins, lost cities, abandoned
+moon outposts, or dangerous man-made badlands.
+They also give a cue about what the society is likely to
+consider most important, or at least what the original
+founders cared about most.
+The origins are also going to leave their mark on
+what the society has inherited. If the world was colonized as a mining outpost, it’s very likely that the locals will still have significant mining expertise and tech
+preservation, and might still be living in the ancient
+played-out mines of their ancestors. If the world was
+originally a prison planet, the prisons might still exist,
+transformed into fortresses and strongholds where the
+
+heirs of ancient gang bosses and prison wardens rule
+over the offspring of long-forgotten convicts. Even
+when all physical artifacts of the past have been erased,
+social patterns and cultural subgroups can still bear the
+marks of the original colonists.
+Many societies will have experienced at least one
+period of drastic change between their founding and
+the present day, usually catalyzed by the chaos of the
+Scream and the loss of easy interstellar contact. This
+breakdown is a good excuse for justifying substantial
+differences between the original, long-lost colony and
+their modern inheritors. It may be that the colony
+failed entirely, and the current culture stems from an
+entirely different colonization effort that took place
+decades or centuries later.
+If this society isn’t the only one on the planet, you
+may want to make a few decisions about the other major cultures on the world. Namely, you may want to
+give them names, a sentence or two describing them,
+and a sentence indicating their relationship with the
+culture you’re generating. It’s rarely worth the effort
+to completely generate these additional groups unless
+the players take a significant interest in the planet. All
+you really need is are the basic details to let them know
+that the culture they’re working with right now isn’t
+the only meaningful group on the planet.
+Also remember that not every original reason for
+colonization is a good reason. Surveyors and scouts can
+make mistakes like anyone else, trade routes can shift,
+military deployments can alter, and what once seemed
+like a good reason for a colony can crumble overnight.
+Some worlds may still be dealing with such aftermath.
+
+ORIGIN OF THE SOCIETY •293
+
+ONE-ROLL ORIGINS
+To devise a society’s origins, roll one die of each type:
+d4, d6, d8, d10, d12, and d20, and compare the results
+to the tables on this page. Not every table is necessarily pertinent to every society, and you may choose to
+manually pick or tweak results to fit a good idea you
+have, but these tables can give you a basic framework
+when no better ideas leap easily to mind.
+If you have multiple colonizing groups or societies,
+you might roll more than once on these tables, or roll
+multiple times and synthesize the results into a single situation. As with all the tables in this section, you
+should be ready to use them as rough inspiration and
+grist for your own campaign’s specific needs, rather
+than as hard creative dictates that you need to obey.
+
+d4
+1
+
+How Old is the Society?
+An ancient First Wave colony
+
+2
+
+Founded during the Second Wave
+
+3
+
+Founded sometime around the Scream
+
+4
+
+Founded within the past century
+
+d12
+1
+
+Important Local Resource or Benefit
+Critical resources for making spike drives
+
+2
+
+Nexus of interstellar spike drill routes
+
+3
+
+Valuable alien tech relics or remnants
+
+4
+
+Abundant food resources
+
+5
+
+Important medical compound or extract
+
+6
+
+Industry salvaged from a prior colony try
+
+1
+
+Prior Cultures in this Area
+This culture has persisted since founding
+
+7
+
+Friendly alien population
+
+2
+
+The culture’s changed, but has continuity
+
+8
+
+Valuable raw resources for luxury goods
+
+3
+
+Founding group splintered, this is one heir
+
+9
+
+Local environment augments humans here
+
+4
+
+Founding group collapsed and became this
+
+10
+
+Only semi-safe habitable place in system
+
+5
+
+Founding group wiped out; new colonists
+
+11
+
+Raw materials to maintain TL5 industry
+
+6
+
+Several founding groups before this one
+
+12
+
+Important Mandate naval base site
+
+d8
+
+d20
+
+1
+
+Other Societies on this World
+There is no other meaningful group here
+
+1
+
+Castaways
+
+2
+
+The society has significant sub-groups
+
+2
+
+Corporate factory world
+
+3
+
+The society is a unified world government
+
+3
+
+Ethnic or national purity
+
+4
+
+The only rivals have been conquered here
+
+4
+
+Excavation site
+
+5
+
+There are several minor rival nations here
+
+5
+
+Exiles from Old Terra or a losing regime
+
+6
+
+Theres at least one major planetary rival
+
+6
+
+Exotic genotype designed for here
+
+7
+
+Alliances exist of semi-equal rival nations
+There are dozens of significant societies
+
+7
+
+Homeworld overpopulation
+
+8
+
+8
+
+Invasion force
+
+9
+
+Liaison outpost
+
+d10
+
+Main Remnant of Prior Cultures
+
+10
+
+Mandate malcontents
+
+d6
+
+Original Reason for Founding
+
+1
+
+Vital advanced tech was left behind
+Ritually-important religious centers
+
+11
+
+Military outpost
+
+2
+
+12
+
+Political liberty
+
+3
+
+Dangerous ruins of high-security areas
+
+13
+
+Precious export
+
+4
+
+Abandoned cities, now dangerous to enter
+
+14
+
+Prison planet
+
+5
+
+Bunker-caches of stored valuables and tech
+
+15
+
+Refueling outpost
+
+6
+
+Massive megastructures of strange purpose
+
+16
+
+Religious liberty
+
+7
+
+Terraforming tech that needs maintenance
+
+17
+
+Research outpost
+
+8
+
+Ethnic group with a grudge of some kind
+
+18
+
+Rich natural resources
+
+9
+
+Bloodline of former rulers, resentful now
+
+19
+
+Social liberty
+
+10
+
+Ancient resource extraction facilities
+
+20
+
+Trade hub
+
+294• RULERS
+
+THE SOCIETY’S RULERS
+Some exotic human cultures might persist with no visible ruling class. The population might be synced into a
+telepathic hive mind, it might operate on some transhuman distributed democratic principle, or it might be
+so brutally primitive that there exists no organization
+above the family band. In most cases, however, your
+culture is going to have a ruling class, and these tables
+will help you determine what that class is and how they
+govern the rest of the populace.
+
+What to Get from Rulers
+
+When you build a ruling class, understand that the players are apt to encounter them in two contexts: either
+as antagonists who are stopping the PCs from accomplishing some desired end, or as patrons who are employing the PCs to achieve some work that can’t comfortably be assigned to existing minions. You should
+be thinking carefully about the kind of agents of rule
+who are likely to be dealing with the PCs, either as law
+enforcement or as potential employers.
+Spare a moment to think about the kind of law
+enforcement and governmental control that exists in
+this society. Do police exist? How attentive are they
+to disturbances or violations of the law? Do the locals
+tend to deal with such problems personally, or is force
+firmly monopolized in government hands?
+
+And if the PCs do encounter law enforcement,
+what are the likely outcomes? Can they bribe their way
+out of trouble? What kind of firepower do the agents of
+the ruling class have at their disposal? And how plausible is it for officials to want adventure-worthy “favors”
+from lawbreaking offworlders?
+Just as PCs can be obstructed by the rulers and
+their minions, so too can they be employed by them.
+Offworlders make excellent catspaws due to their easy
+deniability, rapid departures from the planet, and lack
+of scruples regarding local laws and expectations. It’s
+not impossible for an important local noble or official
+to cultivate a useful group of adventurers, gradually
+offering them jobs that both demonstrate their skills
+and bind them all the more tightly to their patron. It
+can pay off to prepare at least one sample NPC patron
+from the ruling class just to have them available on
+short notice if an adventure hook arises.
+The more tightly the government controls the society, the more the government will matter to PCs. For
+a lot of parties, there’s just no interest in the details of
+a world’s rulers until it becomes an immediate threat
+or opportunity for the PCs. If your adventure plans
+seem likely to put the PCs in contact with the rulers,
+whether as agents or as irritants, you’ll need to have
+some appropriate preparation ready to deploy.
+
+RULERS •295
+
+ONE-ROLL RULERS
+These tables generate a quick governmental framework
+for your society, along with some idea of their most
+pressing current problems and instabilities. An NPC
+patron is very likely to give PCs jobs related to these
+problems and intra-class struggles, or ask them to help
+deal with some aspect of the conflict they’re having
+with restive commoners.
+Keep in mind the likely reactions of your group
+when devising NPC patrons or antagonists. Some
+groups of players will have a visceral distaste for helping the rulers of particularly harsh worlds, while other
+parties will have fewer fictional scruples. If you can’t
+see your player group ever wanting to play nice with
+the slave-masters of a world fueled by cannibal sacrifice,
+then you’re best off not wasting time making patrons.
+
+d4
+1
+
+How Completely Do They Rule?
+All aspects of life are touched by the rulers
+
+2
+
+The rulers firmly control the populace
+
+3
+
+The rulers control only critical elements
+
+4
+
+The rulers have little control of the ruled
+
+d12
+1
+
+Basic Form of Rule
+Autocracy of a single popular ruler
+
+2
+
+Corporatism among guilds/classes/corps
+
+3
+
+Democracy, one sentient, one vote
+
+4
+
+Feudalism, many near-free sub-rulers
+
+5
+
+Hydraulic Despotism over a vital resource
+
+6
+
+Military Dictatorship via martial force
+
+1
+
+General Security of Their Rule
+The rulers teeter on the brink of collapse
+
+7
+
+Monarchy, single ruler via bloodline
+
+2
+
+They seem likely to fall soon
+
+8
+
+Oligarchy of the society’s powerful elite
+
+3
+
+They’ve recently overcome a real threat
+
+9
+
+Republic of representative delegates
+
+4
+
+They have no serious threats to their rule
+
+10
+
+Technocracy of intellectual elites
+
+5
+
+No alternative is currently imaginable
+
+11
+
+Theocracy by the religious leadership
+
+6
+
+They’ve ruled undisputed for ages
+
+12
+
+Tribalism without structure beyond blood
+
+d8
+
+d20
+
+Main Conflict with Ruled Populace
+
+1
+
+Main Source of Legitimacy
+A glorious bloodline or honored family
+
+1
+
+Their taxation is intolerably high
+
+2
+
+Control of overwhelming martial force
+
+2
+
+Crimes against the ruled are ignored
+
+3
+
+Popular support among a wide class
+
+3
+
+They trample on cherished customs
+
+4
+
+Loyalty of a major ethnic/religious group
+
+4
+
+They hold the ruled in obvious contempt
+
+5
+
+Social compact among the ruled groups
+
+5
+
+The law is designed to favor them greatly
+
+6
+
+Possession of pretech artifacts
+
+6
+
+They have immunity to onerous taxes
+
+7
+
+Religiously-legitimated sacredness
+Personal merit among the ruling class
+
+7
+
+Disrespect for common religious belief
+
+8
+
+8
+
+They failed or are failing in a recent war
+
+9
+
+They waste taxes and labor on vain things
+
+10
+
+Ways to enter the class have been removed
+
+d6
+
+d10
+
+Main Conflict Among the Ruling Class
+
+1
+
+Peripheral elites against the central power
+Old leadership group deposed by new one
+
+11
+
+The rulers are all of a different ethnicity
+
+2
+
+12
+
+They have different basic moral values
+
+3
+
+Dividing the profits of taxation or tribute
+
+13
+
+The rulers ignore rights when it’s useful
+
+4
+
+Starting or stopping a current war
+
+14
+
+They deposed former popular rulers
+
+5
+
+“Reformists” with new ideas for control
+
+15
+
+State connections are vital to all success
+
+6
+
+Sectarian religious groups struggle
+
+16
+
+They have fine ideas that ignore public will
+
+7
+
+Expanding membership in the ruling class
+
+17
+
+They have removed a prized ancient right
+
+8
+
+Enacting a major public building project
+
+18
+
+They’re seen as puppets of a hated group
+
+9
+
+Support for favored corporations/groups
+
+19
+
+Their source of legitimacy is crumbling
+
+10
+
+Dividing power and offices among them
+
+20
+
+The leadership is deeply incompetent
+
+296• RULED
+
+THE RULED CLASSES
+The Great Unwashed, the Teeming Masses, the broad
+foundation upon which the ruling edifice rests; these
+are the common folk of the society who keep it operating and pay the prices their rulers exact. This group
+is very rarely uniform on any world and in any culture.
+Most often it is divided up into numerous different
+interest groups, ones based on ethnicity, religion, economics, or regions. Many of the stresses that rest on
+the ruling class revolve around reconciling the many
+conflicting demands of their restive subjects.
+
+What to Get from Commoners
+
+The commoners of this society are the ones your PCs
+are most likely to encounter in their adventures. Shopkeepers, thugs, workers, farmers, ship crew, and other
+rank-and-file NPCs will belong to this group, so it’s
+important to have some idea what these NPCs are likely
+to care about and how they draw distinctions among
+their own kind.
+To an outsider, the swarming masses of a world
+can appear virtually indistinguishable, but commoners
+almost always have a keen awareness of countless small
+differences that might seem irrelevant to an outsider.
+Differences in regional extraction, religious sects, political partisanship, or ethnic bloodlines can be tremendously important to the locals.
+
+You can use these distinctions to create adventure-worthy conflicts that revolve around commoner
+issues. It’s not always the rulers who care about strife
+between different groups of locals; sometimes the PCs
+are the ones caught in a bad situation, when an NPC
+ally or a vital macguffin gets embroiled in a local feud
+that outworlders can barely understand.
+Not every commoner group is sharply balkanized.
+Sometimes there is a strong and uniform feeling of
+unity among the society, with differences downplayed
+or dismissed by its membership. Even in these societies, conflicts can exist on a personal scale between
+members, or there can exist basic structural conflicts
+between the rulers and the ruled class. This is especially
+pronounced when the commoners have a very strong
+sense of societal unity that does not include the ruling class. Threatened governments in such a situation
+might intentionally exacerbate divisions in the ruled
+class in order to prevent a united front from forming
+against their continued rule, creating situations where
+PCs have to bring people together despite the meddling
+of a self-interested government.
+Foreign governments or offworld agents also have
+a vested interest in fomenting divisions among the
+common class. A unified rival is a dangerous rival, and
+one drowned in strife is more safely distracted.
+
+RULED •297
+
+ONE-ROLL RULED
+Most of these tables revolve around building the ruled
+class’ relationship with its rulers. These tables will tell
+you how uniform the ruled class is, how happy they are
+with the current leadership, the last time they were a
+serious threat to the ruling government, and the reason the government can’t simply roll over them. An
+adventure about the hopeless and futile resistance of
+a rebel cell might make for nice dystopian fiction, but
+for an evening’s play it leaves something to be desired.
+Don’t worry about detailing the specific look of
+the common class yet. These tables give you the background for conflicts and problems that are likely to
+make good adventure grist. Once you have that material in hand, you can then move on to flavoring the
+group with the details you need to use them in play.
+
+d4
+1
+
+How Uniform is the Ruled Class?
+They consider themselves a single group
+
+2
+
+Two general groups or factions
+
+3
+
+Many weakly-bounded sub-groups
+
+4
+
+Many strong factions/ethnicities/classes
+
+d12
+1
+
+Main Conflict Inside the Ruled Class
+Harsh conflict between economic strata
+
+2
+
+Substantial ethnic conflict and disunity
+
+3
+
+Drastic changes in the local economy
+
+4
+
+Competition to enter the ruling class
+
+5
+
+Secessionist traditions or urges in a group
+
+6
+
+Religious differences provoke trouble
+
+1
+
+How Content are the Ruled?
+There’s an active insurgency or revolt
+
+7
+
+Regional identities are in conflict
+
+2
+
+They’re going to revolt at any time
+
+8
+
+Formerly prosperous group is embittered
+
+3
+
+Serious restiveness and regular troubles
+
+9
+
+New economic opportunity is fought over
+
+4
+
+Generally content, with patches of trouble
+
+10
+
+Foreign influence is causing conflict
+
+5
+
+Widespread contentment or submission
+
+11
+
+A forceful social reform movement spreads
+
+6
+
+Only individual resistance, if even that
+
+12
+
+An appealing mass delusion is growing
+
+d8
+
+d20
+
+1
+
+Their Last Major Threat to the Rulers
+A peasant uprising of discontented proles
+
+1
+
+The rich are mimicking the ruling style
+
+2
+
+New technology embraced by bourgeois
+
+2
+
+Coordinated tax evasion or smuggling
+
+3
+
+Religious schism threatening the state
+
+3
+
+Methodical bribery or suborning officials
+
+4
+
+A dangerous popular demagogue arose
+
+4
+
+Popular agitation for war with a rival
+
+5
+
+Foreign-backed regional insurgency
+
+5
+
+Radical pro-traditional social movement
+
+6
+
+Civil war backing a deposed ruler or exile
+
+6
+
+A communistic insurgency is rising
+
+7
+
+Mass reluctance to support a vital war
+A new political philosophy spread widely
+
+7
+
+Fascist groups are gaining support
+
+8
+
+8
+
+A large, restless youth population grows
+
+9
+
+Demagogues promote group tensions
+
+d10
+
+What Power Do They Have?
+
+10
+
+Embrace of “self-improving” tech or ways
+
+d6
+
+Trends among the Ruled
+
+1
+
+Strong guilds of common workers
+Powerful influence in the military
+
+11
+
+An artificial group identity is now rising
+
+2
+
+12
+
+Serious and widespread drug addiction
+
+3
+
+Can get support from a rival power
+
+13
+
+De-facto chattel debt slavery is spreading
+
+4
+
+Local religion is largely on their side
+
+14
+
+The rich oppose threatening tech advances
+
+5
+
+Their magnates have poor state relations
+
+15
+
+A sub-group is resented as the ruler’s pet
+
+6
+
+Strong tradition of self-organized rule
+
+16
+
+A powerful colonial urge is in the populace
+
+7
+
+Keen unity in pursuit of their own interest
+
+17
+
+A spirit of decadent ennui is pervasive
+
+8
+
+A faction of the ruling class is their ally
+
+18
+
+Self-protection fraternities are spreading
+
+9
+
+They control the state’s income stream
+
+19
+
+Internal disputes are becoming bloody
+
+10
+
+The rulers dread the threat of revolt
+
+20
+
+Progressive loss of faith in their culture
+
+298• FLAVORING THE SOCIETY
+
+FLAVORING THE SOCIETY
+The final step in creating your society is to give them
+some overall flavor to tie up the bundle of conflicts,
+strifes, and problems you’ve already given them. The
+high-level issues of a society are important for building adventures, but when PCs walk down the starship
+gangway, they want to know what kind of buildings
+and people they see. When they decide to go to a bar or
+look up a weapons dealer, you need to have some idea
+of what the NPCs look like and what their food, dress,
+and architecture might resemble.
+The simplest first step is to pick one or more real-world cultures and mix them into a sci-fi equivalent
+that fits the world’s tags and physical circumstances.
+You can draw from this culture for details of naming,
+clothing, religion, cuisine, and other details of daily life
+that can be important for running an adventure. It’s
+not necessary to worry about “getting it right”; it’s been
+more than a thousand years since the present day. Between natural cultural drift and forcible Mandate social
+engineering, very few far-future cultures are identical
+to the ones that currently or historically exist on Earth.
+It’s also possible to fabricate an entirely unique
+culture with no major reference to an existing society.
+While this can be a refreshing exercise of creativity, it’s
+also a tremendous amount of work. Every time you
+find yourself unable to reference a familiar trope or
+idea, you need to take the time to explain the details to
+the players. This can be interesting and novel the first
+few times you do it, but if the players need a half-hour
+of gaming time just to find something equivalent to a
+spacer hostel and a hot meal, they can get bored and
+frustrated with the relentless worldbuilding.
+The more practical course is to take a basic, familiar framework and then add those unique elements that
+important to you and the adventure. Concentrate your
+creative effort on the bits that matter most in play. It’s
+true that any trait can be significant in one situation or
+another, but it’s safer to play to the averages.
+d12
+Basic Cultural Flavor
+Western European, specific or general
+1
+2
+
+Chinese, either modern or historical
+
+3
+
+Japanese, unified or balkanized
+
+4
+
+West or East African
+
+5
+
+Indian, pre-Raj or contemporary
+
+6
+
+Eastern European
+
+7
+
+Ancient Egyptian or North African
+
+8
+
+Ancient or Classical Mesopotamia
+
+9
+
+Mesoamerican: Aztec, Maya, Inca, etc.
+
+10
+
+Latin American, colonial or modern
+
+11
+
+Southeast Asian or Polynesian
+
+12
+
+Middle Eastern, pre- or post-Islamic
+
+Aside from the kind of external flavor a GM needs
+to represent NPCs in the society, it’s also important
+to think about the ways in which they interact with
+outsiders like the PCs.
+A rigidly xenophobic culture that wants nothing to
+do with offworlders might have some use as a monolithic obstacle to some PC goal, but any effort spent
+detailing its internal workings is wasted if the PCs will
+never be put in a position to care about them. Even the
+most suspicious society should likely have some way
+for an outsider to interact with it, even if the process
+amounts to an adventure in its own right.
+In the same vein, giving the culture special quirks
+or habits can be useful, but you should keep an eye
+toward making these quirks pertinent to adventure
+goals. A history of bloody vendettas between the great
+families can flavor casual street scenes, but the PCs are
+unlikely to actually care about that detail until it rears
+up to interfere with a plan they have or a goal they
+want to accomplish.
+Taken as a whole, the players will care about those
+parts of a culture that matter to them. When flavoring
+your culture, you should try to make sure that as much
+of your effort as possible is dedicated to those parts of
+your society that will actually be influential to your play.
+
+FLAVORING THE SOCIETY •299
+
+ONE-ROLL SOCIETY FLAVOR
+These tables provide some quick answers for creating
+a society’s attitude toward outsiders, game-meaningful
+quirks, and potential patrons for adventures. In all cases, you’re going to need to mold the results to the society outline you’ve already created; an official in need of
+deniable assets is going to look very different in a modern bureaucratic state than they would on a balkanized
+world of tribal warlords. Even so, a colorless agent of a
+deniable state agency and the mother of a warlord stuck
+in a reluctant tribal alliance both have the same need for
+discretion and ruthlessness in their agents.
+Societal vices and virtues can be used to color local
+conflicts. It’s very possible for a society’s own virtues
+to be the seeds of struggle and calamity when they are
+taken too far or put in a situation with no clear answer.
+
+d4
+1
+
+Society’s Degree of Xenophilia
+Outsiders are distrusted and excluded
+
+2
+
+Outsiders won’t ever be “real” members
+
+3
+
+Outsiders who try to blend can do so
+
+4
+
+They welcome alien customs and people
+
+d12
+1
+
+Possible Patrons
+Official in need of deniable assets
+
+2
+
+Underworld boss with a job for outsiders
+
+3
+
+Outcast local whom no one else will help
+
+4
+
+Local with wrong ideas about outsiders
+
+5
+
+Secret agent of a rival planetary power
+
+6
+
+Oppressed victim in need of outside help
+
+1
+
+Treatment of Allowed Outsiders
+Outsiders are to be exploited ruthlessly
+
+7
+
+Outsider who can’t get any local aid
+
+2
+
+Dealings are avoided whenever possible
+
+8
+
+Wealthy trader with starport ties
+
+3
+
+Constant small-scale exploitation of them
+
+9
+
+Religious leader with doubts about locals
+
+4
+
+Fairly, but with no mercy for ignorance
+
+10
+
+Society grandee who needs quiet assistance
+
+5
+
+They’re treated like forgivably stupid locals
+
+11
+
+Military or police official with secret work
+
+6
+
+Active efforts are made to accommodate
+
+12
+
+Fixer who’s an agent for one of the above
+
+d8
+
+d20
+
+Societal Customs and Quirks
+
+1
+
+Primary Societal Virtue
+Honesty; they shun deceit and lies
+
+1
+
+Local credits are worthless offworld
+
+2
+
+Justice; the law is even-handedly enforced
+
+2
+
+Weaponry is unusually unrestricted
+
+3
+
+Courage; they are undaunted by danger
+
+3
+
+Structures are very sturdy and defensible
+
+4
+
+Mercy; they are forgiving to the penitent
+
+4
+
+There is no planetary computer network
+
+5
+
+Loyalty; they never forsake their own
+
+5
+
+Travel passes are needed for outsiders
+
+6
+
+Learning; they love knowledge of all kinds
+
+6
+
+Local tech is troublesomely unreliable
+
+7
+
+Peace; they shun violence if at all possible
+Ingenuity; swift to embrace useful novelty
+
+7
+
+Outsiders have to perform favors to stay
+
+8
+
+8
+
+Only outsiders can do certain jobs
+
+9
+
+Trade requires local guild permissions
+
+d10
+
+Primary Societal Vice
+
+10
+
+Certain laws are suspended at certain times
+
+d6
+
+1
+
+Hedonism; loving pleasure too much
+Corruption; venal rulers and officials
+
+11
+
+Only certain locals can talk to outsiders
+
+2
+
+12
+
+Sex or race segregation is strictly enforced
+
+3
+
+Deceit; sweet lies over sour truths
+
+13
+
+Certain people are immune to legal action
+
+4
+
+Fecklessness; no will to carry out a duty
+
+14
+
+All visitors must obey the local faith
+
+5
+
+Nihilism; they truly believe in very little
+
+15
+
+Crimes can be commuted with cash fines
+
+6
+
+Greed; they want what others have
+
+16
+
+The locals have bitter family vendettas
+
+7
+
+Conquest; they seek glory in imperial war
+
+17
+
+Certain areas are strictly taboo for most
+
+8
+
+Despair; they have no faith in the future
+
+18
+
+Outsiders need a state minder with them
+
+9
+
+Hatred; they are consumed with a hate
+
+19
+
+There are addictive substances in the food
+
+10
+
+Folly; they have a dangerously false idea
+
+20
+
+Certain art is desired but forbidden here
+
+

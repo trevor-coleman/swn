@@ -9,7 +9,7 @@ Comprehensive directory of all non-player characters across sectors, their affil
 
 ---
 
-# Abiha Omicron Sector
+## Abiha Omicron Sector
 
 ## Quick Navigation
 - [Major NPCs](#major-npcs)
@@ -144,7 +144,7 @@ Comprehensive directory of all non-player characters across sectors, their affil
 ## NPC Relationships
 
 ### Power Dynamics
-```
+```text
 Silence Architects
     ↓ (used)
 Resonance Protocol
@@ -182,7 +182,7 @@ The Party ←→ The Archive
 
 ---
 
-# Cross-Sector
+## Cross-Sector
 
 ## The Silence Architects
 - **Status**: Active (UNIVERSE-LEVEL THREAT)
@@ -193,7 +193,7 @@ The Party ←→ The Archive
 
 ---
 
-# Eradinus Expanse Sector
+## Eradinus Expanse Sector
 
 ## Captain Reyes
 - **Status**: Unknown

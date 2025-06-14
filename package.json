@@ -10,7 +10,9 @@
     "update-indexes": "cat prompts/update-indexes.md | claude -p --verbose \"Execute this task\"",
     "test": "bun test",
     "typecheck": "tsc --noEmit",
-    "lint": "eslint src/**/*.ts",
+    "lint": "eslint . --no-warn-ignored",
+    "lint:md": "eslint '**/*.md' --no-warn-ignored",
+    "lint:ts": "eslint 'src/**/*.ts' --no-warn-ignored",
     "format": "prettier --write src/**/*.ts"
   },
   "keywords": [
@@ -23,13 +25,14 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "@eslint/markdown": "^6.5.0",
     "@types/bun": "latest",
     "@types/node": "^20.0.0",
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
-    "@typescript-eslint/parser": "^6.0.0",
-    "eslint": "^8.0.0",
+    "eslint": "^9.29.0",
     "prettier": "^3.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "typescript-eslint": "^8.34.0"
   },
   "engines": {
     "node": ">=18.0.0"

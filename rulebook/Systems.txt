@@ -1,0 +1,1649 @@
+SYSTEMS
+Even the most capable interstellar adventurer sometimes encounters a situation where the outcome is by
+no means certain. When an alien assassin thrusts a
+blade at an unguarded back, or the ship threatens to
+careen out of control in a gas giant’s upper atmosphere,
+or when the hero has been critically injured and lies
+bleeding on a cavern floor, how do you tell what’s going
+to happen next? This chapter provides you with certain
+basic systems you can use to resolve these questions.
+
+The Basic Mechanics
+
+The three primary systems that most heroes are going to interact with most often are skill checks, saving throws, and combat rounds. Every player and GM
+ought to read those sections and understand the basic
+mechanisms involved, because they’re going to be seeing a lot of them in their star-faring adventures.
+Skill checks tell you whether or not your hero succeeds at a particular feat of expertise or natural competence. Whenever it’s uncertain whether or not your
+hero can manage a feat, your GM might call for a skill
+check. Failure at the roll means that your hero either
+botched it outright, succeeded in a way that was singularly unhelpful, or was foiled by some unexpected
+outside influence.
+Saving throws tell you whether or not your hero
+evades some immediate peril. If you need to know
+whether or not the alien insect’s poison overwhelms
+you, or if you can dive away from the grenade before
+it explodes, or if the villainous psychic’s mind-reading
+powers can pry out your secrets, you make a saving
+throw. The GM will tell you when you should be making one.
+Combat rounds tell you whether or not your hero
+has shot, stabbed, exploded, maimed, punched, or otherwise ventilated their foe, and whether the foe has
+managed to do the same to them. Combat in Stars
+Without Number is very dangerous, especially to novice
+adventurers and ordinary NPCs. One thug with a pistol
+and a steady hand can kill most newly-minted heroes
+with a single well-aimed bullet, and most normal men
+and women have even less of a chance against lethal
+violence. Warrior heroes and others with a specific talent for combat are more durable against these martial
+perils, but even they have to respect the threat of a mob
+of angry spearmen or a sniper rifle’s crosshairs.
+The combat section is a particularly important
+read if your own gaming history has lent itself more
+towards games that have very sturdy protagonists or
+narratively-shielded player characters. A first-level
+Warrior in Stars Without Number is lethally dangerous
+to an ordinary street thug or faceless enemy minion,
+but three or four mooks with street-built slugthrowers
+are likely to put that budding hero down hard. More
+experienced PCs gain a larger margin of safety as they
+
+gain more hit points, but there’s no PC that can laugh
+off a dozen combat infantrymen with mag rifles and a
+will to use them. Don’t assume your character is going
+to survive an experience just because they’re a PC.
+
+Using the Systems
+
+Stars Without Number is built to support a sandbox
+gaming experience, and the systems in this chapter
+are part of that. By default, they’re meant to be fair,
+understandable, and flexible enough to be applied to
+many situations. They’re not meant to especially favor the PCs, however, or to give them ways to bypass
+the results of some poor decision or unlucky moment.
+There is no “narrative currency” the player can spend
+to avert disaster. This is not the only way a group can
+play the game, but it is intentionally the default mode.
+It’s not that these systems are perfect, but that
+they are an unbiased third party to your gaming session. When the GM calls for a skill check, or rolls a hit
+roll for an alien warlord’s chainaxe, he honestly doesn’t
+know what’s going to happen. His judgment might apply bonuses or penalties to the dice, or he might choose
+to tweak the system to fit the immediate situation, but
+ultimately the dice are resolving the situation. This is
+important for a sandbox game, because the dice are as
+fair as they are merciless.
+This fairness adds surprise and interest to a night’s
+gaming. Even the GM isn’t completely certain what’s
+going to happen when the PCs forge ahead, and this
+surprise and novelty help keep the GM interested in
+events, and not just a programmatic maestro for preset situations and outcomes. Every gaming session is
+a chance for something unexpected to boil out of a
+chance throw of the dice, whether that happens when
+the PCs catastrophically botch their attempt to defuse
+a nuclear fission bomb or when that alien warlord just
+happens to catch a ten-kilo demolitions charge with
+his chestplate. Even when cruel dice fell a heroic PC,
+that very degree of danger helps make the rest of the
+party’s survival more meaningful. They lived because
+they made good choices and had a bare minimum of
+luck, not because they were the designated heroes.
+Not all groups will want to play the game this way,
+however, and that too is perfectly acceptable. Some
+groups do want to let Fate weigh in on their side, and
+let death and disaster have to get through a little more
+narrative armor first. A GM running a game like this
+can often produce this effect without the need for explicitly changing die rolls or introducing destiny chips,
+simply by deciding on gentler outcomes for failures,
+minimizing murder-obsessed enemies, and explicitly
+arranging escape routes for overmatched PCs. This
+game belongs to you and your group, and you should
+run it the way you want it to be run.
+
+46• SYSTEMS
+
+SCENES AND DURATIONS
+Many psychic abilities and other powers have durations
+expressed in scenes. A scene is just a shorthand concept
+for a particular action sequence or exertion on the part
+of the PCs. A single combat encounter is a scene, as is
+the infiltration of a building, the ascent of a radioactive
+mountainside, or a tense meeting with an alien overlord’s cybernetic representative. Most scenes don’t last
+for longer than fifteen minutes or a single contiguous
+chunk of action, but the maximum duration is up to
+the GM’s discretion. It’s quite possible to have an eve-
+
+ning’s play where most of the time isn’t tracked, only
+marking scenes for important negotiations, gunfire, or
+time-critical feats of skill.
+Some powers are limited to being used only so
+many times in a given scene, or require Effort expenditures that only come back at the end of the scene.
+Outside of situations where close time-tracking is important, you can assume that these powers can be used
+or that the Effort comes back about once every fifteen
+minutes, assuming the PC has intervals for rest.
+
+SAVING THROWS
+There are times when misfortune or unpredictable peril befalls a hero. Only luck or their own natural hardiness can save them from disaster, and to do so they
+must make a saving throw.
+Saving throws come in three kinds. Physical saves
+relate to challenges of physical endurance such as poisons, diseases, radiation, or dire exhaustion. Evasion
+saves involve dodging explosions, evading falling hazards, diving back from a crumbling surface, or otherwise exerting one’s powers of speed and swift reaction.
+Mental saves relate most often to psychic influences,
+hallucinations, esoteric mental control technologies,
+and other perils that assault a hero’s mind or perceptions. Mental saves can also be used when no other
+saving throw category seems to apply and only blind
+luck and ineffable intuition can save the hero.
+
+Your character’s saving throw scores start at 15,
+and decrease by one point each time you advance a
+level. Each saving throw is modified by the best modifier of two different attributes: Physical by the better
+of Strength or Constitution, Evasion by the better of
+Dexterity or Intelligence, and Mental by the better of
+Charisma or Wisdom. Thus, a first-level PC with a
+Strength of 5 and a Constitution of 14 would have a
+Physical save of 14.
+To make a save, roll 1d20 and try to equal or beat
+the appropriate saving throw score. On a success, you
+evade or mitigate the peril, while on a failure it takes
+full effect. A natural roll of 1 is always a failure, and a
+natural roll of 20 is always a success.
+The GM decides when a saving throw is appropriate. Some dangers might not allow one at all.
+
+Poison and Peril
+While cutting their way through the blue jungles
+of Qinglin, a luxuriant blossom of cerulean crystal
+catches Eden’s eye. The young adventuress is eager
+to find something to make their reeking weeks in
+this azure Hell worthwhile for her and her brother
+Randall, but she’s no fool, and promptly extends her
+3.048-meter probe pole to gently joggle the bloom
+from a safe distance away.
+The two adventurers are so focused on their
+examination of the flower that they risk missing the
+stealthy creep of a many-legged creature that approaches through the undergrowth. The GM calls
+for Wis/Notice skill checks from both of the PCs.
+Eden’s Wisdom modifier of +0 and lack of the Notice
+skill leave her with a -1 penalty. She rolls 2d6 and
+gets a 6. Her brother Randall has a Wisdom modifier
+of +1 and Notice-0 skill, which gives him a net +1
+bonus on his roll, and a result of 11.
+The GM decides that sneaking through the
+undergrowth is a sort of thing that venomous alien
+hunters would be good at, so he applies the creature’s
+
++1 skill bonus to its own stealth roll. Unfortunately
+for the young heroes, it rolls a 12, approaching the
+pair undetected.
+The GM rolls randomly to see which of the pair
+is closest and finds that Randall is the unlucky winner. The dog-sized monstrosity leaps on the psychic
+and stabs him with its venomous proboscis.
+The GM knows that the poison of this dread
+beast is enough to kill an unlucky victim in a matter
+of minutes. But did Randall receive a lethal dose? He
+asks Randall’s player to make a Physical saving throw.
+The psychic’s Physical saving throw target is 14,
+so his player reaches for a d20 and rolls, coming up
+with a natural 20 on the dice. A natural 20 is always
+a success, even if penalties would otherwise make
+the roll a failure.
+Randall staggers under the attack, but most of
+the beast’s poison stains his armor harmlessly. He’s
+shaky, but can push through the dose he got with no
+ill effects. That’s a good thing, because that scuttler’s
+egg-mate is hurrying up through the brush…
+
+SKILL CHECKS •47
+
+SKILL CHECKS
+Most characters are skilled, competent men and women who are perfectly capable of carrying out the ordinary duties of their role. Sometimes, however, they are
+faced with a situation or challenge beyond the usual
+scope of their role and must make a skill check.
+To make a skill check, roll 2d6 and add the most
+relevant skill level and attribute modifier. If the total is
+equal or higher than the check’s difficulty, the check is a
+success. On a failure, the PC either can’t accomplish the
+feat at all or they achieve it at the cost of some further
+complication to the situation. The GM determines the
+specific outcome of a failure.
+If the character doesn’t even have level-0 in the
+pertinent skill, they suffer a -1 penalty to the roll. In
+the case of particularly technical or esoteric skills they
+might not even be able to attempt the skill check at all.
+Some checks might be suitable for more than
+one skill. A javelin-throwing contest might use Exert
+for being an athletic contest, or Shoot for involving a
+ranged weapon, or Stab for using a muscle-powered
+thrown weapon. In such cases the PC can use the best
+applicable skill. In other situations, a skill might seem
+peripherally relevant; trying to find the hidden bomb
+in a starship’s engine core before it detonates might certainly use Notice or Fix, but a GM might also let Pilot
+be applied, as a veteran pilot might be expected to know
+what their engine should look like. In such peripheral
+cases, the check difficulty usually increases by 2.
+
+6
+
+8
+
+Skill Check Difficulties
+A relatively simple task that is still more than
+the PC would usually be expected to manage
+in their regular background. Anything easier
+than this isn’t worth a skill check.
+A significant challenge to a competent professional that they’d still succeed at more often
+than not.
+
+10
+
+Something too difficult to be expected of
+anyone but a skilled expert, and even they
+might fail.
+
+12
+
+Only a true master could expect to carry this
+off with any degree of reliability.
+
+14+
+
+Only a true master has any chance of achieving this at all, and even they will probably fail.
+
+Particularly helpful or hostile circumstances might
+give a bonus or penalty to the skill check. As a general
+rule, extremely bad circumstances or tools would apply up to a -2 penalty to the skill check, while a very
+good situation or the perfect set of tools might give up
+to a +2 bonus to the roll. Usually, no combination of
+modifiers should add more than +2 or -2 to any given
+skill check.
+
+When To Call for a Check
+
+Skill checks should only be called for challenges that fall
+outside the PC’s background and common experience.
+A PC with the background of a starship pilot should
+not be rolling skill checks to land a ship or navigate to
+an in-system destination. As a general rule of thumb,
+if failure at a particular task would make the PC seem
+notably incompetent at their role in life, then they
+shouldn’t have to roll a skill check for it. In addition, if
+failure or success at a check really doesn’t matter in the
+game, if it won’t produce some interesting result either
+way, then a check shouldn’t be made.
+Even concept-related feats might require a skill
+check, however, if the situation is especially bad or
+the circumstances particularly hostile. The pilot might
+have to make a Pilot skill check to land a ship if they
+attempt it in the middle of a man-killing sandstorm,
+and a noble might have to make a Connect skill check
+to find shelter with an aristocratic relation if they’re
+currently wanted by the stellar tyrant’s guards.
+
+Aiding a Skill Check
+
+Sometimes one PC will want to lend a hand to another
+as they attempt a difficult feat. To do this, the player
+first describes what sort of action they are taking to
+help their comrade. If the GM agrees that their effort
+makes sense and would be helpful, the player then rolls
+a relevant skill check against the same difficulty as the
+original check. If it’s a success, the other PC gets a +1
+bonus on their roll. Multiple PCs can try to help, but
+the acting PC can’t earn more than a +1 total bonus.
+The helping skill doesn’t necessarily have to be the
+same skill the PC is checking. If a player can think of
+a way to help a Sneak check with Talk, then so be it.
+
+Opposed Skill Checks
+
+Sometimes a PC wants to accomplish something that
+another character wants to prevent. Sneaking past an
+alert guard, winning a shooting tournament, or besting
+an alien in a tentacle-wrestling competition might all
+be opposed skill checks.
+In such cases, all participants roll their relevant
+skills and the highest score wins, with ties going to
+the PC. To make the NPC’s roll, check their listed skill
+bonus; they can add it to any skill check appropriate to
+their role or profession. If the NPC has no reason to
+be particularly good at the challenge, they simply roll
+2d6 and add nothing.
+In most cases, the relevant skills are obvious. A
+character trying to skulk past a vigilant guard would be
+rolling their Dex/Sneak against the guard’s roll, while
+one trying to out-tentacle an alien would be rolling Str/
+Exert. When in doubt, the GM decides which skill is
+most applicable.
+
+48• COMBAT
+
+COMBAT
+Sometimes the only reasonable response to a situation
+involves drawn monoblades and heavy plasma fire. In
+such unfortunate hours your heroes will have to engage in combat.
+Combat in Stars Without Number is a lethal sort of
+experience, especially for novice interstellar adventurers. Even hardened Warriors can go down in a hurry
+under a withering hail of mag rifle fire or the scrapsteel knives of a hiveworld gang pack. PCs should be
+very certain that the odds are in their favor before they
+reach for their laser pistols, and even then, the gods of
+battle can be cruel.
+
+Rounds and Initiative
+
+Combat and other time-sensitive situations are divided
+up into rounds. Each round is approximately six seconds, during which all participants may act. When everyone has acted, the round ends and a new one begins.
+To determine who acts first in a round, each participant rolls initiative. Each rolls 1d8 and adds their
+Dexterity modifier. NPCs usually have no modifier.
+The participants then act in order, high roll to low,
+with PCs winning ties. When everyone has had a turn
+to act, the sequence starts over again from the top. Initiative is not re-rolled.
+Optionally, the GM may choose to use group initiative instead in their campaigns. The PC with the best
+Dexterity bonus rolls for the party, and the GM rolls
+one die for the other NPCs. Members of the side that
+rolled highest may act first in whatever order they wish,
+and then the next-highest side acts. While easier to
+manage, it also increases the value of winning initiative,
+and can leave the heroes in dire peril if a large group
+of foes wins the roll.
+Sometimes a person is surprised or ambushed.
+Most ambushes involve a contested Dex/Sneak roll
+against a target’s Wis/Notice check, with the defender
+winning ties. In other cases the surprise may be practically inevitable, such as a disguised assassin suddenly
+lashing out with a monoblade in the middle of a society
+ball. Ambush targets who fail the contested roll are surprised. A surprised target doesn’t get to roll initiative
+until the second round of combat and can perform only
+Instant actions while surprised. NPCs with roles relevant to being vigilant or stealthy would gain their skill
+bonus to these checks, while others would simply roll
+an unmodified 2d6 for the opposed check.
+Most PCs are not subject to surprise unless their
+guard is genuinely down at the moment of the ambush
+or attack. Someone walking in a dangerous part of a
+city or picking their way through a seemingly-abandoned space station is unlikely to be astonished by the
+sudden appearance of danger, unless the attack is so
+sudden and from such an unexpected quarter that even
+their obvious caution is insufficient.
+
+Types of Actions
+
+When an actor’s turn comes up in the round, they may
+perform actions. Actions are divided into four different
+types: Main Actions, Moves, On Turn actions, or Instant.
+Main Action
+One per Turn
+Every actor can make one Main Action each round.
+Main Actions are those deeds that are going to absorb
+most of the six-second round, such as attacking an enemy, bracing a door, applying first aid to a downed ally,
+digging a Stowed item out of a pack, manipulating a
+complex device, or some other activity that takes up
+their focus. In place of their Main Action, an actor can
+take a second Move action.
+Move Action
+
+One per Turn
+
+Every actor can make one Move action each round,
+running up to 10 meters. This movement assumes that
+an actor is dodging enemies, paying attention to the
+surroundings, navigating awkward terrain, and generally dealing with the hazards of a battlefield. Climbing
+a surface, swimming, or passing extremely rough terrain halves this movement rate. Actors can’t split their
+Move action, such as taking part of it before using their
+Main Action and the rest afterwards.
+An actor who wants to disengage from an opponent in melee must use their Main Action to perform
+a Fighting Withdrawal, or else they suffer a free automatic melee attack from any foe engaged with them.
+There is no need to spend a Main Action disengaging
+from enemies who are wielding only ranged weapons.
+While it’s possible to use a rifle to buttstroke someone
+or pistol-whip a near combatant, such weapons aren’t
+as effectively threatening as true melee weapons.
+On Turn Action
+
+Any Amount on Your Turn
+
+An On Turn action is some fast, simple act that could
+reasonably be performed while an actor is doing something else. Dropping an object, falling prone, saying
+something, drawing a Readied item, or activating a
+simple device might all be On Turn actions. A PC can
+perform as many On Turn actions as they want in a
+round, subject to the GM’s discretion.
+Instant Action
+
+Any Amount, Any Time
+
+An Instant action is special, in that it can be performed
+even when it’s not the actor’s turn, or even after attacks or damage have already been rolled. Some psychic
+powers are Instant actions, allowing the actor to use
+them after they decide they don’t like how the dice have
+fallen. Certain combat actions are also Instant, though
+they often cost the actor’s Main Action for the round as
+well. Any number of Instant actions can be performed
+during a round.
+
+COMBAT •49
+
+Hitting an Enemy
+
+When an actor wants to hurt a target, they need to use
+their Main Action to make an attack roll. An attack roll
+represents not just one shot or swing, but the assailant
+spending their round trying to get in a good hit or a
+clean shot at the target.
+To make an attack roll, the assailant rolls 1d20 and
+adds their attack bonus, their applicable skill level, and
+the attribute modifier most relevant to the weapon.
+If the total is equal or higher than the target’s Armor
+Class, the attack is successful.
+A PC’s attack bonus is usually equal to half their
+character level, rounded down. Characters with the
+Warrior class or an Adventurer with the Partial Warrior class option have higher base attack bonuses. NPCs
+have their own attack bonus listed with their statistics,
+which includes any modifiers they might have.
+A PC’s skill level is their Punch, Stab, or Shoot
+skill in most cases, depending on what kind of weapon
+they’re using. In rare cases, a different skill might be
+involved, such as Pilot for the guns of a light starfighter.
+If a PC doesn’t even have level-0 expertise in the type
+of weapon they’re using, they suffer a -2 penalty on hit
+rolls for unfamiliarity with it.
+A PC’s attribute modifier depends on the weapon.
+For ranged weapons, this is usually Dexterity, while
+smaller melee weapons might use Strength or Dexterity, and large ones might rely on Strength alone. If a
+weapon has more than one attribute listed, use the best.
+
+A successful attack inflicts hit point damage equal
+to the weapon’s damage die plus the relevant attribute
+modifier. Thus, a hero with a +1 Dexterity modifier
+firing a laser pistol that does 1d6 damage would inflict
+1d6+1 hit points of damage on a hit. Skill levels do not
+add to damage unless it is a Punch attack.
+Some melee weapons apply Shock, and are guaranteed to do some degree of harm to a target. A weapon’s
+Shock quality lists the number of points of damage it
+inflicts on any target with an Armor Class equal or
+less than the one given. Thus, a primitive knife with a
+Shock score of “1 point/AC 15” would always do at least
+1 point of damage whenever its wielder attacks a target
+with AC 15 or less, whether they hit or miss.
+Shock damage always adds the wielder’s attribute
+modifier and any other bonuses that might apply from
+weapon mods, foci, or other advanced tech. Some advanced armor will always protect completely against
+primitive weapons, however, and some advanced
+weapons can ignore primitive gear, treating it as AC 10.
+A successful attack doesn’t always mean a direct
+physical hit. A flurry of strokes that force an enemy
+off-balance, graze him, frighten him, or exhaust him
+might all drain his hit points, bringing him closer to
+defeat without actually inflicting real physical harm.
+Only the last handful of hit points reflect serious bodily
+damage. It’s up to the GM and player to decide how to
+describe the effects of a successful hit.
+
+Hit Roll Modifiers
+
+Sometimes it can be easier or harder to connect with
+a blow depending on the combat situation. The table
+below offers some suggested hit roll modifiers for common combat circumstances.
+Circumstance
+
+Mod
+
+Shooting at a distant prone foe
+
+-2
+
+Shooting or meleeing an adjacent prone foe
+
++2
+
+Melee attacking while prone
+
+-4
+
+The target is at least half behind cover
+
+-2
+
+The target is almost completely in cover
+
+-4
+
+Shooting from a prepared firing position
+
++2
+
+Finding cover is often critical in a gun battle. Generally, firing around a convenient corner or shooting
+over sandbags would qualify as half cover, while firing through slits or from carefully-prepared bunkers
+would allow for full cover. Melee attackers can usually
+ignore cover, as they get too close for their target to
+take proper advantage of it. Being prone doesn’t stack
+with hard cover, but sometimes the available cover is
+so low that the hero has to be flat to benefit from it.
+A gunman who can set up a prepared firing position can get a significant advantage. Such a position
+usually requires at least five minutes of sighting and setting up a rest. Most such positions provide some cover.
+
+50• COMBAT
+
+COMMON ACTIONS IN COMBAT
+While a PC can do anything they might reasonably
+accomplish in six seconds as their Main Action for a
+round, some choices are more common than others.
+Below are a list of some of the tactics or actions that
+come up most often in combat.
+Make a Melee Attack
+Main Action
+The combatant attacks an enemy within melee range,
+rolling a normal hit roll and inflicting damage on a
+successful hit. Most melee attacks inflict Shock damage
+on a miss, if the target’s Armor Class is low enough, and
+no successful hit does less damage than the weapon’s
+Shock would have done on a miss. An attacker’s weapon must be Readied in order to attack with it.
+Make a Ranged Attack
+Main Action
+The combatant fires or throws a Readied ranged weapon at a target. The combatant can’t Make a Ranged
+Attack with a two-handed weapon if there’s a enemy
+armed with a melee weapon within melee range; it’s
+too easy for the assailant to bind up a rifle-sized gun.
+One-handed ranged weapons and thrown weapons can
+still be used, albeit at a -4 penalty to hit.
+Make a Snap Attack
+Instant Action
+A combatant with a Ready weapon can rush their attack,
+sacrificing accuracy for speed. The combatant must still
+have their Main Action impending or available. As an
+Instant, they can sacrifice it to Make a Melee Attack or
+Make a Ranged Attack against a foe in range, whether a
+snap shot with a pistol or a quick thrust at an adjacent
+melee foe. This attack takes a -4 penalty to its hit roll.
+If multiple combatants decide to make Snap Attacks at
+the same time, they are resolved simultaneously.
+Snap Attacks are usually made only by the desperate, the undisciplined, or the elite, and the GM should
+rarely have NPCs employ them. Untrained hooligans
+might blaze away in excitement or panic, or a gunman
+being charged by a howling spearman might risk a shot
+before he gets too close, but most combatants can’t afford to take such a heavy penalty to their hit roll. Truly
+skilled combatants, however, can sometimes get away
+with such risks, particularly if they have a Warrior’s
+class ability to turn a miss into a hit.
+Total Defense
+Instant Action
+As an Instant action, the combatant focuses on nothing
+other than avoiding knives, gunfire, hurled crystalline
+spears, or other perils in the vicinity. Using Total Defense costs the user their Main Action for the round,
+and cannot be used if they’ve already employed their
+Main Action. They become immune to Shock damage
+for the round from melee weapons, regardless of their
+Armor Class, and gain a +2 bonus to their Armor Class
+until their next turn.
+
+Club Up a Weapon
+Move Action
+A combatant can shift their grip on a Readied rifle or
+pistol, using it as a crude melee weapon rather than a
+ranged weapon. Rifle-sized guns used this way count
+as a medium primitive weapon with no Shock score,
+and pistol-sized guns count as a small primitive weapon with no Shock score. Rolling maximum damage on
+a hit with such improvised weapons will break them.
+This action can also be taken to unclub a weapon and
+ready it to shoot.
+Run
+Move Action
+The combatant moves their normal combat movement
+rate, which is 10 meters for most humans. If they’re
+climbing a surface, swimming, or navigating extremely
+rough terrain, this movement rate is halved, and they
+might have to make an Exert skill check to achieve even
+that. Prone characters crab along at half this rate.
+Fighting Withdrawal
+Main Action
+The combatant disengages from any melee foes around
+them. They don’t actually move away, but they can now
+get away from their assailants without giving them a
+free melee attack. Usually, this means the combatant
+uses their Move action to get clear, because if they just
+stand there the enemies might choose to re-engage
+them the next round.
+Use a Skill
+Main Action
+The combatant uses a skill that could be plausibly applied in a few seconds. An Int/Heal or Dex/Heal skill
+check to stabilize a wounded comrade is one such potential use, as is executing a pre-programmed hack,
+shouting out a stirring rallying cry to timorous NPC
+allies, or anything else that might be done quickly.
+Ready or Stow an Item
+
+Main Action
+
+The combatant draws a weapon, extracts an item from
+their backpack, digs a magazine out of a belt pouch,
+or otherwise moves an object around on their person.
+They can Ready an item this way or Stow it.
+Reload a Weapon
+Main Action
+The combatant swaps a Readied power cell or magazine
+into their weapon. Some very primitive firearms might
+require more than one action to load them, while an
+archer can nock another arrow as a Move action.
+Drop an Item
+Instant Action
+The combatant drops something they’re holding. They
+can do this Instantly at any time to free up their hands.
+
+COMBAT •51
+
+Pick up an Item
+
+Move Action
+
+The combatant can scoop an object off the floor if they
+have a free hand, leaving it Readied in their grip.
+Stand Up
+Move Action
+The combatant gets up from a prone position. Most
+characters that have just been revived from unconsciousness must get up before they do much else.
+Go Prone
+On Turn Action
+The combatant falls flat, forcing distant ranged attackers to take a -2 penalty to hit them. Adjacent enemies
+find you an easier target, however, gaining +2 to hit.
+
+Hold An Action
+
+Move Action
+
+By choosing to Hold An Action, the combatant can delay
+taking the rest of their actions until later in the round,
+activating them as an Instant action. Thus, a hero who
+wins initiative might use their Move action to Hold An
+Action. Later in the round, as an enemy rushes around
+a corner, he may Instantly elect to use his Main Action
+to Make A Ranged Attack with his readied laser rifle. If
+acting in response to someone else’s impending action,
+the held action is resolved first.
+
+Examples of Murder
+Yaddle and Bort, two drunken hive thugs, get involved in an impromptu knife fight over a card
+game. Yaddle wins the initiative roll, but Bort elects
+to make a Snap Attack, since Yaddle is within convenient range of Bort’s Readied knife. Incensed, Yaddle
+also decides to make a Snap Attack, so the two resolve their attacks simultaneously.
+Bort has a hit bonus of +1. Being an NPC, he
+doesn’t add skills or attribute modifiers; he just rolls
+1d20, adds 1 to it for his attack bonus, and applies a
+-4 penalty for a Snap Attack to find the Armor Class
+he hits. His modified roll is 11, which is enough to
+hit the unarmored Yaddle, who has an AC of 10. Bort
+rolls 1d4 for his small, primitive knife, inflicting 3
+points of damage. Again, as an NPC, he doesn’t add
+attribute modifiers to the damage.
+Yaddle has a similar hit bonus, but his modified
+roll is 7, less than Bort’s unarmored AC of 10, so he
+misses. His primitive knife does do 1 point of Shock
+damage to Bort, however, because a small primitive
+weapon does its Shock damage to any target with an
+AC of 15 or less.
+With the attacks resolved simultaneously, both
+now take damage. Yaddle takes 3 points, and as he
+only had 3 hit points to begin with, he’s down and
+dying, spurting from several vicious slashes. Bort
+takes 1 damage from Shock, and since he was always
+a frail gutter rat with only 1 hit point, he too is down,
+slipping into shock from a gash in his belly. Luckily,
+he owes an onlooker money, so his creditor rushes
+forward and tries to hold Bort’s guts in with his coat.
+Stabilizing a mortally wounded target requires
+an Int/Heal or Dex/Heal skill check. The creditor
+is an NPC, and the GM decides that they have no
+particular talent at first aid, so the GM rolls a flat 2d6
+for them and gets a lucky 10. That’s just enough to
+stabilize Bort even without the help of proper medical supplies, and so the downed victor is carried off
+to a an unlicensed street doc for emergency patching.
+
+After a month of recovery, a cocky Bort has
+equipped himself with a spiked walking stick, a medium primitive weapon that is “more bashy” than his
+small knife. He spots the young PC Warrior gunslinger Eliza Darrick in the grimy hive street and
+covets her fine revolver. What better way to acquire
+it than to cosh the young woman?
+He sidles into position near her before raising
+his stick. Eliza has a considerable fund of common
+sense and is not subject to surprise at this turn of
+events, given the environment. Both roll initiative
+and Bort wins. He makes his roll of 1d20+1, no longer rushed by a Snap Attack, and gets a 13.
+Eliza has an armored undersuit that grants her
+an AC of 13, plus a bonus of +1 for her Dexterity
+modifier, for a total AC of 14. As Bort’s roll is lower,
+he misses. Because medium primitive weapons only
+do Shock to targets with AC of 13 or less, Bort’s stick
+doesn’t even do Shock damage to her.
+Eliza then draws the Readied revolver that Bort
+so coveted and makes her own attack roll of 1d20, +1
+for her attack bonus, +1 more for her Dexterity, and
++1 more for her Shoot-1 skill. She rolls a total of 4,
+an abysmal showing. As she does not much care for
+being jumped by the likes of Bort, she chooses to use
+her Warrior class ability to turn a missed shot into a
+hit once per scene, sealing Bort’s doom.
+With only 1 hit point, it doesn’t even matter
+what Eliza might roll for damage. The GM describes
+the look of dull surprise on Bort’s face as Eliza’s bullet
+plows a wet hole through his chest.
+Eliza ducks down a side street as Bort falls to the
+filthy asphalt. Even if the GM decided that Bort had
+a chance to survive his wound, none of the denizens
+around him have any interest in anything but the
+contents of his pockets. Bort gurgles out the last of
+his life six rounds later, giving fodder for bad dreams
+to the scarred urchin who is tugging the stick from
+his slackening grip.
+
+52• COMBAT
+
+COMBAT COMPLICATIONS AND MANEUVERS
+Players generally seek to wring out every possible advantage in a combat, and that means they’ll often try
+unusual maneuvers or add special complications to a
+fight. The situations that follow are just some of the
+more common circumstances a GM will encounter.
+
+Forcing Enemy Movement
+
+Sometimes the PC will want to shove an enemy into
+a firepit, force a foe into an open reactor core spark,
+dump an alien chamberpot on their head, or swing
+from the balcony down upon an evildoer. Sometimes
+these gambits will simply work, while other times a
+skill check might be required.
+To shove, herd, or otherwise manipulate a foe, the
+attacker has to hit them with a Punch attack, doing
+no damage, and then win an opposed Punch or Exert
+skill check. If they win, the opponent gets moved up
+to three meters in the direction the PC wishes or is
+knocked prone. Herding a foe with a melee weapon
+may also be possible at the GM’s discretion, allowing a
+Stab skill check instead of Punch.
+When environmental damage is needed for a firepit, dropped object, or inconvenient wall spike, 1d8 is
+usually a good choice, with potential ongoing damage
+if the victim doesn’t get out. Major foes can handle a
+lot of such accidents, while ordinary men and women
+might well be taken out of the fight by them.
+
+Disarming a Foe
+
+Wresting a weapon from a hostile wielder is a difficult
+feat under the best of circumstances. Still, sometimes
+a PC will want to strip their foe of something sharp
+or shooty.
+Normally it is only possible to disarm a foe when
+engaging them in melee combat. Shooting the weapon
+out of an enemy’s hand is a popular holovid trope, but it
+tends to be less practical on the actual battlefield.
+To execute a disarm, the assailant must choose to
+spend their Main Action doing so and make a successful
+attack roll. If they hit, they do no damage; instead, both
+they and their targets make Dex or Strength-modified
+skill checks with the weapons they’re using, with the
+defender gaining a +3 bonus on the roll. If the attacker
+wins the opposed check, the enemy is disarmed. On a
+tie, both are disarmed.
+Disarmed weapons skitter 1d4 meters away in a
+random direction. If the attacker beats the defender by
+at least three points on the opposed check, they end
+up in control of the weapon if they have a free hand.
+Thus, if a bare-handed assailant tried to rip the gun
+out of the hands of an enemy alien, the assailant would
+need to hit with a Punch attack and then roll either Str/
+Punch or Dex/Punch against the alien’s skill check + 3.
+If they won, they’d send the gun flying, and if they won
+by 3 or more points, they’d end up holding it.
+
+Execution Attacks
+
+Occasionally an assailant will have the chance to perfectly set up a shot against an entirely unsuspecting target. Such surprise attacks can be devastatingly effective,
+and are capable of summarily executing almost anyone.
+Setting up a killing blow this way requires a full
+minute of preparation, whether as a sniper drawing
+a bead on a target or an assassin drifting closer to an
+unsuspecting politico. Any focused attention on the
+assailant will spoil this preparation, as will any action
+that alarms the target. Assassins intending a melee attack must be using an adequately lethal weapon, such as
+a knife rather than a fist or bludgeon. PCs with special
+talents in unarmed combat or murderous blunt weapon
+use might be exempt from this at the GM’s discretion.
+Once the preparation is complete, a sniper may
+shoot or an assassin may attack an adjacent target. The
+target’s Armor Class is irrelevant, assuming the weapon being used isn’t too primitive to penetrate high-tech
+armor. Hitting with a sniper shot is a Dex/Shoot skill
+check, with a difficulty of 6 for a point-blank shot, 8 for
+one at the weapon’s normal range, and 10 for a shot at
+extreme range. A melee attack always hits, but the assassin must be adjacent to the target, and cannot move
+to close on the same round. They must be adjacent and
+unsuspected at the start of the round.
+If the attack hits, it does maximum damage and
+the victim must immediately make a Physical saving
+throw at a penalty equal to the attacker’s combat skill
+or they will be mortally wounded on the spot. Some
+victims might merely be incapacitated instead if such
+an outcome was intended and plausible.
+Attacking a completely helpless adjacent opponent,
+such as one who is unconscious, asleep, thoroughly
+bound, or otherwise incapable of self-defense does not
+require a hit roll and will leave them mortally wounded.
+Player characters are as vulnerable to these rules as
+NPCs are, and may be sniped or stabbed if they behave
+in sufficiently incautious fashion.
+
+Two-Weapon Fighting
+
+Some players enjoy having their heroes employ two
+weapons at once in combat, whether they’re a pair of
+knives, a brace of laser pistols, or some other plausible
+pairing of weapons.
+Dual-wielding requires at least level-1 skill in
+Shoot or Stab depending on the weapons used. Novices
+cannot effectively dual-wield.
+A hero who dual-wields suffers a -1 penalty on
+hit rolls due to the extra complication, but gains a +2
+bonus on damage rolls on a successful hit. This bonus
+doesn’t add to Shock. Only one weapon can be used to
+attack in any given round, though either can be used.
+Unarmed combatants cannot dual-wield.
+
+INJURY, DEATH, AND HEALING •53
+
+INJURY, DEATH, AND HEALING
+A creature brought to zero hit points has been defeated
+and can no longer fight. If brought to zero hit points by
+a lethal weapon, they are dead or dying. Foes brought
+down with fists, blunt objects, or other less-than-lethal
+means may merely be unconscious or incapacitated, if
+their assailant wasn’t trying to kill them. Some enemies
+might even be incapacitated by purely mental or emotional strain. Foes defeated non-lethally recover one
+hit point after ten minutes and then function normally.
+A mortally-wounded creature at zero hit points
+will die in no more than six rounds. They may be unconscious, screaming for their mother, trying to press
+vital organs back into place, or begging for mercy, but
+they can perform no useful action and their fate is sealed
+if no immediate aid is provided. Creatures dropped by
+Heavy weapons, explosives, or other dramatic injury
+may be instantly killed at the GM’s discretion. Additional damage inflicted on a mortally-wounded target
+will always kill them immediately.
+A PC who wants to extend mercy to an enemy or
+aid to a friend can use their Main Action to attempt
+an Int/Heal or Dex/Heal skill check, using whatever
+modifier is best. If they have no special medical tools
+available at all, the difficulty of the check is 10 plus
+the number of rounds that have passed since the target
+went down. If they have a medical kit or other proper
+trauma tools, the difficulty is 8 plus the rounds since
+injury, and if they expend a Lazarus patch on the target,
+the difficulty is 6 plus the time. A failed check can be
+
+re-attempted next round if the target isn’t dead yet, but
+Lazarus patches are expended even on a failure. The
+Biopsionic technique Psychic Succor automatically succeeds in stabilizing a target, if any time remains to them.
+A critically-injured target who has been stabilized
+regains one hit point after ten minutes of recovery.
+They are able to move and function normally if they are
+fiercely determined to do so, but any further damage
+whatsoever will kill them, with no chance for stabilization. If they are healed with some high-tech pharmaceutical stim or advanced Biopsionic technique, they
+can shake off this fragility and return to action with
+whatever hit points the drug or power have provided.
+Without such advanced healing, a critically-wounded
+target requires at least a week of bed rest and medical
+care before they can shake off their fragility and start
+regaining their level in hit points after each night’s rest.
+This assumes that TL4 medical care is available. If
+only TL3 tech is on hand, the recovery time is a month.
+If TL2 or lower medical care is provided, the recovery
+time is a month, and the target must make a Physical
+saving throw at the end of it, with a bonus equal to the
+Heal skill of whoever is tending them. On a success,
+they’ll recover within 1d4 more weeks. On a failure,
+the primitive technology ensures they’ll die of their
+wounds at some point in that time.
+Creatures that have suffered damage but have not
+been mortally injured regain hit points equal to their
+hit dice or character level after each night of good rest.
+
+Desperate Measures
+Eliza Darrick is in a bad situation. During the exploration of a lost Mandate research station, an ally
+managed to accidentally activate the installation’s
+defense systems. A swarm of decaying security bots
+almost overwhelmed the group, and a chance shot
+from an integral mag rifle has just dropped Eliza.
+The gunslinger is on the floor with zero hit
+points. If she were an NPC, the shot probably would
+have just killed her outright, but as a PC, she has
+the hardihood to keep struggling against any wound
+a human could theoretically survive. Even so, she’s
+going to die in six rounds if nobody comes to her aid.
+Big John, an ally of the downed shootist, spends
+his Main Action dragging her behind cover as the
+rest of the party tries to hold back the metal tide. By
+the time he actually gets the chance to try to stabilize
+her, a full round has passed since she was felled.
+Luckily, Big John has a lazarus patch Readied at
+his belt. Unluckily, he has no medical skill whatsoever, though he’s quite intelligent, with a +1 attribute
+modifier. He rolls 2d6, -1 for his lack of Heal skill, +1
+for his Intelligence modifier, for a total of 6.
+
+Unfortunately, since Eliza has been bleeding out
+for one full round, the difficulty of stabilizing her is
+7. The patch fails. Big John has another one in his
+pack, but it’s going to take him his next round’s Main
+Action to dig it out and then another round to try to
+apply it, by which time Eliza will have been bleeding
+for three rounds and the difficulty will be 9.
+The next round, a shout from across the room
+alerts Big John that an ally is throwing him something. A stim unit comes skittering across the floor,
+and Big John uses a Move action to scoop it up, leaving it Readied in his grip. It’s an ancient Mandate cosmetic stim they looted from the station’s commissary,
+and it might just save Eliza’s life.
+Big John presses the stim capsule against Eliza’s
+neck and the mysterious pretech nanites do their
+work, giving her minty-fresh breath for the next six
+months. As a side effect, the medical substrate of the
+Mandate stim also heals 1d6 damage to her, raising
+her to five hit points. Eliza is now prone but fully
+revived. Thanks to the advanced healing, she does
+not need further rest before returning to action.
+
+54• HACKING
+
+HACKING
+In the far future, it’s inevitable that many advanced civilizations will use computers to control their vehicles,
+infrastructure, and data stores. It is equally inevitable
+that some tech-talented hero will try to use that fact
+to get something they want. While hacking has some
+significant limitations in what it can accomplish, it can
+still be a useful tool for the right kind of hero.
+
+The Digital Environment
+
+Most planets with TL4 or better will rely on computers
+to operate their infrastructure and maintain their data.
+They may or may not have an internet-like global network depending on their political situation and cultural
+values, but individual buildings or data storehouses will
+normally have an internal network. If there is no open
+planetary internet, a hacker will need to be physically
+present in the networked area to hack the system.
+Most hacking requires a physical interface with
+the system, either through tapping a data line with a
+metatool or plugging into a connected terminal. Tapping a data line usually takes at least a minute unless a
+special cable-siphon tool is used, while plugging into
+a terminal is a Main Action. Some buildings may have
+a local wireless network that can be used as an entry
+point, and some planetary internets may allow assaults
+on arbitrary computers, but such convenient situations
+are unusual. Advanced security software usually makes
+such remote assaults impractically difficult.
+It’s up to the GM to decide what parts of a facility
+are susceptible to hacking, and to determine the full
+scope of what effects a hacker can produce. A hightech security door in some advanced facility might well
+be hackable, but every refrigerator, locked closet door,
+and employee bathroom is not necessarily slaved to the
+local network.
+
+Executing the Hack
+
+Assuming a hacker is able to make a connection, they
+can make an Int/Program skill check to hack the system.
+If they’ve spent at least an hour planning this specific
+hack, the skill check requires only a Main Action to
+execute their prepared code. If they’re performing the
+hack off-the-cuff, it takes ten minutes. If they’re rushed
+and don’t have time to either prepare the hack or spend
+ten minutes dueling with security systems, they can
+speed it up into a single Main Action at an additional
+difficulty penalty.
+The difficulty of the roll depends on the kind of
+information or influence they want to get out of the
+system, adjusted by the quality of the security system
+and any rush on the hacker’s part. On a success, they
+get what they want. If what they want is data, the information is downloaded instantly. If what they want
+is control over an automated system such as a factory
+control computer or a security system, they maintain
+
+control for 1d4 rounds plus their Program skill before
+the system detects the intrusion and locks them out.
+The hacker can attempt to regain control, but further
+hacking attempts become more difficult.
+If they fail, they must immediately make a second
+skill check at the same difficulty. On a success, they
+avoid an immediate alarm and a trace of their hacking
+location. On a failure, the system has been alerted to
+their intrusion attempt and has informed its human
+overseers of the hacker’s location. Depending on the
+nature of the system being hacked, the response may
+range from an annoyed data janitor shutting down the
+compromised terminal after he’s done eating lunch to
+a fast-response special weapons team busting through
+the windows ninety seconds later.
+Hacking the same system in a short period of time
+is progressively more difficult, as the system’s alerts and
+security measures are increasingly active. Whether or
+not prior attempts were successful, an additional +1
+difficulty penalty is added for every hack attempted in
+the system after the first within 24 hours.
+
+Line Shunts
+
+Some well-guarded or high-security computer systems
+require more than a simple hack to obtain data or subvert their functionality. These systems have multiple
+security redundancies and consensus-based backup
+processors that make it all but impossible to execute a
+hack from a single point. To overcome these systems
+or to execute exceptionally long-lived hacks, the hacker
+must place one or more line shunts at other locations.
+A line shunt is a TL4 piece of black-market tech
+designed to tap into a data line and spoof the contents
+in concert with a hacking attempt.
+Professional, well-maintained computer systems
+usually require one line shunt to be applied before any
+hack can be performed. Government or infotech-focused corporation buildings usually need two. Black
+sites or extremely well-guarded systems need three.
+Once a sufficient number of line shunts are applied, any ensuing hacks last until the shunts are disturbed. Thus, if a hacker placed the shunts and then
+Subverted a System, their control would last as long as
+the shunts remained in place. The likelihood of a shunt
+being found will depend on how accessible the location
+is, how active the guardians are, and how obvious the
+hacking attempt is.
+Line shunts must usually be placed at specific locations in a structure or building in order to tap the right
+lines, depending on the goal of the hacker. If the hacker
+doesn’t have a map of the site’s network architecture,
+they can find the necessary sites with the Answer a Specific Question hack. This basic data probe doesn’t require
+a line shunt, even if other hacks on the system would
+need them to be placed.
+
+HACKING •55
+
+Data Protocols
+
+It’s assumed that a competent PC with the Program
+skill is familiar with the common data formats and
+computing systems of their home sector. They will be
+aware of the security measures and technical specifications of worlds that are in common contact with each
+other. Sometimes, however, the hacker is faced with a
+completely foreign system, or one built along unknown
+alien lines. In these cases they will need to have the
+data protocols for the system before they can make an
+effective hacking attempt.
+Assuming the protocols aren’t restricted information, the hacker can drop a few credits on local tech
+manuals and practice for a month minus one week per
+level of Program skill, down to a one-day minimum.
+At the end of that period, they’ll master the protocols.
+If manuals aren’t widely available, one option is to
+find a local hacker willing to share their information.
+The difficulty of this is up to the GM; it might require
+nothing more than a Connect skill check, or it may require a full-fledged adventure to find someone willing
+to stick their neck out for foreigners who are clearly
+going to cause trouble with their newfound knowledge.
+Prices range from 1,000 credits for worlds with restricted but not carefully-policed data, to prices of 10,000
+and up for worlds with more draconian data controls.
+Another option is to obtain a well-secured local
+computer and simply experiment on it. Of course, local hardware with up-to-date security measures of a
+breadth and sophistication sufficient to teach a hacker
+is likely to be either very expensive on the black market
+or require a “collection expedition” by the party.
+Common Hacking Actions
+Answer a Specific Question
+Get General Information
+Complete Database Acquisition
+Suppress a System
+Subvert a System
+Sabotage a System
+
+Difficulty
+8
+10
+12
+8
+10
+10
+
+Hacking Circumstances
+Human overseers are alarmed
+Rushed work for an unplanned hack
+Each hack after the first per 24 hours
+Especially sensitive system
+
+Modifier
++1
++2
++1
++1
+
+Types of Systems
+Ordinary personal system
+Small business system/savvy personal
+Minor gov/major corporation
+Major government/megacorp
+
+Modifier
+-1
++0
++1
++2
+
+Example Hacking Actions
+
+These are some of the usual actions taken by a hacker.
+A GM can extrapolate others as the situation requires.
+Answer a Specific Question (Difficulty 8): Get a specific
+fact or piece of information from the system. Find
+a person’s home address, find a path to a desired
+destination in a building, locate active security
+cameras, pull criminal records on a person, or
+some other direct query.
+Get General Information (Difficulty 10): Pull all available information on a particular topic from the
+system. Get a full map of a site, get all information
+about security systems, pull a subject’s complete
+personnel file from a corporate database, acquire
+all files related to a secret project, or some other
+exhaustive data dump on a single specific topic.
+Complete Database Acquisition (Difficulty 12): Copy
+an entire database to another computer or data
+storage unit. A single database might be a corporation’s personnel records, the records of a
+particular police precinct, the full database of a
+complex technical project, a starship’s operations
+record and system log, or another entire corpus of
+data. The database must be entirely present in the
+local system and any significant database requires
+at least an hour to decrypt and download, thus
+necessitating the use of at least one line shunt. The
+hacker must either have an adequate data storage
+unit, a landline connection to another computer
+or a wireless connection to a remote server.
+Suppress a System (Difficulty 8): Shut down a particular automated system connected to this network.
+Cameras stop recording, sensors stop sensing,
+open powered doors won’t close, and automated
+gun turrets won’t fire. The hacker can affect several individual sensors or systems, but only of the
+same type. Thus, they could shut down an electrified fence for the duration of the hack, but they’d
+have to make a second hack to deactivate the cameras. When the hack ends, the system will resume
+operation without registering the interruption.
+Subvert a System (Difficulty 10): Much as suppressing
+a system, except that the hacker can control its
+operation within the device’s normal parameters.
+They can upload fake input to a sensor system, fire
+automated defenses, or open sealed vault doors.
+The hacker can control the system each round by
+using a Main Action to do so; if uncontrolled, the
+system simply repeats or maintains its last state.
+Sabotage a System (Difficulty 10): The hacker completely fries a specific system, either causing it to physically self-destruct or jamming it with malignant
+code. Unlike most hacks performed without link
+shunts, this damage is permanent until the owners
+repair the broken hardware, a process that usually
+requires several hours. Sabotage always triggers
+immediate alerts to any human overseers.
+
+56• ADVANCEMENT
+
+CHARACTER ADVANCEMENT
+When characters accumulate enough experience points,
+they advance a character level. New PCs start out at level one and the most experienced, capable heroes in the
+sector might reach level ten. Advancing beyond level
+ten is usually prohibitively difficult, though possible at
+the GM’s discretion.
+
+Gaining Experience Points
+
+To advance in capability, PCs need to earn experience
+points. Once they accumulate enough experience, they
+can advance to the next character level, representing
+the sharpening of their skills and the heroic veterancy
+that comes of surviving perils and dire challenges.
+There are many different things that can earn a
+hero experience points, and the kind of activities and
+goals that reward them will vary with the kind of campaign you’re playing. The GM should make clear to the
+whole group what kind of things earn the PCs experience in their game.
+For some games, success might lie in plundering
+alien hoards or clawing wealth from the hands of desperate patrons. Other games might reward the PCs
+for achieving personal goals, whether or not there
+was any money in it. Some might even award XP only
+for spending credits, requiring every PC to recklessly
+waste their wealth before gaining a level. It’s up to the
+GM to pick a method that fits the group’s tastes.
+The table below indicates how many experience
+points need to be earned before a PC can advance to
+that level. Once the requisite number of XP are earned,
+the hero gains their new level and all the benefits.
+Note that this table makes for a relatively fast
+progression through the early levels of an adventurer’s career, before slowing drastically at higher levels.
+A group that prefers a different pacing might alter the
+chart to suit their own tastes.
+In general, you can assume that one “successful”
+gaming session should usually earn you about 3 XP.
+Character Level
+1
+
+Total Experience Required
+0
+
+2
+
+3
+
+3
+
+6
+
+4
+
+12
+
+5
+
+18
+
+6
+
+27
+
+7
+
+39
+
+8
+
+54
+
+9
+
+72
+
+10
+
+93
+
+11+
+
++24 points for each level more
+
+Benefits of Gaining a Level
+
+Once a PC has been awarded enough experience points
+to reach the next level, they immediately gain the benefits of advancement. No special training or practice
+is required as their abilities are assumed to have been
+honed by their past adventures.
+
+Roll Additional Hit Points
+
+First, they become harder to overcome in combat. To
+determine their new maximum hit points, they roll a
+number of six-sided dice equal to their new level, adding their Constitution modifier to each one. A negative modifier can’t lower a die’s result below 1. If the
+total is greater than their current hit points, they take
+this new total. Otherwise, their current maximum hit
+points increase by one.
+Thus, if a character with a Constitution score of
+14 and four hit points reached second level, they’d roll
+2d6+2. If the total was five or greater, they’d keep it.
+If they managed to roll snake eyes and get only a four,
+they’d still increase their maximum hit points to five.
+Warriors and Adventurers with the Partial Warrior class option get a further two hit points each time
+they advance a level. Thus, a third level Warrior would
+roll 3d6+6 for their hit point total, plus three times
+their Constitution modifier.
+
+Improve Attack Bonus
+
+A PC’s base attack bonus becomes equal to half their
+new character level, rounded down. Warriors may
+instead use their full character level for the bonus. Adventurers with the Partial Warrior class option may
+add a cumulative +1 to their attack bonus at levels one
+and five, thus having a total +1 attack bonus at level
+one and +4 at level five.
+
+Improve Saving Throws
+
+The PC becomes more capable of evading chance
+harms and perils. Their saving throw scores decrease
+by one, making it easier to succeed on saving throws
+by rolling equal or over it. As a first level character has
+saving throw scores of 15, reaching second level would
+lower them to 14, modified by attributes.
+
+ADVANCEMENT •57
+
+Gain and Spend Skill Points
+
+They become more capable with their skills. A PC gains
+three skill points they can spend on improving their
+skills or save to spend later. Experts and Adventurers
+with the Partial Expert class option gain an extra bonus
+point to spend on a non-combat, non-psychic skill.
+If the PC is a Psychic or Partial Psychic, they must
+spend at least one of these points on improving psychic
+skills or gaining new psychic techniques. They can save
+these points to spend later if they wish, but they cannot
+spend them on more mundane talents. Restricted psychics can only ever improve or learn techniques from
+the psychic discipline they selected when they picked
+the Psychic primary focus. Unrestricted psychics can
+improve or learn any discipline. PCs with the Psychic
+character class are all unrestricted, while Partial Psychic
+Adventurers are restricted in their talents.
+Skills that are gained or improved immediately on
+gaining a level are assumed to have been perfected over
+the past level and require no training time or teaching.
+If you save your skill points to spend them later then
+you’ll need to find some teacher or other explanation
+for developing them. It doesn’t take more than a week
+to refine your new ability, but you can’t usually spend
+your points mid-scene to develop a heretofore-unmentioned expertise with flamethrowers.
+The cost for improving a skill is listed below. Every skill level must be purchased in order; to gain level-1 in a skill you need to pay one point for level-0 and
+then two points for level-1. A PC must be the requisite minimum level to increase a skill to certain levels.
+Less hardened heroes simply don’t have the focus and
+real-life experience to attain such a pitch of mastery.
+A PC cannot develop skills beyond level-4.
+New Skill
+Level
+0
+
+Skill Point
+Cost
+1
+
+Minimum
+Character Level
+1
+
+1
+
+2
+
+1
+
+2
+
+3
+
+3
+
+3
+
+4
+
+6
+
+4
+
+5
+
+9
+
+Psychic Effort and Techniques
+
+When a Psychic gains a new level in a psychic skill, they
+can immediately pick a technique from that discipline
+of equal or lesser level. They can’t save this pick; they
+must choose it as soon as they gain the new skill level.
+Psychics can also spend their skill points to master
+additional psychic techniques. The cost of this education is equal to the technique’s minimum skill level requirement. Thus, to master the Biopsionic technique
+Metamorph would cost three skill points, because Metamorph requires Biopsionics-3 skill to learn.
+A Psychic’s maximum Effort is equal to 1 plus their
+highest psychic skill, plus the best of their Wisdom or
+Constitution modifiers.
+
+Purchase Improved Attributes
+
+A veteran adventurer may have trained or honed their
+natural abilities well enough to improve one of their
+six base attributes. While even the most determined
+development isn’t enough to turn complete ineptitude
+into gifted competence, a hard-working adventurer can
+hone their existing strengths considerably.
+The first time a PC improves an attribute, it costs
+1 skill point and adds +1 to an attribute of their choice.
+The second improvement to their attributes costs 2
+skill points, the third 3, and so forth. Each improvement adds +1 to the attribute, potentially improving
+its modifier.
+PCs must be a certain level before purchasing the
+third, fourth, or fifth attribute boost. No more than five
+attribute boosts can ever be purchased by a PC.
+Attribute
+Boost
+First
+
+Skill Point
+Cost
+1
+
+Minimum
+Character Level
+1
+
+Second
+
+2
+
+1
+
+Third
+
+3
+
+3
+
+Fourth
+
+4
+
+6
+
+Final
+
+5
+
+9
+
+Choose New Foci
+
+Finally, the PC might be eligible to pick an additional
+level in a focus. At levels 2, 5, 7, and 10 a PC can add
+a level to an existing focus or pick up the first level in
+a new focus.
+If this is the first level they’ve taken in the focus,
+they might be granted a skill as a free bonus pick, depending on the focus’ benefits. During character creation, this bonus skill pick is treated like any other skill
+pick. If the focus is taken as part of advancement, however, it instead counts as three skill points spent toward
+increasing the skill. This is enough to raise a nonexistent skill to level-1, or boost a level-1 skill to level-2.
+They may do this even if they aren’t high-enough level
+to normally qualify for a skill level that high.
+If the skill points aren’t quite enough to raise the
+skill to a new level, they remain as credit toward future
+advances. If applied to a skill that is already at level-4,
+the PC can spend the three skill points on any other
+skill of their choice.
+
+58• ENVIRONMENTAL HAZARDS
+
+ENVIRONMENTAL HAZARDS
+Falling
+
+PCs who plunge off elevated surfaces suffer 1d6 damage
+for every three full meters fallen under standard-gravity conditions.
+
+Poisons
+
+Those afflicted with some insidious venom can usually
+make a Physical saving throw to resist the worst of the
+effects. Natural venoms usually require 1d6 rounds to
+apply their effect, while special or engineered toxins
+take effect instantly. Poison effects may include unconsciousness, hit point damage, hallucinations, or death.
+Even in the latter case, however, swift application
+of the appropriate Biopsionic techniques or success at
+an Int/Heal check can negate the effect of the poison.
+The difficulty for this check varies with the potency of
+the poison and assumes that the PC medic has access
+to a TL4 medkit. Most natural poisons are difficulty
+8, while synthetic toxins are difficulty 10 or greater.
+Only one attempt can be made to neutralize a poison.
+Use of a specific antivenin is always successful if such
+a resource is available.
+Drugged or damaged PCs are instantly restored by
+successful treatment. Those who have been killed by a
+poison revive with one hit point as if recovering from a
+mortal wound, assuming the antidote is applied within
+six rounds of the victim’s succumbing.
+
+Diseases
+
+Hideous interstellar plagues are an occupational hazard
+of adventurers, though exposure to a pathogen usually
+permits a Physical saving throw to resist its effects. If
+failed, the PC is infected, and will suffer progressively-worse symptoms until the disease runs its course or
+the PC dies.
+Most sicknesses will simply apply penalties to
+skill checks or hit rolls, or reduce a PC’s maximum hit
+points, or otherwise debilitate the character. A few may
+require one or more additional saving throws to be
+made at specific intervals in order to avoid eventual
+death, or be a certain doom to those unlucky enough
+to be afflicted with it.
+As with poisons, Biopsionic techniques or Int/Heal
+medical attention can cure a sickness. Assuming TL4
+medical supplies, ordinary diseases are usually difficulty
+8, while more virulent strains are difficulty 10 or more.
+One attempt can be made to cure a disease per week,
+and success usually clears up any symptoms rapidly.
+
+Radiation
+
+Radiation is a slow killer in small doses, and a quick end
+in larger ones. Targets exposed to dangerous amounts
+of radiation must make a Physical saving throw at intervals depending on the strength of the glow. Mildly
+dangerous zones might force a save once per day or
+once per hour, up to lethal rad zones that force multiple saves per round. Vacc suits and other forms of
+protection can effectively shield a wearer from weaker
+sources of radiation.
+Each failed saving throw lowers the target’s Constitution score by one point. If the new score decreases a hero’s Constitution modifier, they lose any excess
+maximum hit points their former modifier granted.
+Characters reduced below half their original Constitution score will die in 1d6 weeks from radiation poisoning; those reduced below a Constitution score of 3
+will die instantly. Radiation poisoning that does not
+immediately kill a victim can induce vomiting, headaches, soft tissue bleeding and dizziness, but a resolute
+victim can continue functioning more-or-less normally
+until death. A target killed by radiation poisoning cannot be revived by Psychic Succor or other stabilization
+techniques.
+Someone who has suffered a fatal dose of radiation
+poisoning can only be saved by treatment at a TL4 hospital or ship’s sick bay, recovering the lost Constitution
+at a rate of one point per week. Non-fatal doses can
+be treated by a TL4 medkit and an Int/Heal check at
+difficulty 10. Each success restores one lost point of
+Constitution and a check can be made once per day.
+
+Hard Vacuum
+
+PCs sometimes encounter the icy void of space more
+intimately than they would prefer. Actual death from
+vacuum exposure may take a little while, but incapacitation is rapid for most victims. A PC exposed to hard
+vacuum may continue acting normally for a number of
+rounds equal to one plus their Constitution modifier.
+Each round thereafter, they suffer 1d20 damage and
+must make a Physical save to keep conscious, assuming
+the damage hasn’t felled them.
+
+SYSTEM QUICK REFERENCE SHEET
+Skill Checks
+
+Roll 2d6 and add the character’s most relevant attribute modifier and skill. Sometimes more than one skill might apply; the
+PC can choose which to roll. If the roll is equal or higher than
+the check difficulty, the PC succeeds. If less, then they either fail
+outright, attain only partial success, or suffer an unanticipated
+turn of events at the GM’s discretion.
+For opposed skill checks, both participants roll and the
+higher roll wins. For NPCs, assume they have a +0 bonus unless
+the activity is one they’d reasonably be good at. In that case, they
+can apply their listed skill bonus to the check.
+
+6
+
+8
+10
+12
+14+
+
+Skill Check Difficulties
+A relatively simple task that is still more than the PC
+would usually be expected to manage in their regular
+background. Anything easier than this isn’t worth a
+skill check.
+A significant challenge to a competent professional
+that they’d still succeed at more often than not.
+Something too difficult to be expected of anyone but
+a skilled expert, and even they might fail.
+Only a true master could expect to carry this off with
+any degree of reliability.
+Only a true master has any chance of achieving this at
+all, and even they will probably fail.
+
+Saving Throws
+
+To make a saving throw, a victim rolls 1d20 and tries to equal
+or exceed their relevant saving throw score. Target Physical
+saves for poisons, diseases, and exhaustion, Evasion saves for
+diving for cover or leaping back from peril, and Mental saves
+for resisting psychic powers. NPCs have a saving throw score
+of 15 minus half their hit dice, rounded down.
+
+Injury and Healing
+
+A target reduced to zero hit points by a lethal attack is mortally
+wounded. One dropped by non-lethal assaults is unconscious.
+Dying victims can take no actions and will die soon without help. Allies can attempt an Int/Heal or Dex/Heal skill check
+as a Main Action to stabilize the victim. With no medical tools,
+the difficulty is 10 plus the rounds since they went down. With
+a medkit, it’s difficulty 8 plus the time, and using a Lazarus patch
+makes it difficulty 6 plus the time. Failed checks can be attempted again, but a victim will die after the sixth round.
+Stabilized characters regain 1 hit point after ten minutes
+and can act normally, but any further damage kills them instantly. This fragility ends after they regain more hit points, either
+through rest, stims, or biopsionic healing.
+Stabilized PCs take at least a week to start recovering hit
+points normally. Those who have merely been hurt but not
+mortally wounded regain their level in lost hit points after every
+night’s peaceful rest.
+
+The Combat Sequence
+
+Combat is divided into rounds of six seconds. Every participant
+gets a turn, and then the sequence starts over again.
+First, every participant rolls initiative, rolling 1d8 plus
+their Dexterity modifier, if they have one. Participants act in
+order, highest to lowest, with PCs winning ties with NPCs.
+On their turn, a combatant can take one Main Action, one
+Move, and as many On Turn actions as is plausible. A combatant can take Instant actions at any time, even when it’s not their
+turn, or even if dice have already been rolled.
+
+Acting In Combat
+
+You can use a Main Action to attack an enemy, disengage from
+a melee, use a skill, reload a gun, produce a Stowed item, take a
+second Move action, or do anything else you could accomplish
+in six seconds.
+You can use a Move action to stand up from prone, club
+up a ranged weapon, or move 10 meters. Your movement is
+half that if you’re climbing, swimming, or otherwise navigating
+rough terrain. You can’t split a Move action around your Main
+Action. You have to move all at once. If you move away from a
+melee combatant without spending a Main Action to disengage
+from the fray, all adjacent melee attackers get a free attack at you.
+You can use an On Turn action to fall prone, say something,
+drop an object, or do anything else that’s very simple to do and
+takes almost no time or attention.
+You can use an Instant action at any time to trigger certain
+special powers. You can also use it to make a Snap Attack with
+a weapon or go totally defensive, though both of the latter will
+cost you your Main Action for the round, and can’t be done if
+you’ve already used your Main Action.
+
+Hitting in Combat
+
+To hit a target, the attacker rolls 1d20 and adds their attack
+bonus, the relevant combat skill, and the attribute modifier
+relevant to their weapon. Weapons with more than one listed
+attribute allow the PC to use either. If the PC lacks the relevant
+combat skill entirely, they take a -2 penalty to hit. If the roll is
+equal or greater than the target’s Armor Class, the attack is a hit.
+On a hit, the attacker rolls the weapon’s damage and adds
+their relevant attribute modifier. The target takes that many
+hit points of damage.
+On a miss, a weapon that inflicts Shock damage might still
+hurt the target. If the weapon’s Shock can harm the target’s
+Armor Class, the target takes the weapon’s Shock damage even
+on a miss. This damage is increased by the wielder’s relevant
+attribute modifier and any other damage bonuses. A weapon
+never does less damage than its Shock would do on a miss.
+
+Morale in Combat
+
+To make a morale check, NPCs roll 2d6. If equal or less than
+their morale score, they keep fighting. Otherwise, they flee,
+withdraw, or surrender. NPCs check morale after their first
+casualty and after half are down. PCs never check morale.
+
+

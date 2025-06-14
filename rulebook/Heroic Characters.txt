@@ -1,0 +1,707 @@
+274• HEROIC CHARACTERS
+
+HEROIC CHARACTERS
+The default tone of Stars Without Number is that of
+gritty sci-fi. PCs are capable and talented men and
+women, but they are most emphatically mortal. They
+fail even when it’s critical that they succeed, they die
+when people shoot them, and they have no particular
+narrative armor against the horrors of an uncaring
+galaxy. Even the most experienced PC is subject to the
+limits of normal human capabilities.
+Not every group cares for that tone. Sometimes
+the players will want something more space-operatic
+in flavor, with heroes sporting the skill and prowess of
+action heroes and legendary icons in the making. Other
+groups will want to use Stars Without Number for particular settings or worlds where the PCs are just better than the rank and file of common humanity, more
+capable or more gifted. Some GMs might just want to
+run a one-on-one campaign with a friend or family
+member, ushering a single shining hero through their
+own personal arc of adventure.
+For these groups, a heroic campaign is an option.
+In such a campaign, the PCs are a very distinct cut
+above the ordinary run of stellar adventurers. Even
+fresh from character creation, they can knock down
+ordinary foes and overcome challenges that would
+leave an experienced normal PC sweating. Of course, in
+such heroic campaigns, such talent is often a requisite
+for bare survival, as the dangers these heroes face are
+often far more dramatic than those essayed by ordinary
+humanity.
+It should be a mutual group decision to play a heroic campaign. Not every GM will want to run one, and
+not every player will want to play in one. Even so, if
+everyone involved is on board with the idea, the guidelines below will show you how to forge these brilliant
+starfarers and challenge them with fitting perils.
+
+Creating a Heroic PC
+
+When building a budding hero of interstellar legend,
+the usual rules for character creation are followed, with
+the changes listed below.
+•
+
+To get their attribute scores, Heroic PCs roll 4d6
+six times, dropping the lowest die each time and
+assigning the six scores as desired. If none of the
+scores are 18, one roll may be replaced with an
+18. If the player would rather assign an array to
+their attributes instead of risking the dice, they
+may place the following rolls as they wish: 18, 14,
+13, 12, 10, 9.
+
+•
+
+Heroic character classes are similar to their normal versions, but have additional benefits. The
+changes to each class are listed below.
+
+•
+
+Heroic PCs have half the maximum possible hit
+points for their class, level, and Constitution
+modifier, rounded up Thus, if a 3rd level Warrior
+could theoretically have 24 hit points at most, a
+Heroic Warrior of that level has 12 hit points. A
+first level Heroic Arcanist with Constitution 13
+who could have at most 5 hit points would have 3.
+
+•
+
+Heroic PCs get the usual number of foci at first
+level, but they can pick a new focus at every
+even-numbered character level instead of the
+usual progression.
+
+Unless noted above, Heroic PCs follow all the usual
+rules and guidelines for creating characters, gaining
+experience, and advancing in character level.
+
+HEROIC CHARACTERS •275
+
+HEROIC CHARACTER CLASSES
+Heroic PCs follow the same class categories as their
+more human peers, but their abilities are even more
+pronounced. For instance, a Heroic Warrior has the
+same hit point bonus and extra combat focus of an ordinary Warrior, but he also has a lethally unerring eye
+against common foes and a reaction speed that ensures
+he beats any normal opponent to the draw.
+A player should pick a Heroic class for their newly-forged hero when they come to that stage of character creation. The details given below describe how
+these classes vary from the normal form, in addition
+to details on the optional arcane classes in this book.
+
+Heroic Adventurers
+
+As the normal Adventurer class, but a Heroic Adventurer can take three partial classes, or one full normal
+class and one partial class. Thus, they might choose to
+be a normal Warrior and a Partial Expert, or a normal
+Psychic and a Partial Arcanist, or a three-way Partial
+Warrior-Expert-Psychic.
+
+Heroic Experts
+
+As the normal Expert class, but once per scene, the PC
+can treat any non-combat, non-psychic skill check related to their background or concept as if they rolled
+a natural 12. They may choose to use this ability after
+rolling the dice. Experts and Partial Experts roll 1d6
+for their Fray die.
+
+Heroic Psychics
+
+As the normal Psychic class, but Heroic Psychics have
+one bonus point of maximum Effort, gain one extra
+skill point to be spent on psychic skills and techniques
+each time they advance a character level, and can pick
+four psychic disciplines as bonus skills at first level instead of two. As usual, no single psychic skill can start
+higher than level-1 during character creation. Psychics
+and Partial Psychics roll 1d4 for their Fray die, but can
+apply it to any enemy, and not just lesser foes.
+
+Heroic Warriors
+
+As the normal Warrior class, but their attack rolls always hit lesser foes, those enemies with equal or fewer
+hit dice than the PC has character levels. Heroic Warriors always win initiative in combat unless surprised
+or facing other Heroic Warriors. In the latter case, both
+roll normally and act before other combatants. Warriors and Partial Warriors roll 1d8 for their Fray die.
+
+These class descriptions include mention of a Fray
+Die, which is fully explained on the following page. If a
+Heroic Adventurer has multiple Fray Die options, they
+can pick one to use on any given combat round.
+As usual, most NPCs do not have a character class,
+and they most certainly do not have a Heroic character
+class. A soldier is just a soldier, he is not a Warrior. In
+some exceptional cases the GM might give class abilities to a particular NPC, but truly dangerous foes are
+more likely to be built with the Nemesis rules later in
+this section, the better to portray the dark and terrible
+foes appropriate to a space-operatic tale.
+
+Heroic Arcanists
+
+As the normal Arcanist class, but gain one extra spell
+preparation slot for every level you are capable of casting. In addition, gain bonus slots equal to your character level; you can use these bonus slots to cast any
+spell you know, whether or not you’ve prepared the
+spell and regardless of the spell’s level. If used to fuel
+abilities that require burning spell slots, treat them as
+slots of the highest level the Arcanist can cast. Arcanists
+and Partial Arcanists roll 1d4 for their Fray die, but can
+apply it to any enemy, and not just lesser foes.
+
+Heroic Magisters
+
+As the normal Magister class, but you learn one extra
+spell per level you are capable of casting. In addition,
+choose one spell from every level you are capable of
+casting; you may cast these chosen spells as often as
+you wish, though you can’t use them to fuel foci or
+abilities that require you to burn spell slots. You can
+change which spells you nominate for free casting with
+a day’s work. Magisters and Partial Magisters roll 1d4
+for their Fray die, but can apply it to any enemy, and
+not just lesser foes.
+
+Heroic Adepts
+
+Because an Adept class tends to have so many unique
+and specific powers, it’s not possible to provide a single
+easy template for scaling it upwards. Some GMs will
+be able to boost a given Adept class relatively easily,
+giving it additional abilities or giving them access to
+higher-level powers at a lower PC level. Other Adept
+classes are resistant to such changes. In most cases, the
+simplest solution is to let such a PC be a Heroic Adventurer, taking the full normal Adept class and then a
+partial class appropriate to their general concept. If the
+Adept’s magical abilities are mainly combat-oriented,
+their Fray die is 1d6. If the Adept’s abilities are less
+martially-focused, their Fray die is 1d4. In both cases,
+they can apply the damage to any target, and not only
+those who are lesser foes.
+
+276• HEROIC COMBAT
+
+HEROIC COMBAT
+When the greatest warriors in the sector clash, common mortals fare poorly. Heroic combat shares almost
+all of the same mechanics and rules as normal combat,
+but it is very different in two important respects: the
+way damage is calculated and applied, and the existence
+of the Fray Die.
+
+Counting Heroic Damage
+
+When damage dice are rolled in a Heroic campaign,
+they are not read straight. Instead, each die is compared
+to the table below and that much damage is done. If the
+roll has a bonus, the bonus is applied only to the highest
+single die in the roll.
+Damage Die Roll
+1
+
+Damage Inflicted
+No Damage
+
+2–5
+
+1 point
+
+6–9
+
+2 points
+
+10+
+
+4 points
+
+Thus, if a 2d8+2 mag rifle hit rolled a 5 and a 2,
+the roll would count as 7 and 2, inflicting a total of 3
+points of damage. If a space wizard hurled a sphere of
+explosive thermal energy at a group that did 8d6 damage, each die would be counted, resulting in potentially
+0 to 16 points of damage.
+PCs subtract this hit point damage from their total
+as normal. NPCs, however, subtract it from their hit
+dice. Thus, that mag rifle hit would instantly drop a
+3 HD veteran soldier. Normal NPCs do not have hit
+points; they only count their hit dice. Special “Nemesis” NPCs may have hit points and may be substantially
+harder to bring down.
+Damage in excess of that needed to drop a target
+can be spread as overflow to any other target the initial
+attack roll could have hit. For example, if that mag rifle
+shot was enough to hit AC 16, it could bring down not
+
+Why the Table?
+Why use the conversion table instead of just dividing damage by three or some other formula?
+Wouldn’t that be simpler?
+Stars Without Number is built to interface
+well with a wide range of other old-school games,
+many of which involve enemies that roll large
+damage dice or that have large bonuses to damage
+rolls. Using the table evens out these variances;
+a foe that does 1d20 damage and a foe that does
+1d12+4 damage both work out to “a really big
+hit”, while there is still a meaningful difference
+between a 1d4 knife and a 1d8 bullet.
+
+only the first 1 HD thug it hit, but the next two thugs as
+well, provided none of them had an AC better than 16.
+If the damage is area-effect in nature, it does not
+overflow. Each victim in range suffers the rolled damage. A grenade that inflicts 2 points of damage on its
+victims would wipe out any normal soldiers in range,
+but the excess would not be inflicted on any unlucky
+veterans among them.
+If the damage done is fixed for some reason, such
+as a hazard or a power that always does 10 points of
+damage, one point is inflicted for every 4 original
+points of damage, rounded down.
+
+Healing Heroic Damage
+
+Any healing effects, whether from stims or biopsionics,
+are rolled on the damage table and applied accordingly.
+Thus, a healing stim that would normally heal 1d6+2
+damage will instead heal anywhere from 1 to 2 points
+of heroic damage.
+
+Lesser Foes and Worthy Foes
+
+Some abilities distinguish between “lesser foes” and
+“worthy foes”. The former is any NPC target with hit
+dice equal or lesser than the actor’s character level or
+hit dice, while the latter is any target with more hit
+dice than the actor has levels or hit dice. Heroic PCs
+are never lesser foes, regardless of their level.
+
+The Fray Die
+
+A Heroic PC is dangerous. Even the most pacifistic
+character is capable of besting ordinary foes when
+forced to it, and veteran combatants can take out half
+an alien bar without spilling their beer. The general
+halo of violence that Heroic PCs emanate is expressed
+in their Fray Die. This die represents the casual blows,
+snap shots, passing backhands, and quick psychic bursts
+that a Heroic PC employs even when their attention is
+focused on something else.
+Once every round, as an On Turn action, the PC
+may roll their Fray Die and apply the damage to any
+single lesser foe within range of their weapons, fists, or
+abilities. For psychic powers and casual magical abilities, the usual effective range is out to thirty meters. If
+the damage is more than enough to drop the target, the
+overflow is applied normally to another valid target.
+A PC’s Fray Die can normally only be applied to
+lesser foes, as serious opponents are too skilled and
+dangerous to be dispatched so easily. Classes that use
+psychic or supernatural powers, however, can apply
+their Fray Die even to worthy foes, as their abilities
+are less susceptible to being countered.
+Ranged weapons that use ammunition don’t expend any in the course of making a Fray Die attack. The
+blaze of gunfire is just part of the general scene, and
+unless the gun is actually out of ammo, it can be used.
+
+HEROIC COMBAT •277
+Fray Dice are not modified by bonuses or penalties.
+A Heroic Warrior with a 1d8 Fray Die always rolls 1d8,
+regardless of their skills or attributes.
+
+Focused Fray
+
+As an option, a hero who is particularly determined to
+harm a target can use their Main Action to inflict their
+Fray Die damage on the enemy, whether or not it is a
+lesser foe. A PC who chooses to use a Focused Fray in
+a round cannot use their Fray Die in the normal way.
+This option exists for those players who wish to
+avoid the potential frustration of a missed hit roll and
+are willing to accept the lesser damage of a Fray Die.
+
+No Shock Damage
+
+Shock damage rarely fits the idiom of heroic adventure,
+so it is ignored for these campaigns.
+
+DEFYING DOOM
+Sometimes a hero is in a dire situation, one that seems
+certain to spell the end of their adventure. Maybe
+they’ve found themselves plummeting off the edge of
+a floating sky-city, or locked in a chamber that can only
+be unsealed by a particular species of alien, or confronted with a mission-critical text that can only be read by
+someone with skills they don’t possess. In such situations, they may choose to Defy Doom.
+To Defy Doom, the PC takes 1d4 damage per
+character level they possess, rolling the damage and
+applying it immediately. If the harm reduces them to
+zero hit points, they are instead left at one hit point and
+prey to the full horror of the situation. If the damage
+fails to reduce them to zero hit points, they somehow
+survive or bypass their peril. They can suggest a twist
+in the plot if they wish, or the GM can simply narrate
+their amazing stroke of luck or skill.
+Pushing their luck this way comes at a price. The
+damage inflicted by Defying Doom cannot be healed
+until the adventure is over, and every time the PC Defies Doom in the same adventure, the size of the die
+they roll increases by one step. Thus, the second time
+they Defy Doom, they roll 1d6 per character level. The
+third time, 1d8, and so forth until the truly unlucky PC
+is rolling 1d20 each time. The die size does not reset
+until the adventure concludes or the PC abandons it.
+Defying Doom is a mechanic that works particularly well for single-PC gaming, with just the GM and
+one player. Adventures often assume a band of PCs
+with a wide range of abilities, and a solo hero can have a
+hard time handling challenges that fall far outside their
+concept. If playing in a full group the GM may choose
+to disallow Defying Doom, as a band of Heroic PCs
+really ought to have all the skills they need for dealing
+with the situations they encounter. A Defied Doom
+that saves a whole party should inflict damage on all.
+
+Heroic PCs Auto-Stabilize
+
+If reduced to zero hit points by a theoretically-survivable injury, Heroic PCs always automatically stabilize. If
+hurt again, however, they die as usual unless the group
+has agreed on different rules for PC mortality.
+
+Vehicle and Starship Damage
+
+Damage is rolled and inflicted normally for vehicular
+and starship combat, rather than referring to the table.
+In the case that PCs or NPCs are shooting at a vehicle,
+they roll their damage dice normally, apply the vehicle’s
+Armor, and subtract the result from the vehicle’s hit
+points. If a vehicle shoots at PCs or NPCs, the damage
+uses the table before being subtracted from the target
+PC’s hit points or target NPC’s hit dice. A starship-sized
+weapon shooting at human-sized targets is something
+that usually leaves only a rapidly-expanding gas cloud.
+
+Solo Heroes
+A Heroic PC is roughly equal to four ordinary PCs
+of the same level when it comes to overcoming
+challenges and dealing with foes in combat. It’s
+quite possible to run an adventure originally designed for an entire party with just a single level-appropriate Heroic PC.
+As a consequence, some GMs might enjoy
+running solo campaigns for a particular friend,
+spouse, child, or newbie to the hobby. Using a
+Heroic PC can help the player get through events
+and situations that might summarily dispose of a
+single ordinary character.
+GMs who do run solo campaigns are encouraged to keep rules like Defying Doom in mind, as
+there may be a number of situations where the
+hero lacks some crucial skill or is beset by some
+otherwise-inescapable difficulty. Repeated use
+of Defying Doom will wear the hero down until
+failure is inevitable, but judicious invocation can
+carry a hero through considerable lethal peril.
+GMs who run solo games should also be prepared for things to move much, much faster than
+at a conventional table. With only one player to
+make decisions, choices come much more rapidly
+and events can veer much farther away from the
+expected baseline. A group will tend to correct for
+its most outlying impulses, with people moderating their choices so as to complement their fellow
+players. With only one PC, there’s no such thing.
+Be ready to take the campaign in completely new
+directions should your player decide that some
+new goal is more enticing or some new place
+more interesting to explore. While this can be a
+challenge to GMs, it’s also much easier to satisfy
+the play goals of only one player at a time.
+
+278• CHALLENGING HEROIC PCS
+
+CHALLENGING HEROIC PCS
+As a GM, your basic toolbox for challenging PCs doesn’t
+need too much of an overhaul to handle Heroic PCs.
+The key thing to keep in mind is to make sure the group
+has a goal worthy of its prowess. A group of Heroic PCs
+is the sort of band to bring down a sector hegemon or
+win an age-old war against an implacable alien foe. If
+the group’s ambition doesn’t fit well as a tag line on a
+space opera, they may be thinking too small.
+Aside from that, however, there are a few common
+classes of challenges that bear special mention.
+
+Social Challenges
+
+Heroic Experts with a social-oriented concept are going
+to cut through most social challenges in a hurry. If their
+native skills and foci don’t do it, their Heroic Expert
+class skill will. When such a PC breaks out their class
+ability, let them win if it’s at all plausible. They may not
+get everything they want, and what they get may come
+with unpleasant complications, but they should never
+feel like they’ve wasted their effort when they employ
+their special abilities.
+The key with social challenges is to think past
+the immediate situation. All right, so the Expert has
+the Chatelaine of the High Port eating out of his hand.
+She’ll gladly support the party’s expedition to the radioactive surface below the space station. The Chatelaine
+obviously has enemies, however, and there are doubtless all manner of people upset and troubled at this turn
+of events. The PC can’t charm or bamboozle them all,
+and the deeper he insinuates himself into local affairs,
+the more enemies and potential allies he’s going to encounter. It’s all right for the PC to “win” the situation,
+because there is always another situation behind it.
+
+Investigative Challenges
+
+Heroic PCs have the tools to beat a lot of mysteries,
+and if the Defying Doom rule is used, they might even
+be able to pull meaning out of an impenetrable clue if
+it’s necessary to advance their goals. When you build
+mystery-based adventures for them, plan on the secret
+being learned rapidly, and make the it more about the
+consequences of the discovery or proving it to others.
+
+Combat Challenges
+
+Heroic PCs are going to mow through ordinary thugs
+and goons, especially if they have a Heroic Warrior
+among them. Large groups of enemies can still be a
+serious threat to the party, but one-on-one, common
+humans have almost no chance of winning a fight with
+the group. The simple existence of the Fray Die means
+that the group is going to take out its weight in 1 HD
+mooks every round, plus whoever they actually deign
+to shoot personally. Even when the opposition is a real
+threat, heroic damage scaling ensures that the PCs can
+survive a few hits even at first level.
+
+As a consequence, most GMs will have a strong
+urge to throw major enemies at the group in combat;
+titans of war and legions of veteran soldiers, all to make
+the PCs genuinely sweat. To some extent, this is an
+appropriate part of the genre; space operas usually do
+have a large supply of more-than-human warriors. A
+GM should be careful, however, to make sure that these
+martial perils are logical and appropriate to the setting.
+If you’ve established that the city-state of Quar is policed by genetically-enhanced enforcers, then throwing
+a squad of 3 hit die street cops at the heroes is perfectly
+logical. If these grizzled veterans pop up only because
+the PCs had too easy a time busting the heads of the
+locals two planets away, however, it becomes more
+difficult to justify.
+
+Nemesis Foes
+
+Some enemies are special. Even the mightiest normal
+human is unlikely to have more than 10 hit dice and
+will be apt to fall swiftly under the guns of a party of
+heroes. For true challenges and the sort of dark perils
+that befit a heroic campaign, the GM can use Nemeses.
+A Nemesis is built just like an ordinary NPC or
+alien creature, but has a few modifications made to its
+usual baseline combat statistics.
+First, a Nemesis has hit points equal to its hit dice
+times four. The damage it takes is subtracted from
+these hit points, not hit dice. A grizzled veteran with 3
+HD, for example, would have 12 hit points as a Nemesis.
+Second, all the damage a Nemesis inflicts is read
+straight, without conversion through the table. If that
+Nemesis veteran shoots a PC with a 1d8 revolver, the
+PC takes 1d8 hit points of damage straight.
+Third, the Nemesis has a Fray Die, usually 1d8,
+though perhaps even higher or somewhat lower. This
+damage affects PCs and is inflicted straight. Thus, the
+Nemesis above could do automatically do 1d8 damage
+each round to a single PC within range.
+Fourth, all Nemeses get a +4 bonus to hit rolls.
+A Nemesis does not have to be a high hit die foe.
+Even an ordinary trooper can be a Nemesis if they have
+some special significance, and you shouldn’t feel obligated to make every Nemesis a 10 hit die, 40 hit point
+beast. Any adventure-significant foe could be a valid
+Nemesis, so long as they have importance to the party.
+A single Nemesis will usually defeat any PC with
+the same level as the Nemesis’ hit dice, though a Warrior can sometimes pull out a victory against a low-level
+Nemesis with few hit points. They will probably defeat any two PCs of that level, and they will present a
+significant but probably-beatable challenge to groups
+of three or more same-level PCs. If the Nemesis has
+multiple attacks per round, such as with an alien beast
+or superlatively-skilled warrior, they’ll likely overcome
+one more PC for every additional attack they get.
+
++
++
++
++
++
+
+Name
+Mods
+
+Name
+Mods
+
+Name
+Mods
+
+Name
+Mods
+
+AC
+
+AC
+
+AC
+
+Name
+Mods
+
+Name
+Mods
+
+Total Atk Bonus
+
+Name
+Mods
+
+Armor
+
+XP
+Damage Roll Damage Done
+1 or less
+No Damage
+2 to 5
+1 point
+6 to 9
+2 point s
+10 or more
+4 point s
+
+Range and Ammo
+
+Level
+
+Class
+
+Background
+
+Name
+Mods
+
+Weapons
+
+Species
+
+Employer
+
+Homeworld
+
+Name
+
+Stars Without Number
+
+Credits
+
+Readied Items
+
+Foci
+
+Base Atk Bonus
+
++
+
+Debts
+
+Work
+Biopsionics
+Metapsionics
+Precognition
+Telekinesis
+Telepathy
+Teleportation
+
+Max Enc = STR ÷ 2
+
+Lvl
+
+Lvl
+
+Lvl
+
+Lvl
+
+Lvl
+
+Lvl
+
++1 Focus at lvl 2, lvl 4, lvl 6, lvl 8 & lvl 10
+
+Fray Die
+
+Max: +2 at lvl 3 | +3 at lvl 6 | +4 at lvl 9
+
+Warrior = +Lvl | Other = +(Lvl ÷ 2)
+Partial Warrior = +1 at lvl 1 & lvl 5
+
+Cost: new value + 1
+
+Pilot
+Program
+Punch
+Shoot
+Sneak
+Stab
+Sur vive
+Talk
+Trade
+
++3sp per lvl (Experts: +1 bonus non-combat)
+
+Administer
+Connect
+Exert
+Fix
+Heal
+Know
+Lead
+Notice
+Perform
+
+Max:
+
+Evasion
+
+Mental
+
+Max = CON
+
+Permanent:
+
+Psionic Effort
+
+Psionic Techniques
+
+Attributes
+
+WIS
+
+CON
+
+Max:
+
+Boosts: 1st: 1sp (lvl 1) | 2nd: 2sp (lvl 1)
+3rd: 3sp (lvl 3) | 4th: 4sp (lvl 6) | 5th: 5sp (lvl 9)
+
+CHA
+
+INT
+
+DEX
+
+STR
+
+3 (-2) | 4-7 (-1) | 8-13 (+0) | 14-17 (+1) | 18 (+2)
+
+Effort: 1 + Highest Psychic Skill + Highest of Wis or Con
+
++1 on new Psychic Skill Lvl
+
+Cybernetics / Innate Abilities
+
+16 - lvl - [Str | Con] 16 - lvl - [Dex | Int] 16 - lvl -[Wis | Cha]
+
+Saves
+Physical
+
+System Strain
+
+Maximum is half the normal maximum HP for class and level
+
+Hitpoints / Conditions
+
+Character Sheet
+
+

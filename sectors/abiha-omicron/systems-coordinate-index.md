@@ -11,7 +11,7 @@ This sector uses a flat-top hexagonal grid. Each system has 6 neighbors.
 - **Drive-4**: 1.5 days
 
 ## Sector Map (0-indexed)
-```
+```text
    00  01  02  03  04  05  06  07
 00 -- ME -- EL KA -- AU VI 
 01 ER -- -- -- -- HI -- -- 

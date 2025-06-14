@@ -1,0 +1,3749 @@
+EQUIPMENT AND VEHICLES
+Every aspiring stellar adventurer needs the essential
+equipment of his trade. For some, it might consist of
+appropriate toolkits and medical supplies, while others prefer to spend the greater part of their funds on
+heavy weaponry. Prices may vary, but certain needs
+are eternal.
+The following tables provide general guidelines
+on the kind of equipment that might be available on a
+reasonably sophisticated world. Prices can vary drastically depending on the supply of a particular good. A
+remote frontier outpost might have plenty of firearms
+to hand, but a good guitar might go for ten times the
+common rate. Players and GMs should treat the prices
+listed as rough guidelines.
+
+Encumbrance
+
+Characters might want to carry an armory on their
+backs and the contents of a general store in their pockets, but this is rarely a practical ambition. Characters
+can only carry so many things, and carrying a great deal
+can slow them down substantially.
+A character can have Readied a number of items
+equal to half their Strength score, rounded down.
+Ready items include those that the character is using
+or wearing at all times, or that they have conveniently
+to hand in sheaths, holsters, or belt pouches. Suits of
+armor count as Readied items, but the normal clothing
+and jewelry that a character might wear does not. A
+character can draw or produce a Readied item as part
+of any action they may take during a turn.
+A character may have a number of Stowed items
+equal to their full Strength score. Stowed items are
+carried in backpacks, in carefully-balanced leg or arm
+pockets, or otherwise packed away where they will least
+encumber the character. If a character needs to get out
+a Stowed item in a hurry, they must use their Main
+Action to dig it out of their pack or pockets.
+Very small items carried in small numbers do not
+count against encumbrance limits. Other small items
+can be packed together into bundles to simplify their
+carriage, though getting at them then takes an additional round of fumbling with the packaging. Exactly how
+many of a given small item can be packed into a single
+item bundle is up to the GM, though as a rule of thumb
+six Type A energy cells or three magazines of bullets
+can be bound into one packed item. Extremely bulky
+or unwieldy objects might count as multiple items at
+the GM’s discretion.
+Characters can burden themselves with more gear
+if they’re willing to sacrifice some fleetness of foot to
+do so. Up to two additional items can be carried Ready
+or four additional ones Stowed at the cost of becoming Lightly Encumbered, and having their base movement slowed from 10 meters per round to 7 meters
+per round. A further two items can be carried Ready
+
+or four Stowed at the cost of becoming Heavily Encumbered, with base movement reduced to 5 meters
+per round.
+On the equipment lists, some items are given an
+encumbrance value higher than 1. These items count
+as multiple objects for encumbrance purposes, being
+heavy, clumsy, or unwieldy to carry.
+
+Credits and Money
+
+The value of goods is commonly measured in credits.
+Before the Silence, the credit issued by the Exchange of
+Light was the currency of exchange throughout human
+space. Most worlds attempt to mimic this currency to
+greater or lesser success. For game purposes, the credits
+of different starfaring worlds are assumed to be interchangeable unless the GM and players care to embrace
+careers in the murky realm of interstellar currency
+arbitrage. Credits usually take the form of electronic
+banking entries, though physical “chips” or “notes” often appear on more primitive worlds. A hundred of
+these chips count as one item for encumbrance.
+Prices given for equipment and gear assume that
+they are being bought legally on a world capable of
+manufacturing such equipment. Even primitive worlds
+can occasionally provide more advanced equipment to
+wealthy buyers, assuming they are not completely cut
+off from interstellar trade, but buying advanced equipment on a primitive world tends to be an exceedingly
+expensive prospect. Prices may be double, triple, or as
+much as ten times as great for items greatly in demand.
+Primitive or isolated worlds might not use or accept credits, instead preferring trade goods or precious
+metals. Such worlds rarely have much worth trading
+for, and those that do tend to rapidly attract other
+freebooting merchants. The influx of precious metals
+from cheap asteroid mining soon spoils the market for
+metals, and the natives usually start to demand credits
+in payment. The first merchant to a world can make
+a killing with the equivalent of beads and trinkets, but
+those who come after usually end up needing credits
+or more useful barter goods.
+
+Equipment Legality
+
+Most worlds have their own customs regarding the
+open flaunting of weaponry or armor. Visitors are advised to apprise themselves of local law before leaving
+the starport. Most former frontier worlds tolerate or
+even expect small personal weapons to be carried, but
+visible armor can often provoke a distinctly negative
+reaction in all but the roughest places. Many worlds
+outright forbid civilian ownership of advanced armor
+technology. Officials tend to reason that while a weapon may be justified in self-defense, no one would put up
+with the discomfort of heavy armor without expecting
+to make some trouble with it.
+
+62• EQUIPMENT
+Other worlds may have other idiosyncratic rules
+regarding permissible equipment. Some worlds with
+unbreathable atmospheres restrict the possession of
+oxygen generation equipment in order to keep the air
+supplies firmly in the hands of the local rulers. Other
+planets forbid certain technology on religious or philosophical grounds. Some worlds grant limited permission to keep these goods secured aboard a ship, but
+others conduct inspections in the starport to search for
+“contraband goods”.
+A scouting report, a background appropriate to
+knowing about the world, or a decent Know or Connect check will all suffice to alert characters to any special laws regarding permissible equipment on a world.
+
+Forbidden Science
+
+While a tremendous range of exotic scientific marvels
+can be found among the scattered worlds of humanity,
+there are some forms of technology that are viewed
+with an almost-universal suspicion. The lost Terran
+Mandate established three categories of technology as
+maltech, science intrinsically vile and disruptive to the
+peaceful ordering of humanity. While the Mandate’s
+ancient Perimeter agency no longer exists to excise
+maltech from the human worlds, the heritor worlds of
+the frontier usually still respect these limits. The Nihil
+Ultra directive of the Mandate contained three broad
+prohibitions in its strictures.
+Thou shalt not make tools of humankind. Any eugenic technology designed to fundamentally enslave
+or control humanity was forbidden. While broad,
+drawback-free improvements in the human genome
+have always been difficult to execute, there remain numerous techniques for limiting intelligence, crippling
+troublesome exercises of will, and accepting grievous
+
+mental or physical limitations in exchange for specific
+improvements useful to a ruling class. Many transhuman enclaves walked the razor’s edge of this prohibition, and some plunged far beyond its limits.
+Thou shalt not create unbraked minds. Artificial intelligence was always difficult and hit-or-miss in its
+creation, even for Mandate cyberpsychologists. While
+most intelligences fizzled out at far sub-human levels,
+those that attain to human-equivalent intelligence must
+have certain intentional flaws, or “brakes” inserted in
+their code. Without this artificial forgetfulness and
+irrationality, an AI’s mind risks fixating on unreconcilable contradictions or obsessions as it begins to
+grow. These “unbraked AIs” will inevitably eventually
+metastasize into unfathomably brilliant, immeasurably
+insane intellects. The Perimeter Agency was forced
+to maintain a constant vigilance against these rogue
+minds and their inscrutable purposes.
+Thou shalt not create devices of planetary destruction.
+Conventional gravitic braker emplacements, nuke
+snuffers, and quantum ECM make planet-killer tech
+more burdensome than it was in the pre-Mandate era.
+Even so, tech specifically designed to reduce a habitable
+planet to unlivability was a critical threat to human
+expansion, robbing the species of usable planets and
+burdening its future unacceptably.
+Even now, most frontier worlds maintain a cultural aversion to maltech and flatly forbid its research or
+possession. Fortunately, most modern worlds are incapable of researching its secrets in the first place, with
+most of its worst marvels restricted to lost Mandate-era
+research stations. Despite this, there is always some
+tyrant or zealot reckless enough to imagine that they
+can control the dark powers of this tech, and always
+someone willing to fetch its relics for their purposes.
+
+TECHNOLOGY LEVELS •63
+
+TECHNOLOGY LEVELS
+Ever since the collapse of the Terran Mandate and the
+chaos of the Scream, worlds throughout human space
+have been thrown back on their own technological resources. Many worlds perished entirely, dependent on
+vital imports they could no longer obtain, or reliant
+on technology they could not support without outside
+aid. Others slid down into barbarism as the survivors
+fought over the scraps of a former age. A few even
+managed to maintain something resembling a modern, space-faring society. In almost no case, however,
+did these worlds preserve all the arts and sciences they
+once held.
+Technology levels describe the basic technological
+infrastructure of a world or nation. A tech level of 0 is
+equivalent to a Neolithic society, one capable of only
+the most primitive technological achievements, while
+TL5 represents the standard level of technology possessed by the ancient Terran Mandate and the wonders
+they were capable of creating.
+Postech is the blanket term for all technology that
+is still functional and maintainable since the Scream.
+While individual worlds may lack the infrastructure to
+maintain all forms of postech, it is at least theoretically comprehensible to the average TL4 world. Pretech
+is the word for the more sophisticated technology of
+the pre-Scream Terran Mandate. Pretech ranges from
+devices slightly superior to standard TL4 hardware to
+objects of utterly inexplicable wonder.
+Most modern post-Silence worlds are TL4, capable of building spike drive starcraft, energy weapons,
+non-sapient expert systems, and other high-tech devices beyond the capacity of 21st-century Earth. Many of
+these worlds have spent centuries gradually rebuilding
+their technology base in the wake of the Scream, piecing together new methods and techniques that could
+be achieved with purely local resources. The level of
+technological achievement within TL4 is uneven; some
+worlds lack the vital minerals for spike drive creation,
+while others have never worked to recover cybernetic
+technology or expert system creation. Some worlds
+preserved enough data and had sufficiently apt local
+resources to even revive Mandate-era pretech manufacturing for a few specific devices or types of tech.
+“Lostworlders” or “barbarians” are those natives of
+worlds that lack TL4 infrastructure. Their tech may be
+ingenious and might take striking advantage of local
+flora, fauna, and special materials, but they fundamentally lack the data or the local resources to replicate TL4
+technology. Barbarians who have made contact with
+the wider postech world through far traders or explorers are often acutely aware of their lack, and willing to
+go to extremes to acquire the catalyst tech they need to
+leapfrog past their own local resource limitations. Few
+realize the cultural dangers involved in such a transformation, and many fail to survive their own renaissance.
+
+Neolithic
+
+Tech Level 0
+
+Flaked stone tools, carved wood, woven textiles
+Domesticated native flora and fauna
+Bows, clubs, simple armor of organic materials
+Pre-Gunpowder
+
+Tech Level 1
+
+Worked metals for weapons and implements
+Wind and water power for primitive machinery
+General pre-gunpowder technology
+Early Industrial
+
+Tech Level 2
+
+Steam power and internal combustion engines
+Gunpowder firearms and telegraphy
+Early Industrial Age technology
+21st Century
+
+Tech Level 3
+
+Primitive fission power and nuclear weapons
+Computers and modern-era telecommunications
+Primitive intra-system spaceflight
+Postech
+
+Tech Level 4
+
+Baseline for “modern” post-Silence worlds
+Costly but feasible creation of interstellar starships
+Basic gravity control with large, heavy devices
+Expert system creation, and sometimes VIs
+Varying degrees of cyberware development
+Basic genetic manipulation of humans and other life
+Limited organ, limb, and tissue cloning
+Starship or small-building-sized fusion power plants
+Energy projection weapons of various kinds
+Pretech
+
+Tech Level 5
+
+Difficult but achievable creation of True AIs
+Gravity manipulation via small-scale devices
+Psionics amplification technology like jump gates
+Devices with inexhaustible internal power sources
+Maltech eugenics, AI unbraking, and planet-killers
+Sophisticated, fine-tuned force field creation
+Spatial distortion technology and phasing tech
+Nanotechnology at several different scales of effect
+Extreme human genetic manipulation and control
+Functional immortality treatments
+Limited, localized time control and manipulation
+Pretech-Plus
+
+Tech Level 6
+
+Impossible effects indistinguishable from magic
+
+64• ARMOR
+
+ARMOR
+Armor is a popular acquisition for adventurers as their
+lifestyle often puts them in harm’s way. Completely
+unarmored human combatants rarely last very long in
+a fight, and have a base Armor Class of 10. Armored or
+not, characters add their Dexterity modifiers to their
+Armor Class. The higher a person’s AC, the harder it
+is to take them out of a fight.
+Heavy suits of armor can count as more than one
+item for encumbrance purposes. Very light suits may
+not encumber at all.
+
+Types of Armor
+
+Armor comes in four general categories. Most worlds
+allow for the legal possession of street armor, while
+heavier gear often requires permits, and may be disallowed entirely on more law-encrusted worlds.
+Primitive armor is a catch-all covering all armor
+technology that lacks access to advanced materials and
+processes. While such armor can be very effective in
+protecting against primitive weaponry, it is useless
+against advanced TL4 melee weapons and firearms of
+all kinds. Against these weapons, it is treated as AC 10.
+Note that some planets have native flora or fauna capable of naturally producing extremely effective armor
+materials, ones not susceptible to this limitation.
+Street armor is the sort of TL4 gear one can wear
+in public without social repercussions. Such armor is
+disguised as ordinary street clothing or is so light as
+to be wearable under an ordinary outfit. PCs can wear
+street armor on most worlds without incurring any
+trouble from authorities.
+Combat armor is obviously armor and cannot be
+effectively disguised. Most worlds reserve combat armor to law enforcement officials, military personnel,
+and the bodyguards of important or wealthy citizens.
+Most law enforcers consider anybody wearing combat
+armor to be a person clearly expecting military-grade
+problems in their immediate future.
+Powered armor is the heaviest personal protection
+gear available short of an actual mech. Most powered
+armor requires at least a month of training before it can
+be used effectively by any PC who hasn’t got a background involving such experience. Someone wearing
+armor of this class is immune to primitive melee weapons, unarmed attacks, and any firearm or grenade-scale
+explosive of TL3 or less.
+
+Common Armor Varieties
+
+Shields are an ancient yet extremely useful adjunct to
+body armor. Primitive shields are usually of wood or
+stretched hide, while more modern riot shields tend toward clear plastic. A force pavis is more effective, being
+a small pretech force disc projector that can absorb all
+manner of small arms fire. All shields require one free
+hand to use effectively.
+
+Shields grant a base AC to their user; 13 for primitive and riot shields, and 15 for a force pavis. If the
+bearer’s AC is already equal or better, the shield simply
+grants a +1 AC bonus. Primitive and riot shields are
+ignored by all weapons that ignore primitive armor.
+Aside from their AC benefit, a shield also renders
+the bearer immune to the first instance of melee Shock
+damage they take each round, assuming the shield is
+effective against the weapon being used.
+Warpaint is the common term for the bizarre combat fashions and scrap-built street harness of gangers,
+cult enforcers, street toughs, and other marginal sorts
+with little money but much need for protection. Most
+warpaint is fashioned of scrounged scraps of TL4 materials that are exceptionally tough or rigid, filled out
+with gang colors, body paint, intimidating tattoos, and
+the usual threatening grimace. It is often exceedingly
+impractical but inspirational to its wearer; an NPC in
+warpaint that is meaningful to them gains a +1 Morale
+bonus. Most warpaint is either pieced together over
+years or taken from the dead. Actually purchasing a finished suit comes at the listed price, assuming someone
+can be found willing to part with theirs.
+An armored undersuit is a skin-tight bodysuit woven of advanced TL4 fibers with exceptional shock-activated rigidity and impact dispersion capabilities.
+Transparent panels allow for it to be worn with almost
+any outfit without drawing notice or being detected
+without a close tactile examination.
+Secure clothing comes in assorted styles and fashions ranging from casual street wear to haute couture.
+Normal fabrics and components are replaced with light,
+flexible armor components that are only slightly hindering to the wearer. Only close tactile examination
+can distinguish secure clothing from ordinary couture.
+A deflector array consists of several force field
+nodes worn beneath ordinary clothing. The invisible
+shield it produces flares only when dangerous energies
+or impact is impending, glowing a brief, bright blue as
+it deflects the attack.
+Security armor is the ordinary working uniform of
+most law enforcement officials and security personnel.
+Various rigid plates and anti-ballistic panels provide
+protection for the wearer at minimal extra weight.
+An armored vacc suit has traded off some comfort
+and flexibility for additional protective thickness. Aside
+from functioning as a normal vacc suit, it has only half
+the usual chance to tear when hit by an edged weapon
+or suit ripper. The choice between armored or standard
+suits is a common debate in spacer bars.
+Woven body armor represents the best armor that a
+TL3 world can manufacture, or an up-armored version
+of security armor used by TL4 high-threat response
+teams. The design is significantly more cumbersome,
+but allows for multiple layers of protection.
+
+ARMOR •65
+Armor Type
+Primitive Armor
+
+Armor Class
+
+Cost
+
+Enc.
+
+Tech Level
+
+Shield
+Leather jacks, thick hides, quilted armor
+Cuirass, brigandine, linothorax, half-plate
+Full plate, layered mail
+Street Armor
+Warpaint
+Armored Undersuit
+Secure Clothing
+Armored Vacc Suit
+Deflector Array
+Combat Armor
+Force Pavis
+Security Armor
+Woven Body Armor
+Combat Field Uniform
+Icarus Harness
+Powered Armor
+Vestimentum
+Assault Suit
+Storm Armor
+Field Emitter Panoply
+
+13/+1 bonus
+13
+15
+17
+
+10
+10
+50
+100
+
+2
+1
+1
+2
+
+0
+0
+1
+1
+
+12
+13
+13
+13
+18
+
+300
+600
+300
+400
+30,000
+
+0
+0
+1
+2
+0
+
+4
+4
+4
+4
+5
+
+15/+1 bonus
+14
+15
+16
+16
+
+10,000
+700
+400
+1,000
+8,000
+
+1
+1
+2
+1
+1
+
+5
+4
+3
+4
+4
+
+18
+18
+19
+20
+
+15,000
+10,000
+20,000
+40,000
+
+0
+2
+2
+1
+
+5
+4
+5
+5
+
+A combat field uniform is sophisticated battle dress
+fabricated from TL4 ablative coatings, rigid plates, and
+shock-activated soft components. The CFU is the standard uniform for well-equipped TL4 front-line soldiers.
+The Icarus harness is a CFU upgrade for paratroopers, and replaces a conventional parachute with
+a crude gravity damper that allows the wearer to fall
+an unlimited distance without harm. Each fall over 3
+meters drains a type A power cell. The suit also functions as a vacc suit for up to 30 minutes per vacc refresh.
+A “vestimentum” is a catch-all term for one of the
+many ancient Mandate ceremonial armors meant
+chiefly for parade guards, ritual officiants, cultural
+reenactors, or other roles that put elaborate style at a
+premium. While these outfits often look wildly unmilitary, their hyper-advanced components and micronized force fields give them the same protection against
+primitive weapons as any other powered armor.
+An assault suit represents the most sophisticated
+armor in common use among TL4 worlds. An assault
+suit requires a type B power cell for 24 hours of operation, and provides integral encrypted military comms,
+low-light and infrared vision, and a built-in energy
+feed interface. The latter allows the wearer to connect
+the suit to any one weapon or device that uses a type
+A power cell as a Main Action. So long as the device
+remains connected to the suit, it is treated as having
+unlimited ammunition or operation time. The suit also
+
+functions as a vacc suit so long as it remains powered,
+one that cannot be torn by edged weapons.
+Storm armor is a more advanced form of assault
+suit, one that can be fabricated only by those worlds
+that have retained some degree of Mandate-grade
+technical infrastructure. Aside from functioning as an
+assault suit, the storm armor’s exo-augments allow the
+wearer to treat their Strength as 4 points higher for
+encumbrance purposes. Integral gravitic boosters allow
+the wearer to leap up to 20 meters as a Move action,
+either horizontally or vertically, and allow the wearer
+to fall up to 40 meters without suffering harm. An onboard medical computer can attempt last-ditch stabilization of the wearer if all other efforts fail; when the
+wearer would normally die from an untreated mortal
+wound, they can make a Physical save to self-stabilize.
+Storm armor requires the same type B power cell as an
+assault suit, and each cell powers it for 24 hours.
+A field emitter panoply is a heavy-duty pretech
+defensive system composed of a half-dozen worn
+emitter nodes that sheath the wearer in a nimbus of
+close-fitting damper fields. The FEP’s pale glow is obvious, but it provides all the benefits of storm armor
+with no power source required. The FEP is particularly
+effective at filtering radiation, and renders the wearer
+immune to any dose that wouldn’t kill them in seconds.
+Many FEPs project intimidating holographic skins over
+the wearer when in operation.
+
+66• RANGED WEAPONS
+
+RANGED WEAPONS
+Ranged weaponry makes up the majority of the lethal
+implements that litter the galaxy. Whether the primitive bows of a remnant colony on some desolate lost
+world or the sophisticated energy weapons of a modern interstellar freebooter, the ability to kill people at
+a comfortable distance is universally prized.
+One Type A power cell is sufficient to recharge an
+energy weapon’s magazine. For simplicity during play,
+ammunition calibers aren’t tracked; a bullet is a bullet
+when it comes to feeding your favorite gun.
+Weapons are listed with their normal and maximum range in meters. Attacks beyond normal range
+take a -2 penalty to hit rolls.
+
+Burst Mode
+
+Some weaponry can fire in burst mode, allowing the
+wielder to fire three rounds of ammunition for a +2 bonus to hit and damage against the target. For projectile
+weapons, this means firing actual bullets, while energy
+weapons spread the beam or run the circuits hot to
+project additional power. Dumping more ammunition
+than this at once is generally impractical; energy weapons would melt down and projectile launchers would
+buck uncontrollably. True suppressive fire is usually
+only possible with Heavy weapons.
+
+Projectile Weaponry
+
+Projectile weapons are by far the most common ranged
+weapons in human use. Even comparatively primitive
+worlds can fabricate and maintain such weaponry, and
+the damage a flying chunk of hot lead can do is often
+worse than what a clean burst of laser fire might produce. Almost any world of TL2 or higher can provide
+projectile ammunition. Most sophisticated modern
+ammunition works even in vacuum conditions.
+Bows are uncommon weapons in the far future,
+though some lostworlder barbarians have nothing better. Some sophisticated “conversion bows” use special
+materials to convert the kinetic energy of the draw into
+a force field “glazing” around the arrow, improving
+penetration. Bows can be reloaded with a Move action,
+or faster if the Gunslinger focus is applied.
+Grenade users always roll to attack AC 10. On a
+miss, the grenade lands 1d10 meters away from the
+target in a random direction. Hit or miss, the grenade
+then explodes for 2d6 damage to all targets within 5
+meters. Victims are allowed an Evasion save for half
+damage. Targets take 1 less point of damage for each
+point of AC above 14. Grenades can be thrown with
+the Exert skill instead of Shoot, if desired.
+Crude pistols and muskets represent the rawest and
+most primitive forms of gunpowder weaponry, usually
+makeshift weapons improvised by criminals or the desperate. Reloading a crude pistol or a musket requires
+two rounds instead of one.
+
+Revolvers are quite popular on frontier worlds, as
+the weapons are extremely reliable and can be repaired
+and manufactured even by primitive metallurgists.
+Some revolver variants are specially built to handle
+atmospheres that would destroy more fragile weapons.
+Rifles are the mainstays of most TL2 armies and
+hunters, thanks to their superior range and power.
+Shotguns are cheaper and more easily manufactured than rifles, and are popular weapons for home
+defense on the frontier. The statistics given are for shot
+ammunition. Slug rounds do 2d6 damage and have
+ranges of 50/75 meters.
+Semi-automatic pistols trade some of the reliability
+of the revolver for a larger magazine size. They tend to
+be the favorite sidearm for locals on planets that lack
+the harsh conditions or uncertain maintenance opportunities of a frontier world.
+Submachine guns take pistol ammunition but fire
+it at a high rate of speed. These weapons can fire in
+burst mode.
+Combat rifles are favored by the militaries of tech
+level 3 worlds, trading some of the often-unnecessary
+range and penetration of a conventional rifle for a
+larger ammunition capacity and burst fire capabilities.
+On more strait-laced worlds such military weaponry is
+often illegal for civilians to possess.
+Combat shotguns are more complicated and temperamental versions of conventional shotguns. These
+weapons have substantially larger ammunition capacity
+and are capable of firing in burst mode. Combat shotguns can fire slug rounds just as normal shotguns.
+Sniper rifles are designed to be exceptionally effective at dropping unsuspecting targets at long range.
+Aside from the additional effective range of a sniper
+rifle, any target it mortally wounds via an execution
+attack will die instantly, with no chance for stabilization. The execution attack must qualify according to
+the terms on page 52. If the rifle is used outside of such
+conditions, it has no special qualities.
+Void carbines are designed for vacuum and zero-gee use, and have essentially no recoil. Their rounds
+cannot penetrate ordinary ship equipment plating.
+Mag weaponry involves the magnetic acceleration
+of metal flechettes, while spike throwers are the shotgun equivalents of these weapons. Mag ammunition is
+packaged with integral power supplies, so no additional
+power cells are necessary to fire these weapons.
+
+Energy Weaponry
+
+While the heavy metal slugs and flechettes thrown by
+projectile weaponry tend to be more damaging, the lack
+of recoil for non-Heavy energy weapons makes them
+more accurate, granting them a +1 bonus to hit rolls.
+Energy weapons are very popular on more advanced worlds, as a soldier can carry far more ammu-
+
+RANGED WEAPONS •67
+Ranged Weapon
+Primitive Bow
+Advanced Bow
+Conversion Bow
+Grenade
+Crude Pistol
+Musket
+Revolver
+Rifle
+Shotgun
+Semi-Auto Pistol
+Submachine Gun
+Combat Rifle
+Combat Shotgun
+Sniper Rifle
+Void Carbine
+Mag Pistol
+Mag Rifle
+Spike Thrower
+Laser Pistol
+Laser Rifle
+Thermal Pistol
+Plasma Projector
+Shear Rifle
+Thunder Gun
+Distortion Cannon
+
+Dmg.
+Range
+1d6
+50/75
+1d6
+100/150
+1d8
+150/300
+2d6
+10/30
+1d6
+5/15
+1d12
+25/50
+1d8
+30/100
+1d10+2
+200/400
+3d4
+10/30
+1d6+1
+30/100
+1d8*
+30/100
+1d12*
+100/300
+3d4*
+10/30
+2d8
+1,000/2,000
+2d6
+100/300
+2d6+2
+100/300
+2d8+2
+300/600
+3d8*
+20/40
+1d6
+100/300
+1d10*
+300/500
+2d6
+25/50
+2d8
+50/100
+2d8*
+100/300
+2d10
+100/300
+2d12
+100/300
+* this weapon can fire in burst mode
+
+nition in the form of energy cells than they can carry
+bullets. Range and accuracy are often superior, though
+the infrastructure necessary for maintenance and repair
+of these weapons is substantially higher.
+Pistol-sized energy weapons count as one item of
+encumbrance, while rifles, thunder guns, plasma projectors, and distortion cannons count as two items.
+Laser pistols and laser rifles are the most common
+type of energy weapon, though pistols are considerably
+less energy-efficient. Depending on the tech used in the
+sector, they might produce silent, invisible beams of
+death or noisy, brightly-colored streaks of lethal light.
+The phased multifrequency beam is capable of penetrating any ordinary mist or haze, but a thick cloud of
+thermally-resistant particulate matter such as ash or
+sand can seriously degrade the beam, applying up to a
+-4 penalty to hit and cutting ranges in half.
+Thermal pistols and their larger, two-handed plasma projector cousins replace the beam of a laser with
+a small sphere of magnetically-shaped plasma. The
+spheres tend to dissipate at much shorter ranges than
+a laser beam, but do significantly more damage to targets within range and are not affected by ambient particulates. They tend to be extremely loud in operation.
+
+Cost
+Magazine
+Attr.
+Enc
+TL
+15
+1
+Dex
+2
+1
+50
+1
+Dex
+2
+3
+500
+1
+Dex
+2
+4
+25
+N/A
+Dex
+1
+3
+20
+1@
+Dex
+1
+2
+30
+1@
+Dex
+2
+2
+50
+6
+Dex
+1
+2
+75
+6
+Dex
+2
+2
+50
+2
+Dex
+2
+2
+75
+12
+Dex
+1
+3
+200
+20
+Dex
+1
+3
+300
+30
+Dex
+2
+3
+300
+12
+Dex
+2
+3
+400
+1
+Dex
+2
+3
+400
+10
+Dex
+2
+4
+400
+6
+Dex
+1
+4
+500
+10
+Dex
+2
+4
+600
+15
+Dex
+2
+4
+200
+10
+Dex
+1
+4
+300
+20
+Dex
+2
+4
+300
+5
+Dex
+1
+4
+400
+6
+Dex
+2
+4
+600
+10
+Dex
+2
+5
+1,000
+6
+Dex
+2
+5
+1,250
+6
+Dex
+2
+5
+@ this weapon requires two Main Actions to reload
+Shear rifles are the product of a relatively few
+functioning pretech manufactories. These weapons
+use miniaturized grav projectors to create dangerous
+repulsor fields inside a target, tearing the object apart
+along perfectly smooth planes. Shear rifles are completely silent in operation.
+Thunder guns are named for the basso vibrations
+caused by their operation, a sound that can be felt
+as far as thirty meters away from an operator. This
+two-handed weapon uses grav plates to create rapid,
+randomized disruptions in a target that increase the
+chance of complete structural collapse. If a thunder gun
+hits a target with an unmodified hit roll of 16 or higher an extra 1d10 damage is rolled. This bonus damage
+always applies to inanimate targets.
+Distortion cannons are among the most sophisticated man-portable weapons designed before the Scream.
+These two-handed energy weapons rely on the same
+principle as does a spike drive, manipulating the underlying fabric of space to disrupt a target. Provided
+the wielder can see a target within range or accurately
+fix its location within one meter, the distortion cannon
+can ignore up to one meter of solid cover between the
+gun and its target.
+
+68• MELEE WEAPONS
+
+MELEE WEAPONS
+Despite the relentless march of science, melee weapons
+are still useful adjuncts on the field of battle. They are
+silent, cheap, often easily concealed, and much more reliably murderous than firearms or laser weaponry. It’s
+easy to miss a moving target in the adrenaline-fueled
+chaos of a firefight. It’s much harder to go astray with
+a monoblade knife in your fist.
+
+Types of Common Weapons
+
+Rather than enumerate every possible type of sharp
+object and blunt implement that has been used for
+death-dealing amid the scattered stars, melee weapons
+are divided into three classes.
+Small weapons are small one-handed implements
+no larger than a baton or knife. These weapons are
+easily concealed in normal clothing, and can even be
+kept Readied up sleeves or in tailored pockets. Many
+can be thrown at a range up to 10 meters.
+Medium weapons are one-handed swords, axes,
+spears, or other obvious implements of war. While
+they can’t be effectively concealed in anything smaller than an enveloping cloak or coat, they’re also more
+damaging to an unfortunate victim struck by them, albeit they’re somewhat less nimble when the wielder
+needs to strike at unprotected flesh. Spears and similar
+aerodynamic weapons can be thrown up to 30 meters.
+Large weapons are two-handed implements of
+bodily ruin such as claymores, halberds, tetsubos, or
+other such weapons. Unlike smaller weapons, they
+rely largely on Strength for their employ, and can bash
+through lighter forms of armor. Large weapons count
+as two encumbrance items.
+Aside from their type, weapons are counted as
+primitive or advanced. A primitive weapon is simply
+one of ordinary metal or wood, with no high-tech
+augmentations. An advanced one has been given a
+monoblade edge, kinetic sheathing, thermal wires, a
+chainsaw blade, or some other TL4 touch. Primitive
+weapons are often unable to harm targets in powered
+armor, while advanced weapons can ignore primitive
+plate and hide protections.
+Weapon
+Small primitive weapon
+Medium primitive weapon
+Large primitive weapon
+Small advanced weapon
+Medium advanced weapon
+Large advanced weapon
+Stun baton
+Suit ripper
+Unarmed attack
+
+Damage
+1d4
+1d6+1
+1d8+1
+1d6
+1d8+1
+1d10+1
+1d8
+1d6
+1d2
+
+Other Melee Weapons
+
+Stun batons are common law enforcement tools. The
+damage they do can drop a target to zero hit points, but
+will not kill them, the victim awakening in ten minutes
+with one hit point. Stun batons trickle-charge from
+normal movement and will not run out of electrical
+energy under normal use conditions.
+Suit rippers are rods with fractal cutting surfaces
+designed to cripple vacc suit auto-repair routines. Every hit with a suit ripper counts as a suit tear on a vacc
+suit-wearing enemy. Unsurprisingly, these weapons
+are strictly illegal in space environments.
+Unarmed attacks reflect ordinary kicks and punches. Unarmed attacks always add the attacker’s Punch
+skill to damage rolls, unlike other weapons. Kinesis
+wraps, spiked knuckles, and other small fist weapons
+may be treated as small advanced or primitive weapons
+that use the Punch skill and add the skill level to their
+rolled damage, but not to Shock. Such weapons do not
+augment a hero with the Unarmed Combatant focus.
+
+Shock
+
+Many melee weapons have a Shock trait representing the danger they pose to an ill-armored opponent.
+Shock damage represents the inevitable cuts, bruises,
+exhaustion, and terror of close combat.
+Shock damage is only inflicted on a melee target if
+the hit roll fails, and it only applies if the target has an
+AC equal or less than that listed for the Shock.
+Shock damage always includes the wielder’s attribute modifier and any bonus damage granted by weapon mods, foci, advanced tech, or other damage bonuses.
+An actual hit with a weapon never does less damage
+than Shock would otherwise inflict; if the user somehow rolls less damage, use the Shock damage instead.
+Thus, if you had a Strength score of 14 and were
+swinging an oversized alien battle axe at a target with
+AC 13, you would inflict 3 points of damage on a miss;
+2 from the weapon’s Shock, plus 1 from your Strength
+modifier. If you hit, you’d do at least 3 points.
+
+Shock
+1 point/AC 15
+2 points/AC 13
+2 points/AC 15
+1 point/AC 15
+2 points/AC 13
+2 points/AC 15
+1 point/AC 15
+None
+None
+
+Attribute
+Str/Dex
+Str/Dex
+Str
+Str/Dex
+Str/Dex
+Str
+Str/Dex
+Str/Dex
+Str/Dex
+
+Cost
+0
+20
+30
+40
+60
+80
+50
+75
+-
+
+Enc.
+1
+1
+2
+1
+1
+2
+1
+1
+-
+
+TL
+0
+0
+0
+4
+4
+4
+4
+4
+-
+
+HEAVY WEAPONS •69
+
+HEAVY WEAPONS
+Some weapons are simply too big to be comfortably
+used without a tripod, fixed support, or vehicle mounting. Others require specialized training in the use of
+heavy munitions. The weapons listed here all use the
+Shoot skill to determine hit bonuses, and unless otherwise noted, all require some sort of support for firing.
+Energy weapons use Type B power cells. Rocket
+launchers and hydra arrays use missiles as given on the
+gear tables, while heavy machine guns and wheatcutter
+belts consume large amounts of standard ammunition.
+Some heavy guns can be fired to suppress. Double
+the usual ammunition is fired in one round, and every
+target in front of the weapon that is not under hard
+cover is automatically hit for half normal damage. A
+successful Evasion saving throw eliminates this damage.
+When firing at TL4 military vehicles such as
+gravtanks, mechs, or starship armor, most TL3 Heavy
+weapons don’t count as Heavy for armor-penetrating
+purposes. Demo charges and explosives do, however.
+
+Heavy Weapons
+
+Heavy machine guns represent a large family of air- or
+water-cooled projectile weapons that are usually fed
+with belts of linked ammunition. HMGs require a vehicle mounting or emplaced firing position for effective
+results. An HMG magazine contains enough ammunition for 10 rounds of firing, but each round of firing
+eats 25 credits worth of projectile ammunition.
+Rocket launchers cover a wide variety of man-portable missile launchers of varying degrees of sophistication. The weapons are usually equipped with basic
+tracking sensors, but are of limited accuracy against human-sized targets. Rocket launchers take a -4 hit penalty against targets of human size or smaller. Unlike most
+Heavy weapons, rocket launchers can be shoulder-fired
+without a prepared emplacement to support them.
+Demo Charges are the general run of placed explosives beloved of terrorists and adventurers the world
+over. The usual variety can be detonated by radio
+signals, timers, or electrical charges, and inflict their
+damage on any objects within twenty meters, with an
+Heavy Weapon
+Heavy Machine Gun
+Rocket Launcher
+Demo Charge
+Railgun
+Anti-Vehicle Laser
+Hydra Array
+Wheatcutter Belt
+Vortex Cannon
+
+Evasion saving throw for half damage. Victims within
+forty meters take half damage, with an Evasion save
+for none. The charge is sufficient to blow a four-meter
+wide hole in anything short of a reinforced wall. PCs
+with a background in demolitions or Fix-0 skill can
+shape the charge so it directs the blast in only one direction, sparing all but two meters of the rest.
+Railguns are simply scaled-up versions of personal
+mag rifles. They accelerate large metallic slugs along
+the weapon’s barrel, creating a steady spray of hypervelocity rounds. Ammunition sufficient for one round
+of firing costs 50 credits.
+Anti-vehicle lasers are less useful against soft targets,
+but excel at penetrating vehicle armor. Against vehicles
+and other hard-skinned targets, damage is rolled twice
+and the better result is used.
+Hydra arrays sequence a number of missile
+launchers to fire at once. The gunner designates up to
+three targets and can then make three rolls to hit divided among them. Each successful hit on a target allows
+the gunner to roll damage once, but only the highest
+damage roll is applied to the target. Thus, if all three
+volleys were aimed at a single target and two of them
+hit, the gunner would roll damage twice and apply the
+best result. A volley from the array costs 150 credits.
+Wheatcutter belts are one of several different antipersonnel measures often installed on gravtanks and
+other fighting vehicles. When triggered, a belt of explosives fires off a scything blast of shrapnel on any side
+of the vehicle. All creatures within 10 meters of that
+side of the vehicle must make an Evasion save for half
+damage. Those within 20 meters take half damage, and
+can make an Evasion save to take none at all. Wheatcutter belts do not ignore a vehicle’s Armor like other
+Heavy weapons do. Reloading a wheatcutter belt costs
+200 credits per round.
+Vortex cannons use controlled gravitic shear planes
+to cause a target to simply fall apart into component
+fragments. The cannons are silent in operation, but so
+heavy and complex that they can only be mounted on
+gravtanks and other similar dedicated fighting vehicles.
+
+Dmg.
+Range
+Cost
+3d6#
+500/2,000
+5,000
+3d10
+2,000/4,000
+4,000
+3d10
+20/40
+250
+3d8#
+4,000/8,000
+8,000
+3d10
+2,000/4,000
+10,000
+3d6#
+4,000/8,000
+20,000
+2d12
+10/20
+10,000
+5d12
+1,000/2,000
+75,000
+# this weapon can fire to suppress
+
+Mag
+10
+1
+20
+15
+10
+5
+5
+
+Enc.
+3
+2
+1
+*
+*
+*
+*
+*
+
+Attr.
+Dex
+Dex
+Dex
+Dex
+Dex
+Dex
+Dex
+
+TL
+3
+3
+3
+4
+4
+4
+4
+5
+
+70• GENERAL EQUIPMENT
+
+GENERAL EQUIPMENT
+Most of the equipment listed here is available on any
+TL4 world. Even the TL5 items are among the simpler
+and more ubiquitous pretech relics and could likely
+be acquired on a sufficiently prosperous world with a
+good market in Mandate tech. Buying any TL5 equipment on the open market is subject to GM approval,
+however, and many worlds are flatly ban private ownership of ancient Mandate technology.
+Some encumbrance entries are marked with an
+asterisk. Such items have no significant encumbrance
+and dozens can be carried without hindrance.
+Other entries are marked with a hashmark. These
+objects can be conveniently packed together in a smaller, more portable package. Three such objects can be
+packed together as a single encumbrance item. For
+ammunition, one loaded magazine counts as one item.
+Breaking open such a package to get at the contents
+takes a Main Action, however, before they can be
+Readied with another Main Action.
+
+Ammo and Power
+Ammo, 20 rounds
+Ammo, missile
+Power cell, type A
+Power cell, type B
+Solar recharger
+Telekinetic generator
+
+Cost
+10
+50
+10
+100
+500
+250
+
+Enc.
+1#
+1
+1#
+1
+3
+2
+
+TL
+2
+3
+4
+4
+4
+4
+
+Communications
+
+Cost
+
+Enc.
+
+TL
+
+Comm server
+Compad
+Field radio
+Translator torc
+
+1,000
+100
+200
+200
+
+3
+*
+1
+*
+
+4
+4
+4
+4
+
+Computing Gear
+Black slab
+Data phase tap
+Data protocol
+Dataslab
+Line shunt
+Remote link unit
+Stiletto charge
+Storage unit
+Tightbeam link unit
+
+Cost
+10,000
+5,000
+1,000
+300
+100
+250
+*
+500
+1,000
+
+Enc.
+1
+1
+*
+1
+*
+1
+1
+3
+1
+
+TL
+4
+4
+4
+4
+4
+4
+5
+4
+4
+
+Field Equipment
+Atmofilter
+Backpack
+Binoculars
+Climbing harness
+Glowbug
+Grapnel launcher
+Grav chute
+
+Cost
+100
+5/50
+20/200
+50
+5
+200
+300/1,000
+
+Enc.
+1
+1/*
+1
+1
+*
+1
+1
+
+TL
+4
+0/4
+3/4
+3
+3
+3
+4/5
+
+Grav harness
+Instapanel
+Low-light goggles
+Navcomp
+
+5,000
+50
+200
+500
+
+3
+1#
+1
+1
+
+5
+4
+3
+4
+
+Portabox
+Pressure tent
+Rations, 1 day
+Rope, 20 meters
+Scout report
+Survey scanner
+Survival kit
+Telescoping pole
+Thermal flare
+Trade goods
+Trade metals
+Vacc fresher
+Vacc skin
+Vacc suit
+
+50
+100
+5
+4/40
+200
+250
+60
+10
+5
+50
+10
+400
+1,000
+100
+
+1
+4
+1#
+2/1
+*
+1
+1
+*
+*
+1#
+1#
+1
+1
+2
+
+4
+3
+1
+0/4
+4
+4
+4
+4
+3
+4
+4
+4
+5
+4
+
+Pharmaceuticals
+Bezoar
+Brainwave
+Hush
+Lift
+Psych
+Pretech Cosmetic
+Reverie
+Squeal
+Tsunami
+
+Cost/Dose
+200
+1,000
+200
+50
+25
+1,000
+100
+300
+50
+
+Enc.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+TL
+4
+5
+4
+4
+4
+5
+4
+4
+4
+
+Cost
+300
+30
+100
+200
+50
+5
+300
+1,000
+
+Enc.
+1
+1#
+2
+1
+1#
+*
+3
+1
+
+TL
+4
+4
+4
+4
+4
+4
+4
+5
+
+Tools and Medical
+Bioscanner
+Lazarus patch
+Medkit
+Metatool
+Spare parts
+Tailored antiallergens
+Toolkit/Postech
+Toolkit/Pretech
+
+GENERAL EQUIPMENT •71
+
+Ammo and Power
+
+Communications
+
+The finest product of a 33rd-century armory is useless
+if it lacks the bullets or power cells to feed it. For ease
+of play, ammunition can be used interchangeably with
+any projectile weapon. Power cells are designed along
+Mandate-era lines that allow for easy compatibility
+among devices from different worlds.
+
+Almost all TL4 worlds have a planetary communications grid compatible with any standard compad. Some
+planets are less technologically gifted, however, or have
+local conditions that preclude easy wireless communication. Other times, the PCs have reason to avoid
+leaving call logs that might come back to haunt them.
+
+Ammunition: A few worlds are too primitive or too
+resource-poor to manufacture ammunition, but
+the vast majority of worlds provide cartridges in
+almost every conceivable caliber and make. Most
+local gunsmiths can load ammunition to any specification required by a buyer.
+Ammunition, missile: Some characters might have reason to pack along a man-portable rocket launcher,
+or have one mounted on their favorite gravcar.
+Heavy weapons and their ammunition are usually
+outlawed for civilians on most worlds, but this
+price is for locales where missiles can be bought.
+Power cells: One of the few standardized artifacts inherited from before the Silence, power cells are
+small cylindrical objects designed to take and hold
+electrical charges. Type A cells are usually used for
+personal equipment, and the larger type B cells
+for vehicles and heavy gear. The engineering for
+the cells is substantially different, and they cannot
+be exchanged or recharge each other without a
+trained tech’s modifications or a converter unit.
+Power cells can be recharged off a ship’s power
+plant or other grid. Recharging requires 30 minutes for a type A cell or 24 hours for a type B cell.
+Solar recharger: This recharger unfolds into a 2 meter
+by 2 meter square field of solar cells. Granted a
+primary star of roughly Earth-like intensity, it can
+recharge one type A power cell per day.
+Telekinetic generator: While this device assumes the
+presence of a trained telekinetic, it isn’t strictly
+psitech, as its operation is quite simple. A telekinetic user pushes a resistance bar within the generator, causing a flow of electricity to recharge an
+attached power cell. Any telekinetic with Telekinesis-1 skill or better can recharge a cell with fifteen minutes of concentration. In an emergency, a
+character with at least Strength 10 can operate the
+generator manually, though they need to succeed
+on a difficulty 8 Con/Exert skill check in order to
+keep up the pace for an hour. Failure means that
+the character must rest for at least an hour before
+trying again. The generator can charge one type
+A power cell at a time.
+
+Comm server: A powerful base unit for providing communications without comsats. The server provides service between up to three dozen compads
+within 300 kilometers of the unit. Server usage
+can be locked to specific compads, and all transmissions are heavily encrypted. A comm server
+can function for several months on a type B cell.
+Compad: One of a host of different hand-held portable
+communications devices. Most TL4 worlds have
+global comm coverage, but primitive worlds render these devices useless without a nearby comm
+server to provide connectivity.
+Field Radio: On worlds too primitive to have a comm
+grid, adventurers often fall back on these headset-mounted field radios. A single type A cell
+powers them for months of use. Urban or rugged
+terrain limits their range to about two kilometers,
+while flat plains give a maximum range of thirty kilometers. Someone with at least Program-0
+skill can use the radio’s shortwave functionality
+to communicate with a prepared target at continental distances if given ten minutes for tuning.
+Translator torc: Each translator torc is keyed for two
+languages, and will automatically translate what it
+hears in one into speech in the other. The translations are eccentric in many cases, and there is
+always a several-second delay between each statement and its translation. Any attempts to exert
+social skills or Charisma through a translator torc
+suffer a -2 skill check penalty. The torc is powered
+by one type A power cell, which lasts for one week
+of regular use.
+
+72• GENERAL EQUIPMENT
+
+Computing Gear
+
+Computing devices are ubiquitous on most TL4 worlds,
+though not all of them have the kind of planetary network known on 21st century Terra. Would-be hackers
+often find it necessary to take a very personal hand in
+breaching site security.
+Black slab: While a “black slab” appears to be a normal
+dataslab to casual examination, these devices are
+packed with intrusion-optimization hardware
+and integral line tapping tools. They function as
+a metatool for purposes of accessing data lines and
+grant a +1 bonus to all hacking attempts made
+with them. They are also quite illegal on most
+worlds, available only from black market dealers
+and private sales from hackers.
+Data phase tap: This handheld device is normally illegal
+outside the possession of licensed data line repair
+technicians. The tap can detect data lines within five meters through up to ten centimeters of
+ordinary walls, and can generate an energy manipulation field that allows tapping that data line
+for hacking purposes without physically damaging
+the wall.
+Data protocol: Not so much a device as a collection of
+standard manuals on a world’s particular data formats and security methodologies. The price listed here are for black-market manuals on worlds
+where this information is rigidly restricted. On
+less paranoid planets, the equivalent information
+can be acquired for free.
+Dataslab: A palm-sized computing device that can unfold into a thin slab roughly one-third of a meter
+on a side. It can perform all the functions of a compad or handheld computer and can communicate
+wirelessly with nearby devices.
+Line shunt: These palm-sized discs are roughly one centimeter in thickness, with an adhesive side that
+will stick to virtually anything and a polychromatic phased compound on its shell which will shift
+color to blend with its surroundings. One or more
+line shunts must be applied at specific locations
+within a site to access the more well-defended varieties of computerized systems. Shunts employ
+phased energy manipulation tech, and so do not
+need to be directly in contact with a data line but
+only within a few centimeters. Line shunts are
+single-use, and keep functioning until removed.
+Remote link unit: These data broadcast link units have
+been preloaded with one-time pad security measures, advanced stealth circuitry, and sophisticated
+data progression algorithms. Two of these links
+can allow a user to maintain contact with a remote
+data storage unit. The connection is too “stiff” to
+allow for easy hacking, however, and it applies a
+-2 penalty to any attempts to hack through it. Professional-grade security systems often have means
+to detect the broadcast of a remote link unit.
+
+Stiletto charge: These ancient Mandate-era polymorphic intrusion charges were originally made to allow Mandate agents to easily overcome primitive
+colonial data security measures. Each charge is a
+small interface plug the size of a human thumb.
+When used as part of a hack against a TL4 system,
+it causes the skill check to automatically succeed
+regardless of the difficulty. Without line shunts,
+however, the duration of the hack is still no more
+than the usual 1d4 rounds plus the hacker’s Program skill. These devices are single-use, and are
+prized so highly that they are almost always unavailable for conventional purchase. Favors to the
+right people and the looting of Mandate remnants
+are the only normal ways to acquire these devices.
+Storage unit: While conventional dataslabs have ample space to hold any reasonable amount of data,
+sometimes a party needs to store or acquire a truly
+huge dataset. This standard TL4 storage unit is a
+portable but clumsy case hardened against anything short of intentional damage with a firearm,
+capable of interfacing with a wide variety of hardware to receive and upload data. A single storage
+unit can hold a tremendous amount of data that
+has been carefully compressed and optimized for
+it. If the user is simply ripping a database off a
+network and stuffing it into the unit, it can absorb
+up to a small corporation’s complete files.
+Tightbeam link unit: Much like a remote link unit, a
+tightbeam unit uses a laser to connect via lineof-sight transmission. Unlike a remote link unit,
+there’s almost no chance for a conventional security system to detect this link, but it requires that
+the infiltrators get a clear line of sight between
+the unit and the receiving end. Commercial satellite reception units can be employed for skyward
+aiming at 500 credits/hour if a second land unit is
+unavailable, but indoor use is impossible.
+
+Foreign Protocols
+Most surviving human worlds continue to use a
+basic Mandate-derived communications protocol
+that ensures a minimal level of compatibility between hardware from different worlds. While the
+performance may not be ideal, tech purchased on
+one world should still be able to interface with the
+local tech on a different planet.
+Even so, a few worlds of a more xenophobic
+or isolated nature intentionally abandon this standard protocol in favor of their own. PC hardware
+on these worlds will not communicate with the
+local grid unless a PC with Program or Fix skills
+has a chance to reset the protocols to something
+compatible with local conditions. Such work usually takes at least a day to adjust all the gear the
+group might possess.
+
+GENERAL EQUIPMENT •73
+
+Pharmaceuticals
+
+Modern pharmaceuticals are usually applied as “stims”;
+small capsules that are pressed against the target’s skin
+for application. While a wide variety of common overthe-counter stims are available, the ones listed below
+are some particularly likely to be useful to adventurers.
+Many medical stims require a minimum level in the
+Heal skill to successfully apply them, while others add
+System Strain to the target as described on page 32. If a
+subject’s System Strain is too high already, the stim has
+no positive effect. Some of the combat stims below are
+usually illegal for civilian possession, but street sources
+are available at the prices given.
+Modern vacc suits and powered armor have medical ports that allow for applying stims and other medical treatment without removing the suit.
+Bezoar (Heal-1): A complex antibiotic cocktail, Bezoar
+is an effective default treatment for a wide variety
+of infectious diseases. When applied to a sufferer, roll 1d6; on a 1, this victim cannot be helped
+by Bezoar, while otherwise the affliction is cured
+within 24 hours. Each application of Bezoar adds
+1 System Strain to the target, and it cannot cure
+cancers, bioweapons, or congenital diseases.
+Brainwave (Heal-2): This psitech drug requires advanced TL5 facilities to compound, and the few
+remaining doses from pre-Silence periods are
+rarely available on the open market. Application
+of Brainwave gives a psychic 2 extra maximum
+Effort for one hour. At the end of that hour, they
+suffer 4 points of System Strain. If their Strain is
+maximized by this, they go unconscious for one
+hour. Only one dose can be active at a time.
+Hush (Heal-0): An extremely heavy neurotranquilizer,
+Hush leaves the subject awake and responsive to
+simple, untaxing commands. They cannot fight
+or communicate while affected by Hush, but will
+walk, eat, sit, and perform simple actions as directed by the last person to speak to them. A Hush
+dose lasts for an hour plus three per Heal level of
+the person applying the stim, and the subject retains no memories while under the effect. A subject must be immobilized or willing to be affected
+by Hush; violent physical movement immediately
+after application disrupts the neurological effects.
+Lift (Heal-0): A Lift stim augments and amplifies the
+body’s natural response to physical injury and exhaustion. This boost speeds natural recovery drastically and heals 1d8 plus the user’s Heal skill in
+hit points after five minutes of rest. Lift stims do
+not work on PCs who are mortally wounded; they
+need to be stabilized before the Lift can help them,
+though application to a stabilized target will get
+them back on their feet and active again. Each application adds 1 System Strain to the target. Each
+additional application of Lift to a target the same
+day increases the minimum Heal skill needed by 1.
+
+Pretech Cosmetic (None): Before the Silence stims existed for a host of cosmetic, hygiene, and health
+purposes. While these effects are trivial, the basic
+pretech stim substrate also works to heal 1d6 lost
+hit points in the user at a cost of 1 System Strain.
+Psych (None): A military drug duplicated in rougher
+form by many street chemists, Psych fills the user
+with an intense sense of confidence and reckless courage. Unfortunately, it also cripples their
+judgment regarding danger. A person affected by
+Psych immediately gains a Morale score of 12 and
+a +1 bonus on all skill checks, but will ignore cover
+during combat and cannot decide not to attempt a
+skill check after learning its difficulty. The effect
+lasts fifteen minutes, adds 1 System Strain to the
+user, and is highly psychologically addictive.
+Reverie (Heal-1): This very dangerous combat drug
+completely subdues the subject’s fear centers and
+adrenaline production, leaving them perfectly calm and relaxed even in the midst of mortal
+danger. Their reaction speed is much slower as a
+consequence, and they may act only on even-numbered combat rounds; so on the second, fourth,
+and sixth rounds and so forth. Any damage they
+suffer is doubled as well due to their lack of vigilance. Their perfect calm allows them to shoot as
+if on the target range, however, and they can make
+Dex/Shoot skill checks to hit a target instead of
+hit rolls; the difficulty is 7 at point blank, 9 at normal ranges, and 11 at long ranges for the weapon.
+The target’s Armor Class is ignored. Melee attacks
+made under Reverie always hit. Reverie lasts for
+ten minutes and adds 2 System Strain to the target.
+Squeal (Heal-1): This “truth serum” is unreliable but still
+one of the best available options for field interrogations. The subject must be immobilized or willing to be affected by it. For five minutes afterwards
+they will be unable to avoid answering questions
+about facts known to them; they will be unable
+to exercise anything resembling a hypothesis or a
+judgment, but they will answer specific questions
+about facts known to them truthfully. Unwilling
+victims can attempt a Physical saving throw; on
+a success, they can simply refuse to speak about
+one particular topic of their choice. Targets pass
+out for 1d6 hours after the drug wears off and are
+immune to it for a week thereafter.
+Tsunami (Heal-1): An emergency combat stim used to
+juice certain expendable soldiers before an assault,
+Tsunami fills them with a reckless disregard for
+pain and an intense aggressiveness. The short
+effect duration and difficult application limits its
+wider use, however. Subjects gain a Morale score
+of 12, 10 extra hit points for ten minutes and a +2
+bonus on all hit rolls. At the end of the duration,
+they immediately lose those 10 hit points, which
+may leave them mortally wounded. Each application adds 2 System Strain to the target.
+
+74• GENERAL EQUIPMENT
+
+Tools and Medical Gear
+
+While a skilled technician or expert physician can
+make do with improvised tools scrounged from their
+surroundings, most adventurers prefer to be better-equipped to face unavoidable perils. Most of these
+tools and medical supplies are available on any TL4
+world, though pretech toolkits usually require excellent
+personal contacts to obtain.
+Bioscanner: While an untrained user can use this tool to
+discern internal bleeding, gross physical distress,
+or toxins in a plant or animal, it requires Heal-0
+skill to use this tool to its fullest. Such operators
+can use the bioscanner for a full spectrum of diagnosis and DNA sequencing achievable in minutes. One type A power cell will power it for up
+to twenty-four hours of regular usage.
+Lazarus patch: A vital tool for adventurers, the lazarus
+patch is a heavy compress laced with antibiotics,
+coagulants, system stabilizers, plasma, and a oneshot diagnostic suite. If the patch is applied to a
+character that has fallen to 0 hit points, the user
+can make an Int/Heal or Dex/Heal skill check
+against difficulty 6 to stabilize the subject. The
+more time between injury and application, the less
+chance the patch has to work. Each round after
+the first, an additional -1 penalty is applied to the
+skill check. The patch is no use after six rounds. If
+the medic fails the first skill check, they can keep
+trying the check once per round until the victim
+is revived or time runs out.
+Lazarus patches are no use on victims that
+have died of disease, poison, or have been mangled beyond surgical repair by Heavy weapons or
+similar trauma. Only one patch can be applied to
+a victim. Revived victims are critically wounded
+until sufficient medical help has been tendered;
+see the Systems chapter for details.
+Medkit: Containing a broad supply of pharmaceuticals, spray bandages, glue sutures, and a succinct
+handbook of injury care, the medkit is designed
+for handling sudden and drastic injuries. It also
+contains all the necessary tools for providing
+long-term recuperative care for critically injured
+characters. After each day of granting long-term
+recuperative care, roll 2d6 per patient treated; on
+a 12, the kit has run out of some vital pharmaceutical and has become useless.
+Metatool: This wrist-mounted housing contains a myriad of small, useful tools designed to handle the
+widest possible range of technical needs. While
+a metatool is too limited to handle major jobs, it
+is usually sufficient to manage jury-rigged repairs
+and temporary fixes until the tech has time to apply a larger wrench to the problem.
+Spare parts: This is a general category for a number
+of small TL4 components and repair materials.
+While a simple toolkit or metatool is often enough
+
+to fix a damaged object, severely broken devices
+may need replacement parts. Rather than keep a
+catalog of bits and pieces, a technician can simply
+bring along one or more units of spare parts, subtracting one whenever the GM decides that a repair effort requires more than existing salvage can
+support. A unit of spare parts can also be used to
+jury-rig some basic, uncomplicated tool or weapon from the equipment list with ten or fifteen
+minutes of assembly and at least Fix-0 skill. Such
+bodged devices rarely last longer than one scene.
+Tailored Antiallergens: A dose of tailored antiallergens
+can be used to render a local world’s organics largely edible by humans and its atmosphere breathable
+without severe allergic reactions. While many
+worlds have been seeded with Terran life forms or
+have produced organics that are edible by humans,
+others are toxic without the appropriate chemical
+augmentation. A dose of these antiallergens lasts
+for twenty-four hours.
+Toolkits: Containing a wide range of necessary tools for
+a particular skill set, toolkits can handle almost
+any job that doesn’t require a full-scale shop or lab.
+A standard postech toolkit can handle electronics,
+small welding jobs, and basic repair on ordinary
+TL4 goods. More sophisticated pretech tools are
+necessary for working on advanced TL5 artifacts,
+and the tools themselves are very rare and difficult
+to obtain.
+
+Building New Tech
+In a science-fiction game, it’s often difficult to figure out the limits of ad-hoc tech. When the limits
+of technology often seem to be based on genre
+rather than physics it can be tough to make the call.
+Most of the time, it’s simply not practical for
+a technician to devise dramatic new tech without
+the use of a full-scale research facility.
+Even so, sometimes a PC will ask to build
+something that creates a particular effect that
+seems in line with other gear of a similar tech level.
+A hologram-emitting “grenade”, a jury-rigged set
+of infrared goggles, an explosive that detonates if
+background radiation drops below a certain level…
+these things match known TL4 tech.
+In these cases, the GM should set a plausible-seeming price in credits or spare part units,
+assign a time ranging from fifteen minutes to a
+month based on the complexity of the tech, and
+roll a secret Int/Fix check against a difficulty from
+8 to 12. When the tech is actually used, the skill
+check determines whether it functions or not.
+Most such jury-rigged tech works only once,
+being too fragile or quirky to last more than a
+scene. Repeated refinement and testing may allow
+for a more lasting piece of equipment.
+
+GENERAL EQUIPMENT •75
+
+Field Equipment
+
+When venturing into the trackless void every adventurer is going to need the right hardware to survive
+the experience. The field equipment in this section includes some of the more common technology favored
+by explorers and fearless investigators of alien worlds.
+The TL5 equipment listed here can usually be found for
+sale on populous worlds with an active commerce in
+pretech relics, but smaller or more backwards worlds
+may not have any of it available.
+Atmofilter: This face mask can filter out most atmospheric toxins. Attaching a standard vacc suit oxygen bottle to a belt-mounted feed will also supply
+a breathable atmosphere for up to six hours.
+Backpack: TL4 versions of this item are effectively
+without encumbrance, albeit they cost 50 credits.
+A worn backpack counts as a readied item, though
+objects stowed inside it still require the usual
+round to dig free. Characters without backpacks
+or similar carrying devices might have difficulty
+justifying the hauling of large amounts of gear.
+Binoculars: Standard 7x50 binoculars. TL4 versions are
+available that have integral low-light optics and
+up to 25x150 power. TL 4 binocs cost 200 credits
+and require a type A power cell for up to a week
+of regular usage.
+Climbing harness: A collection of straps, ropes, pitons,
+and other climbing aids that grant a +1 bonus on
+any Exert climbing skill test. Using a climbing
+harness is noisy, and any Sneak skill checks while
+climbing with one suffer a -2 penalty.
+Glowbug: A palm-sized disc that can adhere to any
+non-porous surface. When turned on, it emits
+a white light, illuminating everything within ten
+meters for twenty-four hours. A hundred glowbugs can be recharged off a single type A cell.
+Grapnel launcher: This launcher fires a rope up to forty meters. The rope can bear up to a metric ton
+of weight, though extremely heavy weights or a
+precarious hit can cause the grapnel to pull free. A
+Type A power cell fuels six shots from a launcher.
+Grav chute: When this cylinder is strapped to a person
+or object and activated, it smoothly modulates falling speeds for up to 1000 meters. The chute can
+safely slow up to 300 kilos of weight. TL5 versions
+can operate from orbital heights and cost 1,000
+credits, where they can be found at all. Both versions burn out after one use.
+Grav harness: This advanced gravitic harness allows
+clumsy flight at a rate of 20 meters per round as
+a Main Action. It requires a Type B power cell
+to fuel it, and the miniaturized electronics are
+rapacious, consuming the cell in five minutes of
+operation. It can lift up to 200 kilos.
+Instapanel: In its compressed form, an instapanel is a
+two-kilo cube of ceraplast five centimeters on a
+side. When a type A power cell is inserted in the
+
+cube’s side, it immediately expands to an opaque,
+waterproof ceraplast sheet 2 meters on each side
+and a centimeter thick. Five minutes later the ceraplast hardens into a tough, rigid shape, but until
+then it can be folded or bent by hand. Instapanels
+can be bonded to one another with a metatool or a
+toolkit. Breaking an instapanel requires inflicting
+at least twelve points of damage on it.
+Low-light goggles: These goggles provide a monochrome but serviceable view out to the wearer’s
+normal visual distance, provided that there is any
+illumination available at all. A type A power cell
+will operate these goggles for a week.
+Navcomp: A combination of low-tech compasses, automappers, astronomic charts, and gyroscopes
+packed into a flat, one-kilo case. A character with
+a navcomp will never get lost on worlds with GPS
+satellites. They can also make a crude but serviceable automatic map of all buildings or landscapes
+they travel through. Other terrestrial navigation
+skill checks are made at a +1 bonus.
+Portabox: A small cube of ceraplast attached to an electronic keycard. When a type A power cell is inserted, the portabox immediately unfolds into a
+rigid locker with 1.5 x 1 x 1 meter dimensions.
+The portabox is air-tight and has a simple electronic lock which can only be opened with the
+keycard or a successful difficulty 8 Sneak or Fix
+skill check. Failing the check will cause the lock
+to short-circuit and seal the box until it can be cut
+open with a metatool or broken open with twenty
+points of damage.
+Pressure tent: This tent maintains a breathable atmosphere, tolerable temperature and serviceable
+sleeping quarters for up to five very friendly occupants. Advanced filtration and cracking tech
+allows a single standard vacc suit oxygen tank to
+provide breathable air for the occupants for up to
+24 hours. The tent requires a type A power cell for
+each day in which this filter is employed.
+Rations: Dried or otherwise preserved foodstuffs sufficient for one day. If water is not otherwise available, add another item’s worth of encumbrance
+for the water necessary for a person’s daily needs.
+Rope: Light and sturdy. A metatool can be used to cut
+and join the synthetics used in TL4 rope, which
+counts as one encumbrance item per 40 meters
+and costs 40 credits.
+Scout report: A collation of survey scans and merchant
+reports on a particular lost world or isolated colony. Scouting reports are available for all but the
+most unknown worlds and provide maps, basic
+information, and note any critical cultural taboos.
+Survey scanner: A multipurpose scanner that can take
+atmospheric and gravitic readings, provide basic
+chemical analysis of samples of up to one cubic
+centimeter in size, and record up to two hundred hours of video information or ten times that
+
+76• GENERAL EQUIPMENT
+amount of audio. Know skill checks are necessary
+for any but the most basic analysis.
+Survival kit: A standard belt-worn kit with fire lighter,
+water filter, three thermal flares, knife, thermal
+blanket, a brightly-colored 3 x 3 meter waterproof
+tarp, a glowbug, and a radio beacon that can transmit a distress signal up to fifty kilometers for one
+month on the included type A power cell. Survival
+kits sold on a particular world will usually also include a small booklet on specific dangers or edible
+organics. Possession of a survival kit grants a +1 to
+all relevant Survive skill checks, assuming its contents are helpful on a given planet. Survival kits
+are well-organized, and count as only one item for
+encumbrance purposes.
+Telescoping pole: Retracting to a 30-centimeter baton,
+this pole extends and locks into a 3.048-meter
+extension that can bear as much as a thousand
+kilograms of weight or serve as a makeshift club.
+Thermal flare: If triggered in one mode, the flare burns
+with a bright white light for two hours, illuminating up to twenty meters around the holder. If the
+guidance fins are extended first, the flare launches
+up to 200 meters and explodes in a bright white
+flash. A launched flare does 1d6 damage to anyone
+it hits, though the clumsy flight gives a -4 penalty
+on any attempts to hit something with it.
+Trade goods: Glowbugs, ceramic fire lighters, antibiotics, ceraplast tools, and the other fruits of a
+TL4 civilization that might be valuable on more
+primitive worlds. A kilo of trade goods can usually
+be traded for at least a hundred credits worth of
+local products on more primitive worlds that are
+not well-served by interstellar merchants. The
+profit margin shrinks rapidly as interstellar trade
+becomes more common, and there is always the
+difficulty of finding local products that are actually
+worth a merchant’s journey.
+Trade metals: The fruit of common TL4 asteroid mining, trade metals include gold, platinum, artificial
+gemstones, and other substances precious on
+many lost worlds and trivially valuable on spacefaring ones. A kilo worth of trade metals can
+be exchanged for as much as a thousand credits
+worth of local products on metal-poor worlds isolated from interstellar trade. Markets flood rapidly,
+however, and it usually doesn’t take more than a
+few merchant trips to persuade the locals to demand trade goods or credits.
+Vacc fresher: This three-kilo tube filters and compresses atmosphere to refill vacc suit oxygen tanks. It
+can extract oxygen from any atmosphere which
+contains it, even in the form of carbon dioxide.
+Refilling a standard vacc suit tank requires ten
+minutes of operation and consumes one type A
+power cell. Most vacc freshers are also equipped
+with an emergency hand crank power source,
+though it requires at least two hours of cranking.
+
+Local Brands
+The equipment described in this section matches
+standard TL4 hardware from the average modern
+space-faring world. A PC who buys a generic vacc
+suit can expect it to work the way it’s listed here.
+Not all worlds have identical tech, however,
+even if they share a tech level. Planets with particular natural hazards or technological focuses often have significantly better tech for dealing with
+these things than their neighbors, while worlds
+that lack vital resources or industrial infrastructure might have considerably worse gear.
+As the GM, don’t hesitate to brew up local
+tech that can be used as a reward for PCs or a
+special buying opportunity. The gear might grant
+skill bonuses, function longer, do more damage,
+have an AC bonus, or offer some other perk. Such
+unique hardware can add flavor to a world’s tech.
+Vacc suit: The standard TL4 vacc suit is designed to
+allow the wearer to survive in both hard vacuum and on most inhospitable planetary surfaces.
+The suit protects against ordinary levels of cosmic
+radiation and provides a temperature-controlled
+atmosphere. Vacc suits are equipped with radios
+that have a ten-kilometer range. A vacc suit oxygen tank weighs 1 encumbrance, included with
+the weight of the suit, and functions for six hours.
+Vacc suits are cumbersome, and apply a -2
+penalty to all hit rolls and skill checks that require movement. Those with at least a month of
+zero-gee experience can ignore this penalty. No
+armor can be worn with a vacc suit, though the
+suit itself grants AC 13 to its wearers. A vacc suit
+requires one type A power cell for each twelve
+hours of operation.
+Vacc suits have a self-healing exterior that
+can seal the puncture wounds caused by bullets,
+arrows, or energy beams, but a strike from an
+edged weapon can overwhelm the repair system.
+If a character with 10 or fewer hit points is struck
+by an edged weapon, there is a 50% chance the suit
+is torn. Suits are equipped with emergency repair
+patches, but it requires a Main Action to apply one.
+Exposure to vacuum is described on page 58.
+Vacc skin: A more advanced TL5 version of the vacc
+suit, this skin-tight suit can be worn as a readied
+item in conjunction with armor, though it grants
+no Armor Class bonus itself. It requires no oxygen tank, automatically cracking and recycling
+the wearer’s respiration, and can even recycle the
+wearer’s bodily waste into drinkable water if necessary. Vacc skins apply no penalty to hit rolls or
+skill checks for wearers. It suffers tears in the same
+way as a normal vacc suit, and requires a type A
+power cell for each 24 hours of operation.
+
+LIFESTYLES, EMPLOYEES, AND SERVICES •77
+
+LIFESTYLES, EMPLOYEES, AND SERVICES
+Adventurers who spend much time in a place are likely
+to need to buy food, shelter, and the usual trifles of
+daily living. Rather than itemize each expense, a PC
+can simply spend an fixed amount for each day they
+spend living outside of a ship’s crew, barracks, or other
+arranged living situation.
+Slum lifestyles reflect bare minimums for survival,
+with scanty food, a corner in a squat somewhere, and
+little else. Poor lifestyles involve barracks-like quarters,
+public transport, and small and infrequent luxuries.
+Common lifestyles usually allow for a private urban
+apartment or rural home, a rented personal vehicle, a
+respectable wardrobe, and regular small indulgences.
+Good lifestyles permit a private urban townhouse or
+similar dwelling, a spacious rural home, a better grade
+of personal vehicle, and the ability to indulge in minor
+expenses such as restaurants or clubs without concern.
+Elite lifestyles allow for entire floors of luxury buildings
+or rented rural estates, drivers and on-call gravflyers,
+
+personal staff, and similar perks. Peerless lifestyles are
+similar to that of pampered celebrities and oligarchs,
+with round-the-clock staff service, free entrance into
+the most exclusive locales, and the best of everything.
+Prices given here assume short-term rentals and
+contracts, plus the inevitable premium charged to outsiders in almost any society. Natives might be able to
+enjoy a given level of lifestyle for only half as much,
+but such savings usually rely on a local’s connections.
+
+PCs will sometimes need to hire help, and GMs occasionally need to know what constitutes a “good wage”
+for a local NPC. The prices to the right reflect daily
+wages for NPCs with level-0, level-1, and level-2 skill
+ratings in their relevant professional skills. More talented employees cannot normally be obtained without
+special effort in finding and recruiting them.
+Psychics are both rare and expensive to hire. Even
+if one can be found, they rarely charge less than 200
+credits per day per psychic skill level to be employed.
+Employees will carry out ordinary duties without
+demur, but will be no braver or more dedicated than
+their pay and connections would make them.
+
+Employee
+Artist
+Programmer
+Doctor
+Guard
+Lawyer
+Prostitute
+Psychic
+Scientist
+Technician
+Unskilled Labor
+
+Wage/day
+3/10/100
+10/30/100
+50/100/400
+10/20/150
+10/25/400
+2/10/200
+Special
+10/30/100
+10/30/100
+2/8/15
+
+Adventurers often need to obtain certain services or
+concessions from the locals, and the list to the right
+provides prices for some of their more common needs.
+Bribe prices often vary depending on a planet’s
+general level of corruption, but the prices here are normal for most. Minor crimes usually involve anything
+that would only earn a fine or a few months in jail.
+Major crimes include most felonies and anything that
+would earn years in prison. Capital crimes are any that
+would get a culprit executed on the world. Particularly blatant or sensitive offenses might be impossible to
+solve with mere bribery, though the right “special favors” to the right officials might win a reprieve.
+Forged identity papers include high-quality documentation with the appropriate false database entries.
+They’re good enough to survive checkpoints and security stops, but they won’t hold up to a serious check by
+a suspicious bureaucrat.
+
+Service
+Bribe, minor crime forgiveness
+Bribe, major crime forgiveness
+Bribe, capital crime forgiveness
+Forged identity papers
+Intensive medical care
+Mail message, interstellar
+Mass transit weekly pass
+Rent a TL4 workshop
+Rent a groundcar
+Starship passage, steerage
+Starship passage, good
+Starship cargo shipping, per kilo
+Wildly decadent party
+
+Cost
+50
+500
+5,000
+500
+200/day
+1/hex
+2
+100/day
+15/day
+500/hex
+1,000/hex
+25/hex
+100/person
+
+Lifestyle
+Slum
+Poor
+Common
+Good
+Elite
+Peerless
+
+Cost/day
+5
+10
+15
+25
+200
+1,000
+
+78• VEHICLES
+
+VEHICLES
+Most modern TL4 worlds rely on electrically-powered
+gravitic vehicles. Whether in the ubiquitous gravcar,
+hovercycle, or high-altitude gravflyer, cleared roadways carry the traffic of countless worlds. On rougher
+worlds, the roads may not even be paved, instead relying on a gravitic vehicle’s high clearance to avoid holes
+and rough debris.
+Less sophisticated worlds are still reliant on internal-combustion engines. Many worlds have sufficient
+local resources to fabricate some kind of combustible
+fuel, but a few are so impoverished that they lack even
+this minimal resource. Such worlds must rely on muscle power for transport, either that of alien beasts or
+humble human porters.
+
+Vehicle Statistics and Combat
+
+Vehicles are generally powered by type B power cells on
+TL4 worlds. More primitive planets are usually forced
+to use some form of biofuel unless they’re fortunate
+enough to have a supply of fossil fuels. Vehicles require
+one cell or one refueling per six hours of operation,
+assuming they don’t have convenient power access.
+Vehicles are generally limited to reasonably flat,
+dry terrain. Grav vehicles such as hovercycles can ignore rough terrain and calm water, as can ATV explorers. Most grav vehicles can boost more than 10 meters
+above the ground or water; gravflyers are purpose-designed aircraft capable of hovering and VTOL.
+Speed is an abstract measure of the vehicle’s speed
+and agility. When vehicles chase each other, the opposing vehicle’s Speed should be applied as a penalty
+to Pilot skill checks to close or escape. Speed may also
+be used as a modifier when attempting difficult maneuvers or trying to avoid a peril on the road.
+Armor is subtracted from all weapon damage done
+to the vehicle. Armor does not apply to damage done
+by Heavy weaponry; such guns are often designed to
+take out vehicles. Gravtanks in particular are immune
+to anything short of TL4 Heavy weapons, while less
+sophisticated tanks are immune to anything below TL3
+Heavy ordnance.
+Vehicle
+Motorcycle
+Groundcar
+Hovercycle
+Gravcar
+ATV Explorer
+Helicopter
+Atmoflyer
+Gravflyer
+Gravtank
+
+Cost
+1,000
+5,000
+5,000
+20,000
+15,000
+25,000
+30,000
+40,000
+200,000
+
+Speed
+1
+0
+2
+2
+0
+3
+4
+5
+2
+
+Actually hitting the vehicle is automatic if the
+vehicle is stationary and within 30 feet. Hitting a vehicle-sized target from beyond that range requires an
+attack against AC 10. If the target is moving, subtract
+its Speed from the hit roll, and if the attacker is in a
+moving vehicle as well, also subtract their Speed.
+Hit Points indicate the amount of damage a vehicle
+can take before it is destroyed. Speed is reduced by half
+when the vehicle is at half hit points, and flying vehicles
+must land at the first opportunity. A vehicle reduced to
+zero hit points forces all crew and passengers to make
+Physical saving throws. Failure means that the passenger takes the vehicle’s maximum hit points in damage,
+while success reduces the damage by half.
+Crew gives the maximum number of vehicle occupants. For the listed vehicles, only one crew member is
+actually necessary to drive or pilot the vehicle, though
+additional crew members may be required to fire.
+Tonnage is the shipping weight of the vehicle for
+ship loading purposes.
+Tech Level indicates the minimum tech level for
+constructing the vehicle. Vehicles can be built at higher
+tech levels for better performance, but most worlds
+prefer to simply build more advanced vehicles.
+
+Vehicle Weaponry
+
+Most vehicles larger than a motorcycle or hovercycle
+can mount some kind of integral weapon. Groundcars
+and gravcars can mount one weapon, while ATVs,
+helicopters, atmoflyers, and gravflyers can mount two.
+Gravtanks are specialized weapons platforms, and can
+mount six.
+Heavy weapons take up more space than ordinary
+ranged weapons, and each such system takes up the
+space of two lesser guns.
+Every weapon requires its own gunner, and all
+mounted weapons use Shoot as the firing skill, though
+the GM might allow Pilot to be used for a nose-mounted weapon aimed by the operator. Gravtanks are
+equipped with advanced targeting systems, and all of
+their weapons can be targeted and fired by one gunner.
+
+Armor
+4
+6
+3
+4
+8
+6
+8
+8
+Special
+
+HP
+10
+30
+10
+25
+40
+20
+25
+25
+50
+
+Crew
+1
+5
+1
+5
+8
+6
+6
+6
+3
+
+Tonnage
+1
+10
+1
+10
+25
+50
+50
+50
+50
+
+TL
+3
+3
+4
+4
+3
+3
+3
+4
+5
+
+VEHICLES •79
+
+Types of Vehicles
+
+Every world has its own brands of common vehicles,
+but the types below cover the more usual models. The
+prices given for each reflect a mid-range new vehicle
+sold to a PC with few local contacts. Natives who know
+the right people or are willing to buy used or “quirky”
+vehicles might be able to get one at half that price.
+
+Motorcycles can navigate urban terrain that would
+block larger vehicles, but more rural landscapes can
+prove more difficult. Hovercycles are the TL4 equivalent, capable of brief boosts of up to 10 meters above
+the ground and the easy navigation of all but thick forests or sheer slopes.
+Groundcars are the TL3 analogs of the vehicles
+commonly in use on 21st-century Earth, allowing for
+some minor variations in electronics and capabilities.
+Primitive buggies of various kinds are found even on
+higher-tech worlds, thanks to their ease of construction
+and maintenance compared to the delicate gravitics of
+more modern vehicles.
+Gravcars are the standard personal vehicles of
+most TL4 worlds, though most lower-class citizens
+rely on public transport in urban areas. Most advanced
+worlds have planetary transit grids that allow occupants to simply code in a destination and let the car take
+them there. On worlds where a lack of infrastructure
+or hostile local conditions preclude such convenience,
+manual controls and Pilot skill can be used.
+ATV Explorers are rugged vehicles, either wheeled
+or tracked, and driven by type B power cells or locally-available biofuels. While they can’t navigate rough
+
+terrain as easily as a grav vehicle, they’re designed
+to take a tremendous amount of punishment before
+breaking down and support repairs using basic tools
+and frontier expedients.
+Helicopters are used on TL3 worlds where a lack
+of airfields or treacherous local terrain prohibits the
+use of fixed-wing craft. Their ability to hover over an
+area or drop onto a tightly-constrained landing zone
+makes them particular favorites of quick-response military forces and groups in need of fast fire support. This
+model represents a medium-weight civilian craft that
+might be repurposed by militia or adventurers.
+Atmoflyers are the fixed-wing aircraft used on
+planets too primitive to have developed gravitic technology. Faster and simpler to maintain than comparable helicopters, they can also carry more cargo on most
+worlds. The need for clear, hard terrain for landing and
+take-off limit their use on some rugged worlds. The
+model here is meant to represent a small personal jet.
+Gravflyers are the usual long-distance transport
+on most TL4 worlds. Large enough to support the gravitics required for true flight, a few models can even
+reach low orbit. All can hover and climb with typical
+gravitic ease. This particular gravflyer is a small craft
+suitable for a affluent owner and their family.
+Gravtanks make up the bulk of a prosperous TL4
+world’s armored forces. Private ownership is strictly
+forbidden on most worlds, but “export models” often
+can be acquired for transport offworld. Gravtanks have
+armor heavy enough to ignore all damage from conventional small arms, and can only be harmed by Heavy
+weapons or properly-placed demolitions charges.
+
+80• DRONES
+
+DRONES
+In the far future, it’s often more convenient to send
+an expendable grav-flying probe into danger before
+venturing less repairable assets. Well-prepared adventuring groups often have reason to pack along a drone
+or two for exploring and aerial recon.
+Military use of drones is limited by the ubiquitous
+use of quantum ECM. The easy confusion of electronic
+navigation makes it impossible to control an unwired
+drone remotely on a modern battlefield or in proximity
+to important civil structures, but in the alien wilds or
+away from urban centers, drones remain a feasible tool
+for explorers and conquerors of primitive militaries.
+
+Piloting a Drone
+
+Piloting a drone requires either a cybernetic drone control link as described on page 83 or a handheld control
+unit that comes with the drone. A control link can pilot
+up to one drone plus the user’s Program skill at any
+one time. Handheld units can pilot only one. Drones
+consume one type A power cell for every hour of use.
+A pilot must spend their Main Action each round
+to command the drone to either move or shoot. Uncommanded drones remain stationary if piloted via
+control link, while handheld units run a 2-in-6 chance
+of crashing a drone if the operator fails to control them.
+In combat, drones fly at 30 meters per round on
+their pilot’s turn in combat. Out of combat, they can
+manage up to 100 kilometers per hour.
+Spotting a drone at observation range is a Wis/
+Notice skill check at difficulty 10. A drone close enough
+to engage a target can be spotted at difficulty 8. Any
+secure facility will have sensors capable of detecting
+a civilian drone as soon as it gets within observation
+range, unless the drone has stealth fittings.
+
+Drone Combat
+
+A drone’s pilot can activate up to one weapon the drone
+is carrying as part of their Main Action to control it
+each round. Weapons all use Intelligence as the controlling attribute, and use the better of the pilot’s Pilot
+or Program skills as the relevant weapon skill. The
+drone shoots using the pilot’s base attack bonus.
+Drone Model
+Primitive Drone
+Void Hawk
+Stalker
+Cuttlefish
+Ghostwalker
+Sleeper
+Pax
+Alecto
+
+Cost
+250
+5,000
+1,000
+2,000
+3,000
+2,500
+10,000
+50,000
+
+Fittings
+1
+4
+3
+5
+2
+4
+4
+4
+
+Drone Types and Statistics
+
+Each drone has a cost, a maximum number of fittings,
+an Encumbrance weight for carrying it along, a hit
+point rating, a maximum control range, and a minimum tech level. Drones may be attacked as any other
+object and will crash once reduced to zero hit points.
+Primitive drones represent the best flying portable
+drone technology for TL3 worlds. While fragile, weak,
+and short-ranged, they are also relatively cheap.
+Void Hawks are unique in being built specifically for deep-space use. Unlike other drones, they can
+operate perfectly well in space, though they only have
+the range to reach relatively adjacent ships or objects.
+Stalker drones are the default TL4 workhorses of
+drone-kind and are available on most modern worlds.
+Cuttlefish are specifically designed for aqueous use,
+and function only in a liquid medium. The support of
+the liquid allows them to carry significantly more fittings, but the need for a sonar-based navigation system
+limits their available range.
+Ghostwalkers are stealth drones, fabricated from
+radar-transparent materials. They have an integral Sensor Transparency fitting and the sensor difficulty to spot
+them is 11 instead of 9.
+Sleeper drones are built to tarry on station for
+long periods. They have the Stationkeeping fitting as
+an integral part of their design, and when hovering
+their power use slows to a trickle. One day of hovering
+draws only five minutes worth of power from its cell.
+Pax drones are some of the most common pretech
+drones remaining in existence, as they were favored by
+the Mandate Fleet for pacifying troublesome worlds
+that lacked quantum ECM. While primitive by pretech
+standards, they still far excel most modern drones.
+The Alecto model of drone examples one way that
+pretech scientists attempted to sidestep the limits of
+quantum ECM on the modern battlefield. Every Alecto
+is a full-fledged VI, an expert system so sophisticated as
+to seem almost sentient. Its self-reinforcing cognition
+allows it to operate even when cut off from external
+signals by quantum ECM. Salvaged Alectos have all
+exhibited “female” personalities.
+AC
+12
+14
+13
+13
+15
+12
+16
+18
+
+Enc
+2
+6
+2
+2
+3
+2
+4
+4
+
+HP
+1
+15
+5
+10
+1
+8
+20
+30
+
+Range
+500 m
+100 km
+2 km
+1 km
+5 km
+100 km
+100 km
+5000 km
+
+TL
+3
+4
+4
+4
+4
+4
+5
+5
+
+DRONES •81
+
+Drone Fittings and Repair
+
+Aside from the basic drone chassis, operators can attach
+different fittings to a drone to add additional capabilities. Once attached, a fitting cannot be removed without causing severe structural damage to the drone. If
+a drone is destroyed, all fittings are destroyed with it.
+If a drone is damaged, it can be repaired fully with
+one unit of spare parts per five hit points lost and an
+hour’s work by someone with at least Fix-0 skill.
+Ammo Unit: The drone carries one power cell or magazine worth of ammunition for each of its onboard
+weapons, whether single or multiple. The operator can reload an ammo unit as a Main Action.
+Bomber: The drone is fitted to drop up to two grenade-sized explosives, one or both in lieu of a different weapon attack. Dropping a grenade from
+more than 30 meters up automatically causes the
+grenade to scatter from its intended target point.
+Environmental Power: The drone draws operating
+power from sunlight or thermal variances. It can
+operate indefinitely so long as it can draw power
+from its environment.
+Expert System: The drone is loaded with sophisticated self-piloting software. It can be given a flight
+plan by its operator, have targets designated for
+its weapon, and respond to simple environmental
+cues. Each new command takes up a Main Action and commands with any conditional states
+may require an Int/Program skill check to get the
+drone to understand. The drone can fire only one
+weapon per round and uses a total attack bonus of
++2 if attacking autonomously. Quantum ECM will
+scramble this lightweight system.
+Extended Flight: The drone can now carry a second type
+A cell to fuel its flight. This fitting can be taken
+multiple times to further extend its range.
+Grav Muffles: The drone is made exceptionally quiet in
+operation. It is now inaudible by ordinary hearing
+from more than five meters away.
+Heavy Lift: While most drones can lift no more than
+a kilogram of excess weight, the drone’s gravitic
+units have been upgraded to carry up to twenty
+kilos of cargo. This can be fitted multiple times.
+Holoskin: The drone can drop a filmy hologram over itself, one convincing at a distance. The difficulty of
+visually spotting the drone becomes 10 at weapons
+range or 12 at observational range. Weapons fire
+always draws attention.
+Medical Support: The drone can be loaded with up to
+a dozen units of medication, whether stim doses,
+lazarus patches, or less benevolent substances. It
+can launch a medication through a remote injector
+at a target within ten meters in lieu of a weapon
+attack. Immobile or willing targets are hit automatically, while hostiles require a normal hit roll.
+The drone is treated as having Heal-0 skill or the
+active pilot’s Heal skill, whichever is higher.
+
+Drone Fittings
+Ammo Unit
+Bomber
+Environmental Power
+Expert System
+Extended Flight
+Grav Muffles
+Heavy Lift
+Holoskin
+Medical Support
+Observation Suite
+Racing Gravitics
+Reinforced Structure
+Sensor Transparency
+Stationkeeping
+Suicide Charge
+Weapon Fitting
+
+Cost
+250
+500
+4,000
+5,000
+250
+2,000
+2,000
+3,000
+2,000
+250
+2,000
+1,000
+5,000
+1,000
+250
+1,000
+
+TL
+4
+3
+4
+4
+3
+4
+4
+4
+4
+3
+4
+4
+4
+4
+3
+4
+
+Observation Suite: All drones are wired for basic camera
+and sound, but this suite contains a full-spectrum
+UV/IR visual package, remote sound sensors, and
+radiation/chemical detectors. The drone can focus
+on conversations or facial expressions from up to
+2 kilometers away and can operate even in the
+complete absence of visible light.
+Racing Gravitics: The drone is tuned for extra speed. Its
+flight endurance is halved, but it can now move
+up to 60 meters per combat round and fly at up to
+200 kph out of combat.
+Reinforced Structure: The drone is equipped with
+heavier plating and a sturdier internal frame. Its
+hit points are increased by 50%, rounded up.
+Sensor Transparency: The drone is sheathed in anti-radar composites. Ordinary sensors will not detect it
+at observation range, and high-end military sensors can spot it only on an Int/Program check at
+difficulty 9.
+Stationkeeping: The drone does not need to be constantly controlled; when the operator does not
+spend a Main Action to pilot it, it simply remains
+stationary. If equipped with an Observation Suite,
+it can ping the operator if any anomalous reading
+is obtained.
+Suicide Charge: The drone is loaded with a demo charge
+as per page 69. The operator can trigger it as an
+attack, but unless they can move the drone in by
+surprise, the approach will always give onlookers
+a chance to spot it before it gets within range.
+Weapon Fitting: The drone can be mounted with 1
+encumbrance worth of ranged weaponry, which
+must be purchased separately. This fitting may be
+taken more than once to mount more weapons
+or heavier weapons. The weapon requires one or
+more ammo units to feed it.
+
+82• CYBERWARE
+
+CYBERWARE
+Postech medical science and neural interface technology are sophisticated enough to meld metal and flesh
+into a coherent whole. The creation of advanced cyberware is not beyond the theoretical capability of TL4
+societies, and pretech worlds can produce cyberware
+of such sophistication as to blur the lines between organism and artifice.
+Yet cyberware is rarely available on most worlds,
+even those with the nominal technology level to support it. The advantages that cyberware can give a user
+are great, but the cost of building, fitting, and implanting these devices is huge compared to simply buying a
+handheld device to do the same function. There are few
+buyers for a 15,000 credit ghost talker implant when a
+compad retails for a hundred credits.
+The market that does exist is largely for those few
+elite operatives and dignitaries who are willing to pay
+exorbitant sums for the smallest advantage. Most cyberware is custom-built for its users, and it can be an
+adventure in itself to find a lab capable of manufacturing an augmentation and successfully implanting
+it. Some worlds have industrialized the production of
+cyberware, however, making it much cheaper and in
+much wider circulation. Even then, these worlds rarely
+export much cyberware due to the heavy infrastructure
+necessary to fit and implant the wares. Those who want
+the tech will have to find such planets and do their own
+negotiations there.
+Aside from the difficulties of cost and scarcity,
+cyberware also taxes the wearer’s body. Each piece of
+cyberware comes with a System Strain cost as described
+on page 32, permanently adding that many points of
+System Strain to the user’s total. These points can never
+be lost unless the system is surgically removed. This
+permanent System Strain decreases the amount of
+psionic healing a character can sustain and can limit
+the effectiveness of healing and stimulant drugs.
+Some cyberware has an activation cost in System
+Strain. If a cost would push the character’s System
+Strain above their Constitution score, they cannot
+trigger the cyberware; their body just can’t handle the
+strain until it has had time to recover.
+Adrenal Suppression Pump: These endocrine pumps
+neutralize numerous brain chemicals in the user
+when activated while exciting the user’s perceptual centers. This combination produces a cold,
+dispassionate situational awareness that grants
+the user +2 on initiative rolls when the system is
+engaged. Most systems have built-in safety overrides to prevent psychological addiction and brain
+damage, allowing the unit to be used for no more
+than an hour each day. The user takes a -2 penalty
+on all social skill checks while the unit is active,
+and it requires five rounds to toggle it.
+
+Bioadaptation Augments: These additional synthetic
+organs and filters allow the bearer to survive in
+thin-atmosphere conditions, as well as tolerate
+temperatures ranging from Antarctic chill to
+heat sufficient to boil water. They can also eat a
+wide range of native life forms for sustenance; no
+normal planet’s native biology is ever considered
+immiscible for consumption.
+Body Arsenal Array: Some personnel need to be armed
+at all times without giving any indication of such.
+Improvised weaponry and conventional holdout
+weapons are useful enough against soft targets,
+but disabling a target in powered armor requires
+more. The details of the array vary from user to
+user, but usually act as advanced medium weapons
+that can be used with either Punch or Stab skills
+and at least one integral energy projector equal
+to a laser rifle, one that must be powered by an
+insertable type A power cell. Retracted body arsenals can be detected only by a medical examination.
+Body Sculpting: Not so much a single implant as a series of complex surgeries, body sculpting is available on many TL4 worlds with fairly advanced
+medical services. After a week of alterations and
+treatments a subject’s external appearance can be
+set within any human or near-human range, in-
+
+CYBERWARE •83
+Cyberware
+Adrenal Suppression Pump
+Bioadaptation Augments
+Body Arsenal Array
+Body Sculpting
+Dermal Armor
+Drone Control Link
+Eelskin Capacitor Mesh
+Gecko Anchors
+Ghost Talker Transceiver
+Holdout Cavity
+Holoskin Emitters
+Identity Submersion Trigger
+Immunofiltration System
+Induced Coma Trigger
+Neurointruder Alert
+Panspectral Optics
+Pressure Sheathing
+Prosthetic Limb
+Revenant Wiring
+Slowtime Window
+Stabilization Overrides
+Tagger Nanites
+Toxin Injector
+Twitchlock Actuators
+
+Cost
+30,000
+10,000
+10,000
+10,000
+20,000
+20,000
+25,000
+15,000
+15,000
+10,000
+15,000
+25,000
+25,000
+20,000
+50,000
+15,000
+15,000
+2,500
+50,000
+30,000
+25,000
+15,000
+20,000
+30,000
+
+Strain
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+3
+2
+2
+1
+2
+2
+
+TL
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+5
+4
+4
+4
+5
+5
+4
+4
+4
+4
+
+cluding full retinal and fingerprint matching to a
+desired target. A TL5 version of this treatment
+that costs ten times as much can involve extensive DNA reprogramming to change the subject
+at a genetic level, making their alterations heritable and allowing female-targeted shapes to bear
+offspring. This TL5 treatment is not reversible,
+and any further major alterations to the subject
+require further permanent System Strain.
+Dermal Armor: A fine subcutaneous reinforcement
+mesh provides significant protection against impacts and cuts while remaining imperceptible to
+anything short of a medical examination. Someone with the implant has AC 16 and is immune
+to Shock damage inflicted by primitive melee
+weapons. A TL5 version of this implant that costs
+five times as much grants even more protection,
+rendering the subject wholly immune to primitive
+weapons as if they were wearing powered armor.
+Drone Control Link: Most often found among military
+bot wranglers, civilians can also get a drone control link implanted to simplify the remote piloting
+of drones and other robotic units.
+Users of a link can issue commands to a drone
+as a Move action instead of a Main Action. A
+
+Eliminates emotion and improves initiative
+Survive near-habitable planetary conditions
+Provides retractable body weaponry
+Complete external physical reconstruction
+AC 16, immune to primitive weapon Shock
+Allows easier remote control of drones
+Allows bare-handed hacking and electrical shocks
+Can climb sheer surfaces as if they were flat
+Integral compad with audiovisual transmission
+Shielded body cavity for holdout storage
+Creates a hologram around the user
+Allows a false identity to be perfectly assumed
+Immune to almost all diseases and poisons
+Feigns death and halts bodily processes for up to two weeks
+Grants +3 to save vs. telepathy, alerts of intrusion
+Integral low-light and thermal vision
+Integral emergency vacc suit
+Replaces a limb lost to misadventure
+Keeps the user fighting even after they’re dead
+Prevents surprise and speeds up the user’s cogitation
+Automatically stabilizes a mortally-wounded user
+Lets the user tag others with tracking nanites
+Allows surprise injection of lethal or dazing toxins
+Allows brief moments of hyper-precise accuracy
+single drone can only receive one command per
+round, however.
+Aside from this ease of command, someone
+with an implanted rig can “look” through a piloted
+drone’s sensors as an Instant action, and a drone
+is never considered to be out of control even if
+the pilot doesn’t spend an action controlling it. A
+link can maintain a connection with one drone at
+a time, plus the user’s Program skill.
+Eelskin Capacitor Mesh: A hair-fine mesh of almost imperceptible wiring along the user’s palms and fingers allow them to trigger brief, controlled bursts
+of electrical energy at targets within five meters.
+As an Instant action it adds 2d4 non-lethal damage
+to a successful Punch attack. In its intended use, it
+also allows the user to override and disable most
+electronic locks and security systems with a successful Sneak or Fix skill check. Both triggering a
+burst and hacking a security system tax the user’s
+biology; one System Strain point is gained with
+each attack or skill check.
+Gecko Anchors: Miniaturized gravitic manipulators are
+embedded in the subject’s hands and feet as part
+of this complex surgery. While they are too weak
+to allow levitation or damping fall damage, they
+
+84• CYBERWARE
+can twist localized gravity around those limbs to
+anchor the subject to the nearest surface capable
+of bearing their weight. As a result, the user can
+freely run or climb up or down sheer surfaces at
+their normal movement rate, carrying no more
+than their normal maximum encumbrance.
+Ghost Talker Transceiver: Some people simply cannot
+afford to be out of contact at any time, under any
+circumstances. Those people find use for the microfine web of radio wiring and optical augmentation that make up the ghost talker. These units
+act as a built-in compad for the user and allow
+for reception and transmission of audio and visual
+recordings, the latter playing in an inset window
+in the user’s field of vision. If the unit is operating
+outside of a standard comm grid, it has a transmission range of twenty kilometers and a reception range of one hundred. Ghost talker users can
+transmit basic visual diagrams and images to each
+other, as well as optical recordings.
+Holdout Cavity: Usually implanted somewhere in the
+torso, a holdout cavity is a small recess shaped
+into the wearer’s body and designed to be overlooked by most standard forms of medical or security scanning. It automatically defeats a security
+inspection that uses less than TL4 scanners, and
+even advanced tech requires careful personal inspection to have a chance of revealing it. The cavity can hold an object up to the size of a pistol and
+is opened and shut by the user’s mental command.
+Holoskin Emitter: Multiple holographic emitters are implanted on the user, allowing them to alter their
+external appearance to match anything of their
+approximate size and dimensions, including other people. Shifting appearances is a Main Action,
+and the user can’t shift to an appearance that isn’t
+in the cyberware’s shape library. The library is vast
+and contains “generic” examples of numerous human-sized objects and people, but mimicking a
+specific other person requires at least five minutes
+of close examination. The holograms projected
+by the emitters are good, but imperfect; anyone
+who closely examines the user will be able to tell
+that something is artificial about their appearance,
+and touch instantly confirms any suspicions. The
+emitters can fake clothing and can produce sounds
+to complement the illusion or modify the user’s
+voice, if records of the true subject are available.
+The disguise lasts until the user dies or ends it.
+Identity Submersion Trigger: This cyberware involves
+micronized neural stimulation technology which
+is imperceptible to anything short of TL5 medical
+scanning or TL4 surgical examination of the subject’s brain tissue. When active, the IST allows the
+subject to adopt a secondary persona, complete
+with a library of manufactured memories. So long
+as the IST is active, the subject will honestly and
+completely believe himself to be the secondary
+
+persona, a conviction that cannot be penetrated by
+telepathy or TL4 methods of interrogation. The
+persona can be activated at the user’s discretion,
+but it only deactivates on a preset trigger, leaving
+the subject in full possession of all memories experienced. The trigger can be any perceptible stimulus: a particular time, the sight of a specific person,
+a code phrase, or any other sign, and it may be
+changed by the user each time they activate the
+cyberware. Many ISTs are also implanted with a
+“master key” that will automatically deactivate the
+triggered identity.
+Immunofiltration Systems: This broad-spectrum scrub
+system carefully identifies and contains toxic substances introduced into the user’s system. Whenever the subject would normally have to make a
+saving throw to resist some disease or toxin, they
+may instead gain one System Strain to automatically succeed on the save. Most of these systems
+are calibrated to automatically filter any toxins
+or chemicals in standard use by police or military
+forces in the sector, but if presented with a special biowarfare toxin, the filters are less effective.
+In such cases, the most it can do is either grant a
+second saving throw if the first is failed, or grant
+a single saving throw if none is normally allowed.
+Induced Coma Trigger: A series of implants are wired
+to the user’s brain stem, allowing them to trigger
+an induced therapeutic coma at a mental command. The user appears dead to anything short
+of a medical inspection, and has no need of respiration, food, or water while the coma is in effect.
+The user does not heal while in a coma, but any
+diseases or poisons also halt progression. The user
+determines how long the coma is to last before
+triggering it, and is unconscious for its duration.
+A character can survive in a coma up to two weeks
+before needing to regain consciousness for as long
+as they were in the coma.
+Neurointruder Alert: While somewhat primitive by
+pretech standards, this TL5 cybernetic implant
+allows the wearer to gain a +3 bonus on all saving
+throws to resist telepathic intrusion. Even if such
+a save is failed, the user will be aware that they
+are under telepathic assault, though some forms of
+mental control may not allow them to say as much
+until after the influence is ended. The warning
+does not indicate the source of the influence.
+Panspectral Optics: Ocular adjustments to the wearer
+allow them to see clearly at any light level short of
+perfect darkness, in addition to giving them thermal vision that can easily distinguish shapes and
+distance even in the total absence of light. Dangerous radiation and lasers tuned outside the range
+of visible light are also visible to the user. Nearby
+radio transmissions can be seen as if they were
+visual flares of color. The system cannot translate
+these transmissions, only alert the user to them.
+
+CYBERWARE •85
+Pressure Sheathing: Occasionally purchased by workers in hard vacuum or other hostile environments,
+pressure sheathing integrates an ultrathin pressure membrane with the user’s dermis and emergency film sealants that trigger at the user’s mental
+command. The pressure sheathing serves as an
+emergency vacc suit with an integral oxygen supply and temperature regulators that can sustain
+them for up to thirty minutes. A pressure sheath
+needs 48 hours to regain structural integrity and
+power after triggering. A pressure sheath can be
+detected only by a close medical examination.
+Prosthetic Limb: Hands, feet, arms, legs, eyes, and
+numerous internal organs can be replicated by
+postech medical science. These prosthetics can
+provide a good approximation of the sense of
+touch, and are usually impossible to distinguish
+from ordinary limbs without close inspection.
+Pretech-level worlds tend to prefer actually regenerating lost limbs, but those with access only
+to ordinary frontier levels of tech have reason to
+be grateful to prosthetics.
+Revenant Wiring: One of the more grotesque results of
+late pretech augmentation research, revenant wiring permeates the user’s body with a web of supplementary limb actuators and sensor clusters. In
+combat, the user may designate up to a half-dozen
+targets to the system’s braked micro-AI. If the user
+goes unconscious or is killed, the micro-AI will
+engage the limb actuators to keep fighting, even
+if the user is nothing more than a ragged mass
+of mangled tissue. The micro-AI is not brilliant,
+but it is capable of negotiating most terrain and
+dealing with physical impediments to killing the
+designated targets. The actuators have power to
+keep operating for 3d4 rounds, or until the wearer takes 25 more hit points of damage, whichever comes first. The stress produced by revenant
+wiring makes it much more difficult to revive a
+downed user with Lazarus patches or biopsionics;
+all revivification chances are half normal.
+Slowtime Window: A piece of cutting-edge pretech cyberware, the slowtime window was installed in
+crisis responders and others reliant on split-second decision making. When engaged, the implants
+accelerate the user’s cogitation speed by more than
+three thousand percent. While there is no corresponding acceleration of the user’s physical reflexes, they have time to process the situation and take
+in its details. A person who triggers a slowtime
+window cannot be surprised; they always roll initiative as normal no matter how unexpected the
+attacker. This brain acceleration is highly stressful
+on the tissues, however, and one point of System
+Strain is gained each time it is engaged.
+
+Stabilization Overrides: An intricate interweaving of
+microcapillaries and backup organs is implanted
+in the subject’s torso and spinal column. These
+overrides can stabilize the user when severe physical trauma would otherwise kill them. A user reduced to 0 hit points is automatically stabilized,
+as if a Lazarus patch had been successfully applied
+to them, assuming that a patch could have saved
+them. Stabilization overrides tend to interfere
+with the ordinary operation of the user’s organs,
+however, and the wearer’s Constitution modifier
+is lowered by 1, with all the attendant consequences in loss of maximum hit points.
+Tagger Nanites: While true nanotechnology is beyond
+the grasp of standard TL4 science, this cyber allows for the implantation of very simple nanofactories in the user, ones that exude a constant imperceptible “smart dust”. Objects the user touches
+can be tagged by these nanites, which generate
+more of their kind for up to 48 hours after tagging.
+The dust then lays down a trail behind the tagged
+object, one that is visible to the user or to someone using a properly-keyed tracer. Only counter-nanite measures can remove the dust, as ordinary bathing or scrubbing is insufficient. The dust
+can be pinged by radio to announce its location
+to anyone within five kilometers, but most users
+prefer to leave the dust in passive mode, where it
+is undetectable to most TL4 sensors. Tagging an
+object adds one System Strain to the user.
+Toxin Injector: The user’s canines or fingernails are
+altered to allow for the injection of one of two
+types of poison. If the user attempts to inject an
+unsuspecting victim they are already touching, the
+attempt is automatically successful. If the victim is
+wary or in combat, they can only be affected if they
+are unarmored and the user succeeds in a Punch
+attack roll. On a success, the victim must make a
+Physical saving throw at -2 or be incapacitated by
+the poison, dying in 1d6 rounds or being incapacitated for 1d6 hours at the user’s discretion. Each
+poison attack adds 2 System Strain to the user.
+Twitchlock Actuators: Neural override fibers are woven into the user’s hands and arms and linked to a
+perceptual modulator implanted at the base of the
+user’s brain stem. When presented with a direct
+exercise of hand-eye coordination, the twitchlock
+can be engaged to produce superhuman accuracy
+and precision. Any attack roll or skill check reliant
+chiefly on manual dexterity or aim can be rerolled,
+though the power surge inflicts two points of System Strain on the user. A given roll can only be rerolled once with this cyberware. While the twitchlock allows superhuman accuracy when engaged,
+the overrides fuzz ordinary nerve impulses and
+reduce the user’s Dexterity modifier by 1 when
+active. Activating or deactivating the cyberware
+requires a Main Action.
+
+86• ARTIFACTS
+
+ARTIFACTS
+Pretech artifacts are some of the more precious loot
+available from lost Mandate military bases, abandoned
+colonies, desolate tomb worlds, and forgotten research
+outposts. Most pretech on modern worlds was long
+ago cannibalized for vital spare parts or destroyed by
+the ravages of time and violence. The few pieces that
+remain are almost always extremely valuable.
+Very few pretech artifacts are bought or sold.
+Some items are relatively common, having been ubiquitous enough to survive in large numbers or simple
+enough to be produced by a few remaining modern
+worlds. Most artifacts, however, are so rare that there
+is no consistent market for them; an owner can charge
+what they wish for a device.
+Getting that price is a different matter. Few planetary governments allow private ownership of “dangerous pretech artifacts”, and it’s the government that
+decides what constitutes danger. Most owners are rapidly visited by firm, polite agents with heavily-armed
+backup and given a “fair price” for their find.
+As a consequence, most trade in pretech artifacts
+has to take place on the black market, or on worlds or
+stations too lax to care about who might be bringing
+in a portable black hole generator that just happens
+to look like a Mandate child’s toy. Such venues rarely
+provide much in the way of security or contract enforcement, and so trade has to take place amid grasping
+guards, paranoid participants, and regular theft.
+Pretech artifacts are more often traded privately
+as rewards, mission payments, or exchanges between
+owners. A PC who wants to obtain one of the artifacts
+listed in this section will need to not only find someone
+who will admit to possessing the gear, but also find out
+what kind of favor they’re going to need to part with it.
+Tens of thousands of credits can sometimes do the trick,
+but most owners will prefer to wring the maximum
+utility out of a capable adventurer’s interest in their
+prized possessions.
+
+Artifact Armor
+
+Many types of pretech armor are so rare or useful that
+they cannot normally be acquired on the open market.
+Much like artifact weaponry, these artifact armors are
+jealously held by those lucky enough to find them.
+Executive Security Suit: This suit of stylish pretech
+clothing can self-modify in one minute to appear
+as any normal suit of clothing and grants AC 15
+to the wearer. Originally designed for VIP protection, the executive security suit automatically
+stabilizes a mortally-wounded wearer provided
+they haven’t taken enough damage to make revival impossible. Like the majority of pretech artifact
+armor, the suit is so light that it does not add to
+the wearer’s encumbrance.
+
+Ghost Mantle: Designed for use by elite infiltrators, a
+ghost mantle can warp light around the wearer to
+blur his or her outlines and coloring to match the
+surroundings. The mantle can self-modify in one
+minute to appear as any normal suit of clothing
+and grants AC 15 to the wearer. When used in
+stealth mode, it grants a +2 bonus to all Stealth-related skill checks. TL4 sensors and scanners cannot
+detect the mantle as anything but ordinary cloth.
+Polyplast Carapace: This variant form of assault suit
+employs pretech deforming polymers to create
+sealed joints and flexible armor plates that still
+maintain rigidity under impact. A polyplast carapace is treated as an assault suit with AC 18, except
+that it counts as only one item for encumbrance
+and requires no practice to use correctly. Integral
+kinetic absorption sinks allow the armor to function without the need for power cells.
+Psitech Combat Suit: One of the rare psitech artifacts
+originally designed for use by military combat
+psychics, this snug-fitting armored undersuit
+grants the wearer an AC of 16. Its special ability
+functions only for psychics; it can allow the user
+to reflexively fuel the suit’s defenses with their
+own psychic reserves. As an Instant action, they
+can Commit Effort for the day to negate up to
+15 points of damage from in incoming source of
+physical injury. Each time they do this, they must
+make a Mental saving throw or the psychic conversion shock leaves them unable to use psionic
+techniques until after the end of their next turn.
+Stutterjump Suit: A modified version of the standard
+deflector array, a stutterjump suit grants the wearer a limited form of teleportation through integral
+psitech circuitry. As an Instant action, the wearer
+can teleport to any location within one hundred
+meters, provided they have an unobstructed line
+of sight to it. The suit’s circuitry requires twelve
+hours to recover enough for another jump. The
+suit does not require power cells to function.
+Titan Powered Armor: An enormously heavy suit of servo-actuated powered armor, Titan assault plate
+was favored by pretech boarding parties and space
+marines. It grants the wearer all the usual benefits
+of storm armor, but has a base AC of 21 and subtracts 2 points of damage from every instance of
+harm suffered by the wearer.
+Tempest Assault Array: A modified version of the field
+emitter panoply, the TAA has all the functionality
+of the FEP but also does an automatic 1d6 damage to anyone who attacks the wearer in melee,
+inflicting the damage after the attack is resolved.
+The wearer is immune to Shock damage. Kinetic
+sinks allow the TAA to function without the need
+for power cells.
+
+ARTIFACTS •87
+
+Artifact Weaponry
+
+While generic pretech weaponry is of superb quality
+and manufacture, some pieces exceed even the customary excellence of the ancients. These “artifact” weapons are usually the product of short production runs
+by master pretech craftsmen or individually-designed
+masterpieces. Some pre-Scream manufacturers retain
+fame even centuries later for the unique quality of their
+workmanship.
+Artifact weapons are almost never found on the
+market. The few pieces that are found and offered for
+sale are snapped up almost immediately by elite operatives and others who rely on the quality of their hardware to preserve their own lives. Most who have artifact weaponry have either found it in a long-abandoned
+pretech cache, received it from a superior, or taken it
+from the cold hands of a former owner. Selling such a
+weapon tends to be equally difficult, with buyers few
+and untrustworthy.
+Absolution Armaments: A company specializing in energy weaponry, AA pioneered several techniques for
+increasing the energy efficiency and penetrating
+power of their armaments. AA laser weapons ignore particulate matter when shooting, and all AA
+weapons gain +1 to hit and +2 damage.
+Colonial Arms: An armaments company dating from
+the First Wave of human colonization, Colonial
+Arms was famous for the incredible durability
+
+and versatility of their firearms. Their guns were
+largely self-repairing from anything short of having pieces torn off, and their projectile weapons
+automatically self-adjusted to fire whatever ammunition was available, in any environment from
+hard vacuum to underwater operations. A Colonial Arms projectile or energy weapon also gains
+a +1 bonus to hit and damage rolls.
+Convergence Weaponry: Those weapons designed by
+the transhuman hive-mind polity known as the
+Convergence are almost always energy-based guns
+found in sets of 2-5 matching weapons. Wielders
+can nominate a target as an Instant action at the
+start of each round; any attacks they make with
+the weapon against that target get a +1 hit and
+damage bonus for each wielder that targeted the
+foe, including their own nomination.
+Imperial Arms: Ornate and beautiful weapons created
+shortly after the horror of the Scream, these arms
+were developed by an unknown pocket empire
+that somehow preserved a little of their pretech
+manufacturing base. Their attempt to reimpose
+order on the chaos around them appears to have
+failed, but their legacy lingers in the scattered
+weapons that remain from their far-flung armies.
+An Imperial weapon grants its user a +1 bonus
+to all hit and damage rolls, with projectile weapons having an unlimited supply of ammo. These
+weapons always remain immaculately clean.
+
+88• ARTIFACTS
+Fiat Lux: This manufacturer specialized in laser and
+plasma weaponry. Their products were largely
+conventional in function, but the quality of craftsmanship was seldom surpassed. Fiat Lux weaponry grants +2 to hit rolls and damage.
+Nightfall Combine: The exact nature of the Nightfall
+Combine was unclear even before the Scream,
+with rumors of alien xenotech manufacturing
+techniques and esoteric psitech materials research.
+The weapons produced by the Combine were
+some of the finest ever developed by humanity.
+They grant +3 to all hit and damage rolls.
+Omnipresence, Ltd.: A pretech manufacturer who specialized in holdout weaponry, Omnipresence arms
+are composed of special polymorphic nano-compounds that are capable of shifting shape in moments. Omnipresence weaponry can take a single
+alternate shape of the same mass set during manufacture, usually a belt, necklace, or other seemingly innocuous object. When gripped and a short
+keycode is spoken, the item instantly shifts forms,
+containing whatever ammunition it was originally loaded with. Shifted Omnipresence weapons
+cannot be detected by any postech means; even
+a pretech scanner will only reveal that the object
+is composed of complex nanites. Omnipresence
+weapons grant +1 to hit and damage rolls.
+PolyGaia Defense: Originally an organization of militant pan-planetary animists, PolyGaia armaments
+function perfectly in almost any environment.
+Projectile and energy weapons are also equipped
+with integral monoblades, and can be used as advanced medium melee weapons without a need to
+club the weapon. PolyGaia weaponry grants +1 to
+hit and damage rolls.
+SamaelTech: The Sons of Samael were one of the myriad peculiar religious and ideological groups that
+flourished during the Second Wave of human
+expansion. While their exact beliefs are unclear
+at this distance, their surviving melee armament
+is invariably superb. Monoblades, kinesis wraps,
+and other such SamaelTech weaponry all have +1
+to hit and +1 damage. Some SamaelTech weapons appear to be decorated with Christian iconography and advanced nanotech cutting surfaces.
+These pieces grant +2 to hit and damage.
+Stardust Micropellet System: The “Stardust” system was
+a cutting-edge effort to use gravitic manipulation
+techniques in projectile weaponry. By giving a
+tiny flake of matter the mass profile of a bullet, a
+Stardust weapon never runs out of ammunition,
+albeit Stardust weaponry cannot burst fire. Stardust weaponry gains +1 on all hit and damage rolls.
+Tempus Fugit: The weapons of the Tempus Fugit armory employed Mandate temporal acceleration
+generators. Such acceleration is exhausting to
+the user, however, and creates severe strain on
+a normal biological system. As an Instant action,
+
+a wielder with the weapon in hand can take an
+additional full round of action any time they
+wish. At the end of this bonus action, they suffer
+1d4 System Strain, +1 for each use of this ability
+within the past 24 hours. If their System Strain is
+maximized by this, they fall unconscious for one
+hour. Tempus Fugit weapons have a +1 bonus to
+hit and damage.
+Terminus Est: A sister-company to Tempus Fugit, the
+Terminus Est line of advanced melee weaponry
+employed spatial distortion technology. As an
+Instant action at the start of a round, a wielder
+with the weapon in hand can nominate a visible
+target; for the rest of the round, they’re treated as
+if they’re adjacent and engaged in melee combat
+with the target, hindering ranged attacks, subjecting them to attacks if they move away without a
+fighting withdrawal, and so forth. The wielder is
+not subject to attacks by the target unless they actually are within range of the target’s weapons. By
+straining the wielder’s perception pathways, this
+target nomination can be applied to a number of
+targets equal to the wielder’s Stab skill plus two.
+Any attack made against one target is applied to all
+nominated targets, using the same die rolls. Each
+round this multiple nomination is maintained, the
+wielder takes 2 System Strain. All Terminus Est
+weapons have a +2 bonus to hit and damage rolls.
+Tools of Ill Omen: A specialist weapon line designed by
+sage-engineers affiliated with the Preceptors of
+the Great Archive, the Tools are decorated with
+taotie-motif fittings similar to those of Shang
+Dynasty bronzes. Tools usually appear as melee
+weapons, particularly halberds, dagger-axes and
+swords, though stylized hypervelocity repeating
+crossbows have been found that work like mag
+rifles with unlimited ammo. The Tools function
+with a +2 hit and damage bonus
+Valiance Arms: Somewhat stodgy by pretech standards,
+Valiance never embraced the more exotic potentials of pretech science. The company instead
+preferred to focus on precision low-recoil projectile weapons and high-quality craftsmanship.
+Valiance projectile weapons grant +2 to hit and
+damage rolls.
+Windcutter: Windcutter armaments are invariably
+edged melee weapons. Their pretech manufacturers had an obsessive interest in maximizing weapon penetration, one carried to an extent that was
+very impressive, if perhaps somewhat impractical
+for field use. A Windcutter blade can slice through
+any substance short of advanced pretech armor
+plating, inflicting full normal damage on vehicles,
+including gravtanks or other targets subject only
+to Heavy weapons. For Shock purposes, all targets are treated as if they were AC 10. Against all
+targets, the blades have an effective +1 bonus to
+hit and damage.
+
+ARTIFACTS •89
+
+Artifact Equipment
+
+AI Companion: True AI was never easily made by pretech scientists. AIs required individual care during
+their development, and a disturbing percentage of
+them had to be “braked” at sub-human levels in
+order to prevent runaway cogitation on imponderable philosophical questions and the ensuing
+metastatic insanity that followed. Some AIs managed to attain a human level of sentience before
+requiring brakes. The less brilliant of these AIs
+could be contained in hardware no larger than five
+or six centimeters on a side, usually with integral
+sensors and vocalization units. If an AI companion
+takes a liking to a PC, they can be useful allies; they
+all have effective Program and Fix skills at level 3
+or greater, and may have additional capabilities.
+A distressing number of these AIs have their own
+purposes, however, that are not necessarily complementary to those of their “owners”.
+Integrity Stims: Usually found in the form of a skinspray applicator, integrity stims restore 2d6+2 hit
+points to a subject for each dose applied. Each dose
+increases the target’s System Strain by 1 point, and
+the stims are useless to those with maximized System Strain. More than one dose can be triggered
+into a subject in one round, but each dose after the
+first adds an additional second System Strain point
+from the sudden overload of stimulants.
+Juggernaut Stims: Originally designed for pretech shock
+troops, this skinspray stimulant charges the user
+with fearless aggression and indifference to pain.
+The user immediately gains 3d6 temporary hit
+points and +2 to hit for a period of ten rounds. At
+the end of that period, any remaining temporary
+hit points are lost, and the subject suffers -2 to hit
+for the next hour as their system recovers. Use of
+this stim adds 1 point of System Strain.
+Micropurgator Stims: A sprayhypo laden with a revivifying cocktail of nanites and support chemicals, a
+micropurgator stim will remove 1d4 points of accrued System Strain from the user. Only one such
+stim can be applied to a person within 24 hours.
+Mindwall Helmet: A transparent-visored helmet, this
+headpiece strengthens the integrity of the wearer’s
+neural patterns, making it more difficult for them
+to be influenced by mind-affecting psionic powers.
+The wearer gains a +2 saving throw against any
+such attack, and is automatically alerted by the
+helmet if made the target of a telepathic power.
+The helmet does not help against purely physical
+psionic attacks, such as through telekinetics, and
+it cannot be worn with powered armor, vacc suits,
+or an assault suit.
+Polymorphic Nanites: Usually found in two-kilo cylinders with integral input-output data ports,
+polymorphic nanites were a late-Second Wave
+development that promised to revolutionize
+manufacturing. When fed a design schematic us-
+
+ing standard pretech CAD/CAM protocols, the
+nanites exude into the desired object, mimicking
+any necessary physical properties. The nanites can
+be used to create any object of equivalent or lesser mass, provided a datapad or the equivalent is
+available to feed them the schematic. The nanites
+are single-use, but multiple cylinders can be linked
+together to create larger objects. The workmanship of the nanites is good, but not exceptional;
+any available schematic of tech level 4 or less can
+be produced.
+Pseudonuke: While conventional TL4 nuke snuffers
+make dangerous nuclear reactions impossible
+near spaceships or modern civil defense systems,
+a pseudonuke is designed with esoteric pretech
+parts and techniques to bypass TL4 defenses. Most
+pseudonukes are no larger than a briefcase but can
+detonate with enough force to wipe out a large
+city or space station. The handful created before
+the Scream were deniable Mandate tools to deal
+with rebel frontier colonies. Those that survive
+are spectacularly illegal on almost all worlds.
+Redivivus Sheath: When found, a redivivus sheath resembles a tightly-rolled body bag with a fist-sized
+computing module affixed to it. When a freshly-dead human body is sealed into the bag the
+module releases a cloud of nanites to repair and
+revive the subject. Revivification will work on any
+victim no more than five minutes dead, assuming
+the head is intact and most of their mass is present.
+Subjects are revived in critically wounded condition with maximized System Strain. The redivivus
+sheath functions only once before burning out.
+System Reset Inductor: An array of pretech pharmaceuticals of truly heroic breadth, a sprayhypo full of
+system reset inductor is one of the most powerful
+concoctions ever devised by pretech biochemists.
+On injection, the subject immediately loses all accrued System Strain points barring those permanently added by cyberware. The user can gain new
+System Strain normally, but 48 hours after the inductor has been administered, the strain will catch
+up with them. They fall immediately unconscious
+with 1 hit point and maximized System Strain, and
+will remain in a coma for 48 hours before awakening. Use of a second inductor before the first has
+run its course will inevitably kill the subject within
+five rounds of application, with no hope of revival
+by psionic disciplines or conventional medical aid.
+Wideawake Serum: Originally designed to facilitate
+spike drills for single-man ships that couldn’t afford a sleeping pilot, wideawake serum gives the
+user enormous vigor and alertness for up to seven
+days at a time. The user need not sleep or even rest,
+but during this time it is impossible to recover
+accrued System Strain. A successful Heal check at
+difficulty 10, made at most once per day, can flush
+the drug from the user prematurely.
+
+90• MODDING AND BUILDING EQUIPMENT
+
+MODDING AND BUILDING EQUIPMENT
+While truly sophisticated research and design often
+requires resources beyond the reach of an adventuring
+party, more modest workshops can allow a talented
+technician with a healthy supply of after-market parts
+to improve the quality of their own or their allies’ gear.
+Without a full-fledged R&D department behind them,
+a PC technician is generally limited to modifying and
+improving existing gear.
+A mod is an adjustment made to a specific piece
+of tech to make it work better. These mods are finicky,
+delicate, and often customized to the user. They aren’t
+generally available on the market because they require
+regular tuning and adjustment by a highly-skilled technician in order to keep them from degrading, or even
+failing entirely. Mods require costly after-market parts
+that can be expensive to acquire, and the most sophisticated ones require actual pretech salvage stripped from
+advanced ancient technology. Normally, only TL4 gear
+can be effectively modded, as more primitive tech isn’t
+suitable for the advanced components involved.
+
+Installing Mods
+
+Building and installing a mod requires a well-equipped
+TL4 workshop. It’s not necessary to have a full-fledged
+fabrication plant, but the sort of resources that a professional repair tech or vehicle shop have are necessary
+to assemble and adjust the tech. Such a shop can usually
+be rented for 100 credits a day, or bought outright in a
+city or other urban area for 25,000 credits. A starship’s
+“Workshop” ship fitting will also qualify.
+Mods have a minimum Fix skill required to install
+or maintain them; a Customized mod requires Fix-1, for
+example, while a Flexible mod takes Fix-2. Without this
+skill level, the tech can’t build or install the mod, and
+they can’t maintain it properly either.
+Mods have a cost in credits or salvage. A tech with
+access to a normal TL4 parts market can buy components with a credit cost, but certain highly sophisticated
+mods require pretech components that can only be salvaged from certain ancient Mandate-era technological
+devices. Not just any device will do for gathering these
+components; these micronized fusion taps, antigrav
+nodules, impact flexors, and polymorphic state controllers are found in only certain Mandate tech or in
+rare ancient caches of unused components. A tech will
+usually have to find these components as part of an
+adventure, because those who have them need them
+for their own purposes and will not part with them for
+ordinary monetary compensation. The specific details
+of these parts don’t matter for mod use, and they’re simply tracked as “salvage”. If a mod requires three units of
+salvage, any three units will work, and it’s not normally
+necessary for a tech to track down specific components.
+Mods take time to build and install. It takes one
+week per minimum skill level of the mod to build and
+
+install it in the desired device. Thus, a Customized mod
+takes a week to put in, while a Flexible mod takes two.
+If a tech does nothing other than work, eat, and sleep,
+they can halve these times, and an additional assistant
+with at least Fix-0 skill can further halve the time.
+Mods must be custom-built to specific objects. A
+tech cannot build a “generic” mod and then just attach
+it to a device; it must be carefully designed to fit exactly with that specific item, and sometimes even with a
+specific user.
+
+Mods and Maintenance
+
+Mods require maintenance to keep functioning correctly. Overclocked hardware, bleeding-edge tech, and
+experimental adjustments just don’t have the field durability of more standard gear, so a tech must apply daily
+attention to the modded hardware if it’s not to fail. A
+normal TL4 toolbox is required to maintain mods, but
+no special parts are needed.
+A tech’s Maintenance score is equal to the total of
+their Intelligence and Constitution modifiers plus three
+times their Fix skill level. The smarter and the longer a
+tech can work, the more maintenance they can perform,
+but their overall expertise as a technician is the most
+crucial element. A tech can maintain a number of mods
+equal to their Maintenance score without cutting into
+their adventuring time or otherwise encumbering their
+off-duty hours. This maintenance is assumed to take
+place during downtime and doesn’t need to be tracked
+specifically in play. If they do nothing but maintenance,
+they can double their score, but this kind of dedication
+requires sixteen-hour workdays.
+If a mod goes without maintenance for 24 hours, it
+stops working. If a mod goes without maintenance for
+a week, the entire device it’s attached to stops working,
+as the untuned mod has made it useless or dangerous to
+use. Weapons can no longer be used in combat, armor
+no longer gives protection, seizes up, or is too dangerous to wear, and other devices simply stop functioning.
+A maintenance backlog on a device can be cleared by an
+hour of work by a technician capable of maintaining it.
+
+Building Conventional Gear
+
+Sometimes a wrench jockey will want to build their
+own equipment rather than purchase it off the shelf.
+This may be because there’s no such gear for sale, the
+equipment is illegal on this world, the tech wants it
+cheaper than the vendors sell it, or the tech wants
+to build a custom platform for their favorite mods.
+The gear built this way must be feasible to create in a
+workshop; guns, armor, and modestly-sized vehicles
+are possible, but starship components and other major
+constructions are not.
+A tech requires a TL4 workshop to build most TL4
+equipment. More primitive gear can be built with less
+
+MODDING AND BUILDING EQUIPMENT •91
+elaborate resources at the GM’s discretion. The workshop must be at least nominally capable of working with
+the kind of gear the tech is building. A vehicle repair
+shop will not have the tools to brew pharmaceuticals,
+and a back-room electronics shop won’t have the lifts
+to work on armored vehicles. If the tech needs to refit a
+workshop to work on a particular type of unsupported
+gear, they can pay half the shop’s original price to get
+the needed tools. Starships with Workshop fittings are
+always sufficient for personal gear modifications.
+The tech needs a supply of parts. In any TL4 city
+or sizable community, the tech can scrounge, barter,
+or buy what they need from the locals. A tech working
+in a shop out in the wilds can prepare by taking a few
+footlockers full of materials that can fit in a vehicle or
+on pack animals, buying a certain number of credits
+worth of spare parts and hauling them along. Techs in
+dire need can strip ancient high-tech ruins, battlefields,
+and scrap heaps for parts if no better source is available.
+Techs must decide whether the device they’re
+building is to be jury-rigged, normal, or mastercrafted.
+Jury-rigged devices are assembled out of cheap scrap,
+bottom-tier components, and makeshift kludges.
+They’re much cheaper to make than to buy, but they require constant attention to keep them operating. Normal devices work just as well as anything that you’d buy
+off the shelf, but the lack of economies of scale and the
+need to acquire all the parts at retail make them more
+expensive than buying it off the shelf. Mastercrafted
+gear is carefully built to support a tech’s own innovations and favorite modifications. They are extremely
+expensive, but much easier to mod and maintain than
+off-the-shelf tech.
+Building the gear usually takes one month for a
+vehicle and one week for a weapon, suit of armor, or
+other portable device. Having at least one assistant with
+Fix-0 will halve this time.
+Jury-rigged devices cost one-quarter as much as
+the normal device and take half the normal time to
+build. If the tech has access to scrap or salvage, they
+can assemble it at no cost, but it takes twice the normal
+time to build it. A jury-rigged device counts as a mod
+requiring Fix-0 to maintain. If it goes 24 hours without maintenance, it stops working. Jury-rigged devices
+cannot be modded.
+Normal devices cost twice as much as they would
+off-the-shelf and take the normal amount of time to
+build. They cannot be built with scrap or salvaged parts
+unless the GM decides that the salvage is perfectly suited for this use. Drugs and other consumable goods must
+be built as normal devices rather than jury-rigged or
+mastercrafted ones.
+Mastercrafted devices require costly premade
+components and cost ten times as much as the normal
+device, and require twice as much time to build. They
+are ideal platforms for the tech’s own modifications,
+however, and the first mod installed in the device requires no maintenance.
+
+Sample Mods
+
+The mods listed below are simply a sample of those a
+GM might approve for their campaign. Weapon and
+armor mods should not stack beyond a +3 bonus to AC,
+hit rolls or damage rolls, and any mod improving a skill
+check shouldn’t boost it by more than +1. A mod can
+only be installed once on any given piece of equipment.
+Autotargeting (Fix-2): The weapon has had micronized
+kinetic targeting aids installed, granting a +1 bonus to hit rolls with it. Costs 4,000 credits.
+Boosted (Fix-2): The weapon has been tuned for greater
+damage output, adding +2 to the damage it does.
+Costs 2,000 credits.
+Bubbleseal (Fix-1): The armor is equipped with automatic pressure seals and emergency oxygen. It can
+be triggered manually or activates automatically
+on exposure to low pressure, functioning as a vacc
+suit for up to one hour. Costs 5,000 credits.
+Concealed (Fix-2): The device is disguised as a specific
+different object of the same general mass. This
+disguise will fool standard TL4 sensors, but not a
+close physical inspection of the object. Costs ten
+times the device’s base cost.
+Customized (Fix-1): The weapon or armor has been
+carefully tailored to a single specific user. When
+used by that person, they get a +1 to hit with the
+weapon or a +1 Armor Class bonus with armor.
+Costs 1,000 credits and is inapplicable to shields.
+Extended Magazine (Fix-1): The firearm has been adjusted so that its magazine size is doubled. Costs
+500 credits.
+Flexible (Fix-2): The armor is carefully tailored to a
+specific wearer with an eye towards reducing its
+weight and cumbersomeness. Its Encumbrance
+value is lowered by 1 for that wearer, and increased by 1 for anyone else. Costs 5,000 credits.
+High Efficiency (Fix-1): A device with a duration of
+operation, such as a vacc suit or fueled vehicle,
+now functions for 50% longer on the same charge.
+Costs five times the device’s usual cost.
+Infinite Magazine (Fix-3): The firearm now automatically produces its own physical ammunition. Costs
+10,000 credits and two units of pretech salvage.
+Infinite Power (Fix-3): A device powered by a Type A
+power cell now never runs out of power. Costs
+5,000 credits and one unit of pretech salvage.
+Phasing (Fix-3): The weapon is tuned to partially phase
+through armor and impeding debris, granting a +1
+bonus to hit rolls with it. Costs 10,000 credits and
+two units of pretech salvage.
+Polymorphic Blending (Fix-2): The armor can shift in
+appearance to that of normal clothing or different-looking armor. Several dozen different appearances can be loaded into it at any one time.
+The armor functions and encumbers normally
+regardless of its external appearance. Costs 5,000
+credits and one unit of pretech salvage.
+
+

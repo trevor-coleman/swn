@@ -1,0 +1,255 @@
+314• INDEX
+
+INDEX
+A
+Actions, Types of 48
+Adept 270
+Adventure Creation
+172–191
+
+Adventure Seeds 186–190
+Creating People 182–183
+Creating Places 184–185
+Creating Problems
+180–181
+Example 191
+Rewards 178
+
+Aiding a Skill Check
+47
+
+AI player characters 285
+Aliens 202–209
+Alien Player Characters
+209
+
+Arcanist 268
+Armor 64–65
+Artifact 86
+Shields 64
+
+Armor Class 49, 64
+Artifact Equipment
+86–89
+Artificial Intelligences
+280–289
+
+AI Damage and Repairs
+285
+Processing Nodes 284
+Processing Points 286
+Routines 288–289
+True AI PCs 285
+
+275
+Magister 269
+Psychic 17
+True AI 287
+Warrior 18
+
+Combat 48–52
+
+Actions 48
+Burst Mode 66
+Common Acts 50
+Heroic Combat 276–277
+Hitting 49
+Initiative 48
+Mech Combat 302
+Morale 59
+Shock 68
+Space Combat 114–119
+Two-Weapon Fighting
+52
+
+Combat armor 64
+Command Points 115
+Converting First Edition
+Stars Without
+Number 236
+Credits 60
+Crises. See Ship Crises
+Cyberware 82–85
+
+D
+Death 53
+
+Lazarus patch 74
+
+Goals 217
+Tags 224–225
+Turns 212
+Wealth Assets 222–223
+
+Falling 58
+First Wave of Colonization 122
+Foci 19–23
+Arcane Foci 272–273
+Focus List 20–23
+
+Forcing Enemy Movement 52
+Fray Die 276
+
+G
+Game Master Resources
+230–247
+
+Common Complications
+232–234
+One-Roll NPCs 244
+One-Roll Patrons 245
+One-Roll Urban Encounters 246
+One-Roll Wilderness
+Encounters 247
+
+Hacking 54–55
+Hard Vacuum 58
+Healing 53
+Heroic Characters
+274–279
+
+Backgrounds 9–15
+Biopsionics 32–33
+
+Effort. See Psionics,
+Effort
+Employees 77
+Encumbrance 60
+Equipment 60–91
+
+History of Space
+120–127
+
+Execution Attacks 52
+Expert System Bots 196
+
+I
+
+Classes 16–18
+
+Adept 270
+Adventurer 18
+Arcanist 268
+Expert 17
+Heroic Character Classes
+
+Defying Doom 277
+Fray Die 276
+Heroic Combat 276–277
+Nemesis Foes 278
+
+Timeline 126–127
+
+Hit Dice 195
+Hit Points 24, 195
+House Rules 237
+
+F
+
+Initiative 48
+Instant Action 48
+
+Factions 210–229
+
+J
+
+Actions 214–215
+Assets 212
+Bases of Influence 216
+Cunning Assets 218–219
+Example Factions 227
+Force Assets 220–221
+
+Metadimensional Extroversion Syndrome
+28
+Metapsionics 34–35
+Morale 59, 195
+Move Action 48
+
+N
+Name Generators
+238–243
+
+On Turn Action 48
+Opposed Skill Checks 47
+
+E
+
+Advancement 56
+Backgrounds. See Backgrounds
+Quick Character Creation
+26–27
+
+Designing Mechs 304
+Example Mech Designs
+310
+Maintenance 303
+Mech Combat 302
+
+H
+
+B
+
+Modding and Building
+90–91
+
+Maestros, AI 126
+Magister 269
+Main Action 48
+Maltech 62
+Mechs 300–311
+
+O
+
+Attack Bonus 24
+Attributes 6
+
+Character Advancement
+56
+Character Creation 2–27
+
+M
+
+Golden Age of Man 120
+
+Defying Doom 277
+Disarming a Foe 52
+Diseases 58
+Draco, AI 280
+Drones 80
+
+C
+
+Lifestyle Costs 77
+
+Jump Gates 123
+
+L
+Languages 24
+Lazarus patch 74
+
+P
+Pharmaceuticals 73
+Phylactery, AI 283
+Poisons 58
+Postech 63
+Powered armor 64
+Precognition 36–37
+Pretech 63
+Primitive armor 64
+Processing Nodes 284
+Processing Points 286
+Psionic Authority 122
+Psionics 28–43
+Biopsionics 32–33
+Effort 31
+Metapsionics 34–35
+Precognition 36–37
+Psionic Disciplines 30
+Techniques 30
+Telekinesis 38–39
+Telepathy 40–41
+Teleportation 42–43
+Torching 31
+
+
