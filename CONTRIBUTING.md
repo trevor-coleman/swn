@@ -27,7 +27,9 @@ This repository uses a multi-layered indexing system to ensure information remai
 - **plot-threads/** - Ongoing storylines and tensions
 - **planning/** - Future session prep and ideas
 - **modules/** - Ready-to-run adventures
-- **sector-data/** - Location information
+- **systems/** - Star systems in the sector
+- **planets/** - Planets and their details
+- **locations/** - Space stations, asteroid bases, etc.
 
 ### Party Organization (Root Level)
 - **party/** - PC data organized by player
@@ -162,7 +164,7 @@ Date: [Date]
 
 ### 5. Locations
 
-**File Location**: `sectors/[sector-name]/sector-data/[system]/[location].md` or `sectors/[sector-name]/planning/future/[location].md`
+**File Location**: `sectors/[sector-name]/locations/[location].md` or `sectors/[sector-name]/planning/future/[location].md`
 
 **Format**:
 ```markdown
@@ -275,7 +277,7 @@ When A references B, ensure B also references A where relevant.
 - Sessions: `[Session X: Title](../sectors/[sector]/sessions/YYYY-MM-DD-description.md)`
 - NPCs: `[Character Name](../sectors/[sector]/characters/affiliation/name.md)`
 - PCs: `[Character Name](../party/[character-name]/character-sheet.md)`
-- Locations: `[Location Name](../sectors/[sector]/sector-data/system/location.md)`
+- Locations: `[Location Name](../sectors/[sector]/locations/location.md)`
 
 ## File Naming Conventions
 

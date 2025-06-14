@@ -2,8 +2,50 @@
 import json
 import os
 import argparse
+import subprocess
+import sys
 from collections import defaultdict
 from typing import Dict, List, Any, Optional
+
+def check_git_status(path: str) -> bool:
+    """Check if there are uncommitted changes in the given path or its parent git repo"""
+    # Find the git root directory
+    current_path = os.path.abspath(path)
+    git_root = None
+    
+    while current_path != '/':
+        if os.path.exists(os.path.join(current_path, '.git')):
+            git_root = current_path
+            break
+        current_path = os.path.dirname(current_path)
+    
+    if not git_root:
+        # Not a git repository, so no changes to check
+        return True
+    
+    try:
+        # Check if there are any uncommitted changes in the target path
+        # First, check if the path exists and has tracked files
+        if os.path.exists(path):
+            # Check for uncommitted changes in the specific path
+            result = subprocess.run(
+                ['git', '-C', git_root, 'status', '--porcelain', os.path.relpath(path, git_root)],
+                capture_output=True,
+                text=True
+            )
+            
+            if result.returncode == 0 and result.stdout.strip():
+                # There are uncommitted changes
+                return False
+        
+        return True
+    except subprocess.CalledProcessError:
+        # Git command failed, assume it's safe to proceed
+        return True
+    except FileNotFoundError:
+        # Git not installed
+        print("Warning: Git not found. Skipping uncommitted changes check.")
+        return True
 
 def create_directory(path: str) -> None:
     """Create directory if it doesn't exist"""
@@ -65,8 +107,16 @@ def resolve_system_name(system_id: str, systems_data: Dict[str, Any]) -> str:
         return systems_data[system_id].get('name', system_id)
     return system_id
 
-def extract_sector_data(json_file: str, sector_name: Optional[str] = None, output_root: str = "sectors") -> None:
-    """Extract sector data from JSON and organize into markdown files"""
+def extract_sector_data(json_file: str, sector_name: Optional[str] = None, output_root: str = "sectors", force: bool = False) -> None:
+    """Extract sector data from JSON and organize into markdown files
+    
+    Creates structure:
+    sectors/[sector-name]/
+    ├── systems/
+    ├── planets/
+    ├── locations/
+    └── factions/
+    """
     
     with open(json_file, 'r') as f:
         data = json.load(f)
@@ -85,13 +135,22 @@ def extract_sector_data(json_file: str, sector_name: Optional[str] = None, outpu
     sector_dir_name = clean_name(sector_name.lower().replace(' ', '-'))
     
     # Create base directory structure
-    base_path = os.path.join(output_root, sector_dir_name, 'sector-data')
+    base_path = os.path.join(output_root, sector_dir_name)
+    
+    # Check for uncommitted changes before proceeding
+    if not force and not check_git_status(base_path):
+        print(f"\n❌ ERROR: Uncommitted changes detected in {base_path}")
+        print("\nThis import would overwrite existing files. Please either:")
+        print("  1. Commit your changes: git add . && git commit -m 'your message'")
+        print("  2. Stash your changes: git stash")
+        print("  3. Force the import: python3 extract_sector_data_v2.py <json_file> --force")
+        print("\nAborting import to prevent data loss.")
+        sys.exit(1)
+    
     create_directory(base_path)
     create_directory(os.path.join(base_path, 'systems'))
     create_directory(os.path.join(base_path, 'planets'))
-    create_directory(os.path.join(base_path, 'factions'))
     create_directory(os.path.join(base_path, 'locations'))
-    create_directory(os.path.join(base_path, 'npcs'))
     
     # Track relationships
     system_contents = defaultdict(list)
@@ -267,78 +326,22 @@ def extract_sector_data(json_file: str, sector_name: Optional[str] = None, outpu
                         f.write(f"{item}\n")
                     f.write("\n")
     
-    # Create index files
-    with open(os.path.join(base_path, 'index.md'), 'w') as f:
-        f.write("# Sector Data Index\n\n")
-        f.write("## Navigation\n")
-        f.write("- [Sector Overview](sector-overview.md)\n")
-        f.write("- [Systems](systems-index.md)\n")
-        f.write("- [Planets](planets-index.md)\n")
-        f.write("- [Locations](locations-index.md)\n")
-        f.write("- [Quick Reference](quick-reference.md)\n")
-    
-    # Create systems index
-    if systems_index:
-        with open(os.path.join(base_path, 'systems-index.md'), 'w') as f:
-            f.write("# Systems Index\n\n")
-            for name, path in sorted(systems_index):
-                relative_path = os.path.relpath(path, base_path)
-                f.write(f"- [{name}]({relative_path})\n")
-    
-    # Create planets index
-    if planets_index:
-        with open(os.path.join(base_path, 'planets-index.md'), 'w') as f:
-            f.write("# Planets Index\n\n")
-            for name, path in sorted(planets_index):
-                relative_path = os.path.relpath(path, base_path)
-                f.write(f"- [{name}]({relative_path})\n")
-    
-    # Create locations index
-    if locations_index:
-        with open(os.path.join(base_path, 'locations-index.md'), 'w') as f:
-            f.write("# Locations Index\n\n")
-            by_type = defaultdict(list)
-            for name, loc_type, path in locations_index:
-                by_type[loc_type].append((name, path))
-            
-            for loc_type, items in sorted(by_type.items()):
-                f.write(f"\n## {loc_type.replace('_', ' ').title()}\n")
-                for name, path in sorted(items):
-                    relative_path = os.path.relpath(path, base_path)
-                    f.write(f"- [{name}]({relative_path})\n")
-    
-    # Create quick reference with plot hooks
-    with open(os.path.join(base_path, 'quick-reference.md'), 'w') as f:
-        f.write("# Quick Reference - Plot Hooks & Situations\n\n")
-        
-        # Collect all situations and interesting attributes
-        situations = []
-        
-        for entity_type in data:
-            if entity_type in ['sector', 'note', 'blackHole']:
-                continue
-            for entity_id, entity in data[entity_type].items():
-                if 'attributes' in entity and 'situation' in entity['attributes']:
-                    name = entity.get('name', 'Unknown')
-                    situation = entity['attributes']['situation']
-                    situations.append(f"- **{name}** ({entity_type}): {situation}")
-        
-        if situations:
-            f.write("## Current Situations\n")
-            for situation in sorted(situations):
-                f.write(f"{situation}\n")
-    
-    print(f"Data extracted successfully!")
-    print(f"Created sector data in: {base_path}")
+    print(f"\nData extracted successfully!")
+    print(f"Created sector data in: {base_path}/")
     print(f"  - systems/")
     print(f"  - planets/")
     print(f"  - locations/")
+    print(f"\nNote: Remember to update the campaign index files:")
+    print(f"  - MASTER-INDEX.md")
+    print(f"  - NPC-INDEX.md (if new NPCs were imported)")
+    print(f"  - TIMELINE.md (if historical events were imported)")
 
 def main():
     parser = argparse.ArgumentParser(description='Extract sector data from Sectors Without Number JSON export')
     parser.add_argument('json_file', help='Path to the JSON file to import')
     parser.add_argument('-s', '--sector-name', help='Name of the sector (extracted from JSON if not provided)')
     parser.add_argument('-o', '--output-root', default='sectors', help='Root directory for output (default: sectors)')
+    parser.add_argument('-f', '--force', action='store_true', help='Force import even with uncommitted changes')
     
     args = parser.parse_args()
     
@@ -346,7 +349,7 @@ def main():
         print(f"Error: File '{args.json_file}' not found!")
         return
     
-    extract_sector_data(args.json_file, args.sector_name, args.output_root)
+    extract_sector_data(args.json_file, args.sector_name, args.output_root, args.force)
 
 if __name__ == "__main__":
     main()

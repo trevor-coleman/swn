@@ -1,6 +1,6 @@
 # Researchbase: Tsau 6
 
-**Parent**: zjsY4HbsnLJBCEFuCJle
+**Parent System**: [Campera](../systems/Campera.md)
 
 ## Attributes
 - **Situation**: Hideously immoral research

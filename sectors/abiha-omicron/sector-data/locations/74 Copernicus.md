@@ -1,6 +1,6 @@
 # Asteroidbelt: 74 Copernicus
 
-**Parent**: 9sxs40rq941VbAb6CiAx
+**Parent System**: [Hrefna](../systems/Hrefna.md)
 
 ## Attributes
 - **Situation**: War between rival rocks

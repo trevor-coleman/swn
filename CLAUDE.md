@@ -32,7 +32,9 @@ This is a living campaign repository for Stars Without Number RPG campaigns acro
 - **plot-threads/** - Active tensions and storylines
 - **planning/** - Future session prep and ideas
 - **modules/** - Ready-to-run adventures
-- **sector-data/** - Location information
+- **systems/** - Star systems in the sector
+- **planets/** - Planets and their details
+- **locations/** - Space stations, asteroid bases, etc.
 
 ### Party Organization (Root Level)
 - **party/** - PC data organized by player

@@ -170,6 +170,8 @@
   },
   "active": "83e0bd77a49c71cc",
   "lastOpenFiles": [
+    "extract_sector_data_v3.py",
+    "fix_system_tags.py",
     "extract_sector_data_v2.py",
     "sectors/abiha-omicron/lore/protocol-key-fragments.md",
     "sectors/abiha-omicron/lore/khyber-line.md",
@@ -204,8 +206,6 @@
     "sectors/abiha-omicron/sector-data/planets",
     "sectors/abiha-omicron/sector-data/locations",
     "sectors/abiha-omicron/plot-threads",
-    "sectors/abiha-omicron/planning/future/cou",
-    "sectors/abiha-omicron/planning/next-session",
     "images/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-14T15%3A34%3A30Z&ske=2025-06-15T15%3A34%3A30Z&sks=b&skv=2024-08-04&sig=6MAfxWbUVW8ROesfV3zqnFxzhMDKEA4ODYbqOvW2WUw%3D.png",
     "681298b33549761ba5c305b0_img-landing-team@2x.png"
   ]

@@ -1,6 +1,6 @@
 # Deepspacestation: Baykonyr 2
 
-**Parent**: bzhB71260DVecmCr9cyi
+**Parent System**: [Buruker Urdia](../systems/Buruker Urdia.md)
 
 ## Attributes
 - **Occupation**: Deranged but brilliant scientist

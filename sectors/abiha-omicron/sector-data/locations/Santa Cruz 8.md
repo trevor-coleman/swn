@@ -1,6 +1,6 @@
 # Researchbase: Santa Cruz 8
 
-**Parent**: dEaZOTYHX0nTmvQqiztr
+**Parent System**: [Vilizad](../systems/Vilizad.md)
 
 ## Attributes
 - **Occupation**: Alien studying the human locals

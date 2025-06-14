@@ -1,6 +1,6 @@
 # Researchbase: Creel 1
 
-**Parent**: bzhB71260DVecmCr9cyi
+**Parent System**: [Buruker Urdia](../systems/Buruker Urdia.md)
 
 ## Attributes
 - **Occupation**: Secret employees of a foreign power

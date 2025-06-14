@@ -1,6 +1,6 @@
 # Researchbase: Harris 7
 
-**Parent**: xcUgEku4kfANEaBkSbBm
+**Parent System**: [Mardo](../systems/Mardo.md)
 
 ## Attributes
 - **Occupation**: Black-ops governmental researchers

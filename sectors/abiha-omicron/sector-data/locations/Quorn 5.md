@@ -1,6 +1,6 @@
 # Refuelingstation: Quorn 5
 
-**Parent**: 13p3pdbfmnap9tWXzgwW
+**Parent System**: [Elis](../systems/Elis.md)
 
 ## Attributes
 - **Occupation**: Sordid purveyors of decadent fun

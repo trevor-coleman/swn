@@ -1,6 +1,6 @@
 # Researchbase: Lowell 3
 
-**Parent**: xSGsUt7pn8CUglpydOct
+**Parent System**: [Varadha Shangit XV](../systems/Varadha Shangit XV.md)
 
 ## Attributes
 - **Situation**: Science monsters run amok

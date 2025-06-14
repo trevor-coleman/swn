@@ -1,6 +1,6 @@
 # Asteroidbelt: Aurelius Belt
 
-**Parent**: zjsY4HbsnLJBCEFuCJle
+**Parent System**: [Campera](../systems/Campera.md)
 
 ## Attributes
 - **Occupation**: Survivors of destroyed asteroid base

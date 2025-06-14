@@ -1,6 +1,6 @@
 # Asteroidbelt: 37 Labria
 
-**Parent**: oRAokl2Md8vH58AyDdiY
+**Parent System**: [Meliadi VIII](../systems/Meliadi VIII.md)
 
 ## Attributes
 - **Situation**: Foreign spy ships hide there

@@ -1,6 +1,6 @@
 # Refuelingstation: Gold 7
 
-**Parent**: cLQKUIE1r8Rt59hZ2reL
+**Parent System**: [Erlageusle](../systems/Erlageusle.md)
 
 ## Attributes
 - **Situation**: Has corrupt customs agents

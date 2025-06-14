@@ -54,7 +54,9 @@ A living campaign repository for Stars Without Number RPG campaigns. Currently a
 - `plot-threads/` - Ongoing storylines
 - `planning/` - Future session materials
 - `modules/` - Ready-to-run adventures
-- `sector-data/` - Planets and locations
+- `systems/` - Star systems
+- `planets/` - Planet details
+- `locations/` - Stations, bases, etc.
 
 ### 📖 Reference Materials
 - `game-mechanics/` - Rules references

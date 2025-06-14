@@ -1,6 +1,6 @@
 # Deepspacestation: Hsuanch'eng 7
 
-**Parent**: cLQKUIE1r8Rt59hZ2reL
+**Parent System**: [Erlageusle](../systems/Erlageusle.md)
 
 ## Attributes
 - **Situation**: Vault for dangerous pretech
