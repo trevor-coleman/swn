@@ -11,10 +11,14 @@
             "id": "64c2bf52e656321e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sectors/abiha-omicron/lore/resonance-protocol.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "resonance-protocol"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sectors/abiha-omicron/lore/resonance-protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for resonance-protocol"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sectors/abiha-omicron/lore/resonance-protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from resonance-protocol"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "sectors/abiha-omicron/lore/resonance-protocol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of resonance-protocol"
             }
           }
         ]
@@ -163,6 +170,19 @@
   },
   "active": "83e0bd77a49c71cc",
   "lastOpenFiles": [
+    "extract_sector_data_v2.py",
+    "sectors/abiha-omicron/lore/protocol-key-fragments.md",
+    "sectors/abiha-omicron/lore/khyber-line.md",
+    "sectors/abiha-omicron/lore/aurelius-jumpgate.md",
+    "sectors/abiha-omicron/items/kaedim-gauntlet.md",
+    "sectors/abiha-omicron/items/drugs-and-compounds.md",
+    "sectors/abiha-omicron/items/bio-weave-cloak.md",
+    "sectors/abiha-omicron/factions/resonant-dawn.md",
+    "sectors/abiha-omicron/factions/aurelius-consortium.md",
+    "sectors/abiha-omicron/sector-data/planets/Inna VII.md",
+    "sectors/abiha-omicron/plot-threads/active-tensions.md",
+    "REVELATIONS-INDEX.md",
+    "TIMELINE.md",
     "sectors/eradinus-expanse/factions/stellar-dynamics.md",
     "sectors/eradinus-expanse/factions",
     "sectors/eradinus-expanse/README.md",
@@ -179,20 +199,7 @@
     "sectors/abiha-omicron/sessions/2025-04-04-penticton-9.md",
     "sectors/abiha-omicron/sessions/2025-05-01-archive-arrival.md",
     "sectors/abiha-omicron/sessions/2025-03-27-orinda-mine-rescue.md",
-    "sectors/abiha-omicron/sessions/2025-03-06-resonance-unveiled.md",
     "sectors/abiha-omicron/sessions",
-    "sectors/abiha-omicron/sector-data/systems/Vilizad.md",
-    "sectors/abiha-omicron/sector-data/systems/Vello.md",
-    "sectors/abiha-omicron/sector-data/systems/Varadha Shangit XV.md",
-    "sectors/abiha-omicron/sector-data/systems/Vallfdi.md",
-    "sectors/abiha-omicron/sector-data/systems/Tsilas.md",
-    "sectors/abiha-omicron/sector-data/systems/Sopolyche.md",
-    "sectors/abiha-omicron/sector-data/systems/Meliadi VIII.md",
-    "sectors/abiha-omicron/sector-data/systems/Mele.md",
-    "sectors/abiha-omicron/sector-data/systems/Mardo.md",
-    "sectors/abiha-omicron/sector-data/systems/Katalin Fra.md",
-    "sectors/abiha-omicron/sector-data/systems/Kandrou.md",
-    "sectors/abiha-omicron/sector-data/systems/Idaracl.md",
     "sectors/abiha-omicron/sector-data/systems",
     "sectors/abiha-omicron/sector-data/planets",
     "sectors/abiha-omicron/sector-data/locations",
