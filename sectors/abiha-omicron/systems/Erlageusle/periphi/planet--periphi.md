@@ -1,13 +1,13 @@
 # Periphi
 
 ## Planet Information
-- **System**: [Erlageusle](../../system--erlageusle.md)
+- **System**: [Erlageusle](../../../system--erlageusle.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: Immiscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL3
+- **Tech Level**: TL3
 
 ## World Tags
 

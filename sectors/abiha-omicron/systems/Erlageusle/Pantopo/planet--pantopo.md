@@ -1,13 +1,13 @@
 # Pantopo
 
 ## Planet Information
-- **System**: [Erlageusle](../../system--erlageusle.md)
+- **System**: [Erlageusle](../../../system--erlageusle.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: No native biosphere
 - **Population**: Billions of inhabitants
-- **Techlevel**: TL2
+- **Tech Level**: TL2
 
 ## World Tags
 

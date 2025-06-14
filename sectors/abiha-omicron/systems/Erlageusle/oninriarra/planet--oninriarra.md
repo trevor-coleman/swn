@@ -1,13 +1,13 @@
 # Oninriarra
 
 ## Planet Information
-- **System**: [Erlageusle](../../system--erlageusle.md)
+- **System**: [Erlageusle](../../../system--erlageusle.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: Immiscible
 - **Population**: Hundreds of millions of inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

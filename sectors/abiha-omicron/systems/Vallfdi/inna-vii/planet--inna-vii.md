@@ -1,13 +1,13 @@
 # Inna VII
 
 ## Planet Information
-- **System**: [Vallfdi](../../system--vallfdi.md)
+- **System**: [Vallfdi](../../../system--vallfdi.md)
 - **Type**: Planet
 - **Atmosphere**: Thick atmosphere, breathable with a pressure mask
 - **Temperature**: Variable cold-to-temperate
 - **Biosphere**: No native biosphere
 - **Population**: Fewer than a million inhabitants
-- **Techlevel**: TL2
+- **Tech Level**: TL2
 
 ## World Tags
 

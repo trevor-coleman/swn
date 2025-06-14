@@ -1,13 +1,13 @@
 # Madiera
 
 ## Planet Information
-- **System**: [Buruker Urdia](../../system--buruker-urdia.md)
+- **System**: [Buruker Urdia](../../../system--buruker-urdia.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: No native biosphere
 - **Population**: Outpost
-- **Techlevel**: TL0
+- **Tech Level**: TL0
 
 ## World Tags
 

@@ -1,13 +1,13 @@
 # Cyme I
 
 ## Planet Information
-- **System**: [Katalin Fra](../../system--katalin-fra.md)
+- **System**: [Katalin Fra](../../../system--katalin-fra.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: Immiscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL2
+- **Tech Level**: TL2
 
 ## World Tags
 

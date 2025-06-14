@@ -1,13 +1,13 @@
 # Thorbjo
 
 ## Planet Information
-- **System**: [Vallfdi](../../system--vallfdi.md)
+- **System**: [Vallfdi](../../../system--vallfdi.md)
 - **Type**: Planet
 - **Atmosphere**: Invasive, toxic atmosphere
 - **Temperature**: Variable temperate-to-warm
 - **Biosphere**: Human-miscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL4+
+- **Tech Level**: TL4+
 
 ## World Tags
 

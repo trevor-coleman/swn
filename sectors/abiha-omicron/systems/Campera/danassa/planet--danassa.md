@@ -1,13 +1,13 @@
 # Danassa
 
 ## Planet Information
-- **System**: [Campera](../../system--campera.md)
+- **System**: [Campera](../../../system--campera.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: Human-miscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL0
+- **Tech Level**: TL0
 
 ## World Tags
 

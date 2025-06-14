@@ -1,13 +1,13 @@
 # Gallial
 
 ## Planet Information
-- **System**: [Idaracl](../../system--idaracl.md)
+- **System**: [Idaracl](../../../system--idaracl.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Variable temperate-to-warm
 - **Biosphere**: Immiscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

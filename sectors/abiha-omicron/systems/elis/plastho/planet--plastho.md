@@ -1,13 +1,13 @@
 # Plastho
 
 ## Planet Information
-- **System**: [Elis](../../system--elis.md)
+- **System**: [Elis](../../../system--elis.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: Human-miscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL4+
+- **Tech Level**: TL4+
 
 ## World Tags
 

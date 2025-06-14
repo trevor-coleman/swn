@@ -1,13 +1,13 @@
 # Fat
 
 ## Planet Information
-- **System**: [Tsilas](../../system--tsilas.md)
+- **System**: [Tsilas](../../../system--tsilas.md)
 - **Type**: Planet
 - **Atmosphere**: Invasive, toxic atmosphere
 - **Temperature**: Temperate
 - **Biosphere**: Human-miscible
 - **Population**: Hundreds of millions of inhabitants
-- **Techlevel**: TL3
+- **Tech Level**: TL3
 
 ## World Tags
 

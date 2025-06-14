@@ -1,13 +1,13 @@
 # Zariadjiy
 
 ## Planet Information
-- **System**: [Varadha Shangit XV](../../system--varadha-shangit-xv.md)
+- **System**: [Varadha Shangit XV](../../../system--varadha-shangit-xv.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Variable cold-to-temperate
 - **Biosphere**: Microbial life
 - **Population**: Billions of inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

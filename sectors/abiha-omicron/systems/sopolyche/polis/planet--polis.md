@@ -1,13 +1,13 @@
 # Polis
 
 ## Planet Information
-- **System**: [Sopolyche](../../system--sopolyche.md)
+- **System**: [Sopolyche](../../../system--sopolyche.md)
 - **Type**: Planet
 - **Atmosphere**: Inert gas
 - **Temperature**: Variable temperate-to-warm
 - **Biosphere**: Human-miscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL0
+- **Tech Level**: TL0
 
 ## World Tags
 

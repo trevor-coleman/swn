@@ -1,13 +1,13 @@
 # Teonxe
 
 ## Planet Information
-- **System**: [Dul-Yaq](../../system--dul-yaq.md)
+- **System**: [Dul-Yaq](../../../system--dul-yaq.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Variable temperate-to-warm
 - **Biosphere**: No native biosphere
 - **Population**: Several million inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

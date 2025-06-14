@@ -1,13 +1,13 @@
 # Hiphos
 
 ## Planet Information
-- **System**: [Tsilas](../../system--tsilas.md)
+- **System**: [Tsilas](../../../system--tsilas.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: Human-miscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL2
+- **Tech Level**: TL2
 
 ## World Tags
 

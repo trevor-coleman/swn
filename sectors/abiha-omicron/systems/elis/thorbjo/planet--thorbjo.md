@@ -1,13 +1,13 @@
 # Thorbjo
 
 ## Planet Information
-- **System**: [Elis](../../system--elis.md)
+- **System**: [Elis](../../../system--elis.md)
 - **Type**: Planet
 - **Atmosphere**: Airless or thin atmosphere
 - **Temperature**: Variable temperate-to-warm
 - **Biosphere**: Microbial life
 - **Population**: Hundreds of millions of inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

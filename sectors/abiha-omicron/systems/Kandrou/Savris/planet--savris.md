@@ -1,13 +1,13 @@
 # Savris
 
 ## Planet Information
-- **System**: [Kandrou](../../system--kandrou.md)
+- **System**: [Kandrou](../../../system--kandrou.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Variable temperate-to-warm
 - **Biosphere**: No native biosphere
 - **Population**: Outpost
-- **Techlevel**: TL2
+- **Tech Level**: TL2
 
 ## World Tags
 

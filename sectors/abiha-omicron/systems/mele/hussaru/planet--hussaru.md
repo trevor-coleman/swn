@@ -1,13 +1,13 @@
 # Hussaru
 
 ## Planet Information
-- **System**: [Mele](../../system--mele.md)
+- **System**: [Mele](../../../system--mele.md)
 - **Type**: Planet
 - **Atmosphere**: Invasive, toxic atmosphere
 - **Temperature**: Temperate
 - **Biosphere**: Human-miscible
 - **Population**: Alien civilization
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

@@ -1,13 +1,13 @@
 # Cou
 
 ## Planet Information
-- **System**: [Dul-Yaq](../../system--dul-yaq.md)
+- **System**: [Dul-Yaq](../../../system--dul-yaq.md)
 - **Type**: Planet
 - **Atmosphere**: Thick atmosphere, breathable with a pressure mask
 - **Temperature**: Temperate
 - **Biosphere**: Immiscible
 - **Population**: Hundreds of millions of inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

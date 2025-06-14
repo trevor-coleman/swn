@@ -1,13 +1,13 @@
 # Gullaq
 
 ## Planet Information
-- **System**: [Meliadi VIII](../../system--meliadi-viii.md)
+- **System**: [Meliadi VIII](../../../system--meliadi-viii.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Variable cold-to-temperate
 - **Biosphere**: No native biosphere
 - **Population**: Hundreds of millions of inhabitants
-- **Techlevel**: TL2
+- **Tech Level**: TL2
 
 ## World Tags
 

@@ -1,13 +1,13 @@
 # Zaisla
 
 ## Planet Information
-- **System**: [Gunn](../../system--gunn.md)
+- **System**: [Gunn](../../../system--gunn.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Variable temperate-to-warm
 - **Biosphere**: No native biosphere
 - **Population**: Outpost
-- **Techlevel**: TL3
+- **Tech Level**: TL3
 
 ## World Tags
 

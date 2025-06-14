@@ -1,13 +1,13 @@
 # Actolyt
 
 ## Planet Information
-- **System**: [Varadha Shangit XV](../../system--varadha-shangit-xv.md)
+- **System**: [Varadha Shangit XV](../../../system--varadha-shangit-xv.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: Immiscible
 - **Population**: Hundreds of millions of inhabitants
-- **Techlevel**: TL2
+- **Tech Level**: TL2
 
 ## World Tags
 

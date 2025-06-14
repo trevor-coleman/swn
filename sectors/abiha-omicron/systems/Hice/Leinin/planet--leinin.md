@@ -1,13 +1,13 @@
 # Leinin
 
 ## Planet Information
-- **System**: [Hice](../../system--hice.md)
+- **System**: [Hice](../../../system--hice.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Variable cold-to-temperate
 - **Biosphere**: Immiscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL1
+- **Tech Level**: TL1
 
 ## World Tags
 

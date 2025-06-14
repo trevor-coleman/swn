@@ -1,13 +1,13 @@
 # Meta
 
 ## Planet Information
-- **System**: [Katalin Fra](../../system--katalin-fra.md)
+- **System**: [Katalin Fra](../../../system--katalin-fra.md)
 - **Type**: Planet
 - **Atmosphere**: Thick atmosphere, breathable with a pressure mask
 - **Temperature**: Temperate
 - **Biosphere**: Human-miscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

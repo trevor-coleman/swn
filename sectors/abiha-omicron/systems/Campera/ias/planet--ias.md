@@ -1,13 +1,13 @@
 # Ias
 
 ## Planet Information
-- **System**: [Campera](../../system--campera.md)
+- **System**: [Campera](../../../system--campera.md)
 - **Type**: Planet
 - **Atmosphere**: Inert gas
 - **Temperature**: Temperate
 - **Biosphere**: No native biosphere
 - **Population**: Fewer than a million inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

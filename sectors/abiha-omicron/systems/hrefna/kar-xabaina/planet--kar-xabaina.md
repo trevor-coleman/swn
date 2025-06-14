@@ -1,13 +1,13 @@
 # Kar Xabaina
 
 ## Planet Information
-- **System**: [Hrefna](../../system--hrefna.md)
+- **System**: [Hrefna](../../../system--hrefna.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Variable cold-to-temperate
 - **Biosphere**: Hybrid
 - **Population**: Hundreds of millions of inhabitants
-- **Techlevel**: TL1
+- **Tech Level**: TL1
 
 ## World Tags
 

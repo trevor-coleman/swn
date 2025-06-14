@@ -1,13 +1,13 @@
 # Suadiyy
 
 ## Planet Information
-- **System**: [Campera](../../system--campera.md)
+- **System**: [Campera](../../../system--campera.md)
 - **Type**: Planet
 - **Atmosphere**: Airless or thin atmosphere
 - **Temperature**: Cold
 - **Biosphere**: Human-miscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL3
+- **Tech Level**: TL3
 
 ## World Tags
 

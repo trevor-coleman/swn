@@ -1,13 +1,13 @@
 # Tsyomatsa
 
 ## Planet Information
-- **System**: [Hice](../../system--hice.md)
+- **System**: [Hice](../../../system--hice.md)
 - **Type**: Planet
 - **Atmosphere**: Airless or thin atmosphere
 - **Temperature**: Temperate
 - **Biosphere**: Engineered
 - **Population**: Several million inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

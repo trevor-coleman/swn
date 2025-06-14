@@ -1,13 +1,13 @@
 # Leorgioly
 
 ## Planet Information
-- **System**: [Vello](../../system--vello.md)
+- **System**: [Vello](../../../system--vello.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: No native biosphere
 - **Population**: Several million inhabitants
-- **Techlevel**: TL2
+- **Tech Level**: TL2
 
 ## World Tags
 

@@ -1,13 +1,13 @@
 # Islaanreon
 
 ## Planet Information
-- **System**: [Mardo](../../system--mardo.md)
+- **System**: [Mardo](../../../system--mardo.md)
 - **Type**: Planet
 - **Atmosphere**: Invasive, toxic atmosphere
 - **Temperature**: Variable cold-to-temperate
 - **Biosphere**: Human-miscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

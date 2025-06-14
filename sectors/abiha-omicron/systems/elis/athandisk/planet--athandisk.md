@@ -1,13 +1,13 @@
 # Athandisk
 
 ## Planet Information
-- **System**: [Elis](../../system--elis.md)
+- **System**: [Elis](../../../system--elis.md)
 - **Type**: Planet
 - **Atmosphere**: Corrosive and invasive atmosphere
 - **Temperature**: Temperate
 - **Biosphere**: Human-miscible
 - **Population**: Hundreds of millions of inhabitants
-- **Techlevel**: TL2
+- **Tech Level**: TL2
 
 ## World Tags
 

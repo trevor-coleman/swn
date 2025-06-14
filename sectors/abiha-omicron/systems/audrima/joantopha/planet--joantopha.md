@@ -1,13 +1,13 @@
 # Joantopha
 
 ## Planet Information
-- **System**: [Audrima](../../system--audrima.md)
+- **System**: [Audrima](../../../system--audrima.md)
 - **Type**: Planet
 - **Atmosphere**: Breathable mix
 - **Temperature**: Temperate
 - **Biosphere**: No native biosphere
 - **Population**: Fewer than a million inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 

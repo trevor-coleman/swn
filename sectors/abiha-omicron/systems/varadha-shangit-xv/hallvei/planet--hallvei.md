@@ -1,13 +1,13 @@
 # Hallvei
 
 ## Planet Information
-- **System**: [Varadha Shangit XV](../../system--varadha-shangit-xv.md)
+- **System**: [Varadha Shangit XV](../../../system--varadha-shangit-xv.md)
 - **Type**: Planet
 - **Atmosphere**: Airless or thin atmosphere
 - **Temperature**: Variable cold-to-temperate
 - **Biosphere**: Immiscible
 - **Population**: Several million inhabitants
-- **Techlevel**: TL4
+- **Tech Level**: TL4
 
 ## World Tags
 
