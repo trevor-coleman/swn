@@ -1,9 +1,8 @@
-# Space Station: Guir
+# Guir
 
-## Attributes
-- **Situation**: Systems breaking down
+## Location Information
+- **Planet**: [Savris](../planet--savris.md)
+- **System**: [Kandrou](../../../system--kandrou.md)
+- **Type**: Spacestation
 - **Occupation**: Dangerously odd humans
-
-
-## Navigation
-- [Back to Parent](../)
+- **Situation**: Systems breaking down

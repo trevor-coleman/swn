@@ -174,8 +174,9 @@ def extract_sector_data(json_file: str, output_root: str = "sectors",
     
     # Build lookup tables for entities
     entities_by_id = {}
+    children_by_parent = {}  # parent_id -> list of child entities
     
-    # First pass: collect all entities
+    # First pass: collect all entities and build parent-child relationships
     for entity_type in data:
         if entity_type in ['sector', 'note']:
             continue
@@ -185,6 +186,17 @@ def extract_sector_data(json_file: str, output_root: str = "sectors",
                 'data': entity,
                 'id': entity_id
             }
+            
+            # Build parent-child mapping
+            parent_id = entity.get('parent')
+            if parent_id:
+                if parent_id not in children_by_parent:
+                    children_by_parent[parent_id] = []
+                children_by_parent[parent_id].append({
+                    'type': entity_type,
+                    'id': entity_id,
+                    'data': entity
+                })
     
     # Process systems and build coordinate index
     systems_processed = 0
@@ -196,7 +208,13 @@ def extract_sector_data(json_file: str, output_root: str = "sectors",
         system_name = system.get('name', 'Unknown System')
         system_dir_name = clean_name(system_name)
         system_file_name = f"system--{system_dir_name}.md"
-        system_path = os.path.join(systems_path, system_file_name)
+        
+        # Create system directory first
+        system_dir_path = os.path.join(systems_path, system_dir_name)
+        create_directory(system_dir_path)
+        
+        # System file goes INSIDE the system directory
+        system_path = os.path.join(system_dir_path, system_file_name)
         
         # Extract coordinates (1-indexed in JSON, convert to 0-indexed for display)
         x = system.get('x', 0) - 1
@@ -206,14 +224,10 @@ def extract_sector_data(json_file: str, output_root: str = "sectors",
         # Add to coordinate index
         coordinate_index[hex_coords] = {
             'name': system_name,
-            'path': f"systems/{system_file_name}",
+            'path': f"systems/{system_dir_name}/{system_file_name}",
             'x': x,
             'y': y
         }
-        
-        # Create system directory
-        system_dir_path = os.path.join(systems_path, system_dir_name)
-        create_directory(system_dir_path)
         
         # Generate system content
         content = [f"# {system_name}"]
@@ -237,21 +251,19 @@ def extract_sector_data(json_file: str, output_root: str = "sectors",
         # List celestial bodies
         body_list = []
         
-        # Collect all bodies in the system
-        for planet_id in system.get('planet', []):
-            if planet_id in entities_by_id:
-                planet = entities_by_id[planet_id]['data']
-                body_list.append(f"- **{planet.get('name', 'Unknown')}** - Planet")
-        
-        for asteroid_id in system.get('asteroid_belt', []):
-            if asteroid_id in entities_by_id:
-                belt = entities_by_id[asteroid_id]['data']
-                body_list.append(f"- **{belt.get('name', 'Unknown Belt')}** - Asteroid Belt")
-        
-        for gas_giant_id in system.get('gas_giant_mine', []):
-            if gas_giant_id in entities_by_id:
-                giant = entities_by_id[gas_giant_id]['data']
-                body_list.append(f"- **{giant.get('name', 'Unknown')}** - Gas Giant")
+        # Collect all bodies in this system using parent-child relationships
+        if system_id in children_by_parent:
+            for child in children_by_parent[system_id]:
+                child_type = child['type']
+                child_data = child['data']
+                if child_type == 'planet':
+                    body_list.append(f"- **{child_data.get('name', 'Unknown')}** - Planet")
+                elif child_type == 'asteroidBelt':
+                    body_list.append(f"- **{child_data.get('name', 'Unknown Belt')}** - Asteroid Belt")
+                elif child_type == 'gasGiantMine':
+                    body_list.append(f"- **{child_data.get('name', 'Unknown')}** - Gas Giant")
+                elif child_type == 'blackHole':
+                    body_list.append(f"- **{child_data.get('name', 'Unknown')}** - Black Hole")
         
         if body_list:
             content.append("## Celestial Bodies")
@@ -264,168 +276,193 @@ def extract_sector_data(json_file: str, output_root: str = "sectors",
         
         systems_processed += 1
         
-        # Process planets in this system
-        for planet_id in system.get('planet', []):
-            if planet_id not in entities_by_id:
-                continue
-                
-            planet = entities_by_id[planet_id]['data']
-            planet_name = planet.get('name', 'Unknown Planet')
-            planet_dir_name = clean_name(planet_name)
-            planet_file_name = f"planet--{planet_dir_name}.md"
-            
-            # Create planet directory
-            planet_dir_path = os.path.join(system_dir_path, planet_dir_name)
-            create_directory(planet_dir_path)
-            
-            # Create planet file path
-            planet_path = os.path.join(planet_dir_path, planet_file_name)
-            
-            # Generate planet content
-            content = [f"# {planet_name}"]
-            content.append("")
-            content.append("## Planet Information")
-            content.append(f"- **System**: [{system_name}](../system--{system_dir_name}.md)")
-            content.append(f"- **Type**: Planet")
-            
-            # Add attributes
-            for attr in ['atmosphere', 'temperature', 'biosphere', 'population', 'tech_level']:
-                if attr in planet:
-                    display_name = attr.replace('_', ' ').title()
-                    content.append(f"- **{display_name}**: {planet[attr]}")
-            
-            content.append("")
-            
-            if 'description' in planet:
-                content.append("## Description")
-                content.append(planet['description'])
-                content.append("")
-            
-            # Process tags
-            if 'tags' in planet and planet['tags']:
-                content.append("## World Tags")
-                content.append("")
-                for tag in planet['tags']:
-                    content.append(format_tag(tag))
-                content.append("")
-            
-            # Write planet file
-            with open(planet_path, 'w') as f:
-                f.write('\n'.join(content))
-            
-            planets_processed += 1
-            
-            # Create subdirectories for locations
-            locations_dir = os.path.join(planet_dir_path, 'locations')
-            create_directory(locations_dir)
-            
-            # Create moons directory if needed
-            moons_dir = os.path.join(planet_dir_path, 'moons')
-            
-            # Process locations on this planet
-            for poi_id in planet.get('point_of_interest', []):
-                if poi_id not in entities_by_id:
+        # Process planets in this system using parent-child relationships
+        if system_id in children_by_parent:
+            for child in children_by_parent[system_id]:
+                if child['type'] != 'planet':
                     continue
-                    
-                poi = entities_by_id[poi_id]['data']
-                poi_name = poi.get('name', 'Unknown Location')
-                poi_type = clean_name(poi.get('type', 'location').replace(' ', '-'))
-                poi_file_name = f"{poi_type}--{clean_name(poi_name)}.md"
-                poi_path = os.path.join(locations_dir, poi_file_name)
                 
-                # Generate location content
-                content = [f"# {poi_name}"]
+                planet_id = child['id']
+                planet = entities_by_id[planet_id]['data']
+                planet_name = planet.get('name', 'Unknown Planet')
+                planet_dir_name = clean_name(planet_name)
+                planet_file_name = f"planet--{planet_dir_name}.md"
+                
+                # Create planet directory
+                planet_dir_path = os.path.join(system_dir_path, planet_dir_name)
+                create_directory(planet_dir_path)
+                
+                # Create planet file path
+                planet_path = os.path.join(planet_dir_path, planet_file_name)
+                
+                # Generate planet content
+                content = [f"# {planet_name}"]
                 content.append("")
-                content.append("## Location Information")
-                content.append(f"- **Planet**: [{planet_name}](../planet--{planet_dir_name}.md)")
-                content.append(f"- **System**: [{system_name}](../../system--{system_dir_name}.md)")
-                content.append(f"- **Type**: {poi.get('type', 'Unknown Type')}")
+                content.append("## Planet Information")
+                content.append(f"- **System**: [{system_name}](../../{system_file_name})")
+                content.append(f"- **Type**: Planet")
                 
-                if 'description' in poi:
-                    content.append("")
+                # Add attributes
+                if 'attributes' in planet:
+                    attrs = planet['attributes']
+                    for attr in ['atmosphere', 'temperature', 'biosphere', 'population', 'techLevel']:
+                        if attr in attrs:
+                            display_name = attr.replace('_', ' ').title()
+                            content.append(f"- **{display_name}**: {attrs[attr]}")
+                
+                content.append("")
+                
+                if 'description' in planet:
                     content.append("## Description")
-                    content.append(poi['description'])
+                    content.append(planet['description'])
+                    content.append("")
                 
-                # Write location file
-                with open(poi_path, 'w') as f:
+                # Process tags
+                if 'attributes' in planet and 'tags' in planet['attributes'] and planet['attributes']['tags']:
+                    content.append("## World Tags")
+                    content.append("")
+                    for tag in planet['attributes']['tags']:
+                        content.append(format_tag(tag))
+                    content.append("")
+                
+                # Write planet file
+                with open(planet_path, 'w') as f:
                     f.write('\n'.join(content))
                 
-                locations_processed += 1
+                planets_processed += 1
+                
+                # Create subdirectories for locations
+                locations_dir = os.path.join(planet_dir_path, 'locations')
+                create_directory(locations_dir)
+                
+                # Create moons directory if needed
+                moons_dir = os.path.join(planet_dir_path, 'moons')
+                
+                # Process locations on this planet
+                if planet_id in children_by_parent:
+                    for loc_child in children_by_parent[planet_id]:
+                        if loc_child['type'] not in ['spaceStation', 'moonBase', 'researchBase', 'refuelingStation', 'orbitalRuin', 'asteroidBase']:
+                            continue
+                        
+                        poi = loc_child['data']
+                        poi_name = poi.get('name', 'Unknown Location')
+                        poi_type = clean_name(loc_child['type'].replace(' ', '-'))
+                        poi_file_name = f"{poi_type}--{clean_name(poi_name)}.md"
+                        poi_path = os.path.join(locations_dir, poi_file_name)
+                        
+                        # Generate location content
+                        content = [f"# {poi_name}"]
+                        content.append("")
+                        content.append("## Location Information")
+                        content.append(f"- **Planet**: [{planet_name}](../{planet_file_name})")
+                        content.append(f"- **System**: [{system_name}](../../../{system_file_name})")
+                        content.append(f"- **Type**: {poi_type.replace('-', ' ').title()}")
+                        
+                        if 'attributes' in poi:
+                            if 'occupation' in poi['attributes']:
+                                content.append(f"- **Occupation**: {poi['attributes']['occupation']}")
+                            if 'situation' in poi['attributes']:
+                                content.append(f"- **Situation**: {poi['attributes']['situation']}")
+                        
+                        if 'description' in poi:
+                            content.append("")
+                            content.append("## Description")
+                            content.append(poi['description'])
+                        
+                        # Write location file
+                        with open(poi_path, 'w') as f:
+                            f.write('\n'.join(content))
+                        
+                        locations_processed += 1
         
-        # Process asteroid belts in this system
-        for belt_id in system.get('asteroid_belt', []):
-            if belt_id not in entities_by_id:
-                continue
-                
-            belt = entities_by_id[belt_id]['data']
-            belt_name = belt.get('name', 'Unknown Belt')
-            belt_dir_name = clean_name(belt_name)
-            belt_file_name = f"belt--{belt_dir_name}.md"
-            
-            # Create belt directory
-            belt_dir_path = os.path.join(system_dir_path, belt_dir_name)
-            create_directory(belt_dir_path)
-            
-            # Create belt file
-            belt_path = os.path.join(belt_dir_path, belt_file_name)
-            
-            # Generate belt content
-            content = [f"# {belt_name}"]
-            content.append("")
-            content.append("## Belt Information")
-            content.append(f"- **System**: [{system_name}](../system--{system_dir_name}.md)")
-            content.append(f"- **Type**: Asteroid Belt")
-            
-            if 'description' in belt:
-                content.append("")
-                content.append("## Description")
-                content.append(belt['description'])
-            
-            # Process tags if any
-            if 'tags' in belt and belt['tags']:
-                content.append("")
-                content.append("## Tags")
-                content.append("")
-                for tag in belt['tags']:
-                    content.append(format_tag(tag))
-            
-            # Write belt file
-            with open(belt_path, 'w') as f:
-                f.write('\n'.join(content))
-            
-            # Create locations directory for belt
-            locations_dir = os.path.join(belt_dir_path, 'locations')
-            create_directory(locations_dir)
-            
-            # Process locations in this belt
-            for poi_id in belt.get('point_of_interest', []):
-                if poi_id not in entities_by_id:
+            # Process asteroid belts in this system  
+            for child in children_by_parent[system_id]:
+                if child['type'] != 'asteroidBelt':
                     continue
-                    
-                poi = entities_by_id[poi_id]['data']
-                poi_name = poi.get('name', 'Unknown Location')
-                poi_type = clean_name(poi.get('type', 'location').replace(' ', '-'))
-                poi_file_name = f"{poi_type}--{clean_name(poi_name)}.md"
-                poi_path = os.path.join(locations_dir, poi_file_name)
                 
-                # Generate location content
-                content = [f"# {poi_name}"]
+                belt_id = child['id']
+                belt = entities_by_id[belt_id]['data']
+                belt_name = belt.get('name', 'Unknown Belt')
+                belt_dir_name = clean_name(belt_name)
+                belt_file_name = f"belt--{belt_dir_name}.md"
+                
+                # Create belt directory
+                belt_dir_path = os.path.join(system_dir_path, belt_dir_name)
+                create_directory(belt_dir_path)
+                
+                # Create belt file
+                belt_path = os.path.join(belt_dir_path, belt_file_name)
+                
+                # Generate belt content
+                content = [f"# {belt_name}"]
                 content.append("")
-                content.append("## Location Information")
-                content.append(f"- **Belt**: [{belt_name}](../belt--{belt_dir_name}.md)")
-                content.append(f"- **System**: [{system_name}](../../system--{system_dir_name}.md)")
-                content.append(f"- **Type**: {poi.get('type', 'Unknown Type')}")
+                content.append("## Belt Information")
+                content.append(f"- **System**: [{system_name}](../../{system_file_name})")
+                content.append(f"- **Type**: Asteroid Belt")
                 
-                if 'description' in poi:
+                if 'attributes' in belt:
+                    if 'occupation' in belt['attributes']:
+                        content.append(f"- **Occupation**: {belt['attributes']['occupation']}")
+                    if 'situation' in belt['attributes']:
+                        content.append(f"- **Situation**: {belt['attributes']['situation']}")
+                
+                if 'description' in belt:
                     content.append("")
                     content.append("## Description")
-                    content.append(poi['description'])
+                    content.append(belt['description'])
                 
-                # Write location file
-                with open(poi_path, 'w') as f:
+                # Process tags if any
+                if 'attributes' in belt and 'tags' in belt['attributes'] and belt['attributes']['tags']:
+                    content.append("")
+                    content.append("## Tags")
+                    content.append("")
+                    for tag in belt['attributes']['tags']:
+                        content.append(format_tag(tag))
+                
+                # Write belt file
+                with open(belt_path, 'w') as f:
                     f.write('\n'.join(content))
                 
-                locations_processed += 1
+                # Create locations directory for belt
+                locations_dir = os.path.join(belt_dir_path, 'locations')
+                create_directory(locations_dir)
+                
+                # Process locations in this belt
+                if belt_id in children_by_parent:
+                    for loc_child in children_by_parent[belt_id]:
+                        if loc_child['type'] not in ['asteroidBase', 'spaceStation', 'refuelingStation']:
+                            continue
+                        
+                        poi = loc_child['data']
+                        poi_name = poi.get('name', 'Unknown Location')
+                        poi_type = clean_name(loc_child['type'].replace(' ', '-'))
+                        poi_file_name = f"{poi_type}--{clean_name(poi_name)}.md"
+                        poi_path = os.path.join(locations_dir, poi_file_name)
+                        
+                        # Generate location content
+                        content = [f"# {poi_name}"]
+                        content.append("")
+                        content.append("## Location Information")
+                        content.append(f"- **Belt**: [{belt_name}](../{belt_file_name})")
+                        content.append(f"- **System**: [{system_name}](../../../{system_file_name})")
+                        content.append(f"- **Type**: {poi_type.replace('-', ' ').title()}")
+                        
+                        if 'attributes' in poi:
+                            if 'occupation' in poi['attributes']:
+                                content.append(f"- **Occupation**: {poi['attributes']['occupation']}")
+                            if 'situation' in poi['attributes']:
+                                content.append(f"- **Situation**: {poi['attributes']['situation']}")
+                        
+                        if 'description' in poi:
+                            content.append("")
+                            content.append("## Description")
+                            content.append(poi['description'])
+                        
+                        # Write location file
+                        with open(poi_path, 'w') as f:
+                            f.write('\n'.join(content))
+                        
+                        locations_processed += 1
     
     # Generate coordinate index file
     generate_coordinate_index(base_path, coordinate_index)

@@ -68,9 +68,9 @@ Complete directory of all campaign content across sectors, organized by category
 - [Systems Coordinate Index](sectors/abiha-omicron/systems-coordinate-index.md) - Hex grid and navigation
 - [System Directory](sectors/abiha-omicron/systems/) - All star systems
 - Major Systems:
-  - [Hice](sectors/abiha-omicron/systems/Hice.md) - Contains Cou
-  - [Mardo](sectors/abiha-omicron/systems/Mardo.md) - Contains Madiera (Archive)
-  - [Audrima](sectors/abiha-omicron/systems/Audrima.md) - Contains Penticton 9
+  - [Dul-Yaq](sectors/abiha-omicron/systems/dul-yaq/system--dul-yaq.md) - Contains Cou
+  - [Buruker Urdia](sectors/abiha-omicron/systems/buruker-urdia/system--buruker-urdia.md) - Contains Madiera (Archive)
+  - [Meliadi VIII](sectors/abiha-omicron/systems/meliadi-viii/system--meliadi-viii.md) - Contains 37 Labria (with Penticton 9)
 
 ## 📜 Lore & Mysteries
 

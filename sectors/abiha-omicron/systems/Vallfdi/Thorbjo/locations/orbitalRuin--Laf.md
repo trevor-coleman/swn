@@ -1,9 +1,8 @@
-# Orbital Ruin: Laf
+# Laf
 
-## Attributes
-- **Situation**: Meddling with strange tech
+## Location Information
+- **Planet**: [Thorbjo](../planet--thorbjo.md)
+- **System**: [Vallfdi](../../../system--vallfdi.md)
+- **Type**: Orbitalruin
 - **Occupation**: Robots of dubious sentience
-
-
-## Navigation
-- [Back to Parent](../)
+- **Situation**: Meddling with strange tech

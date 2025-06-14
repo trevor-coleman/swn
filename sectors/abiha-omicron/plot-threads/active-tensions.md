@@ -43,7 +43,7 @@
 - **Source**: Interpreter's final revelation to refugees ([Sanctuary](../sessions/2025-05-30-resonant-dawn-sanctuary.md))
 - **Nature**: Pre-human in origin
 - **Access**: Requires three keys
-- **Connection**: May explain shackles on [Cou](../systems/Hice/planet--Cou.md)
+- **Connection**: May explain shackles on [Cou](../systems/dul-yaq/cou/planet--cou.md)
 - **Carriers**: Sister Meris and [Harmonic Prayer refugees](../sessions/2025-06-12-cou-approach-battle.md)
 
 ### Navigator-Khyber Connection
@@ -54,7 +54,7 @@
 
 ### Resonance Protocol
 - **Artifacts**: Crystal fragment (Kaedim), corrupted key data ([Kaedim's gauntlet](../../../party/kaedim-vecc/kaedim-gauntlet.md))
-- **Locations**: Site Theta ([Aurelius Belt](../systems/Hice/belt--Aurelius-Belt.md)), Grand Nexus (drill-space)
+- **Locations**: Site Theta ([Aurelius Belt](../systems/campera/aurelius-belt/belt--aurelius-belt.md)), Grand Nexus (drill-space)
 - **Competing Interests**: [Aurelius Consortium](../factions/aurelius-consortium.md), ~~[Resonant Dawn cult](../factions/resonant-dawn.md)~~ (destroyed)
 - **Danger**: Security Chief Keller partially transformed by exposure ([Orinda Rescue](../sessions/2025-03-27-orinda-mine-rescue.md))
 - **New Understanding**: Tool used by Architects to trigger the Scream
@@ -120,7 +120,7 @@
 
 ## Potential Allies
 
-- **[Penticton 9](../systems/Audrima/station--Penticton-9.md)**: Grateful for repairs, potential safe harbor ([Session](../sessions/2025-04-04-penticton-9.md))
+- **[Penticton 9](../systems/meliadi-viii/37-labria/locations/asteroidbase--penticton-9.md)**: Grateful for repairs, potential safe harbor ([Session](../sessions/2025-04-04-penticton-9.md))
 - **The Archive**: If judgment passed, powerful knowledge ally ([NPC: Isa](../characters/isa-archive-authority.md))
 - **[Gaius Carranzo](../characters/gaius-carranzo.md)**: New recruit, unknown loyalties ([Stats](../characters/gaius-carranzo-stats.md))
 - **Orinda Survivors**: 14 grateful individuals with insider knowledge ([Rescue](../sessions/2025-03-27-orinda-mine-rescue.md))
@@ -129,7 +129,7 @@
 - ~~Survive Archive judgment~~ (Resolved off-screen)
 - Evade Aurelius Consortium ([Current pursuit](../sessions/2025-06-12-cou-approach-battle.md))
 - Decide how to use Resonance Protocol knowledge
-- Find safe harbor ([37 Labria](../systems/Hice/station--37-Labria.md) suggested)
+- Find safe harbor ([37 Labria](../systems/meliadi-viii/37-labria/belt--37-labria.md) suggested)
 - Investigate jumpgate restoration possibilities
 - Rescue [Harmonic Prayer refugees](../planning/next-session/harmonic-prayer-rescue-prep.md)
 
