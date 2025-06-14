@@ -26,15 +26,18 @@ This repository uses a multi-layered indexing system to ensure information remai
 - **plot-threads/** - Ongoing storylines and tensions
 - **planning/** - Future session prep and ideas
 - **modules/** - Ready-to-run adventures
-- **systems/** - Star systems in the sector
-- **planets/** - Planets and their details
-- **locations/** - Space stations, asteroid bases, etc.
+- **systems/** - Hierarchically organized location data:
+  - System files at top level (e.g., `systems/Hice.md`)
+  - Planets as children (e.g., `systems/Hice/planet--Cou.md`)
+  - Locations under parents (e.g., `systems/Hice/station--Treaty-Port.md`)
+- **systems-coordinate-index.md** - Hex navigation and travel reference
 
 ### Party Organization (Root Level)
 - **party/** - PC data organized by player
   - **[character-name]/** - Individual player folder
     - **character-sheet.md** - Character stats and info
     - **[ability-name].md** - Character-specific abilities
+    - **[item-name].md** - Character-specific items and equipment
     - **[handout-name].md** - Player handouts and notes
   - **starfall-whisper.md** - Shared party ship
 
@@ -161,16 +164,42 @@ Date: [Date]
 - [ ] MASTER-INDEX.md - Add to plot threads section
 - [ ] Related character/faction files - Add cross-references
 
-### 5. Locations
+### 5. Locations (Systems, Planets, Stations)
 
-**File Location**: `sectors/[sector-name]/locations/[location].md` or `sectors/[sector-name]/planning/future/[location].md`
+**File Location**: 
+- Systems: `sectors/[sector-name]/systems/[system-name].md`
+- Planets: `sectors/[sector-name]/systems/[system-name]/planet--[planet-name].md`
+- Locations: `sectors/[sector-name]/systems/[system-name]/[type]--[location-name].md`
 
-**Format**:
+**Type Prefixes**: planet, moon, station, belt, mine, base, ruin, etc.
+
+**System Format**:
+```markdown
+# [System Name]
+
+## System Information
+- **Coordinates**: [X,Y] (1-indexed)
+- **Primary Star**: [Type]
+- **Celestial Bodies**: [Count and types]
+
+## Navigation
+- **Hex**: XX,YY (0-indexed for map)
+- **Neighbors**: [List with directions]
+- **Travel Time**: Base 6 days per hex
+
+## Major Features
+[Notable locations in system]
+
+## Faction Activity
+[Who controls or operates here]
+```
+
+**Planet/Location Format**:
 ```markdown
 # [Location Name]
 
-## System Information
-- **System**: [Parent system]
+## Location Information
+- **Parent**: [System/Planet name]
 - **Type**: [Planet/Station/etc]
 - **Status**: [Visited/Known/Rumored]
 
@@ -179,9 +208,6 @@ Date: [Date]
 
 ## Notable Features
 - [Feature]: [Description]
-
-## Factions Present
-- [Faction]: [Their presence/influence]
 
 ## Adventure Hooks
 - [Hook description]

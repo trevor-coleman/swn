@@ -1,250 +1,532 @@
 #!/usr/bin/env python3
+"""
+Extract Stars Without Number sector data from Sectors Without Number JSON export.
+
+This script creates a hierarchical file structure:
+- Systems at the top level
+- Planets/asteroids as subdirectories  
+- Locations as subdirectories under their parent
+
+All files and directories use kebab-case naming.
+"""
+
 import json
 import os
-from collections import defaultdict
+import sys
+import re
+import subprocess
+from typing import Dict, List, Any, Tuple, Optional
 
-def create_directory(path):
-    """Create directory if it doesn't exist"""
+
+def clean_name(name: str) -> str:
+    """Convert a name to a safe filename in kebab-case"""
+    # Remove special characters and convert to lowercase
+    name = re.sub(r'[^\w\s-]', '', name.lower())
+    # Replace spaces with hyphens
+    name = re.sub(r'[-\s]+', '-', name)
+    # Remove leading/trailing hyphens
+    return name.strip('-')
+
+
+def create_directory(path: str):
+    """Create a directory if it doesn't exist"""
+    os.makedirs(path, exist_ok=True)
+
+
+def format_tag(tag: Dict[str, Any]) -> str:
+    """Format a tag object into markdown"""
+    sections = []
+    sections.append(f"### {tag.get('name', 'Unknown Tag')}")
+    sections.append("")
+    sections.append(tag.get('description', '_No description available_'))
+    sections.append("")
+    
+    tag_lists = [
+        ('enemies', 'Enemies'),
+        ('friends', 'Friends'),
+        ('complications', 'Complications'),
+        ('things', 'Things'),
+        ('places', 'Places')
+    ]
+    
+    for field_name, display_name in tag_lists:
+        if field_name in tag and tag[field_name]:
+            sections.append(f"**{display_name}:**")
+            for item in tag[field_name]:
+                sections.append(f"- {item}")
+            sections.append("")
+    
+    return '\n'.join(sections)
+
+
+def check_git_status(path: str) -> bool:
+    """Check if there are uncommitted changes in the given path"""
     if not os.path.exists(path):
-        os.makedirs(path)
+        return True  # Path doesn't exist yet, safe to proceed
+        
+    try:
+        # Check if we're in a git repository
+        result = subprocess.run(['git', 'rev-parse', '--git-dir'], 
+                              capture_output=True, text=True, cwd=path)
+        if result.returncode != 0:
+            return True  # Not a git repo, proceed anyway
+        
+        # Check for uncommitted changes
+        result = subprocess.run(['git', 'status', '--porcelain', path], 
+                              capture_output=True, text=True)
+        
+        if result.stdout.strip():
+            return False  # Has uncommitted changes
+        return True  # No uncommitted changes
+        
+    except Exception:
+        return True  # On error, proceed anyway
 
-def clean_name(name):
-    """Clean name for use in filenames"""
-    return name.replace('/', '-').replace('\\', '-').strip()
 
-def extract_sector_data(json_file):
-    """Extract sector data from JSON and organize into markdown files"""
+def get_hex_neighbors(x: int, y: int, coordinate_index: Dict[str, Any]) -> Dict[str, Any]:
+    """Get neighboring systems in a flat-top hex grid"""
+    neighbors = {}
+    
+    # Flat-top hex neighbor offsets
+    # For odd columns (x is odd)
+    if x % 2 == 1:
+        offsets = [
+            ('Northwest', -1, -1),
+            ('Northeast', 1, -1),
+            ('West', -1, 0),
+            ('East', 1, 0),
+            ('Southwest', -1, 0),
+            ('Southeast', 1, 0)
+        ]
+    # For even columns (x is even)
+    else:
+        offsets = [
+            ('Northwest', -1, 0),
+            ('Northeast', 1, 0),
+            ('West', -1, 0),
+            ('East', 1, 0),
+            ('Southwest', -1, 1),
+            ('Southeast', 1, 1)
+        ]
+    
+    for direction, dx, dy in offsets:
+        nx, ny = x + dx, y + dy
+        hex_coords = f"{nx:02d}{ny:02d}"
+        if hex_coords in coordinate_index:
+            neighbors[direction] = coordinate_index[hex_coords]
+    
+    return neighbors
+
+
+def extract_sector_data(json_file: str, output_root: str = "sectors", 
+                       sector_name: Optional[str] = None, force: bool = False):
+    """
+    Extract sector data from JSON and create markdown files.
+    
+    Directory structure:
+    sectors/[sector-name]/
+    └── systems/
+        ├── system--[system-name].md
+        └── [system-name]/
+            ├── planet--[planet-name].md
+            ├── [planet-name]/
+            │   ├── moons/
+            │   │   └── moon--[moon-name].md
+            │   └── locations/
+            │       └── [type]--[name].md
+            └── [asteroid-belt-name]/
+                ├── belt--[belt-name].md
+                └── locations/
+                    └── [type]--[name].md
+    """
     
     with open(json_file, 'r') as f:
         data = json.load(f)
     
-    # Create main directories
-    create_directory('sector-data')
-    create_directory('sector-data/systems')
-    create_directory('sector-data/planets')
-    create_directory('sector-data/factions')
-    create_directory('sector-data/locations')
-    create_directory('sector-data/npcs')
+    # Determine sector name
+    if not sector_name:
+        if 'sector' in data:
+            for sector_id, sector in data['sector'].items():
+                sector_name = sector.get('name', 'unknown-sector')
+                break
+        else:
+            sector_name = 'unknown-sector'
     
-    # Track relationships
-    system_contents = defaultdict(list)
-    planet_contents = defaultdict(list)
+    # Clean sector name for directory
+    sector_dir_name = clean_name(sector_name)
     
-    # Process sector overview
-    if 'sector' in data:
-        for sector_id, sector in data['sector'].items():
-            with open('sector-data/sector-overview.md', 'w') as f:
-                f.write(f"# Sector: {sector.get('name', 'Unknown')}\n\n")
-                if 'attributes' in sector:
-                    f.write("## Attributes\n")
-                    for key, value in sector['attributes'].items():
-                        f.write(f"- **{key.replace('_', ' ').title()}**: {value}\n")
-                f.write("\n")
+    # Create base directory structure
+    base_path = os.path.join(output_root, sector_dir_name)
+    systems_path = os.path.join(base_path, 'systems')
     
-    # Process systems
-    if 'system' in data:
-        systems_index = []
-        for system_id, system in data['system'].items():
-            name = system.get('name', 'Unknown System')
-            filename = f"sector-data/systems/{clean_name(name)}.md"
-            systems_index.append((name, filename))
-            
-            with open(filename, 'w') as f:
-                f.write(f"# System: {name}\n\n")
-                f.write(f"**ID**: {system_id}\n\n")
-                
-                if 'attributes' in system:
-                    f.write("## Attributes\n")
-                    for key, value in system['attributes'].items():
-                        f.write(f"- **{key.replace('_', ' ').title()}**: {value}\n")
-                    f.write("\n")
-                
-                # We'll add contents later
-                f.write("## System Contents\n")
-                f.write("_Contents will be listed below_\n\n")
+    # Check for uncommitted changes before proceeding
+    if not force and not check_git_status(systems_path):
+        print(f"\n❌ ERROR: Uncommitted changes detected in {systems_path}")
+        print("\nThis import would overwrite existing files. Please either:")
+        print("  1. Commit your changes: git add . && git commit -m 'your message'")
+        print("  2. Stash your changes: git stash")
+        print("  3. Force the import: python3 extract_sector_data_v4.py <json_file> --force")
+        print("\nAborting import to prevent data loss.")
+        sys.exit(1)
     
-    # Process planets
-    if 'planet' in data:
-        planets_index = []
-        for planet_id, planet in data['planet'].items():
-            name = planet.get('name', 'Unknown Planet')
-            parent_system = planet.get('parent', 'Unknown')
-            filename = f"sector-data/planets/{clean_name(name)}.md"
-            planets_index.append((name, filename))
-            
-            # Track for system contents
-            system_contents[parent_system].append(f"- Planet: [{name}](../../planets/{clean_name(name)}.md)")
-            
-            with open(filename, 'w') as f:
-                f.write(f"# Planet: {name}\n\n")
-                f.write(f"**System**: {parent_system}\n\n")
-                
-                if 'attributes' in planet:
-                    f.write("## Attributes\n")
-                    for key, value in planet['attributes'].items():
-                        f.write(f"- **{key.replace('_', ' ').title()}**: {value}\n")
-                    f.write("\n")
-                
-                if 'tags' in planet:
-                    f.write("## Tags\n")
-                    for tag in planet['tags']:
-                        f.write(f"- {tag}\n")
-                    f.write("\n")
+    create_directory(base_path)
+    create_directory(systems_path)
     
-    # Process moons
-    if 'moon' in data:
-        for moon_id, moon in data['moon'].items():
-            name = moon.get('name', 'Unknown Moon')
-            parent_planet = moon.get('parent', 'Unknown')
-            planet_contents[parent_planet].append(f"- Moon: {name}")
+    # Build lookup tables for entities
+    entities_by_id = {}
     
-    # Process space stations
-    if 'spaceStation' in data:
-        for station_id, station in data['spaceStation'].items():
-            name = station.get('name', 'Unknown Station')
-            parent = station.get('parent', 'Unknown')
-            parent_type = station.get('parentEntity', 'unknown')
-            
-            if parent_type == 'system':
-                system_contents[parent].append(f"- Space Station: {name}")
-            elif parent_type == 'planet':
-                planet_contents[parent].append(f"- Space Station: {name}")
+    # First pass: collect all entities
+    for entity_type in data:
+        if entity_type in ['sector', 'note']:
+            continue
+        for entity_id, entity in data[entity_type].items():
+            entities_by_id[entity_id] = {
+                'type': entity_type,
+                'data': entity,
+                'id': entity_id
+            }
     
-    # Process other locations
-    location_types = ['asteroidBelt', 'asteroidBase', 'deepSpaceStation', 'gasGiantMine', 
-                     'moonBase', 'orbitalRuin', 'refuelingStation', 'researchBase']
+    # Process systems and build coordinate index
+    systems_processed = 0
+    planets_processed = 0
+    locations_processed = 0
+    coordinate_index = {}  # hex_coords -> system info
     
-    locations_index = []
-    for loc_type in location_types:
-        if loc_type in data:
-            for loc_id, location in data[loc_type].items():
-                name = location.get('name', f'Unknown {loc_type}')
-                parent = location.get('parent', 'Unknown')
-                parent_type = location.get('parentEntity', 'unknown')
-                
-                filename = f"sector-data/locations/{clean_name(name)}.md"
-                locations_index.append((name, loc_type, filename))
-                
-                # Track for parent contents
-                if parent_type == 'system':
-                    system_contents[parent].append(f"- {loc_type.title()}: [{name}](../../locations/{clean_name(name)}.md)")
-                elif parent_type == 'planet':
-                    planet_contents[parent].append(f"- {loc_type.title()}: [{name}](../../locations/{clean_name(name)}.md)")
-                elif parent_type == 'asteroidBelt':
-                    # Find the asteroid belt's parent system
-                    if 'asteroidBelt' in data and parent in data['asteroidBelt']:
-                        belt_parent = data['asteroidBelt'][parent].get('parent', 'Unknown')
-                        system_contents[belt_parent].append(f"  - {loc_type.title()}: [{name}](../../locations/{clean_name(name)}.md)")
-                
-                with open(filename, 'w') as f:
-                    f.write(f"# {loc_type.replace('_', ' ').title()}: {name}\n\n")
-                    f.write(f"**Parent**: {parent}\n\n")
-                    
-                    if 'attributes' in location:
-                        f.write("## Attributes\n")
-                        for key, value in location['attributes'].items():
-                            f.write(f"- **{key.replace('_', ' ').title()}**: {value}\n")
-                        f.write("\n")
-    
-    # Update system files with contents
-    if 'system' in data:
-        for system_id, system in data['system'].items():
-            name = system.get('name', 'Unknown System')
-            filename = f"sector-data/systems/{clean_name(name)}.md"
-            
-            # Read existing content
-            with open(filename, 'r') as f:
-                content = f.read()
-            
-            # Replace the placeholder with actual contents
-            contents_list = system_contents.get(system_id, [])
-            if contents_list:
-                contents_str = '\n'.join(contents_list)
-                content = content.replace("_Contents will be listed below_", contents_str)
-            else:
-                content = content.replace("_Contents will be listed below_", "_No registered contents_")
-            
-            # Write back
-            with open(filename, 'w') as f:
-                f.write(content)
-    
-    # Update planet files with contents
-    if 'planet' in data:
-        for planet_id, planet in data['planet'].items():
-            name = planet.get('name', 'Unknown Planet')
-            filename = f"sector-data/planets/{clean_name(name)}.md"
-            
-            contents_list = planet_contents.get(planet_id, [])
-            if contents_list:
-                with open(filename, 'a') as f:
-                    f.write("## Planet Contents\n")
-                    for item in contents_list:
-                        f.write(f"{item}\n")
-                    f.write("\n")
-    
-    # Create index files
-    with open('sector-data/index.md', 'w') as f:
-        f.write("# Sector Data Index\n\n")
-        f.write("## Navigation\n")
-        f.write("- [Sector Overview](sector-overview.md)\n")
-        f.write("- [Systems](systems-index.md)\n")
-        f.write("- [Planets](planets-index.md)\n")
-        f.write("- [Locations](locations-index.md)\n")
-        f.write("- [Quick Reference](quick-reference.md)\n")
-    
-    # Create systems index
-    if systems_index:
-        with open('sector-data/systems-index.md', 'w') as f:
-            f.write("# Systems Index\n\n")
-            for name, path in sorted(systems_index):
-                f.write(f"- [{name}]({path.replace('sector-data/', '')})\n")
-    
-    # Create planets index
-    if planets_index:
-        with open('sector-data/planets-index.md', 'w') as f:
-            f.write("# Planets Index\n\n")
-            for name, path in sorted(planets_index):
-                f.write(f"- [{name}]({path.replace('sector-data/', '')})\n")
-    
-    # Create locations index
-    if locations_index:
-        with open('sector-data/locations-index.md', 'w') as f:
-            f.write("# Locations Index\n\n")
-            by_type = defaultdict(list)
-            for name, loc_type, path in locations_index:
-                by_type[loc_type].append((name, path))
-            
-            for loc_type, items in sorted(by_type.items()):
-                f.write(f"\n## {loc_type.replace('_', ' ').title()}\n")
-                for name, path in sorted(items):
-                    f.write(f"- [{name}]({path.replace('sector-data/', '')})\n")
-    
-    # Create quick reference with plot hooks
-    with open('sector-data/quick-reference.md', 'w') as f:
-        f.write("# Quick Reference - Plot Hooks & Situations\n\n")
+    for system_id, system in data.get('system', {}).items():
+        system_name = system.get('name', 'Unknown System')
+        system_dir_name = clean_name(system_name)
+        system_file_name = f"system--{system_dir_name}.md"
+        system_path = os.path.join(systems_path, system_file_name)
         
-        # Collect all situations and interesting attributes
-        situations = []
+        # Extract coordinates (1-indexed in JSON, convert to 0-indexed for display)
+        x = system.get('x', 0) - 1
+        y = system.get('y', 0) - 1
+        hex_coords = f"{x:02d}{y:02d}"
         
-        for entity_type in data:
-            if entity_type in ['sector', 'note', 'blackHole']:
+        # Add to coordinate index
+        coordinate_index[hex_coords] = {
+            'name': system_name,
+            'path': f"systems/{system_file_name}",
+            'x': x,
+            'y': y
+        }
+        
+        # Create system directory
+        system_dir_path = os.path.join(systems_path, system_dir_name)
+        create_directory(system_dir_path)
+        
+        # Generate system content
+        content = [f"# {system_name}"]
+        content.append("")
+        content.append("## System Information")
+        content.append(f"- **Coordinates**: {system.get('x', 0)},{system.get('y', 0)} (1-indexed)")
+        content.append(f"- **Hex**: {x:02d},{y:02d} (0-indexed for map)")
+        
+        # Star information
+        primary_star = None
+        for star_id in system.get('star', []):
+            if star_id in entities_by_id:
+                star = entities_by_id[star_id]['data']
+                star_name = star.get('name', 'Unknown Star')
+                if not primary_star:
+                    primary_star = star_name
+                    content.append(f"- **Primary Star**: {star_name} ({star.get('classification', 'Unknown')})")
+        
+        content.append("")
+        
+        # List celestial bodies
+        body_list = []
+        
+        # Collect all bodies in the system
+        for planet_id in system.get('planet', []):
+            if planet_id in entities_by_id:
+                planet = entities_by_id[planet_id]['data']
+                body_list.append(f"- **{planet.get('name', 'Unknown')}** - Planet")
+        
+        for asteroid_id in system.get('asteroid_belt', []):
+            if asteroid_id in entities_by_id:
+                belt = entities_by_id[asteroid_id]['data']
+                body_list.append(f"- **{belt.get('name', 'Unknown Belt')}** - Asteroid Belt")
+        
+        for gas_giant_id in system.get('gas_giant_mine', []):
+            if gas_giant_id in entities_by_id:
+                giant = entities_by_id[gas_giant_id]['data']
+                body_list.append(f"- **{giant.get('name', 'Unknown')}** - Gas Giant")
+        
+        if body_list:
+            content.append("## Celestial Bodies")
+            content.extend(body_list)
+            content.append("")
+        
+        # Write system file
+        with open(system_path, 'w') as f:
+            f.write('\n'.join(content))
+        
+        systems_processed += 1
+        
+        # Process planets in this system
+        for planet_id in system.get('planet', []):
+            if planet_id not in entities_by_id:
                 continue
-            for entity_id, entity in data[entity_type].items():
-                if 'attributes' in entity and 'situation' in entity['attributes']:
-                    name = entity.get('name', 'Unknown')
-                    situation = entity['attributes']['situation']
-                    situations.append(f"- **{name}** ({entity_type}): {situation}")
+                
+            planet = entities_by_id[planet_id]['data']
+            planet_name = planet.get('name', 'Unknown Planet')
+            planet_dir_name = clean_name(planet_name)
+            planet_file_name = f"planet--{planet_dir_name}.md"
+            
+            # Create planet directory
+            planet_dir_path = os.path.join(system_dir_path, planet_dir_name)
+            create_directory(planet_dir_path)
+            
+            # Create planet file path
+            planet_path = os.path.join(planet_dir_path, planet_file_name)
+            
+            # Generate planet content
+            content = [f"# {planet_name}"]
+            content.append("")
+            content.append("## Planet Information")
+            content.append(f"- **System**: [{system_name}](../system--{system_dir_name}.md)")
+            content.append(f"- **Type**: Planet")
+            
+            # Add attributes
+            for attr in ['atmosphere', 'temperature', 'biosphere', 'population', 'tech_level']:
+                if attr in planet:
+                    display_name = attr.replace('_', ' ').title()
+                    content.append(f"- **{display_name}**: {planet[attr]}")
+            
+            content.append("")
+            
+            if 'description' in planet:
+                content.append("## Description")
+                content.append(planet['description'])
+                content.append("")
+            
+            # Process tags
+            if 'tags' in planet and planet['tags']:
+                content.append("## World Tags")
+                content.append("")
+                for tag in planet['tags']:
+                    content.append(format_tag(tag))
+                content.append("")
+            
+            # Write planet file
+            with open(planet_path, 'w') as f:
+                f.write('\n'.join(content))
+            
+            planets_processed += 1
+            
+            # Create subdirectories for locations
+            locations_dir = os.path.join(planet_dir_path, 'locations')
+            create_directory(locations_dir)
+            
+            # Create moons directory if needed
+            moons_dir = os.path.join(planet_dir_path, 'moons')
+            
+            # Process locations on this planet
+            for poi_id in planet.get('point_of_interest', []):
+                if poi_id not in entities_by_id:
+                    continue
+                    
+                poi = entities_by_id[poi_id]['data']
+                poi_name = poi.get('name', 'Unknown Location')
+                poi_type = clean_name(poi.get('type', 'location').replace(' ', '-'))
+                poi_file_name = f"{poi_type}--{clean_name(poi_name)}.md"
+                poi_path = os.path.join(locations_dir, poi_file_name)
+                
+                # Generate location content
+                content = [f"# {poi_name}"]
+                content.append("")
+                content.append("## Location Information")
+                content.append(f"- **Planet**: [{planet_name}](../planet--{planet_dir_name}.md)")
+                content.append(f"- **System**: [{system_name}](../../system--{system_dir_name}.md)")
+                content.append(f"- **Type**: {poi.get('type', 'Unknown Type')}")
+                
+                if 'description' in poi:
+                    content.append("")
+                    content.append("## Description")
+                    content.append(poi['description'])
+                
+                # Write location file
+                with open(poi_path, 'w') as f:
+                    f.write('\n'.join(content))
+                
+                locations_processed += 1
         
-        if situations:
-            f.write("## Current Situations\n")
-            for situation in sorted(situations):
-                f.write(f"{situation}\n")
+        # Process asteroid belts in this system
+        for belt_id in system.get('asteroid_belt', []):
+            if belt_id not in entities_by_id:
+                continue
+                
+            belt = entities_by_id[belt_id]['data']
+            belt_name = belt.get('name', 'Unknown Belt')
+            belt_dir_name = clean_name(belt_name)
+            belt_file_name = f"belt--{belt_dir_name}.md"
+            
+            # Create belt directory
+            belt_dir_path = os.path.join(system_dir_path, belt_dir_name)
+            create_directory(belt_dir_path)
+            
+            # Create belt file
+            belt_path = os.path.join(belt_dir_path, belt_file_name)
+            
+            # Generate belt content
+            content = [f"# {belt_name}"]
+            content.append("")
+            content.append("## Belt Information")
+            content.append(f"- **System**: [{system_name}](../system--{system_dir_name}.md)")
+            content.append(f"- **Type**: Asteroid Belt")
+            
+            if 'description' in belt:
+                content.append("")
+                content.append("## Description")
+                content.append(belt['description'])
+            
+            # Process tags if any
+            if 'tags' in belt and belt['tags']:
+                content.append("")
+                content.append("## Tags")
+                content.append("")
+                for tag in belt['tags']:
+                    content.append(format_tag(tag))
+            
+            # Write belt file
+            with open(belt_path, 'w') as f:
+                f.write('\n'.join(content))
+            
+            # Create locations directory for belt
+            locations_dir = os.path.join(belt_dir_path, 'locations')
+            create_directory(locations_dir)
+            
+            # Process locations in this belt
+            for poi_id in belt.get('point_of_interest', []):
+                if poi_id not in entities_by_id:
+                    continue
+                    
+                poi = entities_by_id[poi_id]['data']
+                poi_name = poi.get('name', 'Unknown Location')
+                poi_type = clean_name(poi.get('type', 'location').replace(' ', '-'))
+                poi_file_name = f"{poi_type}--{clean_name(poi_name)}.md"
+                poi_path = os.path.join(locations_dir, poi_file_name)
+                
+                # Generate location content
+                content = [f"# {poi_name}"]
+                content.append("")
+                content.append("## Location Information")
+                content.append(f"- **Belt**: [{belt_name}](../belt--{belt_dir_name}.md)")
+                content.append(f"- **System**: [{system_name}](../../system--{system_dir_name}.md)")
+                content.append(f"- **Type**: {poi.get('type', 'Unknown Type')}")
+                
+                if 'description' in poi:
+                    content.append("")
+                    content.append("## Description")
+                    content.append(poi['description'])
+                
+                # Write location file
+                with open(poi_path, 'w') as f:
+                    f.write('\n'.join(content))
+                
+                locations_processed += 1
     
-    print(f"Data extracted successfully!")
-    print(f"Created directories: sector-data/")
-    print(f"  - systems/")
-    print(f"  - planets/")
-    print(f"  - locations/")
+    # Generate coordinate index file
+    generate_coordinate_index(base_path, coordinate_index)
+    
+    print(f"\n✅ Import complete!")
+    print(f"   - Systems: {systems_processed}")
+    print(f"   - Planets: {planets_processed}")
+    print(f"   - Locations: {locations_processed}")
+    print(f"   - Output: {base_path}/")
+
+
+def generate_coordinate_index(base_path: str, coordinate_index: Dict[str, Any]):
+    """Generate the systems coordinate index with hex grid visualization"""
+    index_path = os.path.join(base_path, 'systems-coordinate-index.md')
+    
+    # Find bounds of the sector
+    if not coordinate_index:
+        return
+        
+    min_x = min(info['x'] for info in coordinate_index.values())
+    max_x = max(info['x'] for info in coordinate_index.values())
+    min_y = min(info['y'] for info in coordinate_index.values())
+    max_y = max(info['y'] for info in coordinate_index.values())
+    
+    content = ["# Systems Coordinate Index"]
+    content.append("")
+    content.append("## Navigation")
+    content.append("This sector uses a flat-top hexagonal grid. Each system has 6 neighbors.")
+    content.append("")
+    content.append("## Travel Times")
+    content.append("- **Base**: 6 days per hex")
+    content.append("- **Drive-1**: 6 days")
+    content.append("- **Drive-2**: 3 days")
+    content.append("- **Drive-3**: 2 days")
+    content.append("- **Drive-4**: 1.5 days")
+    content.append("")
+    
+    # Generate hex grid visualization
+    content.append("## Sector Map (0-indexed)")
+    content.append("```")
+    content.append(f"   {'  '.join(f'{x:02d}' for x in range(min_x, max_x + 1))}")
+    
+    for y in range(min_y, max_y + 1):
+        row = f"{y:02d} "
+        for x in range(min_x, max_x + 1):
+            hex_coords = f"{x:02d}{y:02d}"
+            if hex_coords in coordinate_index:
+                # Use first two letters of system name
+                name = coordinate_index[hex_coords]['name']
+                row += f"{name[:2].upper()} "
+            else:
+                row += "-- "
+        content.append(row)
+    
+    content.append("```")
+    content.append("")
+    
+    # Generate coordinate-to-system mapping
+    content.append("## Coordinate Reference")
+    content.append("")
+    content.append("| Hex | Coordinates | System | Path |")
+    content.append("|-----|-------------|--------|------|")
+    
+    for hex_coords in sorted(coordinate_index.keys()):
+        info = coordinate_index[hex_coords]
+        x, y = info['x'], info['y']
+        content.append(f"| {x:02d},{y:02d} | {x+1},{y+1} | {info['name']} | [{info['name']}]({info['path']}) |")
+    
+    content.append("")
+    
+    # Generate system neighbor reference
+    content.append("## System Neighbors")
+    content.append("")
+    
+    for hex_coords in sorted(coordinate_index.keys()):
+        info = coordinate_index[hex_coords]
+        neighbors = get_hex_neighbors(info['x'], info['y'], coordinate_index)
+        
+        if neighbors:
+            content.append(f"### {info['name']}")
+            for direction, neighbor in neighbors.items():
+                content.append(f"- {direction}: [{neighbor['name']}]({neighbor['path']})")
+            content.append("")
+    
+    # Write index file
+    with open(index_path, 'w') as f:
+        f.write('\n'.join(content))
+    
+    print(f"   - Coordinate index: {index_path}")
+
 
 if __name__ == "__main__":
-    extract_sector_data("Abiha Omicron - June 12, 2025.json")
+    if len(sys.argv) < 2:
+        print("Usage: python3 extract_sector_data_v4.py <json_file> [--force]")
+        sys.exit(1)
+    
+    json_file = sys.argv[1]
+    force = '--force' in sys.argv
+    
+    if not os.path.exists(json_file):
+        print(f"Error: File '{json_file}' not found")
+        sys.exit(1)
+    
+    extract_sector_data(json_file, force=force)

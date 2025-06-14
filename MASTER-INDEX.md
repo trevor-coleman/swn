@@ -65,10 +65,12 @@ Complete directory of all campaign content across sectors, organized by category
 - **Penticton 9** - Potential ally base
 
 ### Navigation
-- [Abiha Omicron Overview](sectors/abiha-omicron/sector-data/sector-overview.md)
-- [Systems Index](sectors/abiha-omicron/sector-data/systems-index.md)
-- [Planets Index](sectors/abiha-omicron/sector-data/planets-index.md)
-- [Locations Index](sectors/abiha-omicron/sector-data/locations-index.md)
+- [Systems Coordinate Index](sectors/abiha-omicron/systems-coordinate-index.md) - Hex grid and navigation
+- [System Directory](sectors/abiha-omicron/systems/) - All star systems
+- Major Systems:
+  - [Hice](sectors/abiha-omicron/systems/Hice.md) - Contains Cou
+  - [Mardo](sectors/abiha-omicron/systems/Mardo.md) - Contains Madiera (Archive)
+  - [Audrima](sectors/abiha-omicron/systems/Audrima.md) - Contains Penticton 9
 
 ## 📜 Lore & Mysteries
 
@@ -125,13 +127,13 @@ Complete directory of all campaign content across sectors, organized by category
 - **Resonance Protocol**: Check [lore](lore/resonance-protocol.md), [key fragments](lore/protocol-key-fragments.md), [active tensions](plot-threads/active-tensions.md)
 - **Aurelius Consortium**: See [faction file](factions/aurelius-consortium.md), recent [battle](sessions/2025-06-12-cou-approach-battle.md)
 - **Character Histories**: Individual [party files](party/), [session](sessions/) appearances
-- **Sector Data**: Use [location index](sector-data/locations-index.md) or [quick reference](sector-data/quick-reference.md)
+- **Sector Data**: Check [systems directory](systems/) or [coordinate index](systems-coordinate-index.md)
 
 ### By Session Need
 - **Running Combat**: [Ship combat basics](game-mechanics/ship-combat-basics.md), [actions](game-mechanics/ship-combat-actions.md)
 - **Planning Next Session**: [Active tensions](plot-threads/active-tensions.md), [planning folder](planning/next-session/)
 - **Creating NPCs**: Check [characters folder](characters/) for examples
-- **World Building**: [Sector data](sector-data/), [lore files](lore/)
+- **World Building**: [Systems](systems/), [lore files](lore/)
 
 ---
 

@@ -16,12 +16,12 @@ swn/
 │   │   ├── sessions/
 │   │   ├── characters/
 │   │   ├── factions/
-│   │   ├── items/
 │   │   ├── lore/
 │   │   ├── modules/
 │   │   ├── planning/
 │   │   ├── plot-threads/
-│   │   └── sector-data/
+│   │   ├── systems/          (hierarchical: systems→planets→locations)
+│   │   └── systems-coordinate-index.md
 │   └── cross-sector/         (spans multiple sectors)
 │       ├── factions/
 │       │   └── silence-architects.md
@@ -42,12 +42,12 @@ swn/
 - [x] Move sessions/ to sectors/abiha-omicron/
 - [x] Move characters/ to sectors/abiha-omicron/
 - [x] Move factions/ to sectors/abiha-omicron/
-- [x] Move items/ to sectors/abiha-omicron/
 - [x] Move lore/ to sectors/abiha-omicron/
 - [x] Move modules/ to sectors/abiha-omicron/
 - [x] Move planning/ to sectors/abiha-omicron/
 - [x] Move plot-threads/ to sectors/abiha-omicron/
-- [x] Move sector-data/ to sectors/abiha-omicron/
+- [x] Move items to party/ folders (character-specific)
+- [x] Create hierarchical systems/ structure
 - [x] Move abilities/ to sectors/abiha-omicron/
 
 ## Phase 3: Extract Cross-Sector Content
@@ -98,14 +98,21 @@ swn/
    - 99% of content → abiha-omicron/
    - Stellar Dynamics → eradinus-expanse/
    - Silence Architects & Scream Truth → cross-sector/
+   - Items → party/[character-name]/ folders
 
-3. Updated all navigation files and cross-references using sed for efficiency
+3. Implemented hierarchical location structure:
+   - Systems at top level (with coordinates)
+   - Planets as children of systems
+   - Locations (stations, bases) under parent bodies
+   - Added coordinate index for hex navigation
 
-4. Party folder remains at root as it's constant across campaigns
+4. Updated all navigation files and cross-references
 
-5. Created sector-specific README files for easy navigation
+5. Party folder remains at root as it's constant across campaigns
 
-The repository is now organized to support multiple sectors/campaigns while maintaining clear boundaries and connections between them.
+6. Created sector-specific navigation aids
+
+The repository now supports hierarchical navigation matching the game's spatial relationships while maintaining clear sector boundaries.
 
 ## Notes
 - Using mv commands exclusively (no file regeneration)

@@ -8,7 +8,8 @@ Current campaign location - an isolated sector with ancient mysteries and factio
 - [Active Tensions](plot-threads/active-tensions.md) - Current threats
 - [Characters](characters/) - NPCs encountered
 - [Factions](factions/) - Major organizations
-- [Sector Data](sector-data/) - Locations and systems
+- [Systems](systems/) - Star systems and locations
+- [Coordinate Index](systems-coordinate-index.md) - Navigation reference
 
 ## Current Status
 

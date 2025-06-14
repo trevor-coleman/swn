@@ -53,9 +53,11 @@ A living campaign repository for Stars Without Number RPG campaigns. Currently a
 - `plot-threads/` - Ongoing storylines
 - `planning/` - Future session materials
 - `modules/` - Ready-to-run adventures
-- `systems/` - Star systems
-- `planets/` - Planet details
-- `locations/` - Stations, bases, etc.
+- `systems/` - Star systems with hierarchical contents:
+  - System files include coordinates, navigation info
+  - Planet files as children of their systems
+  - Location files (stations, bases) as children of planets/systems
+- `systems-coordinate-index.md` - Hex grid navigation reference
 
 ### 📖 Reference Materials
 - `game-mechanics/` - Rules references

@@ -35,14 +35,17 @@ This is a living campaign repository for Stars Without Number RPG campaigns acro
 - **plot-threads/** - Active tensions and storylines
 - **planning/** - Future session prep and ideas
 - **modules/** - Ready-to-run adventures
-- **systems/** - Star systems in the sector
-- **planets/** - Planets and their details
-- **locations/** - Space stations, asteroid bases, etc.
+- **systems/** - Star systems with hierarchical organization:
+  - System files include coordinates and navigation info
+  - Planet files as children of their systems (e.g., `systems/Hice/planet--Cou.md`)
+  - Location files as children of planets/systems (e.g., `systems/Hice/belt--Aurelius-Belt.md`)
+- **systems-coordinate-index.md** - Hex grid navigation and travel times
 
 ### Party Organization (Root Level)
 - **party/** - PC data organized by player
   - **[character-name]/character-sheet.md** - Character stats
-  - **[character-name]/[ability].md** - Special abilities
+  - **[character-name]/[ability].md** - Special abilities  
+  - **[character-name]/[item].md** - Character-specific items and equipment
   - **[character-name]/[handout].md** - Player-specific information
   - **starfall-whisper.md** - Shared party ship
 

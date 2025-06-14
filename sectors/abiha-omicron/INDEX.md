@@ -42,9 +42,10 @@ Complete directory of content within the Abiha Omicron sector.
 - [Active Tensions](plot-threads/active-tensions.md) - Current threats
 - Additional plot threads in plot-threads/
 
-### 🌍 Locations
-- Sector data in sector-data/
-- Systems, planets, and locations
+### 🌍 Systems & Locations
+- [Coordinate Index](systems-coordinate-index.md) - Hex navigation
+- Systems organized hierarchically in systems/
+- Planets and locations under their parent systems
 
 ### 📦 Items & Artifacts
 Items are now tracked with their owners in the party folders:
