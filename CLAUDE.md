@@ -11,7 +11,11 @@ See @gm-notes/content-generation-style.md for how to format modules and descript
 
 ## ‼️ IMPORTANT: Adding New Content
 
-See @CONTRIBUTING.md for instructions on adding and indexing new information
+1. See @CONTRIBUTING.md for instructions on adding and indexing new information
+2. Whenever you update the project structure make sure to: 
+   - Update @MASTER-INDEX.md
+   - Update @CONTRIBUTING.md
+   - Update @CLAUDE.md
 
 ## Purpose
 This is a living campaign repository for Stars Without Number RPG campaigns across multiple sectors. The repository serves as both a historical record of past sessions and a planning tool for future adventures. Claude helps track the complex interconnected plot threads, NPCs, factions, and mysteries while maintaining consistency across campaigns.
@@ -26,7 +30,6 @@ This is a living campaign repository for Stars Without Number RPG campaigns acro
 ### Within Each Sector
 - **sessions/** - Dated session summaries in chronological order
 - **characters/** - NPCs organized by affiliation
-- **items/** - Special items and artifacts
 - **factions/** - Major organizations
 - **lore/** - Important concepts and mysteries
 - **plot-threads/** - Active tensions and storylines

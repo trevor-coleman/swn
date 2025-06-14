@@ -48,7 +48,6 @@ A living campaign repository for Stars Without Number RPG campaigns. Currently a
 ### 📚 Within Each Sector
 - `sessions/` - Dated session summaries
 - `characters/` - NPCs encountered
-- `items/` - Artifacts and special equipment
 - `factions/` - Major organizations
 - `lore/` - History and mysteries
 - `plot-threads/` - Ongoing storylines

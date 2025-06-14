@@ -80,7 +80,7 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 - **Truth**: Gauntlet is Khyber control technology
 - **Abilities**: Interfaces with Protocol systems
 - **Danger**: Using it reinforces historical patterns
-- **Related**: [Kaedim's Gauntlet](sectors/abiha-omicron/items/kaedim-gauntlet.md)
+- **Related**: [Kaedim's Gauntlet](party/kaedim-vecc/kaedim-gauntlet.md)
 
 ## 🟢 Setting Revelations
 

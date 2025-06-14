@@ -53,7 +53,7 @@
 - **Question**: Is their meeting coincidence or manipulation?
 
 ### Resonance Protocol
-- **Artifacts**: Crystal fragment (Kaedim), corrupted key data ([Kaedim's gauntlet](../items/kaedim-gauntlet.md))
+- **Artifacts**: Crystal fragment (Kaedim), corrupted key data ([Kaedim's gauntlet](../../../party/kaedim-vecc/kaedim-gauntlet.md))
 - **Locations**: Site Theta ([Aurelius Belt](../sector-data/locations/Aurelius Belt.md)), Grand Nexus (drill-space)
 - **Competing Interests**: [Aurelius Consortium](../factions/aurelius-consortium.md), ~~[Resonant Dawn cult](../factions/resonant-dawn.md)~~ (destroyed)
 - **Danger**: Security Chief Keller partially transformed by exposure ([Orinda Rescue](../sessions/2025-03-27-orinda-mine-rescue.md))

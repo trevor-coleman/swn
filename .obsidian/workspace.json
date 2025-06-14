@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sectors/abiha-omicron/lore/resonance-protocol.md",
+                "file": "sectors/abiha-omicron/plot-threads/active-tensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resonance-protocol"
+              "title": "active-tensions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sectors/abiha-omicron/lore/resonance-protocol.md",
+                "file": "sectors/abiha-omicron/plot-threads/active-tensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for resonance-protocol"
+              "title": "Backlinks for active-tensions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sectors/abiha-omicron/lore/resonance-protocol.md",
+                "file": "sectors/abiha-omicron/plot-threads/active-tensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from resonance-protocol"
+              "title": "Outgoing links from active-tensions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sectors/abiha-omicron/lore/resonance-protocol.md",
+                "file": "sectors/abiha-omicron/plot-threads/active-tensions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of resonance-protocol"
+              "title": "Outline of active-tensions"
             }
           }
         ]
@@ -170,6 +170,10 @@
   },
   "active": "64c2bf52e656321e",
   "lastOpenFiles": [
+    "sectors/abiha-omicron/lore/resonance-protocol.md",
+    "party/adrian-bogisich/drugs-and-compounds-reference.md",
+    "party/kaedim-vecc/kaedim-gauntlet.md",
+    "party/lance-bahringer/bio-weave-cloak.md",
     "sectors/abiha-omicron/systems-coordinate-index.md",
     "sectors/abiha-omicron/systems/Erlageusle/Pantopo/locations/spaceStation--Arima.md",
     "sectors/abiha-omicron/systems/Mele/Hussaru/locations/spaceStation--Beer 3.md",
@@ -202,10 +206,6 @@
     "sectors/abiha-omicron/systems/Mardo/Islaanreon/locations/researchBase--Longa 9.md",
     "sectors/abiha-omicron/systems/Mardo/Islaanreon/locations/spaceStation--Rayadurg 2.md",
     "sectors/abiha-omicron/systems/Mardo/Islaanreon/locations/spaceStation--Niesten 9.md",
-    "sectors/abiha-omicron/systems/Mardo/Islaanreon/planet.md",
-    "sectors/abiha-omicron/systems/Buruker Urdia/Madiera/locations/spaceStation--Chefu 5.md",
-    "sectors/abiha-omicron/systems/Buruker Urdia/Madiera/planet.md",
-    "sectors/abiha-omicron/systems/Idaracl/Gallial/locations/spaceStation--Longa 1.md",
     "images/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-14T15%3A34%3A30Z&ske=2025-06-15T15%3A34%3A30Z&sks=b&skv=2024-08-04&sig=6MAfxWbUVW8ROesfV3zqnFxzhMDKEA4ODYbqOvW2WUw%3D.png",
     "681298b33549761ba5c305b0_img-landing-team@2x.png"
   ]

@@ -47,10 +47,10 @@ Complete directory of content within the Abiha Omicron sector.
 - Systems, planets, and locations
 
 ### 📦 Items & Artifacts
-- [Kaedim's Gauntlet](items/kaedim-gauntlet.md)
-- [Bio-Weave Cloak](items/bio-weave-cloak.md)
-- [Neural Enhancement Drugs](items/drugs-and-compounds.md)
-- Additional items in items/
+Items are now tracked with their owners in the party folders:
+- [Kaedim's Gauntlet](../../party/kaedim-vecc/kaedim-gauntlet.md)
+- [Bio-Weave Cloak](../../party/lance-bahringer/bio-weave-cloak.md)
+- [Neural Enhancement Drugs](../../party/adrian-bogisich/drugs-and-compounds-reference.md)
 
 ### 📋 Planning
 - [Next Session](planning/next-session/) - Immediate prep

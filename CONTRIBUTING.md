@@ -21,7 +21,6 @@ This repository uses a multi-layered indexing system to ensure information remai
 ### Core Content Directories (Within Each Sector)
 - **sessions/** - Dated session summaries (YYYY-MM-DD-description.md)
 - **characters/** - NPCs organized by affiliation
-- **items/** - Special artifacts and equipment
 - **lore/** - World history and mysteries
 - **factions/** - Organization details
 - **plot-threads/** - Ongoing storylines and tensions
@@ -193,9 +192,9 @@ Date: [Date]
 
 ### 6. Items/Artifacts
 
-**File Location**: `sectors/[sector-name]/items/[item-name].md`
+**File Location**: `party/[character-name]/[item-name].md`
 
-**Exception**: Character-specific items may be tracked in `party/[character-name]/` as handouts
+Items belong with the characters who possess them. Place all character-specific items, artifacts, and equipment in the appropriate character's folder.
 
 **Format**:
 ```markdown

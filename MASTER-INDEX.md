@@ -81,10 +81,10 @@ Complete directory of all campaign content across sectors, organized by category
 - [The Scream Truth](sectors/cross-sector/lore/the-scream-truth.md) - Deliberate genocide
 
 ### Key Artifacts
-- [Kaedim's Gauntlet](sectors/abiha-omicron/items/kaedim-gauntlet.md) - Khyber control device
+- [Kaedim's Gauntlet](party/kaedim-vecc/kaedim-gauntlet.md) - Khyber control device
 - [Protocol Key Fragments](sectors/abiha-omicron/lore/protocol-key-fragments.md) - Access components
-- [Bio-Weave Cloak](sectors/abiha-omicron/items/bio-weave-cloak.md) - Protective gear
-- [Neural Enhancement Drugs](sectors/abiha-omicron/items/drugs-and-compounds.md) - Combat stimulants
+- [Bio-Weave Cloak](party/lance-bahringer/bio-weave-cloak.md) - Protective gear
+- [Neural Enhancement Drugs](party/adrian-bogisich/drugs-and-compounds-reference.md) - Combat stimulants
 
 ## 🎯 Active Plot Threads
 
