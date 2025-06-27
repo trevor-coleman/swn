@@ -1,0 +1,450 @@
+wise noted, all require some sort of support for firing.      shape the charge so it directs the blast in only one di-
+     Energy weapons use Type B power cells. Rocket            rection, sparing all but two meters of the rest.
+launchers and hydra arrays use missiles as given on the             Railguns are simply scaled-up versions of personal
+gear tables, while heavy machine guns and wheatcutter         mag rifles. They accelerate large metallic slugs along
+belts consume large amounts of standard ammunition.           the weapon’s barrel, creating a steady spray of hyper-
+     Some heavy guns can be fired to suppress. Double         velocity rounds. Ammunition sufficient for one round
+the usual ammunition is fired in one round, and every         of firing costs 50 credits.
+target in front of the weapon that is not under hard               Anti-vehicle lasers are less useful against soft targets,
+cover is automatically hit for half normal damage. A          but excel at penetrating vehicle armor. Against vehicles
+successful Evasion saving throw eliminates this damage.       and other hard-skinned targets, damage is rolled twice
+     When firing at TL4 military vehicles such as             and the better result is used.
+gravtanks, mechs, or starship armor, most TL3 Heavy                 Hydra arrays sequence a number of missile
+weapons don’t count as Heavy for armor-penetrating            launchers to fire at once. The gunner designates up to
+purposes. Demo charges and explosives do, however.            three targets and can then make three rolls to hit divid-
+                                                              ed among them. Each successful hit on a target allows
+Heavy Weapons                                                 the gunner to roll damage once, but only the highest
+Heavy machine guns represent a large family of air- or        damage roll is applied to the target. Thus, if all three
+water-cooled projectile weapons that are usually fed          volleys were aimed at a single target and two of them
+with belts of linked ammunition. HMGs require a ve-           hit, the gunner would roll damage twice and apply the
+hicle mounting or emplaced firing position for effective      best result. A volley from the array costs 150 credits.
+results. An HMG magazine contains enough ammuni-                    Wheatcutter belts are one of several different an-
+tion for 10 rounds of firing, but each round of firing        tipersonnel measures often installed on gravtanks and
+eats 25 credits worth of projectile ammunition.               other fighting vehicles. When triggered, a belt of ex-
+     Rocket launchers cover a wide variety of man-por-        plosives fires off a scything blast of shrapnel on any side
+table missile launchers of varying degrees of sophisti-       of the vehicle. All creatures within 10 meters of that
+cation. The weapons are usually equipped with basic           side of the vehicle must make an Evasion save for half
+tracking sensors, but are of limited accuracy against hu-     damage. Those within 20 meters take half damage, and
+man-sized targets. Rocket launchers take a -4 hit penal-      can make an Evasion save to take none at all. Wheat-
+ty against targets of human size or smaller. Unlike most      cutter belts do not ignore a vehicle’s Armor like other
+Heavy weapons, rocket launchers can be shoulder-fired         Heavy weapons do. Reloading a wheatcutter belt costs
+without a prepared emplacement to support them.               200 credits per round.
+     Demo Charges are the general run of placed explo-              Vortex cannons use controlled gravitic shear planes
+sives beloved of terrorists and adventurers the world         to cause a target to simply fall apart into component
+over. The usual variety can be detonated by radio             fragments. The cannons are silent in operation, but so
+signals, timers, or electrical charges, and inflict their     heavy and complex that they can only be mounted on
+damage on any objects within twenty meters, with an           gravtanks and other similar dedicated fighting vehicles.
+
+Heavy Weapon                        Dmg.        Range           Cost         Mag        Enc.        Attr.         TL
+Heavy Machine Gun                   3d6#      500/2,000         5,000        10          3          Dex           3
+Rocket Launcher                     3d10     2,000/4,000        4,000         1          2          Dex           3
+Demo Charge                         3d10        20/40            250          -          1           -            3
+Railgun                             3d8#     4,000/8,000        8,000        20          *          Dex           4
+Anti-Vehicle Laser                  3d10     2,000/4,000       10,000        15          *          Dex           4
+Hydra Array                         3d6#     4,000/8,000       20,000        10          *          Dex           4
+Wheatcutter Belt                    2d12        10/20          10,000         5          *          Dex           4
+Vortex Cannon                       5d12    1,000/2,000        75,000         5          *          Dex           5
+                            # this weapon can fire to suppress
+70• GENERAL EQUIPMENT
+
+                                                          Field Equipment             Cost      Enc.   TL
+GENERAL EQUIPMENT                                         Atmofilter                   100       1      4
+                                                          Backpack                    5/50      1/*    0/4
+Most of the equipment listed here is available on any
+TL4 world. Even the TL5 items are among the simpler       Binoculars                 20/200      1     3/4
+and more ubiquitous pretech relics and could likely       Climbing harness              50       1      3
+be acquired on a sufficiently prosperous world with a     Glowbug                        5       *      3
+good market in Mandate tech. Buying any TL5 equip-        Grapnel launcher             200       1      3
+ment on the open market is subject to GM approval,
+however, and many worlds are flatly ban private own-      Grav chute                300/1,000    1     4/5
+ership of ancient Mandate technology.                     Grav harness                5,000      3     5
+     Some encumbrance entries are marked with an          Instapanel                    50      1#     4
+asterisk. Such items have no significant encumbrance      Low-light goggles            200       1     3
+and dozens can be carried without hindrance.
+     Other entries are marked with a hashmark. These      Navcomp                      500       1     4
+objects can be conveniently packed together in a small-   Portabox                      50       1      4
+er, more portable package. Three such objects can be      Pressure tent                100       4      3
+packed together as a single encumbrance item. For         Rations, 1 day                 5      1#      1
+ammunition, one loaded magazine counts as one item.
+Breaking open such a package to get at the contents       Rope, 20 meters             4/40      2/1    0/4
+takes a Main Action, however, before they can be          Scout report                 200       *      4
+Readied with another Main Action.                         Survey scanner               250       1      4
+                                                          Survival kit                  60       1      4
+                                                          Telescoping pole             10        *      4
+                                                          Thermal flare                  5       *      3
+Ammo and Power              Cost       Enc.     TL
+                                                          Trade goods                   50      1#      4
+Ammo, 20 rounds              10        1#       2
+                                                          Trade metals                 10       1#      4
+Ammo, missile                50         1       3
+                                                          Vacc fresher                 400       1      4
+Power cell, type A           10        1#       4
+                                                          Vacc skin                   1,000      1      5
+Power cell, type B          100         1       4
+                                                          Vacc suit                    100       2      4
+Solar recharger             500         3       4
+Telekinetic generator       250         2       4         Pharmaceuticals          Cost/Dose    Enc.   TL
+                                                          Bezoar                      200        *     4
+                                                          Brainwave                  1,000       *     5
+ Communications             Cost       Enc.     TL        Hush                        200        *     4
+ Comm server                1,000       3        4        Lift                         50        *     4
+ Compad                      100        *        4        Psych                        25        *     4
+ Field radio                 200        1        4        Pretech Cosmetic           1,000       *     5
+ Translator torc             200        *        4        Reverie                     100        *     4
+                                                          Squeal                      300        *     4
+                                                          Tsunami                      50        *     4
+ Computing Gear             Cost       Enc.     TL
+ Black slab                10,000       1       4         Tools and Medical           Cost      Enc.   TL
+ Data phase tap             5,000       1       4         Bioscanner                   300       1     4
+ Data protocol             1,000        *       4         Lazarus patch                 30      1#     4
+ Dataslab                    300        1       4         Medkit                       100       2     4
+ Line shunt                  100        *       4         Metatool                     200       1     4
+ Remote link unit            250        1       4         Spare parts                   50      1#     4
+ Stiletto charge              *         1       5         Tailored antiallergens         5       *     4
+ Storage unit                500        3       4         Toolkit/Postech              300       3     4
+ Tightbeam link unit       1,000        1       4         Toolkit/Pretech             1,000      1     5
+                                                                                     GENERAL EQUIPMENT •71
+
+Ammo and Power                                                Communications
+The finest product of a 33rd-century armory is useless        Almost all TL4 worlds have a planetary communica-
+if it lacks the bullets or power cells to feed it. For ease   tions grid compatible with any standard compad. Some
+of play, ammunition can be used interchangeably with          planets are less technologically gifted, however, or have
+any projectile weapon. Power cells are designed along         local conditions that preclude easy wireless commu-
+Mandate-era lines that allow for easy compatibility           nication. Other times, the PCs have reason to avoid
+among devices from different worlds.                          leaving call logs that might come back to haunt them.
+
+Ammunition: A few worlds are too primitive or too             Comm server: A powerful base unit for providing com-
+     resource-poor to manufacture ammunition, but                  munications without comsats. The server pro-
+     the vast majority of worlds provide cartridges in             vides service between up to three dozen compads
+     almost every conceivable caliber and make. Most               within 300 kilometers of the unit. Server usage
+     local gunsmiths can load ammunition to any spec-              can be locked to specific compads, and all trans-
+     ification required by a buyer.                                missions are heavily encrypted. A comm server
+Ammunition, missile: Some characters might have rea-               can function for several months on a type B cell.
+     son to pack along a man-portable rocket launcher,        Compad: One of a host of different hand-held portable
+     or have one mounted on their favorite gravcar.                communications devices. Most TL4 worlds have
+     Heavy weapons and their ammunition are usually                global comm coverage, but primitive worlds ren-
+     outlawed for civilians on most worlds, but this               der these devices useless without a nearby comm
+     price is for locales where missiles can be bought.            server to provide connectivity.
+Power cells: One of the few standardized artifacts in-        Field Radio: On worlds too primitive to have a comm
+     herited from before the Silence, power cells are              grid, adventurers often fall back on these head-
+     small cylindrical objects designed to take and hold           set-mounted field radios. A single type A cell
+     electrical charges. Type A cells are usually used for         powers them for months of use. Urban or rugged
+     personal equipment, and the larger type B cells               terrain limits their range to about two kilometers,
+     for vehicles and heavy gear. The engineering for              while flat plains give a maximum range of thir-
+     the cells is substantially different, and they cannot         ty kilometers. Someone with at least Program-0
+     be exchanged or recharge each other without a                 skill can use the radio’s shortwave functionality
+     trained tech’s modifications or a converter unit.             to communicate with a prepared target at conti-
+     Power cells can be recharged off a ship’s power               nental distances if given ten minutes for tuning.
+     plant or other grid. Recharging requires 30 min-         Translator torc: Each translator torc is keyed for two
+     utes for a type A cell or 24 hours for a type B cell.         languages, and will automatically translate what it
+Solar recharger: This recharger unfolds into a 2 meter             hears in one into speech in the other. The trans-
+     by 2 meter square field of solar cells. Granted a             lations are eccentric in many cases, and there is
+     primary star of roughly Earth-like intensity, it can          always a several-second delay between each state-
+     recharge one type A power cell per day.                       ment and its translation. Any attempts to exert
+Telekinetic generator: While this device assumes the               social skills or Charisma through a translator torc
+     presence of a trained telekinetic, it isn’t strictly          suffer a -2 skill check penalty. The torc is powered
+     psitech, as its operation is quite simple. A teleki-          by one type A power cell, which lasts for one week
+     netic user pushes a resistance bar within the gen-            of regular use.
+     erator, causing a flow of electricity to recharge an
+     attached power cell. Any telekinetic with Teleki-
+     nesis-1 skill or better can recharge a cell with fif-
+     teen minutes of concentration. In an emergency, a
+     character with at least Strength 10 can operate the
+     generator manually, though they need to succeed
+     on a difficulty 8 Con/Exert skill check in order to
+     keep up the pace for an hour. Failure means that
+     the character must rest for at least an hour before
+     trying again. The generator can charge one type
+     A power cell at a time.
+72• GENERAL EQUIPMENT
+
+Computing Gear                                               Stiletto charge: These ancient Mandate-era polymor-
+Computing devices are ubiquitous on most TL4 worlds,               phic intrusion charges were originally made to al-
+though not all of them have the kind of planetary net-             low Mandate agents to easily overcome primitive
+work known on 21st century Terra. Would-be hackers                 colonial data security measures. Each charge is a
+often find it necessary to take a very personal hand in            small interface plug the size of a human thumb.
+breaching site security.                                          When used as part of a hack against a TL4 system,
+                                                                   it causes the skill check to automatically succeed
+Black slab: While a “black slab” appears to be a normal            regardless of the difficulty. Without line shunts,
+     dataslab to casual examination, these devices are             however, the duration of the hack is still no more
+     packed with intrusion-optimization hardware                   than the usual 1d4 rounds plus the hacker’s Pro-
+     and integral line tapping tools. They function as             gram skill. These devices are single-use, and are
+     a metatool for purposes of accessing data lines and           prized so highly that they are almost always un-
+     grant a +1 bonus to all hacking attempts made                 available for conventional purchase. Favors to the
+     with them. They are also quite illegal on most                right people and the looting of Mandate remnants
+     worlds, available only from black market dealers              are the only normal ways to acquire these devices.
+     and private sales from hackers.                         Storage unit: While conventional dataslabs have am-
+Data phase tap: This handheld device is normally illegal           ple space to hold any reasonable amount of data,
+     outside the possession of licensed data line repair           sometimes a party needs to store or acquire a truly
+     technicians. The tap can detect data lines with-              huge dataset. This standard TL4 storage unit is a
+     in five meters through up to ten centimeters of               portable but clumsy case hardened against any-
+     ordinary walls, and can generate an energy ma-                thing short of intentional damage with a firearm,
+     nipulation field that allows tapping that data line           capable of interfacing with a wide variety of hard-
+     for hacking purposes without physically damaging              ware to receive and upload data. A single storage
+     the wall.                                                     unit can hold a tremendous amount of data that
+Data protocol: Not so much a device as a collection of             has been carefully compressed and optimized for
+     standard manuals on a world’s particular data for-            it. If the user is simply ripping a database off a
+     mats and security methodologies. The price list-              network and stuffing it into the unit, it can absorb
+     ed here are for black-market manuals on worlds                up to a small corporation’s complete files.
+     where this information is rigidly restricted. On        Tightbeam link unit: Much like a remote link unit, a
+     less paranoid planets, the equivalent information             tightbeam unit uses a laser to connect via line-
+     can be acquired for free.                                     of-sight transmission. Unlike a remote link unit,
+Dataslab: A palm-sized computing device that can un-               there’s almost no chance for a conventional secu-
+     fold into a thin slab roughly one-third of a meter            rity system to detect this link, but it requires that
+     on a side. It can perform all the functions of a com-         the infiltrators get a clear line of sight between
+     pad or handheld computer and can communicate                  the unit and the receiving end. Commercial satel-
+     wirelessly with nearby devices.                               lite reception units can be employed for skyward
+Line shunt: These palm-sized discs are roughly one cen-            aiming at 500 credits/hour if a second land unit is
+     timeter in thickness, with an adhesive side that              unavailable, but indoor use is impossible.
+     will stick to virtually anything and a polychromat-
+     ic phased compound on its shell which will shift
+     color to blend with its surroundings. One or more
+                                                                           Foreign Protocols
+     line shunts must be applied at specific locations         Most surviving human worlds continue to use a
+     within a site to access the more well-defended va-        basic Mandate-derived communications protocol
+     rieties of computerized systems. Shunts employ            that ensures a minimal level of compatibility be-
+     phased energy manipulation tech, and so do not            tween hardware from different worlds. While the
+     need to be directly in contact with a data line but       performance may not be ideal, tech purchased on
+     only within a few centimeters. Line shunts are            one world should still be able to interface with the
+     single-use, and keep functioning until removed.           local tech on a different planet.
+Remote link unit: These data broadcast link units have              Even so, a few worlds of a more xenophobic
+     been preloaded with one-time pad security mea-            or isolated nature intentionally abandon this stan-
+     sures, advanced stealth circuitry, and sophisticated      dard protocol in favor of their own. PC hardware
+     data progression algorithms. Two of these links           on these worlds will not communicate with the
+     can allow a user to maintain contact with a remote        local grid unless a PC with Program or Fix skills
+     data storage unit. The connection is too “stiff” to       has a chance to reset the protocols to something
+     allow for easy hacking, however, and it applies a         compatible with local conditions. Such work usu-
+    -2 penalty to any attempts to hack through it. Pro-        ally takes at least a day to adjust all the gear the
+     fessional-grade security systems often have means         group might possess.
+     to detect the broadcast of a remote link unit.
+                                                                                       GENERAL EQUIPMENT •73
+
+Pharmaceuticals                                               Pretech Cosmetic (None): Before the Silence stims ex-
+Modern pharmaceuticals are usually applied as “stims”;             isted for a host of cosmetic, hygiene, and health
+small capsules that are pressed against the target’s skin          purposes. While these effects are trivial, the basic
+for application. While a wide variety of common over-              pretech stim substrate also works to heal 1d6 lost
+the-counter stims are available, the ones listed below             hit points in the user at a cost of 1 System Strain.
+are some particularly likely to be useful to adventurers.     Psych (None): A military drug duplicated in rougher
+Many medical stims require a minimum level in the                  form by many street chemists, Psych fills the user
+Heal skill to successfully apply them, while others add            with an intense sense of confidence and reck-
+System Strain to the target as described on page 32. If a          less courage. Unfortunately, it also cripples their
+subject’s System Strain is too high already, the stim has          judgment regarding danger. A person affected by
+no positive effect. Some of the combat stims below are             Psych immediately gains a Morale score of 12 and
+usually illegal for civilian possession, but street sources        a +1 bonus on all skill checks, but will ignore cover
+are available at the prices given.                                 during combat and cannot decide not to attempt a
+      Modern vacc suits and powered armor have med-                skill check after learning its difficulty. The effect
+ical ports that allow for applying stims and other med-            lasts fifteen minutes, adds 1 System Strain to the
+ical treatment without removing the suit.                          user, and is highly psychologically addictive.
+                                                              Reverie (Heal-1): This very dangerous combat drug
+Bezoar (Heal-1): A complex antibiotic cocktail, Bezoar             completely subdues the subject’s fear centers and
+      is an effective default treatment for a wide variety         adrenaline production, leaving them perfect-
+      of infectious diseases. When applied to a suffer-            ly calm and relaxed even in the midst of mortal
+      er, roll 1d6; on a 1, this victim cannot be helped           danger. Their reaction speed is much slower as a
+      by Bezoar, while otherwise the affliction is cured           consequence, and they may act only on even-num-
+     within 24 hours. Each application of Bezoar adds              bered combat rounds; so on the second, fourth,
+     1 System Strain to the target, and it cannot cure             and sixth rounds and so forth. Any damage they
+      cancers, bioweapons, or congenital diseases.                 suffer is doubled as well due to their lack of vigi-
+Brainwave (Heal-2): This psitech drug requires ad-                 lance. Their perfect calm allows them to shoot as
+      vanced TL5 facilities to compound, and the few               if on the target range, however, and they can make
+      remaining doses from pre-Silence periods are                 Dex/Shoot skill checks to hit a target instead of
+      rarely available on the open market. Application             hit rolls; the difficulty is 7 at point blank, 9 at nor-
+      of Brainwave gives a psychic 2 extra maximum                 mal ranges, and 11 at long ranges for the weapon.
+      Effort for one hour. At the end of that hour, they          The target’s Armor Class is ignored. Melee attacks
+      suffer 4 points of System Strain. If their Strain is         made under Reverie always hit. Reverie lasts for
+      maximized by this, they go unconscious for one               ten minutes and adds 2 System Strain to the target.
+      hour. Only one dose can be active at a time.            Squeal (Heal-1): This “truth serum” is unreliable but still
+Hush (Heal-0): An extremely heavy neurotranquilizer,               one of the best available options for field interro-
+      Hush leaves the subject awake and responsive to              gations. The subject must be immobilized or will-
+      simple, untaxing commands. They cannot fight                 ing to be affected by it. For five minutes afterwards
+      or communicate while affected by Hush, but will              they will be unable to avoid answering questions
+     walk, eat, sit, and perform simple actions as di-             about facts known to them; they will be unable
+      rected by the last person to speak to them. A Hush           to exercise anything resembling a hypothesis or a
+      dose lasts for an hour plus three per Heal level of          judgment, but they will answer specific questions
+      the person applying the stim, and the subject re-            about facts known to them truthfully. Unwilling
+      tains no memories while under the effect. A sub-             victims can attempt a Physical saving throw; on
+      ject must be immobilized or willing to be affected           a success, they can simply refuse to speak about
+      by Hush; violent physical movement immediately               one particular topic of their choice. Targets pass
+      after application disrupts the neurological effects.         out for 1d6 hours after the drug wears off and are
+Lift (Heal-0): A Lift stim augments and amplifies the              immune to it for a week thereafter.
+      body’s natural response to physical injury and ex-      Tsunami (Heal-1): An emergency combat stim used to
+      haustion. This boost speeds natural recovery dras-           juice certain expendable soldiers before an assault,
+      tically and heals 1d8 plus the user’s Heal skill in         Tsunami fills them with a reckless disregard for
+      hit points after five minutes of rest. Lift stims do         pain and an intense aggressiveness. The short
+      not work on PCs who are mortally wounded; they               effect duration and difficult application limits its
+      need to be stabilized before the Lift can help them,         wider use, however. Subjects gain a Morale score
+      though application to a stabilized target will get           of 12, 10 extra hit points for ten minutes and a +2
+      them back on their feet and active again. Each ap-           bonus on all hit rolls. At the end of the duration,
+      plication adds 1 System Strain to the target. Each           they immediately lose those 10 hit points, which
+      additional application of Lift to a target the same          may leave them mortally wounded. Each applica-
+      day increases the minimum Heal skill needed by 1.            tion adds 2 System Strain to the target.
+74• GENERAL EQUIPMENT
+
+Tools and Medical Gear                                            to fix a damaged object, severely broken devices
+While a skilled technician or expert physician can                may need replacement parts. Rather than keep a
+make do with improvised tools scrounged from their                catalog of bits and pieces, a technician can simply
+surroundings, most adventurers prefer to be bet-                  bring along one or more units of spare parts, sub-
+ter-equipped to face unavoidable perils. Most of these            tracting one whenever the GM decides that a re-
+tools and medical supplies are available on any TL4               pair effort requires more than existing salvage can
+world, though pretech toolkits usually require excellent          support. A unit of spare parts can also be used to
+personal contacts to obtain.                                      jury-rig some basic, uncomplicated tool or weap-
+                                                                  on from the equipment list with ten or fifteen
+Bioscanner: While an untrained user can use this tool to          minutes of assembly and at least Fix-0 skill. Such
+     discern internal bleeding, gross physical distress,          bodged devices rarely last longer than one scene.
+     or toxins in a plant or animal, it requires Heal-0      Tailored Antiallergens: A dose of tailored antiallergens
+     skill to use this tool to its fullest. Such operators        can be used to render a local world’s organics large-
+     can use the bioscanner for a full spectrum of di-            ly edible by humans and its atmosphere breathable
+     agnosis and DNA sequencing achievable in min-                without severe allergic reactions. While many
+     utes. One type A power cell will power it for up             worlds have been seeded with Terran life forms or
+     to twenty-four hours of regular usage.                       have produced organics that are edible by humans,
+Lazarus patch: A vital tool for adventurers, the lazarus          others are toxic without the appropriate chemical
+     patch is a heavy compress laced with antibiotics,            augmentation. A dose of these antiallergens lasts
+     coagulants, system stabilizers, plasma, and a one-           for twenty-four hours.
+     shot diagnostic suite. If the patch is applied to a     Toolkits: Containing a wide range of necessary tools for
+     character that has fallen to 0 hit points, the user          a particular skill set, toolkits can handle almost
+     can make an Int/Heal or Dex/Heal skill check                 any job that doesn’t require a full-scale shop or lab.
+     against difficulty 6 to stabilize the subject. The           A standard postech toolkit can handle electronics,
+     more time between injury and application, the less           small welding jobs, and basic repair on ordinary
+     chance the patch has to work. Each round after               TL4 goods. More sophisticated pretech tools are
+     the first, an additional -1 penalty is applied to the        necessary for working on advanced TL5 artifacts,
+     skill check. The patch is no use after six rounds. If        and the tools themselves are very rare and difficult
+     the medic fails the first skill check, they can keep         to obtain.
+     trying the check once per round until the victim
+     is revived or time runs out.                                          Building New Tech
+          Lazarus patches are no use on victims that
+     have died of disease, poison, or have been man-           In a science-fiction game, it’s often difficult to fig-
+     gled beyond surgical repair by Heavy weapons or           ure out the limits of ad-hoc tech. When the limits
+     similar trauma. Only one patch can be applied to          of technology often seem to be based on genre
+     a victim. Revived victims are critically wounded          rather than physics it can be tough to make the call.
+     until sufficient medical help has been tendered;                Most of the time, it’s simply not practical for
+     see the Systems chapter for details.                      a technician to devise dramatic new tech without
+Medkit: Containing a broad supply of pharmaceuti-              the use of a full-scale research facility.
+     cals, spray bandages, glue sutures, and a succinct              Even so, sometimes a PC will ask to build
+     handbook of injury care, the medkit is designed           something that creates a particular effect that
+     for handling sudden and drastic injuries. It also         seems in line with other gear of a similar tech level.
+     contains all the necessary tools for providing            A hologram-emitting “grenade”, a jury-rigged set
+     long-term recuperative care for critically injured        of infrared goggles, an explosive that detonates if
+     characters. After each day of granting long-term          background radiation drops below a certain level…
+     recuperative care, roll 2d6 per patient treated; on       these things match known TL4 tech.
+     a 12, the kit has run out of some vital pharmaceu-              In these cases, the GM should set a plausi-
+     tical and has become useless.                             ble-seeming price in credits or spare part units,
+Metatool: This wrist-mounted housing contains a myr-           assign a time ranging from fifteen minutes to a
+     iad of small, useful tools designed to handle the         month based on the complexity of the tech, and
+     widest possible range of technical needs. While           roll a secret Int/Fix check against a difficulty from
+     a metatool is too limited to handle major jobs, it        8 to 12. When the tech is actually used, the skill
+     is usually sufficient to manage jury-rigged repairs       check determines whether it functions or not.
+     and temporary fixes until the tech has time to ap-              Most such jury-rigged tech works only once,
+     ply a larger wrench to the problem.                       being too fragile or quirky to last more than a
+Spare parts: This is a general category for a number           scene. Repeated refinement and testing may allow
+     of small TL4 components and repair materials.             for a more lasting piece of equipment.
+     While a simple toolkit or metatool is often enough
+                                                                                    GENERAL EQUIPMENT •75
+
+Field Equipment                                                  cube’s side, it immediately expands to an opaque,
+When venturing into the trackless void every adven-              waterproof ceraplast sheet 2 meters on each side
+turer is going to need the right hardware to survive             and a centimeter thick. Five minutes later the cer-
+the experience. The field equipment in this section in-          aplast hardens into a tough, rigid shape, but until
+cludes some of the more common technology favored                then it can be folded or bent by hand. Instapanels
+by explorers and fearless investigators of alien worlds.         can be bonded to one another with a metatool or a
+The TL5 equipment listed here can usually be found for           toolkit. Breaking an instapanel requires inflicting
+sale on populous worlds with an active commerce in               at least twelve points of damage on it.
+pretech relics, but smaller or more backwards worlds        Low-light goggles: These goggles provide a mono-
+may not have any of it available.                                chrome but serviceable view out to the wearer’s
+                                                                 normal visual distance, provided that there is any
+Atmofilter: This face mask can filter out most atmo-             illumination available at all. A type A power cell
+     spheric toxins. Attaching a standard vacc suit ox-          will operate these goggles for a week.
+     ygen bottle to a belt-mounted feed will also supply    Navcomp: A combination of low-tech compasses, au-
+     a breathable atmosphere for up to six hours.                tomappers, astronomic charts, and gyroscopes
+Backpack: TL4 versions of this item are effectively              packed into a flat, one-kilo case. A character with
+     without encumbrance, albeit they cost 50 credits.           a navcomp will never get lost on worlds with GPS
+     A worn backpack counts as a readied item, though            satellites. They can also make a crude but service-
+     objects stowed inside it still require the usual            able automatic map of all buildings or landscapes
+     round to dig free. Characters without backpacks             they travel through. Other terrestrial navigation
+     or similar carrying devices might have difficulty           skill checks are made at a +1 bonus.
+     justifying the hauling of large amounts of gear.       Portabox: A small cube of ceraplast attached to an elec-
+Binoculars: Standard 7x50 binoculars. TL4 versions are           tronic keycard. When a type A power cell is in-
+     available that have integral low-light optics and           serted, the portabox immediately unfolds into a
+     up to 25x150 power. TL 4 binocs cost 200 credits            rigid locker with 1.5 x 1 x 1 meter dimensions.
+     and require a type A power cell for up to a week            The portabox is air-tight and has a simple elec-
+     of regular usage.                                           tronic lock which can only be opened with the
+Climbing harness: A collection of straps, ropes, pitons,         keycard or a successful difficulty 8 Sneak or Fix
+     and other climbing aids that grant a +1 bonus on            skill check. Failing the check will cause the lock
+     any Exert climbing skill test. Using a climbing             to short-circuit and seal the box until it can be cut
+     harness is noisy, and any Sneak skill checks while          open with a metatool or broken open with twenty
+     climbing with one suffer a -2 penalty.                      points of damage.
+Glowbug: A palm-sized disc that can adhere to any           Pressure tent: This tent maintains a breathable atmo-
+     non-porous surface. When turned on, it emits                sphere, tolerable temperature and serviceable
+     a white light, illuminating everything within ten           sleeping quarters for up to five very friendly oc-
+     meters for twenty-four hours. A hundred glow-               cupants. Advanced filtration and cracking tech
+     bugs can be recharged off a single type A cell.             allows a single standard vacc suit oxygen tank to
+Grapnel launcher: This launcher fires a rope up to for-          provide breathable air for the occupants for up to
+     ty meters. The rope can bear up to a metric ton             24 hours. The tent requires a type A power cell for
+     of weight, though extremely heavy weights or a              each day in which this filter is employed.
+     precarious hit can cause the grapnel to pull free. A   Rations: Dried or otherwise preserved foodstuffs suffi-
+     Type A power cell fuels six shots from a launcher.          cient for one day. If water is not otherwise avail-
+Grav chute: When this cylinder is strapped to a person           able, add another item’s worth of encumbrance
+     or object and activated, it smoothly modulates fall-        for the water necessary for a person’s daily needs.
+     ing speeds for up to 1000 meters. The chute can        Rope: Light and sturdy. A metatool can be used to cut
+     safely slow up to 300 kilos of weight. TL5 versions         and join the synthetics used in TL4 rope, which
+     can operate from orbital heights and cost 1,000             counts as one encumbrance item per 40 meters
+     credits, where they can be found at all. Both ver-          and costs 40 credits.
+     sions burn out after one use.                          Scout report: A collation of survey scans and merchant
+Grav harness: This advanced gravitic harness allows              reports on a particular lost world or isolated col-
+     clumsy flight at a rate of 20 meters per round as           ony. Scouting reports are available for all but the
+     a Main Action. It requires a Type B power cell              most unknown worlds and provide maps, basic
+     to fuel it, and the miniaturized electronics are            information, and note any critical cultural taboos.
+     rapacious, consuming the cell in five minutes of       Survey scanner: A multipurpose scanner that can take
+     operation. It can lift up to 200 kilos.                     atmospheric and gravitic readings, provide basic
+Instapanel: In its compressed form, an instapanel is a           chemical analysis of samples of up to one cubic
+     two-kilo cube of ceraplast five centimeters on a            centimeter in size, and record up to two hun-
+     side. When a type A power cell is inserted in the           dred hours of video information or ten times that
+76• GENERAL EQUIPMENT
+
+     amount of audio. Know skill checks are necessary
+     for any but the most basic analysis.                                       Local Brands
+Survival kit: A standard belt-worn kit with fire lighter,       The equipment described in this section matches
+     water filter, three thermal flares, knife, thermal         standard TL4 hardware from the average modern
+     blanket, a brightly-colored 3 x 3 meter waterproof         space-faring world. A PC who buys a generic vacc
+     tarp, a glowbug, and a radio beacon that can trans-        suit can expect it to work the way it’s listed here.
+     mit a distress signal up to fifty kilometers for one             Not all worlds have identical tech, however,
+     month on the included type A power cell. Survival          even if they share a tech level. Planets with par-
+     kits sold on a particular world will usually also in-      ticular natural hazards or technological focuses of-
+     clude a small booklet on specific dangers or edible        ten have significantly better tech for dealing with
+     organics. Possession of a survival kit grants a +1 to      these things than their neighbors, while worlds
+     all relevant Survive skill checks, assuming its con-       that lack vital resources or industrial infrastruc-
+     tents are helpful on a given planet. Survival kits         ture might have considerably worse gear.
+     are well-organized, and count as only one item for              As the GM, don’t hesitate to brew up local
+     encumbrance purposes.                                      tech that can be used as a reward for PCs or a
+Telescoping pole: Retracting to a 30-centimeter baton,          special buying opportunity. The gear might grant
+     this pole extends and locks into a 3.048-meter             skill bonuses, function longer, do more damage,
+     extension that can bear as much as a thousand              have an AC bonus, or offer some other perk. Such
+     kilograms of weight or serve as a makeshift club.          unique hardware can add flavor to a world’s tech.
+Thermal flare: If triggered in one mode, the flare burns
+     with a bright white light for two hours, illuminat-
+     ing up to twenty meters around the holder. If the        Vacc suit: The standard TL4 vacc suit is designed to
+     guidance fins are extended first, the flare launches          allow the wearer to survive in both hard vacu-
+     up to 200 meters and explodes in a bright white               um and on most inhospitable planetary surfaces.
+     flash. A launched flare does 1d6 damage to anyone             The suit protects against ordinary levels of cosmic
+     it hits, though the clumsy flight gives a -4 penalty          radiation and provides a temperature-controlled
+     on any attempts to hit something with it.                     atmosphere. Vacc suits are equipped with radios
+Trade goods: Glowbugs, ceramic fire lighters, anti-                that have a ten-kilometer range. A vacc suit ox-
+     biotics, ceraplast tools, and the other fruits of a           ygen tank weighs 1 encumbrance, included with
+     TL4 civilization that might be valuable on more               the weight of the suit, and functions for six hours.
+     primitive worlds. A kilo of trade goods can usually                 Vacc suits are cumbersome, and apply a -2
+     be traded for at least a hundred credits worth of             penalty to all hit rolls and skill checks that re-
+     local products on more primitive worlds that are              quire movement. Those with at least a month of
+     not well-served by interstellar merchants. The                zero-gee experience can ignore this penalty. No
+     profit margin shrinks rapidly as interstellar trade           armor can be worn with a vacc suit, though the
+     becomes more common, and there is always the                  suit itself grants AC 13 to its wearers. A vacc suit
+     difficulty of finding local products that are actually        requires one type A power cell for each twelve
+     worth a merchant’s journey.                                   hours of operation.
+Trade metals: The fruit of common TL4 asteroid min-                      Vacc suits have a self-healing exterior that
+     ing, trade metals include gold, platinum, artificial          can seal the puncture wounds caused by bullets,
+     gemstones, and other substances precious on                   arrows, or energy beams, but a strike from an
+     many lost worlds and trivially valuable on space-             edged weapon can overwhelm the repair system.
+     faring ones. A kilo worth of trade metals can                 If a character with 10 or fewer hit points is struck
+     be exchanged for as much as a thousand credits                by an edged weapon, there is a 50% chance the suit
+     worth of local products on metal-poor worlds iso-             is torn. Suits are equipped with emergency repair
+     lated from interstellar trade. Markets flood rapidly,         patches, but it requires a Main Action to apply one.
+     however, and it usually doesn’t take more than a              Exposure to vacuum is described on page 58.
+     few merchant trips to persuade the locals to de-         Vacc skin: A more advanced TL5 version of the vacc
+     mand trade goods or credits.                                  suit, this skin-tight suit can be worn as a readied

@@ -1,0 +1,450 @@
+1,000
+250
+1,000
+
+TL
+4
+3
+4
+4
+3
+4
+4
+4
+4
+3
+4
+4
+4
+4
+3
+4
+
+Observation Suite: All drones are wired for basic camera
+and sound, but this suite contains a full-spectrum
+UV/IR visual package, remote sound sensors, and
+radiation/chemical detectors. The drone can focus
+on conversations or facial expressions from up to
+2 kilometers away and can operate even in the
+complete absence of visible light.
+Racing Gravitics: The drone is tuned for extra speed. Its
+flight endurance is halved, but it can now move
+up to 60 meters per combat round and fly at up to
+200 kph out of combat.
+Reinforced Structure: The drone is equipped with
+heavier plating and a sturdier internal frame. Its
+hit points are increased by 50%, rounded up.
+Sensor Transparency: The drone is sheathed in anti-radar composites. Ordinary sensors will not detect it
+at observation range, and high-end military sensors can spot it only on an Int/Program check at
+difficulty 9.
+Stationkeeping: The drone does not need to be constantly controlled; when the operator does not
+spend a Main Action to pilot it, it simply remains
+stationary. If equipped with an Observation Suite,
+it can ping the operator if any anomalous reading
+is obtained.
+Suicide Charge: The drone is loaded with a demo charge
+as per page 69. The operator can trigger it as an
+attack, but unless they can move the drone in by
+surprise, the approach will always give onlookers
+a chance to spot it before it gets within range.
+Weapon Fitting: The drone can be mounted with 1
+encumbrance worth of ranged weaponry, which
+must be purchased separately. This fitting may be
+taken more than once to mount more weapons
+or heavier weapons. The weapon requires one or
+more ammo units to feed it.
+
+82• CYBERWARE
+
+CYBERWARE
+Postech medical science and neural interface technology are sophisticated enough to meld metal and flesh
+into a coherent whole. The creation of advanced cyberware is not beyond the theoretical capability of TL4
+societies, and pretech worlds can produce cyberware
+of such sophistication as to blur the lines between organism and artifice.
+Yet cyberware is rarely available on most worlds,
+even those with the nominal technology level to support it. The advantages that cyberware can give a user
+are great, but the cost of building, fitting, and implanting these devices is huge compared to simply buying a
+handheld device to do the same function. There are few
+buyers for a 15,000 credit ghost talker implant when a
+compad retails for a hundred credits.
+The market that does exist is largely for those few
+elite operatives and dignitaries who are willing to pay
+exorbitant sums for the smallest advantage. Most cyberware is custom-built for its users, and it can be an
+adventure in itself to find a lab capable of manufacturing an augmentation and successfully implanting
+it. Some worlds have industrialized the production of
+cyberware, however, making it much cheaper and in
+much wider circulation. Even then, these worlds rarely
+export much cyberware due to the heavy infrastructure
+necessary to fit and implant the wares. Those who want
+the tech will have to find such planets and do their own
+negotiations there.
+Aside from the difficulties of cost and scarcity,
+cyberware also taxes the wearer’s body. Each piece of
+cyberware comes with a System Strain cost as described
+on page 32, permanently adding that many points of
+System Strain to the user’s total. These points can never
+be lost unless the system is surgically removed. This
+permanent System Strain decreases the amount of
+psionic healing a character can sustain and can limit
+the effectiveness of healing and stimulant drugs.
+Some cyberware has an activation cost in System
+Strain. If a cost would push the character’s System
+Strain above their Constitution score, they cannot
+trigger the cyberware; their body just can’t handle the
+strain until it has had time to recover.
+Adrenal Suppression Pump: These endocrine pumps
+neutralize numerous brain chemicals in the user
+when activated while exciting the user’s perceptual centers. This combination produces a cold,
+dispassionate situational awareness that grants
+the user +2 on initiative rolls when the system is
+engaged. Most systems have built-in safety overrides to prevent psychological addiction and brain
+damage, allowing the unit to be used for no more
+than an hour each day. The user takes a -2 penalty
+on all social skill checks while the unit is active,
+and it requires five rounds to toggle it.
+
+Bioadaptation Augments: These additional synthetic
+organs and filters allow the bearer to survive in
+thin-atmosphere conditions, as well as tolerate
+temperatures ranging from Antarctic chill to
+heat sufficient to boil water. They can also eat a
+wide range of native life forms for sustenance; no
+normal planet’s native biology is ever considered
+immiscible for consumption.
+Body Arsenal Array: Some personnel need to be armed
+at all times without giving any indication of such.
+Improvised weaponry and conventional holdout
+weapons are useful enough against soft targets,
+but disabling a target in powered armor requires
+more. The details of the array vary from user to
+user, but usually act as advanced medium weapons
+that can be used with either Punch or Stab skills
+and at least one integral energy projector equal
+to a laser rifle, one that must be powered by an
+insertable type A power cell. Retracted body arsenals can be detected only by a medical examination.
+Body Sculpting: Not so much a single implant as a series of complex surgeries, body sculpting is available on many TL4 worlds with fairly advanced
+medical services. After a week of alterations and
+treatments a subject’s external appearance can be
+set within any human or near-human range, in-
+
+CYBERWARE •83
+Cyberware
+Adrenal Suppression Pump
+Bioadaptation Augments
+Body Arsenal Array
+Body Sculpting
+Dermal Armor
+Drone Control Link
+Eelskin Capacitor Mesh
+Gecko Anchors
+Ghost Talker Transceiver
+Holdout Cavity
+Holoskin Emitters
+Identity Submersion Trigger
+Immunofiltration System
+Induced Coma Trigger
+Neurointruder Alert
+Panspectral Optics
+Pressure Sheathing
+Prosthetic Limb
+Revenant Wiring
+Slowtime Window
+Stabilization Overrides
+Tagger Nanites
+Toxin Injector
+Twitchlock Actuators
+
+Cost
+30,000
+10,000
+10,000
+10,000
+20,000
+20,000
+25,000
+15,000
+15,000
+10,000
+15,000
+25,000
+25,000
+20,000
+50,000
+15,000
+15,000
+2,500
+50,000
+30,000
+25,000
+15,000
+20,000
+30,000
+
+Strain
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+3
+2
+2
+1
+2
+2
+
+TL
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+5
+4
+4
+4
+5
+5
+4
+4
+4
+4
+
+cluding full retinal and fingerprint matching to a
+desired target. A TL5 version of this treatment
+that costs ten times as much can involve extensive DNA reprogramming to change the subject
+at a genetic level, making their alterations heritable and allowing female-targeted shapes to bear
+offspring. This TL5 treatment is not reversible,
+and any further major alterations to the subject
+require further permanent System Strain.
+Dermal Armor: A fine subcutaneous reinforcement
+mesh provides significant protection against impacts and cuts while remaining imperceptible to
+anything short of a medical examination. Someone with the implant has AC 16 and is immune
+to Shock damage inflicted by primitive melee
+weapons. A TL5 version of this implant that costs
+five times as much grants even more protection,
+rendering the subject wholly immune to primitive
+weapons as if they were wearing powered armor.
+Drone Control Link: Most often found among military
+bot wranglers, civilians can also get a drone control link implanted to simplify the remote piloting
+of drones and other robotic units.
+Users of a link can issue commands to a drone
+as a Move action instead of a Main Action. A
+
+Eliminates emotion and improves initiative
+Survive near-habitable planetary conditions
+Provides retractable body weaponry
+Complete external physical reconstruction
+AC 16, immune to primitive weapon Shock
+Allows easier remote control of drones
+Allows bare-handed hacking and electrical shocks
+Can climb sheer surfaces as if they were flat
+Integral compad with audiovisual transmission
+Shielded body cavity for holdout storage
+Creates a hologram around the user
+Allows a false identity to be perfectly assumed
+Immune to almost all diseases and poisons
+Feigns death and halts bodily processes for up to two weeks
+Grants +3 to save vs. telepathy, alerts of intrusion
+Integral low-light and thermal vision
+Integral emergency vacc suit
+Replaces a limb lost to misadventure
+Keeps the user fighting even after they’re dead
+Prevents surprise and speeds up the user’s cogitation
+Automatically stabilizes a mortally-wounded user
+Lets the user tag others with tracking nanites
+Allows surprise injection of lethal or dazing toxins
+Allows brief moments of hyper-precise accuracy
+single drone can only receive one command per
+round, however.
+Aside from this ease of command, someone
+with an implanted rig can “look” through a piloted
+drone’s sensors as an Instant action, and a drone
+is never considered to be out of control even if
+the pilot doesn’t spend an action controlling it. A
+link can maintain a connection with one drone at
+a time, plus the user’s Program skill.
+Eelskin Capacitor Mesh: A hair-fine mesh of almost imperceptible wiring along the user’s palms and fingers allow them to trigger brief, controlled bursts
+of electrical energy at targets within five meters.
+As an Instant action it adds 2d4 non-lethal damage
+to a successful Punch attack. In its intended use, it
+also allows the user to override and disable most
+electronic locks and security systems with a successful Sneak or Fix skill check. Both triggering a
+burst and hacking a security system tax the user’s
+biology; one System Strain point is gained with
+each attack or skill check.
+Gecko Anchors: Miniaturized gravitic manipulators are
+embedded in the subject’s hands and feet as part
+of this complex surgery. While they are too weak
+to allow levitation or damping fall damage, they
+
+84• CYBERWARE
+can twist localized gravity around those limbs to
+anchor the subject to the nearest surface capable
+of bearing their weight. As a result, the user can
+freely run or climb up or down sheer surfaces at
+their normal movement rate, carrying no more
+than their normal maximum encumbrance.
+Ghost Talker Transceiver: Some people simply cannot
+afford to be out of contact at any time, under any
+circumstances. Those people find use for the microfine web of radio wiring and optical augmentation that make up the ghost talker. These units
+act as a built-in compad for the user and allow
+for reception and transmission of audio and visual
+recordings, the latter playing in an inset window
+in the user’s field of vision. If the unit is operating
+outside of a standard comm grid, it has a transmission range of twenty kilometers and a reception range of one hundred. Ghost talker users can
+transmit basic visual diagrams and images to each
+other, as well as optical recordings.
+Holdout Cavity: Usually implanted somewhere in the
+torso, a holdout cavity is a small recess shaped
+into the wearer’s body and designed to be overlooked by most standard forms of medical or security scanning. It automatically defeats a security
+inspection that uses less than TL4 scanners, and
+even advanced tech requires careful personal inspection to have a chance of revealing it. The cavity can hold an object up to the size of a pistol and
+is opened and shut by the user’s mental command.
+Holoskin Emitter: Multiple holographic emitters are implanted on the user, allowing them to alter their
+external appearance to match anything of their
+approximate size and dimensions, including other people. Shifting appearances is a Main Action,
+and the user can’t shift to an appearance that isn’t
+in the cyberware’s shape library. The library is vast
+and contains “generic” examples of numerous human-sized objects and people, but mimicking a
+specific other person requires at least five minutes
+of close examination. The holograms projected
+by the emitters are good, but imperfect; anyone
+who closely examines the user will be able to tell
+that something is artificial about their appearance,
+and touch instantly confirms any suspicions. The
+emitters can fake clothing and can produce sounds
+to complement the illusion or modify the user’s
+voice, if records of the true subject are available.
+The disguise lasts until the user dies or ends it.
+Identity Submersion Trigger: This cyberware involves
+micronized neural stimulation technology which
+is imperceptible to anything short of TL5 medical
+scanning or TL4 surgical examination of the subject’s brain tissue. When active, the IST allows the
+subject to adopt a secondary persona, complete
+with a library of manufactured memories. So long
+as the IST is active, the subject will honestly and
+completely believe himself to be the secondary
+
+persona, a conviction that cannot be penetrated by
+telepathy or TL4 methods of interrogation. The
+persona can be activated at the user’s discretion,
+but it only deactivates on a preset trigger, leaving
+the subject in full possession of all memories experienced. The trigger can be any perceptible stimulus: a particular time, the sight of a specific person,
+a code phrase, or any other sign, and it may be
+changed by the user each time they activate the
+cyberware. Many ISTs are also implanted with a
+“master key” that will automatically deactivate the
+triggered identity.
+Immunofiltration Systems: This broad-spectrum scrub
+system carefully identifies and contains toxic substances introduced into the user’s system. Whenever the subject would normally have to make a
+saving throw to resist some disease or toxin, they
+may instead gain one System Strain to automatically succeed on the save. Most of these systems
+are calibrated to automatically filter any toxins
+or chemicals in standard use by police or military
+forces in the sector, but if presented with a special biowarfare toxin, the filters are less effective.
+In such cases, the most it can do is either grant a
+second saving throw if the first is failed, or grant
+a single saving throw if none is normally allowed.
+Induced Coma Trigger: A series of implants are wired
+to the user’s brain stem, allowing them to trigger
+an induced therapeutic coma at a mental command. The user appears dead to anything short
+of a medical inspection, and has no need of respiration, food, or water while the coma is in effect.
+The user does not heal while in a coma, but any
+diseases or poisons also halt progression. The user
+determines how long the coma is to last before
+triggering it, and is unconscious for its duration.
+A character can survive in a coma up to two weeks
+before needing to regain consciousness for as long
+as they were in the coma.
+Neurointruder Alert: While somewhat primitive by
+pretech standards, this TL5 cybernetic implant
+allows the wearer to gain a +3 bonus on all saving
+throws to resist telepathic intrusion. Even if such
+a save is failed, the user will be aware that they
+are under telepathic assault, though some forms of
+mental control may not allow them to say as much
+until after the influence is ended. The warning
+does not indicate the source of the influence.
+Panspectral Optics: Ocular adjustments to the wearer
+allow them to see clearly at any light level short of
+perfect darkness, in addition to giving them thermal vision that can easily distinguish shapes and
+distance even in the total absence of light. Dangerous radiation and lasers tuned outside the range
+of visible light are also visible to the user. Nearby
+radio transmissions can be seen as if they were
+visual flares of color. The system cannot translate
+these transmissions, only alert the user to them.
+
+CYBERWARE •85
+Pressure Sheathing: Occasionally purchased by workers in hard vacuum or other hostile environments,
+pressure sheathing integrates an ultrathin pressure membrane with the user’s dermis and emergency film sealants that trigger at the user’s mental
+command. The pressure sheathing serves as an
+emergency vacc suit with an integral oxygen supply and temperature regulators that can sustain
+them for up to thirty minutes. A pressure sheath
+needs 48 hours to regain structural integrity and
+power after triggering. A pressure sheath can be
+detected only by a close medical examination.
+Prosthetic Limb: Hands, feet, arms, legs, eyes, and
+numerous internal organs can be replicated by
+postech medical science. These prosthetics can
+provide a good approximation of the sense of
+touch, and are usually impossible to distinguish
+from ordinary limbs without close inspection.
+Pretech-level worlds tend to prefer actually regenerating lost limbs, but those with access only
+to ordinary frontier levels of tech have reason to
+be grateful to prosthetics.
+Revenant Wiring: One of the more grotesque results of
+late pretech augmentation research, revenant wiring permeates the user’s body with a web of supplementary limb actuators and sensor clusters. In
+combat, the user may designate up to a half-dozen
+targets to the system’s braked micro-AI. If the user
+goes unconscious or is killed, the micro-AI will
+engage the limb actuators to keep fighting, even
+if the user is nothing more than a ragged mass
+of mangled tissue. The micro-AI is not brilliant,
+but it is capable of negotiating most terrain and
+dealing with physical impediments to killing the
+designated targets. The actuators have power to
+keep operating for 3d4 rounds, or until the wearer takes 25 more hit points of damage, whichever comes first. The stress produced by revenant
+wiring makes it much more difficult to revive a
+downed user with Lazarus patches or biopsionics;
+all revivification chances are half normal.
+Slowtime Window: A piece of cutting-edge pretech cyberware, the slowtime window was installed in
+crisis responders and others reliant on split-second decision making. When engaged, the implants
+accelerate the user’s cogitation speed by more than
+three thousand percent. While there is no corresponding acceleration of the user’s physical reflexes, they have time to process the situation and take
+in its details. A person who triggers a slowtime
+window cannot be surprised; they always roll initiative as normal no matter how unexpected the
+attacker. This brain acceleration is highly stressful
+on the tissues, however, and one point of System
+Strain is gained each time it is engaged.
+
+Stabilization Overrides: An intricate interweaving of
+microcapillaries and backup organs is implanted
+in the subject’s torso and spinal column. These
+overrides can stabilize the user when severe physical trauma would otherwise kill them. A user reduced to 0 hit points is automatically stabilized,
+as if a Lazarus patch had been successfully applied
+to them, assuming that a patch could have saved
+them. Stabilization overrides tend to interfere
+with the ordinary operation of the user’s organs,

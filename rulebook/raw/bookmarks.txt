@@ -1,0 +1,237 @@
+Into the Waiting Night
+Character Creation
+  Summary of Character Creation
+  Attributes
+  Skills
+    Skill List
+  Choosing a Background
+    Barbarian
+    Clergy
+    Courtesan
+    Criminal
+    Dilettante
+    Entertainer
+    Merchant
+    Noble
+    Official
+    Peasant
+    Physician
+    Pilot
+    Politician
+    Scholar
+    Soldier
+    Spacer
+    Technician
+    Thug
+    Vagabond
+    Worker
+  Character Classes
+    Expert
+    Psychic
+    Warrior
+    Adventurer
+  Choosing a Focus
+    The Focus List
+      Alert
+      Armsman
+      Assassin
+      Authority
+      Close Combatant
+      Connected
+      Die Hard
+      Diplomat
+      Gunslinger
+      Hacker
+      Healer
+      Henchkeeper
+      Ironhide
+      Psychic Training
+      Savage Fray
+      Shocking Assault
+      Sniper
+      Specialist
+      Star Captain
+      Starfarer
+      Tinker
+      Unarmed Combatant
+      Unique Gift
+      Wanderer
+      Wild Psychic Talent
+  Final Touches
+  Equipment Packages
+  Quick Character Creation
+Psionics
+  Psionic Skills
+  Psionic Powers and Techniques
+  Torching
+  Biopsionics
+  Metapsionics
+  Precognition
+  Telekinesis
+  Telepathy
+  Teleportation
+Systems
+  Scenes and Durations
+  Saving Throws
+  Skill Checks
+  Combat
+    Rounds and Initiative
+    Types of Actions
+    Hitting an Enemy
+    Hit Roll Modifiers
+    Common Actions in Combat
+    Combat Complications and Maneuvers
+  Injury, Death, and Healing
+  Hacking
+  Character Advancement
+  Environmental Hazards
+    Falling
+    Poisons
+    Diseases
+    Radiation
+    Hard Vacuum
+  System Quick Reference Sheet
+Equipment and Vehicles
+  Encumbrance
+  Credits and Money
+  Technology Levels
+  Armor
+  Ranged Weapons
+  Melee Weapons
+  Heavy Weapons
+  General Equipment
+    Ammo and Power
+    Communications
+    Computing Gear
+    Pharmaceuticals
+    Tools and Medical Gear
+    Field Equipment
+  Lifestyles, Employees, and Services
+  Vehicles
+  Drones
+  Cyberware
+  Artifacts
+    Artifact Armor
+    Artifact Weaponry
+    Artifact Equipment
+  Modding and Building Equipment
+Starships
+  Building a Starship
+    Starship Hulls
+    Starship Fittings
+    Starship Defenses
+    Starship Weaponry
+  Example Starships
+  Modifying and Tuning Starships
+  Space Travel
+  Sensors and Detection
+  Maintenance and Repair
+  Space Combat
+    Ship Combat Actions
+    Ship Crises
+The History of Space
+  A Timeline of the Future
+Sector Creation
+  Creating a Stellar Sector
+  World Tags
+  Atmosphere
+  Temperature
+  Biosphere
+  Population
+  Tech Level
+  Additional System Points of Interest
+Adventure Creation
+  Adventure Rewards
+  Creating Problems
+  Creating People
+  Creating Places
+  Adventure Seeds
+  An Example of Adventure Creation
+Xenobestiary
+  The Reaction Roll
+  Humanity
+  Robots and VIs
+    VI Player Characters
+  Beasts
+    Styling the Beast
+  Aliens
+    Alien Psychology and Lenses
+    Alien Social Structure
+    Alien Player Characters
+Factions
+  Factions, Assets, and Turns
+  Faction Actions
+  Buying and Using Assets
+  Faction Goals
+  Cunning Assets
+  Force Assets
+  Wealth Assets
+  Faction Tags
+  Factions In Your Campaign
+  Example Factions
+  An Example of Faction Play
+Game Master Resources
+  Common Game Master Complications
+    Death
+    Skill Checks
+    Combat
+    Negotiation and Diplomacy
+    Searching and Investigation
+    Salvage
+  Interstellar Trade
+  Converting First Edition Stars Without Number
+  House Rules and the Game
+  Name Generators
+  One-Roll NPCs
+  One-Roll Patrons
+  One-Roll Urban Encounters
+  One-Roll Wilderness Encounters
+Transhuman Campaigns
+  Wealth and Face
+  Shells and Swapping Bodies
+  Character Generation
+  Organic Shells
+  Mechanical Shells
+  The Net and Digital Shells
+  Digital Combat
+    Common Digital Programs
+  Transhuman Polities
+    One-Roll Polity Missions
+    Polity Mission Rewards
+Space Magic
+  The Arcanist
+  The Magister
+  The Adept
+    The Incandescent Order
+  Arcane Foci
+Heroic Characters
+  Heroic Character Classes
+  Heroic Combat
+    Counting Heroic Damage
+    Lesser Foes and Worthy Foes
+    The Fray Die
+  Defying Doom
+  Challenging Heroic PCs
+True Artificial Intelligences
+  Creating True AIs
+  True AI PCs
+  The True AI Class
+  Core Routines
+  Peripheral Routines
+Societies
+  The Origin of the Society
+  The Society's Rulers
+  The Ruled Classes
+  Flavoring the Society
+Mechs
+  Mech Combat
+  Mech Damage and Repair
+  Maintenance
+  Piloting Mechs
+  Designing Mechs
+    Mech Fittings
+    Mech Defenses
+    Mech Weaponry
+    Example Mech Designs
+Index
+Kickstarter Backers

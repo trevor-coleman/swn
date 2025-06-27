@@ -1,0 +1,450 @@
+Vacc fresher: This three-kilo tube filters and compress-           item in conjunction with armor, though it grants
+     es atmosphere to refill vacc suit oxygen tanks. It            no Armor Class bonus itself. It requires no ox-
+     can extract oxygen from any atmosphere which                  ygen tank, automatically cracking and recycling
+     contains it, even in the form of carbon dioxide.              the wearer’s respiration, and can even recycle the
+     Refilling a standard vacc suit tank requires ten              wearer’s bodily waste into drinkable water if nec-
+     minutes of operation and consumes one type A                  essary. Vacc skins apply no penalty to hit rolls or
+     power cell. Most vacc freshers are also equipped              skill checks for wearers. It suffers tears in the same
+     with an emergency hand crank power source,                    way as a normal vacc suit, and requires a type A
+     though it requires at least two hours of cranking.            power cell for each 24 hours of operation.
+                                                                  LIFESTYLES, EMPLOYEES, AND SERVICES •77
+
+
+LIFESTYLES, EMPLOYEES, AND SERVICES
+Adventurers who spend much time in a place are likely
+                                                                Lifestyle                                 Cost/day
+to need to buy food, shelter, and the usual trifles of
+daily living. Rather than itemize each expense, a PC            Slum                                          5
+can simply spend an fixed amount for each day they              Poor                                         10
+spend living outside of a ship’s crew, barracks, or other       Common                                       15
+arranged living situation.
+                                                                Good                                         25
+      Slum lifestyles reflect bare minimums for survival,
+with scanty food, a corner in a squat somewhere, and            Elite                                       200
+little else. Poor lifestyles involve barracks-like quarters,    Peerless                                   1,000
+public transport, and small and infrequent luxuries.
+Common lifestyles usually allow for a private urban            personal staff, and similar perks. Peerless lifestyles are
+apartment or rural home, a rented personal vehicle, a          similar to that of pampered celebrities and oligarchs,
+respectable wardrobe, and regular small indulgences.           with round-the-clock staff service, free entrance into
+Good lifestyles permit a private urban townhouse or            the most exclusive locales, and the best of everything.
+similar dwelling, a spacious rural home, a better grade             Prices given here assume short-term rentals and
+of personal vehicle, and the ability to indulge in minor       contracts, plus the inevitable premium charged to out-
+expenses such as restaurants or clubs without concern.         siders in almost any society. Natives might be able to
+Elite lifestyles allow for entire floors of luxury buildings   enjoy a given level of lifestyle for only half as much,
+or rented rural estates, drivers and on-call gravflyers,       but such savings usually rely on a local’s connections.
+
+
+PCs will sometimes need to hire help, and GMs occa-             Employee                                  Wage/day
+sionally need to know what constitutes a “good wage”            Artist                                    3/10/100
+for a local NPC. The prices to the right reflect daily          Programmer                               10/30/100
+wages for NPCs with level-0, level-1, and level-2 skill
+ratings in their relevant professional skills. More tal-        Doctor                                   50/100/400
+ented employees cannot normally be obtained without             Guard                                    10/20/150
+special effort in finding and recruiting them.                  Lawyer                                   10/25/400
+     Psychics are both rare and expensive to hire. Even         Prostitute                                2/10/200
+if one can be found, they rarely charge less than 200
+credits per day per psychic skill level to be employed.         Psychic                                    Special
+     Employees will carry out ordinary duties without           Scientist                                10/30/100
+demur, but will be no braver or more dedicated than             Technician                               10/30/100
+their pay and connections would make them.                      Unskilled Labor                            2/8/15
+
+
+
+Adventurers often need to obtain certain services or            Service                                      Cost
+concessions from the locals, and the list to the right
+provides prices for some of their more common needs.            Bribe, minor crime forgiveness                50
+      Bribe prices often vary depending on a planet’s           Bribe, major crime forgiveness                500
+general level of corruption, but the prices here are nor-       Bribe, capital crime forgiveness             5,000
+mal for most. Minor crimes usually involve anything             Forged identity papers                        500
+that would only earn a fine or a few months in jail.
+Major crimes include most felonies and anything that            Intensive medical care                     200/day
+would earn years in prison. Capital crimes are any that         Mail message, interstellar                  1/hex
+would get a culprit executed on the world. Particular-          Mass transit weekly pass                       2
+ly blatant or sensitive offenses might be impossible to         Rent a TL4 workshop                        100/day
+solve with mere bribery, though the right “special fa-
+vors” to the right officials might win a reprieve.              Rent a groundcar                            15/day
+      Forged identity papers include high-quality docu-         Starship passage, steerage                 500/hex
+mentation with the appropriate false database entries.          Starship passage, good                    1,000/hex
+They’re good enough to survive checkpoints and secu-            Starship cargo shipping, per kilo           25/hex
+rity stops, but they won’t hold up to a serious check by
+a suspicious bureaucrat.                                        Wildly decadent party                    100/person
+78• VEHICLES
+
+
+VEHICLES
+Most modern TL4 worlds rely on electrically-powered                    Actually hitting the vehicle is automatic if the
+gravitic vehicles. Whether in the ubiquitous gravcar,             vehicle is stationary and within 30 feet. Hitting a ve-
+hovercycle, or high-altitude gravflyer, cleared road-             hicle-sized target from beyond that range requires an
+ways carry the traffic of countless worlds. On rougher            attack against AC 10. If the target is moving, subtract
+worlds, the roads may not even be paved, instead rely-            its Speed from the hit roll, and if the attacker is in a
+ing on a gravitic vehicle’s high clearance to avoid holes         moving vehicle as well, also subtract their Speed.
+and rough debris.                                                      Hit Points indicate the amount of damage a vehicle
+     Less sophisticated worlds are still reliant on inter-        can take before it is destroyed. Speed is reduced by half
+nal-combustion engines. Many worlds have sufficient               when the vehicle is at half hit points, and flying vehicles
+local resources to fabricate some kind of combustible             must land at the first opportunity. A vehicle reduced to
+fuel, but a few are so impoverished that they lack even           zero hit points forces all crew and passengers to make
+this minimal resource. Such worlds must rely on mus-              Physical saving throws. Failure means that the passen-
+cle power for transport, either that of alien beasts or           ger takes the vehicle’s maximum hit points in damage,
+humble human porters.                                             while success reduces the damage by half.
+                                                                       Crew gives the maximum number of vehicle occu-
+Vehicle Statistics and Combat                                     pants. For the listed vehicles, only one crew member is
+Vehicles are generally powered by type B power cells on           actually necessary to drive or pilot the vehicle, though
+TL4 worlds. More primitive planets are usually forced             additional crew members may be required to fire.
+to use some form of biofuel unless they’re fortunate                   Tonnage is the shipping weight of the vehicle for
+enough to have a supply of fossil fuels. Vehicles require         ship loading purposes.
+one cell or one refueling per six hours of operation,                  Tech Level indicates the minimum tech level for
+assuming they don’t have convenient power access.                 constructing the vehicle. Vehicles can be built at higher
+     Vehicles are generally limited to reasonably flat,           tech levels for better performance, but most worlds
+dry terrain. Grav vehicles such as hovercycles can ig-            prefer to simply build more advanced vehicles.
+nore rough terrain and calm water, as can ATV explor-
+ers. Most grav vehicles can boost more than 10 meters            Vehicle Weaponry
+above the ground or water; gravflyers are purpose-de-             Most vehicles larger than a motorcycle or hovercycle
+signed aircraft capable of hovering and VTOL.                     can mount some kind of integral weapon. Groundcars
+     Speed is an abstract measure of the vehicle’s speed          and gravcars can mount one weapon, while ATVs,
+and agility. When vehicles chase each other, the op-              helicopters, atmoflyers, and gravflyers can mount two.
+posing vehicle’s Speed should be applied as a penalty             Gravtanks are specialized weapons platforms, and can
+to Pilot skill checks to close or escape. Speed may also          mount six.
+be used as a modifier when attempting difficult maneu-                 Heavy weapons take up more space than ordinary
+vers or trying to avoid a peril on the road.                      ranged weapons, and each such system takes up the
+     Armor is subtracted from all weapon damage done              space of two lesser guns.
+to the vehicle. Armor does not apply to damage done                    Every weapon requires its own gunner, and all
+by Heavy weaponry; such guns are often designed to                mounted weapons use Shoot as the firing skill, though
+take out vehicles. Gravtanks in particular are immune             the GM might allow Pilot to be used for a nose-mount-
+to anything short of TL4 Heavy weapons, while less                ed weapon aimed by the operator. Gravtanks are
+sophisticated tanks are immune to anything below TL3              equipped with advanced targeting systems, and all of
+Heavy ordnance.                                                   their weapons can be targeted and fired by one gunner.
+
+Vehicle                      Cost            Speed           Armor           HP         Crew      Tonnage           TL
+Motorcycle                  1,000              1               4             10           1           1             3
+Groundcar                    5,000             0               6             30           5         10              3
+Hovercycle                   5,000             2               3             10           1           1             4
+Gravcar                     20,000             2               4             25           5         10              4
+ATV Explorer               15,000              0               8             40           8          25             3
+Helicopter                 25,000              3               6             20           6         50              3
+Atmoflyer                  30,000              4               8             25           6         50              3
+Gravflyer                  40,000              5               8             25           6         50              4
+Gravtank                   200,000             2             Special         50           3         50              5
+                                                                                                  VEHICLES •79
+
+
+
+
+Types of Vehicles                                            terrain as easily as a grav vehicle, they’re designed
+Every world has its own brands of common vehicles,           to take a tremendous amount of punishment before
+but the types below cover the more usual models. The         breaking down and support repairs using basic tools
+prices given for each reflect a mid-range new vehicle        and frontier expedients.
+sold to a PC with few local contacts. Natives who know            Helicopters are used on TL3 worlds where a lack
+the right people or are willing to buy used or “quirky”      of airfields or treacherous local terrain prohibits the
+vehicles might be able to get one at half that price.        use of fixed-wing craft. Their ability to hover over an
+                                                             area or drop onto a tightly-constrained landing zone
+     Motorcycles can navigate urban terrain that would       makes them particular favorites of quick-response mili-
+block larger vehicles, but more rural landscapes can         tary forces and groups in need of fast fire support. This
+prove more difficult. Hovercycles are the TL4 equiva-        model represents a medium-weight civilian craft that
+lent, capable of brief boosts of up to 10 meters above       might be repurposed by militia or adventurers.
+the ground and the easy navigation of all but thick for-          Atmoflyers are the fixed-wing aircraft used on
+ests or sheer slopes.                                        planets too primitive to have developed gravitic tech-
+     Groundcars are the TL3 analogs of the vehicles          nology. Faster and simpler to maintain than compara-
+commonly in use on 21st-century Earth, allowing for          ble helicopters, they can also carry more cargo on most
+some minor variations in electronics and capabilities.       worlds. The need for clear, hard terrain for landing and
+Primitive buggies of various kinds are found even on         take-off limit their use on some rugged worlds. The
+higher-tech worlds, thanks to their ease of construction     model here is meant to represent a small personal jet.
+and maintenance compared to the delicate gravitics of             Gravflyers are the usual long-distance transport
+more modern vehicles.                                        on most TL4 worlds. Large enough to support the gra-
+     Gravcars are the standard personal vehicles of          vitics required for true flight, a few models can even
+most TL4 worlds, though most lower-class citizens            reach low orbit. All can hover and climb with typical
+rely on public transport in urban areas. Most advanced       gravitic ease. This particular gravflyer is a small craft
+worlds have planetary transit grids that allow occu-         suitable for a affluent owner and their family.
+pants to simply code in a destination and let the car take        Gravtanks make up the bulk of a prosperous TL4
+them there. On worlds where a lack of infrastructure         world’s armored forces. Private ownership is strictly
+or hostile local conditions preclude such convenience,       forbidden on most worlds, but “export models” often
+manual controls and Pilot skill can be used.                 can be acquired for transport offworld. Gravtanks have
+     ATV Explorers are rugged vehicles, either wheeled       armor heavy enough to ignore all damage from con-
+or tracked, and driven by type B power cells or local-       ventional small arms, and can only be harmed by Heavy
+ly-available biofuels. While they can’t navigate rough       weapons or properly-placed demolitions charges.
+80• DRONES
+
+
+DRONES
+In the far future, it’s often more convenient to send
+an expendable grav-flying probe into danger before              Drone Types and Statistics
+venturing less repairable assets. Well-prepared adven-          Each drone has a cost, a maximum number of fittings,
+turing groups often have reason to pack along a drone           an Encumbrance weight for carrying it along, a hit
+or two for exploring and aerial recon.                          point rating, a maximum control range, and a mini-
+     Military use of drones is limited by the ubiquitous        mum tech level. Drones may be attacked as any other
+use of quantum ECM. The easy confusion of electronic            object and will crash once reduced to zero hit points.
+navigation makes it impossible to control an unwired                  Primitive drones represent the best flying portable
+drone remotely on a modern battlefield or in proximity          drone technology for TL3 worlds. While fragile, weak,
+to important civil structures, but in the alien wilds or        and short-ranged, they are also relatively cheap.
+away from urban centers, drones remain a feasible tool                Void Hawks are unique in being built specifical-
+for explorers and conquerors of primitive militaries.           ly for deep-space use. Unlike other drones, they can
+                                                                operate perfectly well in space, though they only have
+Piloting a Drone                                                the range to reach relatively adjacent ships or objects.
+Piloting a drone requires either a cybernetic drone con-              Stalker drones are the default TL4 workhorses of
+trol link as described on page 83 or a handheld control         drone-kind and are available on most modern worlds.
+unit that comes with the drone. A control link can pilot              Cuttlefish are specifically designed for aqueous use,
+up to one drone plus the user’s Program skill at any            and function only in a liquid medium. The support of
+one time. Handheld units can pilot only one. Drones             the liquid allows them to carry significantly more fit-
+consume one type A power cell for every hour of use.            tings, but the need for a sonar-based navigation system
+     A pilot must spend their Main Action each round            limits their available range.
+to command the drone to either move or shoot. Un-                     Ghostwalkers are stealth drones, fabricated from
+commanded drones remain stationary if piloted via               radar-transparent materials. They have an integral Sen-
+control link, while handheld units run a 2-in-6 chance          sor Transparency fitting and the sensor difficulty to spot
+of crashing a drone if the operator fails to control them.      them is 11 instead of 9.
+      In combat, drones fly at 30 meters per round on                 Sleeper drones are built to tarry on station for
+their pilot’s turn in combat. Out of combat, they can           long periods. They have the Stationkeeping fitting as
+manage up to 100 kilometers per hour.                           an integral part of their design, and when hovering
+      Spotting a drone at observation range is a Wis/           their power use slows to a trickle. One day of hovering
+Notice skill check at difficulty 10. A drone close enough       draws only five minutes worth of power from its cell.
+to engage a target can be spotted at difficulty 8. Any                Pax drones are some of the most common pretech
+secure facility will have sensors capable of detecting          drones remaining in existence, as they were favored by
+a civilian drone as soon as it gets within observation          the Mandate Fleet for pacifying troublesome worlds
+range, unless the drone has stealth fittings.                   that lacked quantum ECM. While primitive by pretech
+                                                                standards, they still far excel most modern drones.
+Drone Combat                                                          The Alecto model of drone examples one way that
+A drone’s pilot can activate up to one weapon the drone         pretech scientists attempted to sidestep the limits of
+is carrying as part of their Main Action to control it          quantum ECM on the modern battlefield. Every Alecto
+each round. Weapons all use Intelligence as the con-            is a full-fledged VI, an expert system so sophisticated as
+trolling attribute, and use the better of the pilot’s Pilot     to seem almost sentient. Its self-reinforcing cognition
+or Program skills as the relevant weapon skill. The             allows it to operate even when cut off from external
+drone shoots using the pilot’s base attack bonus.               signals by quantum ECM. Salvaged Alectos have all
+                                                                exhibited “female” personalities.
+ Drone Model                          Cost           Fittings     AC        Enc         HP          Range           TL
+ Primitive Drone                       250               1        12         2           1          500 m           3
+ Void Hawk                            5,000             4         14         6          15         100 km           4
+ Stalker                              1,000             3         13         2           5          2 km            4
+ Cuttlefish                           2,000              5        13         2          10          1 km            4
+ Ghostwalker                          3,000             2         15         3           1          5 km            4
+ Sleeper                              2,500             4         12         2           8         100 km           4
+ Pax                                 10,000             4         16         4          20         100 km           5
+ Alecto                              50,000             4         18         4          30         5000 km          5
+                                                                                                    DRONES •81
+
+Drone Fittings and Repair                                    Drone Fittings                    Cost            TL
+Aside from the basic drone chassis, operators can attach     Ammo Unit                          250            4
+different fittings to a drone to add additional capabili-
+                                                             Bomber                             500            3
+ties. Once attached, a fitting cannot be removed with-
+out causing severe structural damage to the drone. If        Environmental Power               4,000           4
+a drone is destroyed, all fittings are destroyed with it.    Expert System                     5,000           4
+      If a drone is damaged, it can be repaired fully with   Extended Flight                    250            3
+one unit of spare parts per five hit points lost and an
+                                                             Grav Muffles                      2,000           4
+hour’s work by someone with at least Fix-0 skill.
+                                                             Heavy Lift                        2,000           4
+Ammo Unit: The drone carries one power cell or maga-         Holoskin                          3,000           4
+     zine worth of ammunition for each of its onboard        Medical Support                   2,000           4
+    weapons, whether single or multiple. The oper-
+                                                             Observation Suite                  250            3
+     ator can reload an ammo unit as a Main Action.
+Bomber: The drone is fitted to drop up to two gre-           Racing Gravitics                  2,000           4
+     nade-sized explosives, one or both in lieu of a dif-    Reinforced Structure              1,000           4
+     ferent weapon attack. Dropping a grenade from           Sensor Transparency               5,000           4
+     more than 30 meters up automatically causes the
+                                                             Stationkeeping                    1,000           4
+     grenade to scatter from its intended target point.
+Environmental Power: The drone draws operating               Suicide Charge                     250            3
+     power from sunlight or thermal variances. It can        Weapon Fitting                    1,000           4
+     operate indefinitely so long as it can draw power
+     from its environment.                                   Observation Suite: All drones are wired for basic camera
+Expert System: The drone is loaded with sophisticat-              and sound, but this suite contains a full-spectrum
+     ed self-piloting software. It can be given a flight          UV/IR visual package, remote sound sensors, and
+     plan by its operator, have targets designated for            radiation/chemical detectors. The drone can focus
+     its weapon, and respond to simple environmental              on conversations or facial expressions from up to
+     cues. Each new command takes up a Main Ac-                   2 kilometers away and can operate even in the
+     tion and commands with any conditional states                complete absence of visible light.
+     may require an Int/Program skill check to get the       Racing Gravitics: The drone is tuned for extra speed. Its
+     drone to understand. The drone can fire only one             flight endurance is halved, but it can now move
+    weapon per round and uses a total attack bonus of             up to 60 meters per combat round and fly at up to
+    +2 if attacking autonomously. Quantum ECM will                200 kph out of combat.
+     scramble this lightweight system.                       Reinforced Structure: The drone is equipped with
+Extended Flight: The drone can now carry a second type            heavier plating and a sturdier internal frame. Its
+    A cell to fuel its flight. This fitting can be taken          hit points are increased by 50%, rounded up.
+     multiple times to further extend its range.             Sensor Transparency: The drone is sheathed in anti-ra-
+Grav Muffles: The drone is made exceptionally quiet in            dar composites. Ordinary sensors will not detect it
+     operation. It is now inaudible by ordinary hearing           at observation range, and high-end military sen-
+     from more than five meters away.                             sors can spot it only on an Int/Program check at
+Heavy Lift: While most drones can lift no more than               difficulty 9.
+     a kilogram of excess weight, the drone’s gravitic       Stationkeeping: The drone does not need to be con-
+     units have been upgraded to carry up to twenty               stantly controlled; when the operator does not
+     kilos of cargo. This can be fitted multiple times.           spend a Main Action to pilot it, it simply remains
+Holoskin: The drone can drop a filmy hologram over it-            stationary. If equipped with an Observation Suite,
+     self, one convincing at a distance. The difficulty of        it can ping the operator if any anomalous reading
+     visually spotting the drone becomes 10 at weapons            is obtained.
+     range or 12 at observational range. Weapons fire        Suicide Charge: The drone is loaded with a demo charge
+     always draws attention.                                      as per page 69. The operator can trigger it as an
+Medical Support: The drone can be loaded with up to               attack, but unless they can move the drone in by
+     a dozen units of medication, whether stim doses,             surprise, the approach will always give onlookers
+     lazarus patches, or less benevolent substances. It           a chance to spot it before it gets within range.
+     can launch a medication through a remote injector       Weapon Fitting: The drone can be mounted with 1
+     at a target within ten meters in lieu of a weapon            encumbrance worth of ranged weaponry, which
+     attack. Immobile or willing targets are hit auto-            must be purchased separately. This fitting may be
+     matically, while hostiles require a normal hit roll.         taken more than once to mount more weapons
+    The drone is treated as having Heal-0 skill or the            or heavier weapons. The weapon requires one or
+     active pilot’s Heal skill, whichever is higher.              more ammo units to feed it.
+82• CYBERWARE
+
+
+CYBERWARE
+Postech medical science and neural interface technol-
+ogy are sophisticated enough to meld metal and flesh
+into a coherent whole. The creation of advanced cy-
+berware is not beyond the theoretical capability of TL4
+societies, and pretech worlds can produce cyberware
+of such sophistication as to blur the lines between or-
+ganism and artifice.
+     Yet cyberware is rarely available on most worlds,
+even those with the nominal technology level to sup-
+port it. The advantages that cyberware can give a user
+are great, but the cost of building, fitting, and implant-
+ing these devices is huge compared to simply buying a
+handheld device to do the same function. There are few
+buyers for a 15,000 credit ghost talker implant when a
+compad retails for a hundred credits.
+     The market that does exist is largely for those few
+elite operatives and dignitaries who are willing to pay
+exorbitant sums for the smallest advantage. Most cy-
+berware is custom-built for its users, and it can be an
+adventure in itself to find a lab capable of manufac-
+turing an augmentation and successfully implanting
+it. Some worlds have industrialized the production of
+cyberware, however, making it much cheaper and in
+much wider circulation. Even then, these worlds rarely
+export much cyberware due to the heavy infrastructure
+necessary to fit and implant the wares. Those who want
+the tech will have to find such planets and do their own
+negotiations there.
+     Aside from the difficulties of cost and scarcity,
+cyberware also taxes the wearer’s body. Each piece of        Bioadaptation Augments: These additional synthetic
+cyberware comes with a System Strain cost as described           organs and filters allow the bearer to survive in
+on page 32, permanently adding that many points of               thin-atmosphere conditions, as well as tolerate
+System Strain to the user’s total. These points can never        temperatures ranging from Antarctic chill to
+be lost unless the system is surgically removed. This            heat sufficient to boil water. They can also eat a
+permanent System Strain decreases the amount of                  wide range of native life forms for sustenance; no
+psionic healing a character can sustain and can limit            normal planet’s native biology is ever considered
+the effectiveness of healing and stimulant drugs.                immiscible for consumption.
+      Some cyberware has an activation cost in System        Body Arsenal Array: Some personnel need to be armed
+Strain. If a cost would push the character’s System              at all times without giving any indication of such.
+Strain above their Constitution score, they cannot               Improvised weaponry and conventional holdout
+trigger the cyberware; their body just can’t handle the          weapons are useful enough against soft targets,
+strain until it has had time to recover.                         but disabling a target in powered armor requires
+                                                                 more. The details of the array vary from user to
+Adrenal Suppression Pump: These endocrine pumps                  user, but usually act as advanced medium weapons
+    neutralize numerous brain chemicals in the user              that can be used with either Punch or Stab skills
+    when activated while exciting the user’s percep-             and at least one integral energy projector equal
+    tual centers. This combination produces a cold,              to a laser rifle, one that must be powered by an
+    dispassionate situational awareness that grants              insertable type A power cell. Retracted body arse-
+    the user +2 on initiative rolls when the system is           nals can be detected only by a medical examination.
+    engaged. Most systems have built-in safety over-         Body Sculpting: Not so much a single implant as a se-
+    rides to prevent psychological addiction and brain           ries of complex surgeries, body sculpting is avail-
+    damage, allowing the unit to be used for no more             able on many TL4 worlds with fairly advanced
+    than an hour each day. The user takes a -2 penalty           medical services. After a week of alterations and
+    on all social skill checks while the unit is active,         treatments a subject’s external appearance can be
+    and it requires five rounds to toggle it.                    set within any human or near-human range, in-
+                                                                                                   CYBERWARE •83
+
+Cyberware                         Cost       Strain    TL
+Adrenal Suppression Pump         30,000        1       4    Eliminates emotion and improves initiative
+Bioadaptation Augments           10,000        1       4    Survive near-habitable planetary conditions
+Body Arsenal Array               10,000        1       4    Provides retractable body weaponry
+Body Sculpting                   10,000        1       4    Complete external physical reconstruction
+Dermal Armor                     20,000        2       4    AC 16, immune to primitive weapon Shock
+Drone Control Link               20,000        1       4    Allows easier remote control of drones
+Eelskin Capacitor Mesh           25,000        1       4    Allows bare-handed hacking and electrical shocks
+Gecko Anchors                    15,000        1       4    Can climb sheer surfaces as if they were flat
+Ghost Talker Transceiver         15,000        1       4    Integral compad with audiovisual transmission
+Holdout Cavity                   10,000        1       4    Shielded body cavity for holdout storage
+Holoskin Emitters                15,000        1       4    Creates a hologram around the user
+Identity Submersion Trigger      25,000        1       4    Allows a false identity to be perfectly assumed
+Immunofiltration System          25,000        2       4    Immune to almost all diseases and poisons
+Induced Coma Trigger             20,000        1       4    Feigns death and halts bodily processes for up to two weeks
+Neurointruder Alert              50,000        1       5    Grants +3 to save vs. telepathy, alerts of intrusion
+Panspectral Optics               15,000        1       4    Integral low-light and thermal vision
+Pressure Sheathing               15,000        1       4    Integral emergency vacc suit
+Prosthetic Limb                   2,500        1       4    Replaces a limb lost to misadventure
+Revenant Wiring                  50,000        3       5    Keeps the user fighting even after they’re dead
+Slowtime Window                  30,000        2       5    Prevents surprise and speeds up the user’s cogitation
+Stabilization Overrides          25,000        2       4    Automatically stabilizes a mortally-wounded user
+Tagger Nanites                   15,000        1       4    Lets the user tag others with tracking nanites
+Toxin Injector                   20,000        2       4    Allows surprise injection of lethal or dazing toxins
+Twitchlock Actuators             30,000        2       4    Allows brief moments of hyper-precise accuracy
+
+
+    cluding full retinal and fingerprint matching to a              single drone can only receive one command per
+    desired target. A TL5 version of this treatment                 round, however.
+    that costs ten times as much can involve exten-                     Aside from this ease of command, someone
+    sive DNA reprogramming to change the subject                    with an implanted rig can “look” through a piloted
+    at a genetic level, making their alterations herita-            drone’s sensors as an Instant action, and a drone
+    ble and allowing female-targeted shapes to bear                 is never considered to be out of control even if
+    offspring. This TL5 treatment is not reversible,                the pilot doesn’t spend an action controlling it. A
+    and any further major alterations to the subject                link can maintain a connection with one drone at
+    require further permanent System Strain.                        a time, plus the user’s Program skill.
+Dermal Armor: A fine subcutaneous reinforcement                Eelskin Capacitor Mesh: A hair-fine mesh of almost im-
+    mesh provides significant protection against im-                perceptible wiring along the user’s palms and fin-
+    pacts and cuts while remaining imperceptible to                 gers allow them to trigger brief, controlled bursts
+    anything short of a medical examination. Some-                  of electrical energy at targets within five meters.
+    one with the implant has AC 16 and is immune                    As an Instant action it adds 2d4 non-lethal damage
+    to Shock damage inflicted by primitive melee                    to a successful Punch attack. In its intended use, it
+    weapons. A TL5 version of this implant that costs               also allows the user to override and disable most
+    five times as much grants even more protection,                 electronic locks and security systems with a suc-
+    rendering the subject wholly immune to primitive                cessful Sneak or Fix skill check. Both triggering a
+    weapons as if they were wearing powered armor.                  burst and hacking a security system tax the user’s
+Drone Control Link: Most often found among military                 biology; one System Strain point is gained with
+    bot wranglers, civilians can also get a drone con-              each attack or skill check.
+    trol link implanted to simplify the remote piloting        Gecko Anchors: Miniaturized gravitic manipulators are
+    of drones and other robotic units.                              embedded in the subject’s hands and feet as part
+         Users of a link can issue commands to a drone              of this complex surgery. While they are too weak
+    as a Move action instead of a Main Action. A                    to allow levitation or damping fall damage, they
+84• CYBERWARE
+
+     can twist localized gravity around those limbs to              persona, a conviction that cannot be penetrated by
+     anchor the subject to the nearest surface capable              telepathy or TL4 methods of interrogation. The
+     of bearing their weight. As a result, the user can             persona can be activated at the user’s discretion,
+     freely run or climb up or down sheer surfaces at               but it only deactivates on a preset trigger, leaving
+     their normal movement rate, carrying no more                   the subject in full possession of all memories expe-
+     than their normal maximum encumbrance.                         rienced. The trigger can be any perceptible stimu-
+Ghost Talker Transceiver: Some people simply cannot                 lus: a particular time, the sight of a specific person,
+     afford to be out of contact at any time, under any             a code phrase, or any other sign, and it may be
+     circumstances. Those people find use for the mi-               changed by the user each time they activate the
+     crofine web of radio wiring and optical augmen-                cyberware. Many ISTs are also implanted with a
+     tation that make up the ghost talker. These units             “master key” that will automatically deactivate the
+     act as a built-in compad for the user and allow                triggered identity.
+     for reception and transmission of audio and visual        Immunofiltration Systems: This broad-spectrum scrub
+     recordings, the latter playing in an inset window              system carefully identifies and contains toxic sub-
+     in the user’s field of vision. If the unit is operating        stances introduced into the user’s system. When-
+     outside of a standard comm grid, it has a trans-               ever the subject would normally have to make a
+     mission range of twenty kilometers and a recep-                saving throw to resist some disease or toxin, they
+     tion range of one hundred. Ghost talker users can              may instead gain one System Strain to automat-
+     transmit basic visual diagrams and images to each              ically succeed on the save. Most of these systems
+     other, as well as optical recordings.                          are calibrated to automatically filter any toxins
+Holdout Cavity: Usually implanted somewhere in the                  or chemicals in standard use by police or military
+     torso, a holdout cavity is a small recess shaped               forces in the sector, but if presented with a spe-
+     into the wearer’s body and designed to be over-                cial biowarfare toxin, the filters are less effective.
+     looked by most standard forms of medical or se-                In such cases, the most it can do is either grant a
+     curity scanning. It automatically defeats a security           second saving throw if the first is failed, or grant
+     inspection that uses less than TL4 scanners, and               a single saving throw if none is normally allowed.
+     even advanced tech requires careful personal in-          Induced Coma Trigger: A series of implants are wired
+     spection to have a chance of revealing it. The cav-            to the user’s brain stem, allowing them to trigger
+     ity can hold an object up to the size of a pistol and          an induced therapeutic coma at a mental com-
+     is opened and shut by the user’s mental command.               mand. The user appears dead to anything short
+Holoskin Emitter: Multiple holographic emitters are im-             of a medical inspection, and has no need of respi-
+     planted on the user, allowing them to alter their              ration, food, or water while the coma is in effect.
+     external appearance to match anything of their                 The user does not heal while in a coma, but any
+     approximate size and dimensions, including oth-                diseases or poisons also halt progression. The user
+     er people. Shifting appearances is a Main Action,              determines how long the coma is to last before
+     and the user can’t shift to an appearance that isn’t           triggering it, and is unconscious for its duration.
+     in the cyberware’s shape library. The library is vast          A character can survive in a coma up to two weeks
+     and contains “generic” examples of numerous hu-                before needing to regain consciousness for as long
+     man-sized objects and people, but mimicking a                  as they were in the coma.
+     specific other person requires at least five minutes      Neurointruder Alert: While somewhat primitive by
+     of close examination. The holograms projected                  pretech standards, this TL5 cybernetic implant
+     by the emitters are good, but imperfect; anyone                allows the wearer to gain a +3 bonus on all saving
+     who closely examines the user will be able to tell             throws to resist telepathic intrusion. Even if such
+     that something is artificial about their appearance,           a save is failed, the user will be aware that they
+     and touch instantly confirms any suspicions. The               are under telepathic assault, though some forms of
+     emitters can fake clothing and can produce sounds              mental control may not allow them to say as much
+     to complement the illusion or modify the user’s                until after the influence is ended. The warning
+     voice, if records of the true subject are available.           does not indicate the source of the influence.
+     The disguise lasts until the user dies or ends it.        Panspectral Optics: Ocular adjustments to the wearer
+Identity Submersion Trigger: This cyberware involves                allow them to see clearly at any light level short of
+     micronized neural stimulation technology which                 perfect darkness, in addition to giving them ther-
+     is imperceptible to anything short of TL5 medical              mal vision that can easily distinguish shapes and

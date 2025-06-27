@@ -1,0 +1,450 @@
+to use some form of biofuel unless they’re fortunate
+enough to have a supply of fossil fuels. Vehicles require
+one cell or one refueling per six hours of operation,
+assuming they don’t have convenient power access.
+Vehicles are generally limited to reasonably flat,
+dry terrain. Grav vehicles such as hovercycles can ignore rough terrain and calm water, as can ATV explorers. Most grav vehicles can boost more than 10 meters
+above the ground or water; gravflyers are purpose-designed aircraft capable of hovering and VTOL.
+Speed is an abstract measure of the vehicle’s speed
+and agility. When vehicles chase each other, the opposing vehicle’s Speed should be applied as a penalty
+to Pilot skill checks to close or escape. Speed may also
+be used as a modifier when attempting difficult maneuvers or trying to avoid a peril on the road.
+Armor is subtracted from all weapon damage done
+to the vehicle. Armor does not apply to damage done
+by Heavy weaponry; such guns are often designed to
+take out vehicles. Gravtanks in particular are immune
+to anything short of TL4 Heavy weapons, while less
+sophisticated tanks are immune to anything below TL3
+Heavy ordnance.
+Vehicle
+Motorcycle
+Groundcar
+Hovercycle
+Gravcar
+ATV Explorer
+Helicopter
+Atmoflyer
+Gravflyer
+Gravtank
+
+Cost
+1,000
+5,000
+5,000
+20,000
+15,000
+25,000
+30,000
+40,000
+200,000
+
+Speed
+1
+0
+2
+2
+0
+3
+4
+5
+2
+
+Actually hitting the vehicle is automatic if the
+vehicle is stationary and within 30 feet. Hitting a vehicle-sized target from beyond that range requires an
+attack against AC 10. If the target is moving, subtract
+its Speed from the hit roll, and if the attacker is in a
+moving vehicle as well, also subtract their Speed.
+Hit Points indicate the amount of damage a vehicle
+can take before it is destroyed. Speed is reduced by half
+when the vehicle is at half hit points, and flying vehicles
+must land at the first opportunity. A vehicle reduced to
+zero hit points forces all crew and passengers to make
+Physical saving throws. Failure means that the passenger takes the vehicle’s maximum hit points in damage,
+while success reduces the damage by half.
+Crew gives the maximum number of vehicle occupants. For the listed vehicles, only one crew member is
+actually necessary to drive or pilot the vehicle, though
+additional crew members may be required to fire.
+Tonnage is the shipping weight of the vehicle for
+ship loading purposes.
+Tech Level indicates the minimum tech level for
+constructing the vehicle. Vehicles can be built at higher
+tech levels for better performance, but most worlds
+prefer to simply build more advanced vehicles.
+
+Vehicle Weaponry
+
+Most vehicles larger than a motorcycle or hovercycle
+can mount some kind of integral weapon. Groundcars
+and gravcars can mount one weapon, while ATVs,
+helicopters, atmoflyers, and gravflyers can mount two.
+Gravtanks are specialized weapons platforms, and can
+mount six.
+Heavy weapons take up more space than ordinary
+ranged weapons, and each such system takes up the
+space of two lesser guns.
+Every weapon requires its own gunner, and all
+mounted weapons use Shoot as the firing skill, though
+the GM might allow Pilot to be used for a nose-mounted weapon aimed by the operator. Gravtanks are
+equipped with advanced targeting systems, and all of
+their weapons can be targeted and fired by one gunner.
+
+Armor
+4
+6
+3
+4
+8
+6
+8
+8
+Special
+
+HP
+10
+30
+10
+25
+40
+20
+25
+25
+50
+
+Crew
+1
+5
+1
+5
+8
+6
+6
+6
+3
+
+Tonnage
+1
+10
+1
+10
+25
+50
+50
+50
+50
+
+TL
+3
+3
+4
+4
+3
+3
+3
+4
+5
+
+VEHICLES •79
+
+Types of Vehicles
+
+Every world has its own brands of common vehicles,
+but the types below cover the more usual models. The
+prices given for each reflect a mid-range new vehicle
+sold to a PC with few local contacts. Natives who know
+the right people or are willing to buy used or “quirky”
+vehicles might be able to get one at half that price.
+
+Motorcycles can navigate urban terrain that would
+block larger vehicles, but more rural landscapes can
+prove more difficult. Hovercycles are the TL4 equivalent, capable of brief boosts of up to 10 meters above
+the ground and the easy navigation of all but thick forests or sheer slopes.
+Groundcars are the TL3 analogs of the vehicles
+commonly in use on 21st-century Earth, allowing for
+some minor variations in electronics and capabilities.
+Primitive buggies of various kinds are found even on
+higher-tech worlds, thanks to their ease of construction
+and maintenance compared to the delicate gravitics of
+more modern vehicles.
+Gravcars are the standard personal vehicles of
+most TL4 worlds, though most lower-class citizens
+rely on public transport in urban areas. Most advanced
+worlds have planetary transit grids that allow occupants to simply code in a destination and let the car take
+them there. On worlds where a lack of infrastructure
+or hostile local conditions preclude such convenience,
+manual controls and Pilot skill can be used.
+ATV Explorers are rugged vehicles, either wheeled
+or tracked, and driven by type B power cells or locally-available biofuels. While they can’t navigate rough
+
+terrain as easily as a grav vehicle, they’re designed
+to take a tremendous amount of punishment before
+breaking down and support repairs using basic tools
+and frontier expedients.
+Helicopters are used on TL3 worlds where a lack
+of airfields or treacherous local terrain prohibits the
+use of fixed-wing craft. Their ability to hover over an
+area or drop onto a tightly-constrained landing zone
+makes them particular favorites of quick-response military forces and groups in need of fast fire support. This
+model represents a medium-weight civilian craft that
+might be repurposed by militia or adventurers.
+Atmoflyers are the fixed-wing aircraft used on
+planets too primitive to have developed gravitic technology. Faster and simpler to maintain than comparable helicopters, they can also carry more cargo on most
+worlds. The need for clear, hard terrain for landing and
+take-off limit their use on some rugged worlds. The
+model here is meant to represent a small personal jet.
+Gravflyers are the usual long-distance transport
+on most TL4 worlds. Large enough to support the gravitics required for true flight, a few models can even
+reach low orbit. All can hover and climb with typical
+gravitic ease. This particular gravflyer is a small craft
+suitable for a affluent owner and their family.
+Gravtanks make up the bulk of a prosperous TL4
+world’s armored forces. Private ownership is strictly
+forbidden on most worlds, but “export models” often
+can be acquired for transport offworld. Gravtanks have
+armor heavy enough to ignore all damage from conventional small arms, and can only be harmed by Heavy
+weapons or properly-placed demolitions charges.
+
+80• DRONES
+
+DRONES
+In the far future, it’s often more convenient to send
+an expendable grav-flying probe into danger before
+venturing less repairable assets. Well-prepared adventuring groups often have reason to pack along a drone
+or two for exploring and aerial recon.
+Military use of drones is limited by the ubiquitous
+use of quantum ECM. The easy confusion of electronic
+navigation makes it impossible to control an unwired
+drone remotely on a modern battlefield or in proximity
+to important civil structures, but in the alien wilds or
+away from urban centers, drones remain a feasible tool
+for explorers and conquerors of primitive militaries.
+
+Piloting a Drone
+
+Piloting a drone requires either a cybernetic drone control link as described on page 83 or a handheld control
+unit that comes with the drone. A control link can pilot
+up to one drone plus the user’s Program skill at any
+one time. Handheld units can pilot only one. Drones
+consume one type A power cell for every hour of use.
+A pilot must spend their Main Action each round
+to command the drone to either move or shoot. Uncommanded drones remain stationary if piloted via
+control link, while handheld units run a 2-in-6 chance
+of crashing a drone if the operator fails to control them.
+In combat, drones fly at 30 meters per round on
+their pilot’s turn in combat. Out of combat, they can
+manage up to 100 kilometers per hour.
+Spotting a drone at observation range is a Wis/
+Notice skill check at difficulty 10. A drone close enough
+to engage a target can be spotted at difficulty 8. Any
+secure facility will have sensors capable of detecting
+a civilian drone as soon as it gets within observation
+range, unless the drone has stealth fittings.
+
+Drone Combat
+
+A drone’s pilot can activate up to one weapon the drone
+is carrying as part of their Main Action to control it
+each round. Weapons all use Intelligence as the controlling attribute, and use the better of the pilot’s Pilot
+or Program skills as the relevant weapon skill. The
+drone shoots using the pilot’s base attack bonus.
+Drone Model
+Primitive Drone
+Void Hawk
+Stalker
+Cuttlefish
+Ghostwalker
+Sleeper
+Pax
+Alecto
+
+Cost
+250
+5,000
+1,000
+2,000
+3,000
+2,500
+10,000
+50,000
+
+Fittings
+1
+4
+3
+5
+2
+4
+4
+4
+
+Drone Types and Statistics
+
+Each drone has a cost, a maximum number of fittings,
+an Encumbrance weight for carrying it along, a hit
+point rating, a maximum control range, and a minimum tech level. Drones may be attacked as any other
+object and will crash once reduced to zero hit points.
+Primitive drones represent the best flying portable
+drone technology for TL3 worlds. While fragile, weak,
+and short-ranged, they are also relatively cheap.
+Void Hawks are unique in being built specifically for deep-space use. Unlike other drones, they can
+operate perfectly well in space, though they only have
+the range to reach relatively adjacent ships or objects.
+Stalker drones are the default TL4 workhorses of
+drone-kind and are available on most modern worlds.
+Cuttlefish are specifically designed for aqueous use,
+and function only in a liquid medium. The support of
+the liquid allows them to carry significantly more fittings, but the need for a sonar-based navigation system
+limits their available range.
+Ghostwalkers are stealth drones, fabricated from
+radar-transparent materials. They have an integral Sensor Transparency fitting and the sensor difficulty to spot
+them is 11 instead of 9.
+Sleeper drones are built to tarry on station for
+long periods. They have the Stationkeeping fitting as
+an integral part of their design, and when hovering
+their power use slows to a trickle. One day of hovering
+draws only five minutes worth of power from its cell.
+Pax drones are some of the most common pretech
+drones remaining in existence, as they were favored by
+the Mandate Fleet for pacifying troublesome worlds
+that lacked quantum ECM. While primitive by pretech
+standards, they still far excel most modern drones.
+The Alecto model of drone examples one way that
+pretech scientists attempted to sidestep the limits of
+quantum ECM on the modern battlefield. Every Alecto
+is a full-fledged VI, an expert system so sophisticated as
+to seem almost sentient. Its self-reinforcing cognition
+allows it to operate even when cut off from external
+signals by quantum ECM. Salvaged Alectos have all
+exhibited “female” personalities.
+AC
+12
+14
+13
+13
+15
+12
+16
+18
+
+Enc
+2
+6
+2
+2
+3
+2
+4
+4
+
+HP
+1
+15
+5
+10
+1
+8
+20
+30
+
+Range
+500 m
+100 km
+2 km
+1 km
+5 km
+100 km
+100 km
+5000 km
+
+TL
+3
+4
+4
+4
+4
+4
+5
+5
+
+DRONES •81
+
+Drone Fittings and Repair
+
+Aside from the basic drone chassis, operators can attach
+different fittings to a drone to add additional capabilities. Once attached, a fitting cannot be removed without causing severe structural damage to the drone. If
+a drone is destroyed, all fittings are destroyed with it.
+If a drone is damaged, it can be repaired fully with
+one unit of spare parts per five hit points lost and an
+hour’s work by someone with at least Fix-0 skill.
+Ammo Unit: The drone carries one power cell or magazine worth of ammunition for each of its onboard
+weapons, whether single or multiple. The operator can reload an ammo unit as a Main Action.
+Bomber: The drone is fitted to drop up to two grenade-sized explosives, one or both in lieu of a different weapon attack. Dropping a grenade from
+more than 30 meters up automatically causes the
+grenade to scatter from its intended target point.
+Environmental Power: The drone draws operating
+power from sunlight or thermal variances. It can
+operate indefinitely so long as it can draw power
+from its environment.
+Expert System: The drone is loaded with sophisticated self-piloting software. It can be given a flight
+plan by its operator, have targets designated for
+its weapon, and respond to simple environmental
+cues. Each new command takes up a Main Action and commands with any conditional states
+may require an Int/Program skill check to get the
+drone to understand. The drone can fire only one
+weapon per round and uses a total attack bonus of
++2 if attacking autonomously. Quantum ECM will
+scramble this lightweight system.
+Extended Flight: The drone can now carry a second type
+A cell to fuel its flight. This fitting can be taken
+multiple times to further extend its range.
+Grav Muffles: The drone is made exceptionally quiet in
+operation. It is now inaudible by ordinary hearing
+from more than five meters away.
+Heavy Lift: While most drones can lift no more than
+a kilogram of excess weight, the drone’s gravitic
+units have been upgraded to carry up to twenty
+kilos of cargo. This can be fitted multiple times.
+Holoskin: The drone can drop a filmy hologram over itself, one convincing at a distance. The difficulty of
+visually spotting the drone becomes 10 at weapons
+range or 12 at observational range. Weapons fire
+always draws attention.
+Medical Support: The drone can be loaded with up to
+a dozen units of medication, whether stim doses,
+lazarus patches, or less benevolent substances. It
+can launch a medication through a remote injector
+at a target within ten meters in lieu of a weapon
+attack. Immobile or willing targets are hit automatically, while hostiles require a normal hit roll.
+The drone is treated as having Heal-0 skill or the
+active pilot’s Heal skill, whichever is higher.
+
+Drone Fittings
+Ammo Unit
+Bomber
+Environmental Power
+Expert System
+Extended Flight
+Grav Muffles
+Heavy Lift
+Holoskin
+Medical Support
+Observation Suite
+Racing Gravitics
+Reinforced Structure
+Sensor Transparency
+Stationkeeping
+Suicide Charge
+Weapon Fitting
+
+Cost
+250
+500
+4,000
+5,000
+250
+2,000
+2,000
+3,000
+2,000
+250
+2,000
+1,000
+5,000

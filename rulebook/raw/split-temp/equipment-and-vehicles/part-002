@@ -1,0 +1,450 @@
+fix its location within one meter, the distortion cannon
+can ignore up to one meter of solid cover between the
+gun and its target.
+
+68• MELEE WEAPONS
+
+MELEE WEAPONS
+Despite the relentless march of science, melee weapons
+are still useful adjuncts on the field of battle. They are
+silent, cheap, often easily concealed, and much more reliably murderous than firearms or laser weaponry. It’s
+easy to miss a moving target in the adrenaline-fueled
+chaos of a firefight. It’s much harder to go astray with
+a monoblade knife in your fist.
+
+Types of Common Weapons
+
+Rather than enumerate every possible type of sharp
+object and blunt implement that has been used for
+death-dealing amid the scattered stars, melee weapons
+are divided into three classes.
+Small weapons are small one-handed implements
+no larger than a baton or knife. These weapons are
+easily concealed in normal clothing, and can even be
+kept Readied up sleeves or in tailored pockets. Many
+can be thrown at a range up to 10 meters.
+Medium weapons are one-handed swords, axes,
+spears, or other obvious implements of war. While
+they can’t be effectively concealed in anything smaller than an enveloping cloak or coat, they’re also more
+damaging to an unfortunate victim struck by them, albeit they’re somewhat less nimble when the wielder
+needs to strike at unprotected flesh. Spears and similar
+aerodynamic weapons can be thrown up to 30 meters.
+Large weapons are two-handed implements of
+bodily ruin such as claymores, halberds, tetsubos, or
+other such weapons. Unlike smaller weapons, they
+rely largely on Strength for their employ, and can bash
+through lighter forms of armor. Large weapons count
+as two encumbrance items.
+Aside from their type, weapons are counted as
+primitive or advanced. A primitive weapon is simply
+one of ordinary metal or wood, with no high-tech
+augmentations. An advanced one has been given a
+monoblade edge, kinetic sheathing, thermal wires, a
+chainsaw blade, or some other TL4 touch. Primitive
+weapons are often unable to harm targets in powered
+armor, while advanced weapons can ignore primitive
+plate and hide protections.
+Weapon
+Small primitive weapon
+Medium primitive weapon
+Large primitive weapon
+Small advanced weapon
+Medium advanced weapon
+Large advanced weapon
+Stun baton
+Suit ripper
+Unarmed attack
+
+Damage
+1d4
+1d6+1
+1d8+1
+1d6
+1d8+1
+1d10+1
+1d8
+1d6
+1d2
+
+Other Melee Weapons
+
+Stun batons are common law enforcement tools. The
+damage they do can drop a target to zero hit points, but
+will not kill them, the victim awakening in ten minutes
+with one hit point. Stun batons trickle-charge from
+normal movement and will not run out of electrical
+energy under normal use conditions.
+Suit rippers are rods with fractal cutting surfaces
+designed to cripple vacc suit auto-repair routines. Every hit with a suit ripper counts as a suit tear on a vacc
+suit-wearing enemy. Unsurprisingly, these weapons
+are strictly illegal in space environments.
+Unarmed attacks reflect ordinary kicks and punches. Unarmed attacks always add the attacker’s Punch
+skill to damage rolls, unlike other weapons. Kinesis
+wraps, spiked knuckles, and other small fist weapons
+may be treated as small advanced or primitive weapons
+that use the Punch skill and add the skill level to their
+rolled damage, but not to Shock. Such weapons do not
+augment a hero with the Unarmed Combatant focus.
+
+Shock
+
+Many melee weapons have a Shock trait representing the danger they pose to an ill-armored opponent.
+Shock damage represents the inevitable cuts, bruises,
+exhaustion, and terror of close combat.
+Shock damage is only inflicted on a melee target if
+the hit roll fails, and it only applies if the target has an
+AC equal or less than that listed for the Shock.
+Shock damage always includes the wielder’s attribute modifier and any bonus damage granted by weapon mods, foci, advanced tech, or other damage bonuses.
+An actual hit with a weapon never does less damage
+than Shock would otherwise inflict; if the user somehow rolls less damage, use the Shock damage instead.
+Thus, if you had a Strength score of 14 and were
+swinging an oversized alien battle axe at a target with
+AC 13, you would inflict 3 points of damage on a miss;
+2 from the weapon’s Shock, plus 1 from your Strength
+modifier. If you hit, you’d do at least 3 points.
+
+Shock
+1 point/AC 15
+2 points/AC 13
+2 points/AC 15
+1 point/AC 15
+2 points/AC 13
+2 points/AC 15
+1 point/AC 15
+None
+None
+
+Attribute
+Str/Dex
+Str/Dex
+Str
+Str/Dex
+Str/Dex
+Str
+Str/Dex
+Str/Dex
+Str/Dex
+
+Cost
+0
+20
+30
+40
+60
+80
+50
+75
+-
+
+Enc.
+1
+1
+2
+1
+1
+2
+1
+1
+-
+
+TL
+0
+0
+0
+4
+4
+4
+4
+4
+-
+
+HEAVY WEAPONS •69
+
+HEAVY WEAPONS
+Some weapons are simply too big to be comfortably
+used without a tripod, fixed support, or vehicle mounting. Others require specialized training in the use of
+heavy munitions. The weapons listed here all use the
+Shoot skill to determine hit bonuses, and unless otherwise noted, all require some sort of support for firing.
+Energy weapons use Type B power cells. Rocket
+launchers and hydra arrays use missiles as given on the
+gear tables, while heavy machine guns and wheatcutter
+belts consume large amounts of standard ammunition.
+Some heavy guns can be fired to suppress. Double
+the usual ammunition is fired in one round, and every
+target in front of the weapon that is not under hard
+cover is automatically hit for half normal damage. A
+successful Evasion saving throw eliminates this damage.
+When firing at TL4 military vehicles such as
+gravtanks, mechs, or starship armor, most TL3 Heavy
+weapons don’t count as Heavy for armor-penetrating
+purposes. Demo charges and explosives do, however.
+
+Heavy Weapons
+
+Heavy machine guns represent a large family of air- or
+water-cooled projectile weapons that are usually fed
+with belts of linked ammunition. HMGs require a vehicle mounting or emplaced firing position for effective
+results. An HMG magazine contains enough ammunition for 10 rounds of firing, but each round of firing
+eats 25 credits worth of projectile ammunition.
+Rocket launchers cover a wide variety of man-portable missile launchers of varying degrees of sophistication. The weapons are usually equipped with basic
+tracking sensors, but are of limited accuracy against human-sized targets. Rocket launchers take a -4 hit penalty against targets of human size or smaller. Unlike most
+Heavy weapons, rocket launchers can be shoulder-fired
+without a prepared emplacement to support them.
+Demo Charges are the general run of placed explosives beloved of terrorists and adventurers the world
+over. The usual variety can be detonated by radio
+signals, timers, or electrical charges, and inflict their
+damage on any objects within twenty meters, with an
+Heavy Weapon
+Heavy Machine Gun
+Rocket Launcher
+Demo Charge
+Railgun
+Anti-Vehicle Laser
+Hydra Array
+Wheatcutter Belt
+Vortex Cannon
+
+Evasion saving throw for half damage. Victims within
+forty meters take half damage, with an Evasion save
+for none. The charge is sufficient to blow a four-meter
+wide hole in anything short of a reinforced wall. PCs
+with a background in demolitions or Fix-0 skill can
+shape the charge so it directs the blast in only one direction, sparing all but two meters of the rest.
+Railguns are simply scaled-up versions of personal
+mag rifles. They accelerate large metallic slugs along
+the weapon’s barrel, creating a steady spray of hypervelocity rounds. Ammunition sufficient for one round
+of firing costs 50 credits.
+Anti-vehicle lasers are less useful against soft targets,
+but excel at penetrating vehicle armor. Against vehicles
+and other hard-skinned targets, damage is rolled twice
+and the better result is used.
+Hydra arrays sequence a number of missile
+launchers to fire at once. The gunner designates up to
+three targets and can then make three rolls to hit divided among them. Each successful hit on a target allows
+the gunner to roll damage once, but only the highest
+damage roll is applied to the target. Thus, if all three
+volleys were aimed at a single target and two of them
+hit, the gunner would roll damage twice and apply the
+best result. A volley from the array costs 150 credits.
+Wheatcutter belts are one of several different antipersonnel measures often installed on gravtanks and
+other fighting vehicles. When triggered, a belt of explosives fires off a scything blast of shrapnel on any side
+of the vehicle. All creatures within 10 meters of that
+side of the vehicle must make an Evasion save for half
+damage. Those within 20 meters take half damage, and
+can make an Evasion save to take none at all. Wheatcutter belts do not ignore a vehicle’s Armor like other
+Heavy weapons do. Reloading a wheatcutter belt costs
+200 credits per round.
+Vortex cannons use controlled gravitic shear planes
+to cause a target to simply fall apart into component
+fragments. The cannons are silent in operation, but so
+heavy and complex that they can only be mounted on
+gravtanks and other similar dedicated fighting vehicles.
+
+Dmg.
+Range
+Cost
+3d6#
+500/2,000
+5,000
+3d10
+2,000/4,000
+4,000
+3d10
+20/40
+250
+3d8#
+4,000/8,000
+8,000
+3d10
+2,000/4,000
+10,000
+3d6#
+4,000/8,000
+20,000
+2d12
+10/20
+10,000
+5d12
+1,000/2,000
+75,000
+# this weapon can fire to suppress
+
+Mag
+10
+1
+20
+15
+10
+5
+5
+
+Enc.
+3
+2
+1
+*
+*
+*
+*
+*
+
+Attr.
+Dex
+Dex
+Dex
+Dex
+Dex
+Dex
+Dex
+
+TL
+3
+3
+3
+4
+4
+4
+4
+5
+
+70• GENERAL EQUIPMENT
+
+GENERAL EQUIPMENT
+Most of the equipment listed here is available on any
+TL4 world. Even the TL5 items are among the simpler
+and more ubiquitous pretech relics and could likely
+be acquired on a sufficiently prosperous world with a
+good market in Mandate tech. Buying any TL5 equipment on the open market is subject to GM approval,
+however, and many worlds are flatly ban private ownership of ancient Mandate technology.
+Some encumbrance entries are marked with an
+asterisk. Such items have no significant encumbrance
+and dozens can be carried without hindrance.
+Other entries are marked with a hashmark. These
+objects can be conveniently packed together in a smaller, more portable package. Three such objects can be
+packed together as a single encumbrance item. For
+ammunition, one loaded magazine counts as one item.
+Breaking open such a package to get at the contents
+takes a Main Action, however, before they can be
+Readied with another Main Action.
+
+Ammo and Power
+Ammo, 20 rounds
+Ammo, missile
+Power cell, type A
+Power cell, type B
+Solar recharger
+Telekinetic generator
+
+Cost
+10
+50
+10
+100
+500
+250
+
+Enc.
+1#
+1
+1#
+1
+3
+2
+
+TL
+2
+3
+4
+4
+4
+4
+
+Communications
+
+Cost
+
+Enc.
+
+TL
+
+Comm server
+Compad
+Field radio
+Translator torc
+
+1,000
+100
+200
+200
+
+3
+*
+1
+*
+
+4
+4
+4
+4
+
+Computing Gear
+Black slab
+Data phase tap
+Data protocol
+Dataslab
+Line shunt
+Remote link unit
+Stiletto charge
+Storage unit
+Tightbeam link unit
+
+Cost
+10,000
+5,000
+1,000
+300
+100
+250
+*
+500
+1,000
+
+Enc.
+1
+1
+*
+1
+*
+1
+1
+3
+1
+
+TL
+4
+4
+4
+4
+4
+4
+5
+4
+4
+
+Field Equipment
+Atmofilter
+Backpack
+Binoculars
+Climbing harness
+Glowbug
+Grapnel launcher
+Grav chute
+
+Cost
+100
+5/50
+20/200
+50
+5
+200
+300/1,000

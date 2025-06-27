@@ -1,0 +1,450 @@
+
+Enc.
+1
+1/*
+1
+1
+*
+1
+1
+
+TL
+4
+0/4
+3/4
+3
+3
+3
+4/5
+
+Grav harness
+Instapanel
+Low-light goggles
+Navcomp
+
+5,000
+50
+200
+500
+
+3
+1#
+1
+1
+
+5
+4
+3
+4
+
+Portabox
+Pressure tent
+Rations, 1 day
+Rope, 20 meters
+Scout report
+Survey scanner
+Survival kit
+Telescoping pole
+Thermal flare
+Trade goods
+Trade metals
+Vacc fresher
+Vacc skin
+Vacc suit
+
+50
+100
+5
+4/40
+200
+250
+60
+10
+5
+50
+10
+400
+1,000
+100
+
+1
+4
+1#
+2/1
+*
+1
+1
+*
+*
+1#
+1#
+1
+1
+2
+
+4
+3
+1
+0/4
+4
+4
+4
+4
+3
+4
+4
+4
+5
+4
+
+Pharmaceuticals
+Bezoar
+Brainwave
+Hush
+Lift
+Psych
+Pretech Cosmetic
+Reverie
+Squeal
+Tsunami
+
+Cost/Dose
+200
+1,000
+200
+50
+25
+1,000
+100
+300
+50
+
+Enc.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+TL
+4
+5
+4
+4
+4
+5
+4
+4
+4
+
+Cost
+300
+30
+100
+200
+50
+5
+300
+1,000
+
+Enc.
+1
+1#
+2
+1
+1#
+*
+3
+1
+
+TL
+4
+4
+4
+4
+4
+4
+4
+5
+
+Tools and Medical
+Bioscanner
+Lazarus patch
+Medkit
+Metatool
+Spare parts
+Tailored antiallergens
+Toolkit/Postech
+Toolkit/Pretech
+
+GENERAL EQUIPMENT •71
+
+Ammo and Power
+
+Communications
+
+The finest product of a 33rd-century armory is useless
+if it lacks the bullets or power cells to feed it. For ease
+of play, ammunition can be used interchangeably with
+any projectile weapon. Power cells are designed along
+Mandate-era lines that allow for easy compatibility
+among devices from different worlds.
+
+Almost all TL4 worlds have a planetary communications grid compatible with any standard compad. Some
+planets are less technologically gifted, however, or have
+local conditions that preclude easy wireless communication. Other times, the PCs have reason to avoid
+leaving call logs that might come back to haunt them.
+
+Ammunition: A few worlds are too primitive or too
+resource-poor to manufacture ammunition, but
+the vast majority of worlds provide cartridges in
+almost every conceivable caliber and make. Most
+local gunsmiths can load ammunition to any specification required by a buyer.
+Ammunition, missile: Some characters might have reason to pack along a man-portable rocket launcher,
+or have one mounted on their favorite gravcar.
+Heavy weapons and their ammunition are usually
+outlawed for civilians on most worlds, but this
+price is for locales where missiles can be bought.
+Power cells: One of the few standardized artifacts inherited from before the Silence, power cells are
+small cylindrical objects designed to take and hold
+electrical charges. Type A cells are usually used for
+personal equipment, and the larger type B cells
+for vehicles and heavy gear. The engineering for
+the cells is substantially different, and they cannot
+be exchanged or recharge each other without a
+trained tech’s modifications or a converter unit.
+Power cells can be recharged off a ship’s power
+plant or other grid. Recharging requires 30 minutes for a type A cell or 24 hours for a type B cell.
+Solar recharger: This recharger unfolds into a 2 meter
+by 2 meter square field of solar cells. Granted a
+primary star of roughly Earth-like intensity, it can
+recharge one type A power cell per day.
+Telekinetic generator: While this device assumes the
+presence of a trained telekinetic, it isn’t strictly
+psitech, as its operation is quite simple. A telekinetic user pushes a resistance bar within the generator, causing a flow of electricity to recharge an
+attached power cell. Any telekinetic with Telekinesis-1 skill or better can recharge a cell with fifteen minutes of concentration. In an emergency, a
+character with at least Strength 10 can operate the
+generator manually, though they need to succeed
+on a difficulty 8 Con/Exert skill check in order to
+keep up the pace for an hour. Failure means that
+the character must rest for at least an hour before
+trying again. The generator can charge one type
+A power cell at a time.
+
+Comm server: A powerful base unit for providing communications without comsats. The server provides service between up to three dozen compads
+within 300 kilometers of the unit. Server usage
+can be locked to specific compads, and all transmissions are heavily encrypted. A comm server
+can function for several months on a type B cell.
+Compad: One of a host of different hand-held portable
+communications devices. Most TL4 worlds have
+global comm coverage, but primitive worlds render these devices useless without a nearby comm
+server to provide connectivity.
+Field Radio: On worlds too primitive to have a comm
+grid, adventurers often fall back on these headset-mounted field radios. A single type A cell
+powers them for months of use. Urban or rugged
+terrain limits their range to about two kilometers,
+while flat plains give a maximum range of thirty kilometers. Someone with at least Program-0
+skill can use the radio’s shortwave functionality
+to communicate with a prepared target at continental distances if given ten minutes for tuning.
+Translator torc: Each translator torc is keyed for two
+languages, and will automatically translate what it
+hears in one into speech in the other. The translations are eccentric in many cases, and there is
+always a several-second delay between each statement and its translation. Any attempts to exert
+social skills or Charisma through a translator torc
+suffer a -2 skill check penalty. The torc is powered
+by one type A power cell, which lasts for one week
+of regular use.
+
+72• GENERAL EQUIPMENT
+
+Computing Gear
+
+Computing devices are ubiquitous on most TL4 worlds,
+though not all of them have the kind of planetary network known on 21st century Terra. Would-be hackers
+often find it necessary to take a very personal hand in
+breaching site security.
+Black slab: While a “black slab” appears to be a normal
+dataslab to casual examination, these devices are
+packed with intrusion-optimization hardware
+and integral line tapping tools. They function as
+a metatool for purposes of accessing data lines and
+grant a +1 bonus to all hacking attempts made
+with them. They are also quite illegal on most
+worlds, available only from black market dealers
+and private sales from hackers.
+Data phase tap: This handheld device is normally illegal
+outside the possession of licensed data line repair
+technicians. The tap can detect data lines within five meters through up to ten centimeters of
+ordinary walls, and can generate an energy manipulation field that allows tapping that data line
+for hacking purposes without physically damaging
+the wall.
+Data protocol: Not so much a device as a collection of
+standard manuals on a world’s particular data formats and security methodologies. The price listed here are for black-market manuals on worlds
+where this information is rigidly restricted. On
+less paranoid planets, the equivalent information
+can be acquired for free.
+Dataslab: A palm-sized computing device that can unfold into a thin slab roughly one-third of a meter
+on a side. It can perform all the functions of a compad or handheld computer and can communicate
+wirelessly with nearby devices.
+Line shunt: These palm-sized discs are roughly one centimeter in thickness, with an adhesive side that
+will stick to virtually anything and a polychromatic phased compound on its shell which will shift
+color to blend with its surroundings. One or more
+line shunts must be applied at specific locations
+within a site to access the more well-defended varieties of computerized systems. Shunts employ
+phased energy manipulation tech, and so do not
+need to be directly in contact with a data line but
+only within a few centimeters. Line shunts are
+single-use, and keep functioning until removed.
+Remote link unit: These data broadcast link units have
+been preloaded with one-time pad security measures, advanced stealth circuitry, and sophisticated
+data progression algorithms. Two of these links
+can allow a user to maintain contact with a remote
+data storage unit. The connection is too “stiff” to
+allow for easy hacking, however, and it applies a
+-2 penalty to any attempts to hack through it. Professional-grade security systems often have means
+to detect the broadcast of a remote link unit.
+
+Stiletto charge: These ancient Mandate-era polymorphic intrusion charges were originally made to allow Mandate agents to easily overcome primitive
+colonial data security measures. Each charge is a
+small interface plug the size of a human thumb.
+When used as part of a hack against a TL4 system,
+it causes the skill check to automatically succeed
+regardless of the difficulty. Without line shunts,
+however, the duration of the hack is still no more
+than the usual 1d4 rounds plus the hacker’s Program skill. These devices are single-use, and are
+prized so highly that they are almost always unavailable for conventional purchase. Favors to the
+right people and the looting of Mandate remnants
+are the only normal ways to acquire these devices.
+Storage unit: While conventional dataslabs have ample space to hold any reasonable amount of data,
+sometimes a party needs to store or acquire a truly
+huge dataset. This standard TL4 storage unit is a
+portable but clumsy case hardened against anything short of intentional damage with a firearm,
+capable of interfacing with a wide variety of hardware to receive and upload data. A single storage
+unit can hold a tremendous amount of data that
+has been carefully compressed and optimized for
+it. If the user is simply ripping a database off a
+network and stuffing it into the unit, it can absorb
+up to a small corporation’s complete files.
+Tightbeam link unit: Much like a remote link unit, a
+tightbeam unit uses a laser to connect via lineof-sight transmission. Unlike a remote link unit,
+there’s almost no chance for a conventional security system to detect this link, but it requires that
+the infiltrators get a clear line of sight between
+the unit and the receiving end. Commercial satellite reception units can be employed for skyward
+aiming at 500 credits/hour if a second land unit is
+unavailable, but indoor use is impossible.
+
+Foreign Protocols
+Most surviving human worlds continue to use a
+basic Mandate-derived communications protocol
+that ensures a minimal level of compatibility between hardware from different worlds. While the
+performance may not be ideal, tech purchased on
+one world should still be able to interface with the
+local tech on a different planet.
+Even so, a few worlds of a more xenophobic
+or isolated nature intentionally abandon this standard protocol in favor of their own. PC hardware
+on these worlds will not communicate with the
+local grid unless a PC with Program or Fix skills
+has a chance to reset the protocols to something
+compatible with local conditions. Such work usually takes at least a day to adjust all the gear the
+group might possess.
+
+GENERAL EQUIPMENT •73
+
+Pharmaceuticals
+
+Modern pharmaceuticals are usually applied as “stims”;
+small capsules that are pressed against the target’s skin
+for application. While a wide variety of common overthe-counter stims are available, the ones listed below
+are some particularly likely to be useful to adventurers.
+Many medical stims require a minimum level in the
+Heal skill to successfully apply them, while others add
+System Strain to the target as described on page 32. If a
+subject’s System Strain is too high already, the stim has
+no positive effect. Some of the combat stims below are
+usually illegal for civilian possession, but street sources
+are available at the prices given.
+Modern vacc suits and powered armor have medical ports that allow for applying stims and other medical treatment without removing the suit.
+Bezoar (Heal-1): A complex antibiotic cocktail, Bezoar
+is an effective default treatment for a wide variety
+of infectious diseases. When applied to a sufferer, roll 1d6; on a 1, this victim cannot be helped
+by Bezoar, while otherwise the affliction is cured
+within 24 hours. Each application of Bezoar adds
+1 System Strain to the target, and it cannot cure
+cancers, bioweapons, or congenital diseases.
+Brainwave (Heal-2): This psitech drug requires advanced TL5 facilities to compound, and the few
+remaining doses from pre-Silence periods are
+rarely available on the open market. Application
+of Brainwave gives a psychic 2 extra maximum
+Effort for one hour. At the end of that hour, they
+suffer 4 points of System Strain. If their Strain is
+maximized by this, they go unconscious for one
+hour. Only one dose can be active at a time.
+Hush (Heal-0): An extremely heavy neurotranquilizer,
+Hush leaves the subject awake and responsive to
+simple, untaxing commands. They cannot fight
+or communicate while affected by Hush, but will
+walk, eat, sit, and perform simple actions as directed by the last person to speak to them. A Hush
+dose lasts for an hour plus three per Heal level of
+the person applying the stim, and the subject retains no memories while under the effect. A subject must be immobilized or willing to be affected
+by Hush; violent physical movement immediately
+after application disrupts the neurological effects.
+Lift (Heal-0): A Lift stim augments and amplifies the
+body’s natural response to physical injury and exhaustion. This boost speeds natural recovery drastically and heals 1d8 plus the user’s Heal skill in
+hit points after five minutes of rest. Lift stims do
+not work on PCs who are mortally wounded; they
+need to be stabilized before the Lift can help them,
+though application to a stabilized target will get
+them back on their feet and active again. Each application adds 1 System Strain to the target. Each
+additional application of Lift to a target the same
+day increases the minimum Heal skill needed by 1.
+
+Pretech Cosmetic (None): Before the Silence stims existed for a host of cosmetic, hygiene, and health
+purposes. While these effects are trivial, the basic
+pretech stim substrate also works to heal 1d6 lost
+hit points in the user at a cost of 1 System Strain.
+Psych (None): A military drug duplicated in rougher
+form by many street chemists, Psych fills the user
+with an intense sense of confidence and reckless courage. Unfortunately, it also cripples their
+judgment regarding danger. A person affected by
+Psych immediately gains a Morale score of 12 and
+a +1 bonus on all skill checks, but will ignore cover
+during combat and cannot decide not to attempt a
+skill check after learning its difficulty. The effect
+lasts fifteen minutes, adds 1 System Strain to the
+user, and is highly psychologically addictive.
+Reverie (Heal-1): This very dangerous combat drug
+completely subdues the subject’s fear centers and
+adrenaline production, leaving them perfectly calm and relaxed even in the midst of mortal
+danger. Their reaction speed is much slower as a
+consequence, and they may act only on even-numbered combat rounds; so on the second, fourth,
+and sixth rounds and so forth. Any damage they
+suffer is doubled as well due to their lack of vigilance. Their perfect calm allows them to shoot as
+if on the target range, however, and they can make
+Dex/Shoot skill checks to hit a target instead of
+hit rolls; the difficulty is 7 at point blank, 9 at normal ranges, and 11 at long ranges for the weapon.
+The target’s Armor Class is ignored. Melee attacks
+made under Reverie always hit. Reverie lasts for
+ten minutes and adds 2 System Strain to the target.
+Squeal (Heal-1): This “truth serum” is unreliable but still
+one of the best available options for field interrogations. The subject must be immobilized or willing to be affected by it. For five minutes afterwards
+they will be unable to avoid answering questions
+about facts known to them; they will be unable
+to exercise anything resembling a hypothesis or a
+judgment, but they will answer specific questions
+about facts known to them truthfully. Unwilling
+victims can attempt a Physical saving throw; on
+a success, they can simply refuse to speak about
+one particular topic of their choice. Targets pass
+out for 1d6 hours after the drug wears off and are
+immune to it for a week thereafter.
+Tsunami (Heal-1): An emergency combat stim used to
+juice certain expendable soldiers before an assault,
+Tsunami fills them with a reckless disregard for
+pain and an intense aggressiveness. The short
+effect duration and difficult application limits its
+wider use, however. Subjects gain a Morale score
+of 12, 10 extra hit points for ten minutes and a +2

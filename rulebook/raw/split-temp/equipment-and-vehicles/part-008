@@ -1,0 +1,149 @@
+
+Mods require maintenance to keep functioning correctly. Overclocked hardware, bleeding-edge tech, and
+experimental adjustments just don’t have the field durability of more standard gear, so a tech must apply daily
+attention to the modded hardware if it’s not to fail. A
+normal TL4 toolbox is required to maintain mods, but
+no special parts are needed.
+A tech’s Maintenance score is equal to the total of
+their Intelligence and Constitution modifiers plus three
+times their Fix skill level. The smarter and the longer a
+tech can work, the more maintenance they can perform,
+but their overall expertise as a technician is the most
+crucial element. A tech can maintain a number of mods
+equal to their Maintenance score without cutting into
+their adventuring time or otherwise encumbering their
+off-duty hours. This maintenance is assumed to take
+place during downtime and doesn’t need to be tracked
+specifically in play. If they do nothing but maintenance,
+they can double their score, but this kind of dedication
+requires sixteen-hour workdays.
+If a mod goes without maintenance for 24 hours, it
+stops working. If a mod goes without maintenance for
+a week, the entire device it’s attached to stops working,
+as the untuned mod has made it useless or dangerous to
+use. Weapons can no longer be used in combat, armor
+no longer gives protection, seizes up, or is too dangerous to wear, and other devices simply stop functioning.
+A maintenance backlog on a device can be cleared by an
+hour of work by a technician capable of maintaining it.
+
+Building Conventional Gear
+
+Sometimes a wrench jockey will want to build their
+own equipment rather than purchase it off the shelf.
+This may be because there’s no such gear for sale, the
+equipment is illegal on this world, the tech wants it
+cheaper than the vendors sell it, or the tech wants
+to build a custom platform for their favorite mods.
+The gear built this way must be feasible to create in a
+workshop; guns, armor, and modestly-sized vehicles
+are possible, but starship components and other major
+constructions are not.
+A tech requires a TL4 workshop to build most TL4
+equipment. More primitive gear can be built with less
+
+MODDING AND BUILDING EQUIPMENT •91
+elaborate resources at the GM’s discretion. The workshop must be at least nominally capable of working with
+the kind of gear the tech is building. A vehicle repair
+shop will not have the tools to brew pharmaceuticals,
+and a back-room electronics shop won’t have the lifts
+to work on armored vehicles. If the tech needs to refit a
+workshop to work on a particular type of unsupported
+gear, they can pay half the shop’s original price to get
+the needed tools. Starships with Workshop fittings are
+always sufficient for personal gear modifications.
+The tech needs a supply of parts. In any TL4 city
+or sizable community, the tech can scrounge, barter,
+or buy what they need from the locals. A tech working
+in a shop out in the wilds can prepare by taking a few
+footlockers full of materials that can fit in a vehicle or
+on pack animals, buying a certain number of credits
+worth of spare parts and hauling them along. Techs in
+dire need can strip ancient high-tech ruins, battlefields,
+and scrap heaps for parts if no better source is available.
+Techs must decide whether the device they’re
+building is to be jury-rigged, normal, or mastercrafted.
+Jury-rigged devices are assembled out of cheap scrap,
+bottom-tier components, and makeshift kludges.
+They’re much cheaper to make than to buy, but they require constant attention to keep them operating. Normal devices work just as well as anything that you’d buy
+off the shelf, but the lack of economies of scale and the
+need to acquire all the parts at retail make them more
+expensive than buying it off the shelf. Mastercrafted
+gear is carefully built to support a tech’s own innovations and favorite modifications. They are extremely
+expensive, but much easier to mod and maintain than
+off-the-shelf tech.
+Building the gear usually takes one month for a
+vehicle and one week for a weapon, suit of armor, or
+other portable device. Having at least one assistant with
+Fix-0 will halve this time.
+Jury-rigged devices cost one-quarter as much as
+the normal device and take half the normal time to
+build. If the tech has access to scrap or salvage, they
+can assemble it at no cost, but it takes twice the normal
+time to build it. A jury-rigged device counts as a mod
+requiring Fix-0 to maintain. If it goes 24 hours without maintenance, it stops working. Jury-rigged devices
+cannot be modded.
+Normal devices cost twice as much as they would
+off-the-shelf and take the normal amount of time to
+build. They cannot be built with scrap or salvaged parts
+unless the GM decides that the salvage is perfectly suited for this use. Drugs and other consumable goods must
+be built as normal devices rather than jury-rigged or
+mastercrafted ones.
+Mastercrafted devices require costly premade
+components and cost ten times as much as the normal
+device, and require twice as much time to build. They
+are ideal platforms for the tech’s own modifications,
+however, and the first mod installed in the device requires no maintenance.
+
+Sample Mods
+
+The mods listed below are simply a sample of those a
+GM might approve for their campaign. Weapon and
+armor mods should not stack beyond a +3 bonus to AC,
+hit rolls or damage rolls, and any mod improving a skill
+check shouldn’t boost it by more than +1. A mod can
+only be installed once on any given piece of equipment.
+Autotargeting (Fix-2): The weapon has had micronized
+kinetic targeting aids installed, granting a +1 bonus to hit rolls with it. Costs 4,000 credits.
+Boosted (Fix-2): The weapon has been tuned for greater
+damage output, adding +2 to the damage it does.
+Costs 2,000 credits.
+Bubbleseal (Fix-1): The armor is equipped with automatic pressure seals and emergency oxygen. It can
+be triggered manually or activates automatically
+on exposure to low pressure, functioning as a vacc
+suit for up to one hour. Costs 5,000 credits.
+Concealed (Fix-2): The device is disguised as a specific
+different object of the same general mass. This
+disguise will fool standard TL4 sensors, but not a
+close physical inspection of the object. Costs ten
+times the device’s base cost.
+Customized (Fix-1): The weapon or armor has been
+carefully tailored to a single specific user. When
+used by that person, they get a +1 to hit with the
+weapon or a +1 Armor Class bonus with armor.
+Costs 1,000 credits and is inapplicable to shields.
+Extended Magazine (Fix-1): The firearm has been adjusted so that its magazine size is doubled. Costs
+500 credits.
+Flexible (Fix-2): The armor is carefully tailored to a
+specific wearer with an eye towards reducing its
+weight and cumbersomeness. Its Encumbrance
+value is lowered by 1 for that wearer, and increased by 1 for anyone else. Costs 5,000 credits.
+High Efficiency (Fix-1): A device with a duration of
+operation, such as a vacc suit or fueled vehicle,
+now functions for 50% longer on the same charge.
+Costs five times the device’s usual cost.
+Infinite Magazine (Fix-3): The firearm now automatically produces its own physical ammunition. Costs
+10,000 credits and two units of pretech salvage.
+Infinite Power (Fix-3): A device powered by a Type A
+power cell now never runs out of power. Costs
+5,000 credits and one unit of pretech salvage.
+Phasing (Fix-3): The weapon is tuned to partially phase
+through armor and impeding debris, granting a +1
+bonus to hit rolls with it. Costs 10,000 credits and
+two units of pretech salvage.
+Polymorphic Blending (Fix-2): The armor can shift in
+appearance to that of normal clothing or different-looking armor. Several dozen different appearances can be loaded into it at any one time.
+The armor functions and encumbers normally
+regardless of its external appearance. Costs 5,000
+credits and one unit of pretech salvage.
+
+
