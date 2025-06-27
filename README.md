@@ -19,14 +19,16 @@ A living campaign repository for Stars Without Number RPG campaigns. Currently a
 
 ## Current Status
 
-**Last Session**: [June 12, 2025 - Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md)
+**Last Session**: [June 26, 2025 - Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
 
-**Party Location**: Approaching damaged refugee ship near Cou
+**Party Location**: Hidden in debris field near Cou, watching patrol investigate
 
 **Immediate Situation**: 
-- Rescuing Resonant Dawn refugees with Ur-Resonance intelligence
-- Aurelius Consortium corvette disabled nearby
-- Cou's defensive grid failing in cascade
+- Just rescued 19 Resonant Dawn refugees (Sister Meris died)
+- Salvaged Profit Margin, found Protocol tracker that trusts Kaedim
+- Entire crew affected by hallucinogenic gas (recovering)
+- Cou patrol investigating disabled corvette
+- Asset Recovery Team Gamma has been alerted
 
 ## Quick Start for Session Planning
 

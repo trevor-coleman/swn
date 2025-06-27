@@ -92,6 +92,22 @@ Chronological record of major events across all campaigns.
   - Discover Protocol tracking device
 - **Current**: Approaching refugee ship with Ur-Resonance intel
 
+#### [June 26 - Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
+- **Location**: Cou system debris field
+- **Key Events**:
+  - Rescued 19 Resonant Dawn refugees
+  - Sister Meris died revealing Ur-Resonance coordinates
+  - Lance extracted three-point approach via Network Echo
+  - Salvaged Profit Margin, found Protocol tracker
+  - Kaedim synchronized with tracker (friendship approach)
+  - Entire crew affected by hallucinogenic gas
+  - Currently hiding from Cou patrol
+- **Revelations**: 
+  - Shackles were "incubators" not prisons
+  - Protocol nodes trying to reunite
+  - Zhou's deeper knowledge: "The real prize swims deeper"
+- **Gained**: Protocol tracker, fuel, Ur-Resonance coordinates
+
 ## Key Historical Events (Background)
 
 ### Ancient Past
