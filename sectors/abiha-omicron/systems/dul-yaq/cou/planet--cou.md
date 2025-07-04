@@ -72,3 +72,16 @@ The locals refuse most contact with offworlders. Only a small, quarantined treat
 - Black market zone
 - Secret smuggler landing site
 
+## Notable Locations
+
+### Cascade Station (Treaty Port)
+- **Type**: Space station/orbital port
+- **Status**: In chaos following shackle failure
+- **Significance**: Cou's only legal entry point for offworlders
+- **Current Situation**: Power vacuum as Resonant Dawn control collapses
+- **File**: [Cascade Station](locations/space-station--cascade-station.md)
+
+## Session History
+- **[Battle at Cou](../../../sessions/2025-06-12-cou-approach-battle.md)**: Party detected failing shackle system
+- **[Harmonic Prayer Rescue](../../../sessions/2025-06-26-harmonic-prayer-rescue.md)**: Shackles revealed as "incubators"
+

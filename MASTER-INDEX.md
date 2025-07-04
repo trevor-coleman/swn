@@ -62,6 +62,7 @@ Complete directory of all campaign content across sectors, organized by category
 - **Grand Nexus** - Architect base in drill-space
 - **Archive on Madeira** - Knowledge repository
 - **Cou** - Planet with failing shackle system
+- **Cascade Station** - Cou's only legal port, now in chaos
 - **Penticton 9** - Potential ally base
 
 ### Navigation

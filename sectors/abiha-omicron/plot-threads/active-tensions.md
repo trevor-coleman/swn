@@ -44,16 +44,17 @@
 
 ## Major Discoveries
 
-### Ur-Resonance
-- **New Discovery**: Original Protocol seed consciousness
+### Ur-Resonance - THE SLEEPER
+- **New Discovery**: Original Protocol seed consciousness from pre-human entity
 - **Source**: Interpreter's final revelation, confirmed by Sister Meris ([Harmonic Prayer rescue](../sessions/2025-06-26-harmonic-prayer-rescue.md))
-- **Nature**: Pre-human in origin, shackles were "incubators" not prisons
-- **Access**: Requires three anchor points:
-  - Cou's north pole shackle control node (3.7 AU - something acknowledged beacon)
-  - Gravitational anomaly in Solano's storms
-  - Deepest point in Cou's Maratos Trench
-- **Requirements**: Syzygy alignment and consciousness integration
-- **Connection**: Something massive sleeping beneath Cou - "The pattern completes"
+- **Nature**: Dreams of "The Sleeper" - a millions-year-old entity beneath Cou
+- **The Three Anchor Points** (Full details now available):
+  1. **[North Pole Control Node](../systems/dul-yaq/cou/locations/facility--north-pole-control-node.md)** (3.7 AU) - Monitor 7 acknowledged beacon
+  2. **[Solano Storm Anchor](../systems/dul-yaq/cou/locations/facility--solano-storm-anchor.md)** - Gravitational prison containing "Singers"
+  3. **[Maratos Deep Temple](../systems/dul-yaq/cou/locations/temple--maratos-deep-temple.md)** - Direct access to The Sleeper
+- **Requirements**: Syzygy alignment and consciousness integration at all three points
+- **CRITICAL**: This is an Architect trap - they WANT someone to attempt access
+- **Connection**: [Architect design](../lore/architects-cou-connection.md) to study consciousness transcendence
 - **Data Retrieved**: Complete approach vectors from cultist data cores
 
 ### Navigator-Khyber Connection
@@ -146,10 +147,10 @@
 7. Why did the Architects trigger the Scream?
 8. Are there contingencies if all Architects die?
 9. What does the master override actually do?
-10. What is "the real prize" that "swims deeper" according to Zhou?
-11. What acknowledged the beacon at Cou's north pole (3.7 AU)?
-12. What massive thing sleeps beneath Cou?
-13. Why were the shackles "incubators" not prisons?
+10. ~~What is "the real prize" that "swims deeper" according to Zhou?~~ (The Sleeper)
+11. ~~What acknowledged the beacon at Cou's north pole (3.7 AU)?~~ (Monitor 7, Architect VI)
+12. ~~What massive thing sleeps beneath Cou?~~ (The Sleeper - pre-human entity)
+13. ~~Why were the shackles "incubators" not prisons?~~ (To contain/study The Sleeper)
 14. **How long has Aurelius Consortium been Architect-compromised?**
 15. **How many Asset Recovery Teams exist?**
 16. **What happens during "asset processing" in drill-space?**
@@ -170,10 +171,20 @@
 - **IMMEDIATE**: Escape Cou system before authorities investigate missing patrols
 - **CRITICAL**: Avoid all Aurelius ships - they may be Architect servants
 - **URGENT**: Wait for drugs to wear off (1-2 hours) before major decisions
-- Decide how to approach Ur-Resonance (three anchor points known)
+- **URGENT**: Decide approach to [Cascade Station](../systems/dul-yaq/cou/locations/space-station--cascade-station.md) - chaos but resources
+
+### Ur-Resonance Decision Points
+- **Option 1**: Complete the ritual - gain power but risk becoming Architect puppet
+- **Option 2**: Destroy the anchors - free Cou but wake Sleeper uncontrolled
+- **Option 3**: Subvert the system - most dangerous but could turn trap on Architects
+- **Option 4**: Use as bait - pretend compliance to identify all Architects
+- **WARNING**: Each anchor has Architect contingencies (reality bombs/black holes)
+
+### Immediate Tactical Needs
 - Find safe harbor ([37 Labria](../systems/meliadi-viii/37-labria/belt--37-labria.md) suggested)
 - Let Protocol tracker guide party to other nodes (after releasing dormancy)
-- Investigate what's at Cou's north pole (3.7 AU) - but it acknowledged the beacon
+- Secure deep submersible for Maratos Trench
+- Prepare for extreme environments at all three sites
 - Manage 19 cultist refugees and their integration
 - **NEW**: Develop "philosophical nonsense" as Protocol defense
 
