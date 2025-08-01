@@ -5,22 +5,26 @@
 ## Immediate Threats
 
 ### The Silence Architects - UNIVERSE-LEVEL THREAT
-- **Status**: CRITICAL - One identified, two unknown
+- **Status**: CRITICAL - Two identified (Dr. Sss'theta, info broker), one unknown
 - **Revelation**: The Scream was deliberate genocide ([Lance's discovery](../sessions/2025-06-12-lances-psychonaut-journey.md))
-- **Personal Connection**: Party has met one disguised as info broker
-- **Current Risk**: Architects alerted to investigation
-- **Assets**: Grand Nexus location, master override codes
-- **Danger**: May trigger another Scream-level event
+- **Personal Connection**: Dr. Sss'theta exposed at Tokko 8, incapacitated
+- **Current Risk**: Multiple Asset Recovery Teams converging
+- **Assets**: Grand Nexus location, master override codes, enhancement facilities
+- **Danger**: Creating slave buffer network for Sleeper (65 hours remaining)
+- **New Intel**: Fear voluntary networks - "taste like revolution"
 - **Related**: [Lore](../../cross-sector/factions/silence-architects.md), [The Scream Truth](../../cross-sector/lore/the-scream-truth.md)
 
 ### Lance's Neural Condition
-- **Status**: CRITICAL - Recovering
-- **Context**: Failed disconnect from Resonant Dawn network ([Sanctuary incident](../sessions/2025-05-30-resonant-dawn-sanctuary.md))
-- **Risk**: Potential transformation like the Interpreter
+- **Status**: CRITICAL - Exhausted from Deep Link
+- **Context**: Made direct contact with the Sleeper ([Truth of Tokko 8](../sessions/2025-07-04-truth-of-tokko-8.md))
+- **Risk**: Neural strain from touching vast consciousness
 - **New Ability**: [Network Echo](../../../party/lance-bahringer/network-echo-ability.md) grants Protocol memory access
-- **Recent Use**: Successfully extracted Ur-Resonance coordinates from dying Sister Meris ([Harmonic Prayer rescue](../sessions/2025-06-26-harmonic-prayer-rescue.md))
-- **Management**: Must limit use to avoid further damage
-- **Advantage**: Can access Architect memories and Protocol knowledge
+- **Recent Use**: 
+  - Extracted Ur-Resonance coordinates from Sister Meris
+  - Deep Link with the Sleeper revealed its true nature
+  - Gained reversal protocol knowledge
+- **Management**: Must limit use to avoid transformation
+- **Advantage**: Can reverse enhancement process, access Architect memories
 - **Character**: [Lance Bahringer](../../../party/lance-bahringer/character-sheet.md)
 
 ### Archive Judgment
@@ -45,17 +49,27 @@
 ## Major Discoveries
 
 ### Ur-Resonance - THE SLEEPER
-- **New Discovery**: Original Protocol seed consciousness from pre-human entity
-- **Source**: Interpreter's final revelation, confirmed by Sister Meris ([Harmonic Prayer rescue](../sessions/2025-06-26-harmonic-prayer-rescue.md))
-- **Nature**: Dreams of "The Sleeper" - a millions-year-old entity beneath Cou
+- **Full Understanding**: Ancient consciousness predating Architects by millions of years
+- **Source**: Deep Link contact ([Truth of Tokko 8](../sessions/2025-07-04-truth-of-tokko-8.md))
+- **Nature**: 
+  - Source of all psychic phenomena in the galaxy
+  - Dreams leak into reality through quantum foam
+  - Has been waiting and learning since Architects arrived
+  - Awakens in 65 hours regardless of intervention
 - **The Three Anchor Points** (Full details now available):
   1. **[North Pole Control Node](../systems/dul-yaq/cou/locations/facility--north-pole-control-node.md)** (3.7 AU) - Monitor 7 acknowledged beacon
   2. **[Solano Storm Anchor](../systems/dul-yaq/cou/locations/facility--solano-storm-anchor.md)** - Gravitational prison containing "Singers"
   3. **[Maratos Deep Temple](../systems/dul-yaq/cou/locations/temple--maratos-deep-temple.md)** - Direct access to The Sleeper
 - **Requirements**: Syzygy alignment and consciousness integration at all three points
-- **CRITICAL**: This is an Architect trap - they WANT someone to attempt access
-- **Connection**: [Architect design](../lore/architects-cou-connection.md) to study consciousness transcendence
+- **The Sleeper's Bargain**: Help it wake free rather than enslaved
+  - Destroy the buffer network
+  - One consciousness as bridge/translator
+  - Protocol fragments singing in harmony
+  - "I am not your ally. I am not your enemy. I am OPPORTUNITY."
+- **CRITICAL**: This is an Architect trap - they WANT controlled awakening
+- **Connection**: [Architect design](../lore/architects-cou-connection.md) to harvest consciousness
 - **Data Retrieved**: Complete approach vectors from cultist data cores
+- **The Scream Truth**: Failed attempt to harvest the Sleeper's consciousness
 
 ### Navigator-Khyber Connection
 - **Revelation**: [Dallas](../../../party/dallas-jacobi/character-sheet.md) and [Kaedim](../../../party/kaedim-vecc/character-sheet.md) show unusual compatibility patterns
@@ -80,6 +94,19 @@
 - **Tracker Abilities**: Can sense corrupted vs pure Protocol signatures
 - **Implications**: Multiple Protocol artifacts may be seeking reunion
 - **Zhou's Knowledge**: Knew about network - "The real prize swims deeper"
+
+### Voluntary Networks - Revolutionary Discovery
+- **Created**: Ten refugees chose connection after experiencing both states ([Truth of Tokko 8](../sessions/2025-07-04-truth-of-tokko-8.md))
+- **Properties**:
+  - Voluntary activation required
+  - Limited 50m range
+  - Completely closed to external influence
+  - Individual identity preserved
+  - Cannot be harvested by Architects
+- **Architects' Fear**: "Small networks taste like revolution!"
+- **Implications**: Third option beyond isolation or enslavement
+- **Can Be Taught**: Others can learn this form of connection
+- **Leaders**: Sister Verith, Brother Matthias
 
 ### Aurelius Jump Gate
 - **Status**: Currently dormant after party's arrival
@@ -113,28 +140,32 @@
 ### Kaedim
 - Khyber lineage marks him as historically problematic
 - Gauntlet's power creates both opportunity and danger
-- **NEW**: Successfully synchronized with Protocol tracker through empathy
+- **NEW**: Deep Link with Sleeper, gained reversal understanding
 - **NEW**: Can distinguish corrupted vs pure Protocol signatures
 - **CRITICAL**: Learned to force Protocol into dormancy with Effort
 - **CRITICAL**: "Philosophical nonsense" confuses Protocol sensors
-- **Recent**: Gauntlet supercharged with Protocol energy, took additional System Strain
-- Carrying 40kg Protocol tracker that trusts him (1 Effort committed to silence)
+- **Recent**: Gauntlet overheated from Sleeper contact (2 System Strain total)
+- Carrying 40kg Protocol tracker that trusts him
+- Potential bridge/translator for Sleeper's awakening
 
 ### Lance
 - Carries sensitive Nexus data and pretech salvage
 - Hacking skills make him both asset and liability
 - Altered neurochemistry noted as "unconventional" by Archive
-- **NEW**: Network Echo ability allows Protocol memory access
-- **Recent**: Successfully extracted complete Ur-Resonance coordinates from Sister Meris
-- **Recent**: Maintained 40-70 minute remote hack on Profit Margin
-- Risk of transformation if ability overused
-- Currently affected by own hallucinogenic gas
+- **NEW**: Deep Link revealed Sleeper's true nature
+- **CRITICAL**: Gained reversal protocol knowledge
+- **Recent**: Reversed enhancement on 10 refugees
+- **Recent**: Broadcast truth planet-wide, sparked civil war
+- Risk of transformation if Network Echo overused
+- Exhausted from neural strain of Deep Link
 
 ### Adrian
 - Medical knowledge crucial for understanding biological effects
 - Successfully extracted Keller but long-term effects unknown
-- **Recent**: Retrieved critical Ur-Resonance data cores from cultists
-- **Recent**: Managing drug-affected refugees and crew
+- **Recent**: Incapacitated Dr. Sss'theta with Noetic Veil
+- **Recent**: Documented enhancement process
+- Managing 19 refugees (10 enhanced, 9 traumatized)
+- Medical supplies critically low
 
 ## Unresolved Questions
 
@@ -142,11 +173,12 @@
 2. Who or what manipulated Dallas and Kaedim's meeting?
 3. Can the Aurelius Jump Gate be reactivated?
 4. ~~What are the Resonant Dawn's true capabilities?~~ (Cult destroyed)
-5. Which information broker is the Architect?
+5. Which information broker is the Architect? (Not Dr. Sss'theta)
 6. What happened to the lost party member Taka?
-7. Why did the Architects trigger the Scream?
+7. ~~Why did the Architects trigger the Scream?~~ (Failed consciousness harvest)
 8. Are there contingencies if all Architects die?
 9. What does the master override actually do?
+10. Who is the third unknown Architect?
 10. ~~What is "the real prize" that "swims deeper" according to Zhou?~~ (The Sleeper)
 11. ~~What acknowledged the beacon at Cou's north pole (3.7 AU)?~~ (Monitor 7, Architect VI)
 12. ~~What massive thing sleeps beneath Cou?~~ (The Sleeper - pre-human entity)
@@ -165,29 +197,34 @@
 - **Resonant Dawn Refugees**: 19 cultists with Ur-Resonance knowledge ([Harmonic Prayer rescue](../sessions/2025-06-26-harmonic-prayer-rescue.md))
 
 ## Next Steps
-- ~~Survive Archive judgment~~ (Resolved off-screen)
-- ~~Rescue Harmonic Prayer refugees~~ (Completed - 19 survivors)
-- ~~Evade Cou patrol investigating Profit Margin~~ (Corrupted/destroyed by Asset Recovery Team)
-- **IMMEDIATE**: Escape Cou system before authorities investigate missing patrols
-- **CRITICAL**: Avoid all Aurelius ships - they may be Architect servants
-- **URGENT**: Wait for drugs to wear off (1-2 hours) before major decisions
-- **URGENT**: Decide approach to [Cascade Station](../systems/dul-yaq/cou/locations/space-station--cascade-station.md) - chaos but resources
+- **IMMEDIATE**: Escape Tokko 8 before Asset Recovery Teams arrive (<1 hour)
+- **CRITICAL**: Decide whether to broadcast reversal protocols planet-wide
+- **URGENT**: Secure or eliminate Dr. Sss'theta (6 hours of incapacitation)
+- **COUNTDOWN**: 65 hours until Sleeper awakens
 
-### Ur-Resonance Decision Points
-- **Option 1**: Complete the ritual - gain power but risk becoming Architect puppet
-- **Option 2**: Destroy the anchors - free Cou but wake Sleeper uncontrolled
-- **Option 3**: Subvert the system - most dangerous but could turn trap on Architects
-- **Option 4**: Use as bait - pretend compliance to identify all Architects
-- **WARNING**: Each anchor has Architect contingencies (reality bombs/black holes)
+### Sleeper Awakening Options
+- **Option 1**: Help Sleeper wake free (destroy buffer network, become bridge)
+- **Option 2**: Allow Architect control (billions enslaved as buffer)
+- **Option 3**: Create voluntary network alternative (teach resistance method)
+- **Option 4**: Attempt to keep Sleeper asleep (likely impossible)
+- **WARNING**: Syzygy alignment required at three anchor points
 
 ### Immediate Tactical Needs
-- Find safe harbor ([37 Labria](../systems/meliadi-viii/37-labria/belt--37-labria.md) suggested)
-- Let Protocol tracker guide party to other nodes (after releasing dormancy)
-- Secure deep submersible for Maratos Trench
-- Prepare for extreme environments at all three sites
-- Manage 19 cultist refugees and their integration
-- **NEW**: Develop "philosophical nonsense" as Protocol defense
+- Escape Asset Recovery Team invasion force
+- Broadcast decision (save thousands vs preserve secrecy)
+- Manage 10 voluntary network refugees
+- Coordinate with Free-Cou resistance
+- Find transport to anchor points
+- Prepare for extreme environments
+
+### Strategic Considerations
+- **Asset**: Reversal protocols can free enhanced citizens
+- **Asset**: Voluntary network method can be taught
+- **Threat**: Multiple Asset Recovery Teams converging
+- **Threat**: Dr. Sss'theta may have contingencies
+- **Opportunity**: Civil war provides cover
+- **Opportunity**: Free-Cou movement as allies
 
 ---
 
-*Updated through [June 26, 2025](../sessions/2025-06-26-harmonic-prayer-rescue.md). See also: [Timeline](../TIMELINE.md) | [Master Index](../MASTER-INDEX.md) | [Faction Tracker](../FACTION-TRACKER.md)*
+*Updated through [July 4, 2025](../sessions/2025-07-04-truth-of-tokko-8.md). See also: [Timeline](../TIMELINE.md) | [Master Index](../MASTER-INDEX.md) | [Faction Tracker](../FACTION-TRACKER.md)*

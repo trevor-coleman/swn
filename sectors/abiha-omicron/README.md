@@ -13,31 +13,34 @@ Current campaign location - an isolated sector with ancient mysteries and factio
 
 ## Current Status
 
-**Last Session**: [June 12, 2025 - Battle at Cou](sessions/2025-06-12-cou-approach-battle.md)
+**Last Session**: [July 4, 2025 - The Truth of Tokko 8](sessions/2025-07-04-truth-of-tokko-8.md)
 
-**Party Location**: Approaching damaged refugee ship near Cou
+**Party Location**: Tokko 8 Research Station, Cou
 
 **Major Threats**:
-- Silence Architects aware of investigation
-- Aurelius Consortium actively hunting party
-- Lance recovering from neural trauma
-- Refugees carrying Ur-Resonance intelligence
+- Asset Recovery Teams arriving in <1 hour
+- Dr. Sss'theta (Architect) incapacitated but alive
+- 65 hours until the Sleeper awakens
+- Planet-wide civil war erupting
+- Decision needed on broadcasting reversal protocols
 
 ## Sector Overview
 
 The Abiha Omicron sector is cut off from the greater galaxy by a dormant jump gate. Multiple factions compete for control of the Resonance Protocol, an ancient technology with universe-shaking implications.
 
 ### Key Factions
-- **Aurelius Consortium** - Mining corporation seeking Protocol
-- **Resonant Dawn** - Religious cult (mostly destroyed)
+- **Aurelius Consortium** - Mining corporation (possibly Architect-compromised)
+- **Resonant Dawn** - Religious cult (mostly destroyed, refugees created voluntary network)
 - **The Archive** - Knowledge preservationists
-- **The Silence Architects** - Universe-level threat (cross-sector)
+- **The Silence Architects** - Universe-level threat (Dr. Sss'theta exposed)
+- **Free-Cou Movement** - Revolutionary organization (newly active)
 
 ### Major Mysteries
-- The true purpose of the Resonance Protocol
-- The nature of the Ur-Resonance
+- ~~The true purpose of the Resonance Protocol~~ (Architect control mechanism)
+- ~~The nature of the Ur-Resonance~~ (The Sleeper - source of all psychic phenomena)
 - Why the jump gate went dormant
 - The fate of missing party member Taka
+- Identity of the third unknown Architect
 
 ## Campaign Themes
 - Ancient technology and its consequences

@@ -9,15 +9,6 @@ Complete directory of content within the Abiha Omicron sector.
 
 ## Content by Category
 
-### 📅 Sessions (Chronological)
-- [2025-06-12 - Battle at Cou](sessions/2025-06-12-cou-approach-battle.md)
-- [2025-06-12 - Lance's Psychonaut Journey](sessions/2025-06-12-lances-psychonaut-journey.md)
-- [2025-05-30 - Resonant Dawn Sanctuary](sessions/2025-05-30-resonant-dawn-sanctuary.md)
-- [2025-05-07 - Archive Experience](sessions/2025-05-07-archive-experience.md)
-- [2025-05-01 - Archive Arrival](sessions/2025-05-01-archive-arrival.md)
-- [2025-04-04 - Penticton 9](sessions/2025-04-04-penticton-9.md)
-- [2025-03-27 - Orinda Mine Rescue](sessions/2025-03-27-orinda-mine-rescue.md)
-- [2025-03-06 - Resonance Unveiled](sessions/2025-03-06-resonance-unveiled.md)
 
 ### 🎭 Characters
 - [Gaius Carranzo](characters/gaius-carranzo.md) - Party recruit

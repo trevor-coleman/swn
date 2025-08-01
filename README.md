@@ -19,16 +19,17 @@ A living campaign repository for Stars Without Number RPG campaigns. Currently a
 
 ## Current Status
 
-**Last Session**: [June 26, 2025 - Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
+**Last Session**: [July 4, 2025 - The Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
 
-**Party Location**: Hidden in debris field near Cou, watching patrol investigate
+**Party Location**: Tokko 8 Research Station, Cou (resting in *Starfall Whisper*)
 
 **Immediate Situation**: 
-- Just rescued 19 Resonant Dawn refugees (Sister Meris died)
-- Salvaged Profit Margin, found Protocol tracker that trusts Kaedim
-- Entire crew affected by hallucinogenic gas (recovering)
-- Cou patrol investigating disabled corvette
-- Asset Recovery Team Gamma has been alerted
+- Multiple Asset Recovery Teams converging (<1 hour)
+- Dr. Sss'theta (Architect) incapacitated for ~6 hours
+- 10 refugees formed voluntary psychic network
+- Lance and Kaedim made Deep Link contact with the Sleeper
+- 65 hours until Sleeper awakens
+- Planet-wide civil war erupting
 
 ## Quick Start for Session Planning
 

@@ -45,20 +45,40 @@ Comprehensive directory of all non-player characters across sectors, their affil
 - **Significance**: Living example of Protocol's biological effects
 
 ### Commander Zhou
-- **Status**: Active
-- **Affiliation**: Aurelius Consortium
+- **Status**: Unknown (ship destroyed)
+- **Affiliation**: Aurelius Consortium (possibly Architect-aware)
 - **Role**: Corvette commander
-- **Ship**: *Profit Margin* (disabled)
-- **Appearances**: [Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md)
-- **Quote**: "Some prizes cost more than ships"
+- **Ship**: *Profit Margin* (destroyed by Asset Recovery Team)
+- **Appearances**: [Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md), [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
+- **Quote**: "The real prize swims deeper"
+- **Significance**: Converted ship to Protocol beacon, knew more than revealed
 
 ### Sister Meris
-- **Status**: Sedated/Restrained
+- **Status**: Deceased (chose to die with ship)
 - **Affiliation**: Resonant Dawn (refugee)
-- **Role**: Cult member with Ur-Resonance knowledge
-- **Current Location**: Aboard *Harmonic Prayer*
-- **Appearances**: [Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md)
-- **Significance**: Carries critical intelligence from the Interpreter
+- **Role**: Cult member with complete Ur-Resonance knowledge
+- **Death**: Connected to dying *Harmonic Prayer*
+- **Appearances**: [Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md), [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
+- **Final Words**: "The pattern completes"
+- **Legacy**: Revealed three-point Ur-Resonance approach to Lance
+
+### Dr. Sss'theta
+- **Status**: Incapacitated (Noetic Veil, ~6 hours)
+- **Species**: Serpentine alien
+- **Affiliation**: Silence Architects
+- **Role**: Xenobiologist managing enhancement process
+- **Location**: Tokko 8 Research Station
+- **Appearances**: [Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
+- **Significance**: Revealed buffer network purpose while drugged
+- **Quote**: "The small networks taste like revolution!"
+
+### Professor Ling
+- **Status**: Captured/Killed
+- **Affiliation**: Free-Cou movement
+- **Role**: Resistance contact
+- **Death**: By Cou security forces during civil war
+- **Appearances**: [Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
+- **Significance**: Provided Tokko 8 intel before capture
 
 ## Faction Leaders
 
@@ -71,10 +91,11 @@ Comprehensive directory of all non-player characters across sectors, their affil
 
 ### The Silence Architects (3 individuals)
 - **Status**: Active (UNIVERSE-LEVEL THREAT)
-- **Known Members**: One disguised as information broker
+- **Known Members**: One disguised as information broker, one as Monitor 7 (Architect VI)
 - **Purpose**: Triggered the Scream as genocide
 - **Discovery**: [Lance's Psychonaut Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
-- **Assets**: Grand Nexus location, master override codes
+- **Assets**: Grand Nexus location, master override codes, Asset Recovery Teams
+- **New Threat**: Control corrupted Aurelius ships that hunt Protocol tech
 
 ### Archive Personnel
 - **Status**: Active
@@ -96,12 +117,13 @@ Comprehensive directory of all non-player characters across sectors, their affil
 - **Appearances**: [Orinda Rescue](sectors/abiha-omicron/sessions/2025-03-27-orinda-mine-rescue.md)
 - **Significance**: Insider knowledge of Consortium operations
 
-### Harmonic Prayer Refugees (23 individuals)
-- **Status**: In distress
+### Harmonic Prayer Refugees (19 individuals)
+- **Status**: Rescued (10 in voluntary network, 9 unenhanced)
 - **Affiliation**: Resonant Dawn survivors
-- **Current Location**: Damaged ship near Cou
-- **Appearances**: [Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md)
-- **Significance**: Carry Ur-Resonance intelligence and cult archives
+- **Current Location**: Aboard Starfall Whisper
+- **Appearances**: [Battle at Cou](sectors/abiha-omicron/sessions/2025-06-12-cou-approach-battle.md), [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md), [Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
+- **Notable Members**: Sister Verith, Brother Matthias (voluntary network leaders)
+- **Significance**: Created first voluntary psychic network as alternative to Architect control
 
 ## Antagonists
 
@@ -109,7 +131,9 @@ Comprehensive directory of all non-player characters across sectors, their affil
 - **Patrol Boat Crews** - Destroyed at Cou
 - **Profit Margin Crew** - Evacuated after combat
 - **Orinda Mine Security** - Encountered during rescue
-- **Tracking Team** - Using Protocol detection device
+- **Asset Recovery Team Gamma** - Protocol-corrupted hybrid ship
+- **Cou Patrol Vessels** - Two corrupted, one dead
+- **Tracking Teams** - Using Protocol detection devices
 
 ### Resonant Dawn Cultists
 - **Sanctuary Guards** - Encountered at Teonxe
@@ -117,6 +141,34 @@ Comprehensive directory of all non-player characters across sectors, their affil
 - **True Believers** - Various encountered
 
 ## Minor Characters
+
+### Dr. Sss'theta
+- **Status**: Captured/Unknown
+- **Species**: Ssath (reptilian)
+- **Role**: Brilliant scientist in human augmentation
+- **Appearances**: Referenced in [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
+- **Significance**: Kidnapped by unknown parties for enhancement research
+
+### Professor Ling
+- **Status**: Missing
+- **Affiliation**: Academic (specific institution unknown)
+- **Field**: Neural enhancement compounds
+- **Appearances**: Referenced in [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
+- **Significance**: Disappeared after breakthrough in combat drugs
+
+### Monitor 7 (Architect VI)
+- **Status**: Active
+- **Identity**: One of the Silence Architects
+- **Location**: 3.7 AU from Cou (north pole control node)
+- **Appearances**: [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
+- **Significance**: Acknowledged beacon from Profit Margin
+
+### Brother Hadrim
+- **Status**: Rescued
+- **Affiliation**: Resonant Dawn refugee
+- **Role**: Data keeper
+- **Appearances**: [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
+- **Significance**: Provided Ur-Resonance data cores to Adrian
 
 ### Information Brokers
 - **Unknown Broker** - SECRET: One of the Silence Architects

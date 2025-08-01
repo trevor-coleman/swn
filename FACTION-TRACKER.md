@@ -28,17 +28,21 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 
 ### The Silence Architects
 - **Scale**: Universe-level threat
-- **Leadership**: 3 individuals (1 identified as info broker)
-- **Primary Goal**: Unknown (previously: trigger the Scream)
+- **Leadership**: 3 individuals (1 identified as info broker, 1 as Dr. Sss'theta)
+- **Primary Goal**: Control the Sleeper's awakening through buffer networks
 - **Assets**:
   - Grand Nexus base in drill-space
   - Master override codes for Protocol
   - Deep cover identities across human space
+  - Asset Recovery Teams (Protocol-enhanced ships)
+  - Enhancement facilities like Tokko 8
 - **Recent Actions**:
-  - Maintained cover for centuries
-  - Now aware party knows their secret
-- **Threat**: May trigger another Scream-level event
-- **Key Intel**: [Lance's discovery](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
+  - Dr. Sss'theta exposed at Tokko 8
+  - Multiple Asset Recovery Teams converging
+  - Enhancement process revealed as consciousness slavery
+  - Attempting to create buffer network before Sleeper wakes (65 hours)
+- **Threat**: Will enslave billions to control Sleeper
+- **Key Intel**: [Lance's discovery](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md), [Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
 
 ### Aurelius Consortium
 - **Scale**: Sector-wide mining corporation
@@ -102,6 +106,14 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 
 ## Minor Factions
 
+### Free-Cou Movement
+- **Type**: Revolutionary organization
+- **Leadership**: Decentralized resistance cells
+- **Status**: Active civil war against government
+- **Assets**: Popular support, Professor Ling's intel (before death)
+- **Recent Actions**: Erupted after Lance's "we set you free" broadcast
+- **Significance**: Could provide cover or assistance
+
 ### Penticton 9
 - **Type**: Independent asteroid base
 - **Leadership**: Station council
@@ -147,6 +159,17 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 
 ## Recent Activities by Session
 
+### July 4, 2025
+- **Architects**: Dr. Sss'theta exposed, enhancement process disrupted
+- **Free-Cou**: Civil war erupted after Lance's declaration
+- **Resonant Dawn Refugees**: Created voluntary psychic network
+- **Asset Recovery Teams**: Multiple units converging on Tokko 8
+
+### June 26, 2025
+- **Aurelius**: Profit Margin destroyed by Asset Recovery Team
+- **Architects**: Asset Recovery Team Gamma revealed as corrupted ships
+- **Resonant Dawn**: Sister Meris died revealing Ur-Resonance coordinates
+
 ### June 12, 2025
 - **Aurelius**: Lost 2 patrol boats, corvette disabled
 - **Resonant Dawn**: Refugees fleeing with Ur-Resonance intel
@@ -176,9 +199,13 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 
 ### Confirmed
 - Architects triggered the Scream deliberately
-- Ur-Resonance has pre-human origins
+- Ur-Resonance has pre-human origins (the Sleeper)
 - Consortium has Protocol tracking technology
-- One Architect poses as information broker
+- Dr. Sss'theta is one of the three Architects
+- The Sleeper awakens in 65 hours regardless of intervention
+- Enhancement process creates slave buffer networks
+- Small voluntary networks resist harvesting
+- The Scream was a failed consciousness harvest
 
 ### Suspected
 - Stellar Dynamics may have destroyed planets

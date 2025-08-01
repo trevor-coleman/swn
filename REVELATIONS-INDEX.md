@@ -15,12 +15,26 @@ Major truths uncovered during the campaign, organized by impact and interconnect
   - Could happen again
 - **Related**: [The Scream Truth](sectors/cross-sector/lore/the-scream-truth.md), [Silence Architects](sectors/cross-sector/factions/silence-architects.md)
 
-### One Architect Is Among Us
-- **Discovered**: [June 12 - Lance's Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
-- **Truth**: One Silence Architect poses as an information broker
-- **Danger**: Party has likely interacted with them unknowingly
-- **Current Status**: Identity unknown but party is now hunted
-- **Critical Intel**: They know the party knows
+### The Sleeper - Source of All Psychic Phenomena
+- **Discovered**: [July 4 - Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
+- **Truth**: Ancient pre-human consciousness that predates the Architects
+- **Nature**: Dreams leak into reality through quantum foam
+- **Timeline**: Awakens in 65 hours regardless of intervention
+- **Purpose of Enhancement**: Creates slave buffer networks to control its power
+- **The Scream**: Failed attempt to harvest the Sleeper's consciousness
+- **Implications**:
+  - Every psychic carries fragment of its influence
+  - Architects fear uncontrolled awakening
+  - Voluntary networks offer third option
+- **Related**: Deep Link conversation, Dr. Sss'theta's revelations
+
+### Dr. Sss'theta Is an Architect
+- **Discovered**: [July 4 - Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
+- **Truth**: The serpentine xenobiologist is one of the three Architects
+- **Role**: Managing enhancement facilities to create buffer networks
+- **Current Status**: Incapacitated by Noetic Veil (6 hours)
+- **Revealed**: Enhancement process, buffer network purpose, fear of voluntary networks
+- **Other Architects**: One poses as info broker, one remains unknown
 
 ### The Ur-Resonance
 - **Discovered**: [May 30 - Resonant Dawn Sanctuary](sectors/abiha-omicron/sessions/2025-05-30-resonant-dawn-sanctuary.md)
@@ -57,6 +71,18 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 - **Significance**: Architect base of operations
 - **Contents**: Master override codes
 - **Danger**: Approaching means confronting universe-level threat
+
+### Voluntary Networks - The Third Path
+- **Discovered**: [July 4 - Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
+- **Truth**: Small voluntary psychic networks resist harvesting
+- **Created By**: Ten Resonant Dawn refugees after experiencing both states
+- **Properties**:
+  - Conscious choice required for connection
+  - Limited 50m range
+  - Closed to external influence
+  - Individual identity preserved
+- **Implications**: Alternative to binary of isolation vs enslavement
+- **Architect Fear**: "Small networks taste like revolution"
 
 ## 🟡 Character-Specific Revelations
 
@@ -130,10 +156,13 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 ## Key Questions Raised
 
 ### From Latest Revelations
-1. **Why did the Architects commit genocide?**
+1. **Why did the Architects commit genocide?** → Failed attempt to harvest the Sleeper
 2. **What do the master override codes control?**
 3. **Are there contingencies if all Architects die?**
-4. **Which information broker is the Architect?**
+4. **Which information broker is the Architect?** (One identified as Dr. Sss'theta)
+5. **Should the Sleeper wake free or guided?**
+6. **Can voluntary networks scale beyond small groups?**
+7. **What happens to those absorbed by the Sleeper?**
 
 ### From Earlier Discoveries
 1. **Can the jumpgate be reactivated?**

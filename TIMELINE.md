@@ -95,18 +95,40 @@ Chronological record of major events across all campaigns.
 #### [June 26 - Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
 - **Location**: Cou system debris field
 - **Key Events**:
-  - Rescued 19 Resonant Dawn refugees
-  - Sister Meris died revealing Ur-Resonance coordinates
-  - Lance extracted three-point approach via Network Echo
-  - Salvaged Profit Margin, found Protocol tracker
-  - Kaedim synchronized with tracker (friendship approach)
+  - Rescued 19 Resonant Dawn refugees (Sister Meris died)
+  - Lance extracted complete Ur-Resonance coordinates via Network Echo
+  - Salvaged Profit Margin, found Protocol tracker that trusts Kaedim
+  - Asset Recovery Team Gamma arrived and consumed Profit Margin
+  - Witnessed corruption of Cou patrol vessels
+  - Kaedim learned to force Protocol dormancy with Effort
   - Entire crew affected by hallucinogenic gas
-  - Currently hiding from Cou patrol
 - **Revelations**: 
+  - The Sleeper: Pre-human entity beneath Cou
   - Shackles were "incubators" not prisons
-  - Protocol nodes trying to reunite
-  - Zhou's deeper knowledge: "The real prize swims deeper"
-- **Gained**: Protocol tracker, fuel, Ur-Resonance coordinates
+  - Asset Recovery Teams are Architect-corrupted hybrid ships
+  - "Philosophical nonsense" confuses Protocol sensors
+  - Aurelius Consortium may be Architect-compromised
+- **Gained**: Protocol tracker, fuel, complete three-point coordinates
+- **Horror**: Profit Margin compressed to hyperdense sphere and absorbed
+
+### July 2025 - The Sleeper Awakens
+
+#### [July 4 - The Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
+- **Location**: Tokko 8 Research Station, Cou
+- **Key Events**:
+  - Lance's declaration sparked planet-wide civil war
+  - Met Dr. Sss'theta, Architect xenobiologist
+  - Discovered enhancement creates slave buffer networks
+  - Ten refugees enhanced then freed by reversal protocol
+  - Lance and Kaedim made Deep Link contact with Sleeper
+  - Broadcast truth about Architects planet-wide
+  - Adrian incapacitated Dr. Sss'theta with Noetic Veil
+- **Revelations**:
+  - The Sleeper predates Architects, source of all psychic phenomena
+  - The Scream was failed consciousness harvest attempt
+  - Voluntary networks resist harvesting unlike forced ones
+  - Sleeper awakens in 65 hours regardless of intervention
+- **Critical**: Multiple Asset Recovery Teams converging on position
 
 ## Key Historical Events (Background)
 
@@ -152,23 +174,24 @@ Chronological record of major events across all campaigns.
 ## Upcoming Concerns
 
 ### Immediate (Next Session)
-- Rescue Harmonic Prayer refugees
-- Secure Ur-Resonance intelligence
-- Salvage Profit Margin corvette
-- Navigate Cou's failing defenses
+- Escape Tokko 8 before Asset Recovery Teams arrive
+- Decide whether to broadcast enhancement reversal protocols
+- Manage 10 enhanced refugees with voluntary network
+- Secure or eliminate Dr. Sss'theta
+- 65 hours until Sleeper awakens
 
 ### Short Term
-- Find safe harbor (37 Labria?)
-- Decode Ur-Resonance access method
-- Evade Aurelius hunters
-- Manage Lance's condition
+- Reach three anchor points during syzygy
+- Coordinate with Free-Cou resistance
+- Teach voluntary network method to others
+- Survive Architect retaliation
 
 ### Long Term
-- Confront Silence Architects
-- Unlock Resonance Protocol's true purpose
-- Restore jumpgate functionality
-- Prevent another Scream event
+- Prevent Architect control of Sleeper
+- Determine if Sleeper should wake free or guided
+- Find way to restore jumpgate functionality
+- Create alternative to binary of isolation/enslavement
 
 ---
 
-*Timeline updated through June 12, 2025. For current status, see [Active Tensions](plot-threads/active-tensions.md).*
+*Timeline updated through July 4, 2025. For current status, see [Active Tensions](sectors/abiha-omicron/plot-threads/active-tensions.md).*

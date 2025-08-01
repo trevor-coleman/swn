@@ -43,12 +43,17 @@ When creating session plans, format them like published RPG modules with:
 "Dallas, as the airlock cycles open, stale air rushes past carrying the metallic scent of old blood. Emergency lights strobe red across buckled deck plates. Kaedim, you spot deep gouges in the walls—claw marks wider than your hand."
 
 **GM Notes:**
-- Notice DC 10: Bodies tucked behind consoles
+- Notice DC 10: Bodies tucked behind consoles 
+    - [brief flavor text for success and failure]
 - Program DC 12: Main computer still has partial power
+    - [brief flavor text for success and failure]
 - Hidden: Creature in ventilation system (Notice DC 14)
+    - [brief flavor text for success and failure] 
 
 **NPCs Present:**
 [Stats and motivations]
+
+
 
 ## Structure Elements
 
