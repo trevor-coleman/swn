@@ -13,16 +13,16 @@ Current campaign location - an isolated sector with ancient mysteries and factio
 
 ## Current Status
 
-**Last Session**: [July 4, 2025 - The Truth of Tokko 8](sessions/2025-07-04-truth-of-tokko-8.md)
+**Last Session**: [July 31, 2025 - Nuclear Blues and Protocol Confusion](sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
 
-**Party Location**: Tokko 8 Research Station, Cou
+**Party Location**: Northern Station, Cou (docked at hull breach)
 
 **Major Threats**:
-- Asset Recovery Teams arriving in <1 hour
-- Dr. Sss'theta (Architect) incapacitated but alive
-- 65 hours until the Sleeper awakens
-- Planet-wide civil war erupting
-- Decision needed on broadcasting reversal protocols
+- Enhancement Protocol Omega initiated
+- Hundreds of enhanced soldiers converging
+- 62 hours until the Sleeper awakens
+- No EVA suits for vacuum crossing
+- Harvester ship behind moon (30% contaminated)
 
 ## Sector Overview
 
@@ -32,7 +32,7 @@ The Abiha Omicron sector is cut off from the greater galaxy by a dormant jump ga
 - **Aurelius Consortium** - Mining corporation (possibly Architect-compromised)
 - **Resonant Dawn** - Religious cult (mostly destroyed, refugees created voluntary network)
 - **The Archive** - Knowledge preservationists
-- **The Silence Architects** - Universe-level threat (Dr. Sss'theta exposed)
+- **The Silence Architects** - Universe-level threat (Dr. Sss'theta dead)
 - **Free-Cou Movement** - Revolutionary organization (newly active)
 
 ### Major Mysteries

@@ -63,13 +63,14 @@ Comprehensive directory of all non-player characters across sectors, their affil
 - **Legacy**: Revealed three-point Ur-Resonance approach to Lance
 
 ### Dr. Sss'theta
-- **Status**: Incapacitated (Noetic Veil, ~6 hours)
+- **Status**: Deceased (executed by Lance)
 - **Species**: Serpentine alien
-- **Affiliation**: Silence Architects
+- **Affiliation**: Silence Architects (confirmed as one of the three)
 - **Role**: Xenobiologist managing enhancement process
-- **Location**: Tokko 8 Research Station
-- **Appearances**: [Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
+- **Death**: Shot in head during escape from Tokko 8
+- **Appearances**: [Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md), [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
 - **Significance**: Revealed buffer network purpose while drugged
+- **Final Ramblings**: "frequency 7.7.7—the number of controlled sorrow", "Monitor Seven's favorite toy"
 - **Quote**: "The small networks taste like revolution!"
 
 ### Professor Ling
@@ -90,12 +91,16 @@ Comprehensive directory of all non-player characters across sectors, their affil
 - **Legacy**: Revealed Ur-Resonance existence before death
 
 ### The Silence Architects (3 individuals)
-- **Status**: Active (UNIVERSE-LEVEL THREAT)
-- **Known Members**: One disguised as information broker, one as Monitor 7 (Architect VI)
+- **Status**: Active (UNIVERSE-LEVEL THREAT) - One dead (Dr. Sss'theta)
+- **Known Members**: 
+  - Dr. Sss'theta (deceased) - Xenobiologist at Tokko 8
+  - Unknown information broker (identity hidden)
+  - Monitor Seven (possibly at northern station)
 - **Purpose**: Triggered the Scream as genocide
 - **Discovery**: [Lance's Psychonaut Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
-- **Assets**: Grand Nexus location, master override codes, Asset Recovery Teams
+- **Assets**: Grand Nexus location, master override codes, Asset Recovery Teams, Harvester ship
 - **New Threat**: Control corrupted Aurelius ships that hunt Protocol tech
+- **Weakness**: Pop culture disrupts their consciousness harvesting systems
 
 ### Archive Personnel
 - **Status**: Active
@@ -142,26 +147,26 @@ Comprehensive directory of all non-player characters across sectors, their affil
 
 ## Minor Characters
 
-### Dr. Sss'theta
-- **Status**: Captured/Unknown
-- **Species**: Ssath (reptilian)
-- **Role**: Brilliant scientist in human augmentation
-- **Appearances**: Referenced in [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
-- **Significance**: Kidnapped by unknown parties for enhancement research
+### Free-Three
+- **Status**: Active
+- **Affiliation**: Free-Cou resistance pilot
+- **Role**: Fighter pilot in civil war
+- **Appearances**: [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
+- **Significance**: Received reversal protocols from Lance, prepared suicide run
 
-### Professor Ling
-- **Status**: Missing
-- **Affiliation**: Academic (specific institution unknown)
-- **Field**: Neural enhancement compounds
-- **Appearances**: Referenced in [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
-- **Significance**: Disappeared after breakthrough in combat drugs
+### MissileManiac2847
+- **Status**: Unknown (forum user)
+- **Affiliation**: Conspiracy forums
+- **Role**: Leaked classified missile schematics
+- **Appearances**: Mentioned in [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
+- **Significance**: Gaius's source for missile weak points that proved correct
 
 ### Monitor 7 (Architect VI)
-- **Status**: Active
-- **Identity**: One of the Silence Architects
-- **Location**: 3.7 AU from Cou (north pole control node)
-- **Appearances**: [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md)
-- **Significance**: Acknowledged beacon from Profit Margin
+- **Status**: Active (likely at northern station)
+- **Identity**: Possibly the third Silence Architect
+- **Location**: Controls northern station on Cou
+- **Appearances**: [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md), mentioned in [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
+- **Significance**: Dr. Sss'theta's dying words: "Monitor Seven's favorite toy"
 
 ### Brother Hadrim
 - **Status**: Rescued

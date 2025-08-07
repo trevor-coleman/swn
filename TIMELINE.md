@@ -130,6 +130,24 @@ Chronological record of major events across all campaigns.
   - Sleeper awakens in 65 hours regardless of intervention
 - **Critical**: Multiple Asset Recovery Teams converging on position
 
+#### [July 31 - Nuclear Blues and Protocol Confusion](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
+- **Location**: Northern Station, Cou (docked at hull breach)
+- **Key Events**:
+  - Lance executed Dr. Sss'theta during escape
+  - Gaius's engine "improvements" created chaotic flight pattern
+  - Captain Beefheart's music disrupted Protocol-enhanced pilots
+  - Lance hacked government corvettes to attack scouts
+  - Gaius's conspiracy theories proved true about missile weaknesses
+  - Nuclear missiles detonated at safe distance
+  - "The Wizard" (1989) quantum-entangled with Harvester ship
+  - Enhanced soldiers now believe they should be in California
+- **Revelations**:
+  - Pop culture disrupts Architect consciousness harvesting
+  - "California" permanently embedded in enhanced minds
+  - Monitor Seven controls northern station
+  - Enhancement Protocol Omega initiated
+- **Current**: 50m of vacuum to breach, hundreds of soldiers converging
+
 ## Key Historical Events (Background)
 
 ### Ancient Past
@@ -174,11 +192,11 @@ Chronological record of major events across all campaigns.
 ## Upcoming Concerns
 
 ### Immediate (Next Session)
-- Escape Tokko 8 before Asset Recovery Teams arrive
-- Decide whether to broadcast enhancement reversal protocols
-- Manage 10 enhanced refugees with voluntary network
-- Secure or eliminate Dr. Sss'theta
-- 65 hours until Sleeper awakens
+- Breach emergency bulkhead to enter northern station
+- Secure enhancement chamber for resonator crystals
+- Form party psychic network (level up moment)
+- Survive Enhancement Protocol Omega
+- 62 hours until Sleeper awakens
 
 ### Short Term
 - Reach three anchor points during syzygy
@@ -194,4 +212,4 @@ Chronological record of major events across all campaigns.
 
 ---
 
-*Timeline updated through July 4, 2025. For current status, see [Active Tensions](sectors/abiha-omicron/plot-threads/active-tensions.md).*
+*Timeline updated through July 31, 2025. For current status, see [Active Tensions](sectors/abiha-omicron/plot-threads/active-tensions.md).*

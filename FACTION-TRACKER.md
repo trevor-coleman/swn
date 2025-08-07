@@ -17,9 +17,9 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 
 | Faction | Threat Level | Relationship | Current Status |
 |---------|--------------|--------------|----------------|
-| **Silence Architects** | 🔴 CRITICAL | Hostile | Aware of party investigation |
+| **Silence Architects** | 🔴 CRITICAL | Hostile | One dead, invasion fleet active |
 | **Aurelius Consortium** | 🟠 HIGH | Hostile | Actively hunting party |
-| **Resonant Dawn** | 🟡 MEDIUM | Complex | Mostly destroyed, refugees fleeing |
+| **Resonant Dawn** | 🟡 MEDIUM | Allied | Refugees created voluntary network |
 | **The Archive** | 🟢 LOW | Neutral | Judgment complete (outcome unknown) |
 | **Stellar Dynamics** | ⚫ UNKNOWN | Unknown | (Eradinus Expanse faction) |
 | **Penticton 9** | 🟢 LOW | Allied | Grateful for assistance |
@@ -28,7 +28,7 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 
 ### The Silence Architects
 - **Scale**: Universe-level threat
-- **Leadership**: 3 individuals (1 identified as info broker, 1 as Dr. Sss'theta)
+- **Leadership**: 3 individuals (1 dead: Dr. Sss'theta, 1 info broker, 1 Monitor Seven?)
 - **Primary Goal**: Control the Sleeper's awakening through buffer networks
 - **Assets**:
   - Grand Nexus base in drill-space
@@ -36,13 +36,17 @@ Real-time tracking of all major organizations across sectors, their goals, asset
   - Deep cover identities across human space
   - Asset Recovery Teams (Protocol-enhanced ships)
   - Enhancement facilities like Tokko 8
+  - Harvester ship behind Cou's moon
+  - Northern station planetary array
 - **Recent Actions**:
-  - Dr. Sss'theta exposed at Tokko 8
-  - Multiple Asset Recovery Teams converging
-  - Enhancement process revealed as consciousness slavery
-  - Attempting to create buffer network before Sleeper wakes (65 hours)
+  - Dr. Sss'theta executed by Lance at Tokko 8
+  - Invasion fleet attacking northern station
+  - Enhancement Protocol Omega initiated
+  - Harvester ship 30% contaminated with "The Wizard" (1989)
+  - Attempting to create buffer network before Sleeper wakes (62 hours)
+- **Weakness**: Pop culture disrupts consciousness harvesting
 - **Threat**: Will enslave billions to control Sleeper
-- **Key Intel**: [Lance's discovery](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md), [Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
+- **Key Intel**: [Lance's discovery](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md), [Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md), [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
 
 ### Aurelius Consortium
 - **Scale**: Sector-wide mining corporation
@@ -65,10 +69,10 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 - **Leadership**: The Interpreter (deceased)
 - **Primary Goal**: Transcendence through Protocol
 - **Assets**:
-  - Scattered refugees (23 on *Harmonic Prayer*)
+  - 19 refugees (10 in voluntary network, 9 unenhanced)
   - Ur-Resonance intelligence
   - Cult archives from Teonxe
-  - Sister Meris's knowledge
+  - Sister Meris's knowledge (deceased)
 - **Recent Actions**:
   - Sanctuary on Teonxe destroyed
   - Interpreter killed revealing Ur-Resonance
@@ -110,9 +114,13 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 - **Type**: Revolutionary organization
 - **Leadership**: Decentralized resistance cells
 - **Status**: Active civil war against government
-- **Assets**: Popular support, Professor Ling's intel (before death)
-- **Recent Actions**: Erupted after Lance's "we set you free" broadcast
-- **Significance**: Could provide cover or assistance
+- **Assets**: Popular support, Professor Ling's intel (before death), reversal protocols
+- **Recent Actions**: 
+  - Erupted after Lance's "we set you free" broadcast
+  - Three fighters received enhancement reversal protocols
+  - Fighting government forces in Grid Seven
+- **Notable Members**: Free-Three (pilot who acknowledged protocols)
+- **Significance**: Providing active combat distraction
 
 ### Penticton 9
 - **Type**: Independent asteroid base
@@ -159,6 +167,13 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 
 ## Recent Activities by Session
 
+### July 31, 2025
+- **Architects**: Dr. Sss'theta executed, invasion fleet at northern station
+- **Free-Cou**: Received reversal protocols, fighting government forces
+- **Harvester Ship**: 30% contaminated with "The Wizard" (1989)
+- **Enhanced Soldiers**: Believe they should be in California
+- **Northern Station**: Enhancement Protocol Omega initiated
+
 ### July 4, 2025
 - **Architects**: Dr. Sss'theta exposed, enhancement process disrupted
 - **Free-Cou**: Civil war erupted after Lance's declaration
@@ -201,11 +216,13 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 - Architects triggered the Scream deliberately
 - Ur-Resonance has pre-human origins (the Sleeper)
 - Consortium has Protocol tracking technology
-- Dr. Sss'theta is one of the three Architects
-- The Sleeper awakens in 65 hours regardless of intervention
+- Dr. Sss'theta was one of the three Architects (now dead)
+- The Sleeper awakens in 62 hours regardless of intervention
 - Enhancement process creates slave buffer networks
 - Small voluntary networks resist harvesting
 - The Scream was a failed consciousness harvest
+- Pop culture disrupts Architect consciousness harvesting
+- "California" permanently embeds in enhanced minds
 
 ### Suspected
 - Stellar Dynamics may have destroyed planets

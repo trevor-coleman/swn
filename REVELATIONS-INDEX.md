@@ -28,13 +28,14 @@ Major truths uncovered during the campaign, organized by impact and interconnect
   - Voluntary networks offer third option
 - **Related**: Deep Link conversation, Dr. Sss'theta's revelations
 
-### Dr. Sss'theta Is an Architect
+### Dr. Sss'theta Was an Architect
 - **Discovered**: [July 4 - Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
-- **Truth**: The serpentine xenobiologist is one of the three Architects
+- **Truth**: The serpentine xenobiologist was one of the three Architects
 - **Role**: Managing enhancement facilities to create buffer networks
-- **Current Status**: Incapacitated by Noetic Veil (6 hours)
+- **Death**: Executed by Lance during escape ([July 31](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md))
 - **Revealed**: Enhancement process, buffer network purpose, fear of voluntary networks
-- **Other Architects**: One poses as info broker, one remains unknown
+- **Final Words**: "frequency 7.7.7", "Monitor Seven's favorite toy"
+- **Other Architects**: One poses as info broker, one is Monitor Seven
 
 ### The Ur-Resonance
 - **Discovered**: [May 30 - Resonant Dawn Sanctuary](sectors/abiha-omicron/sessions/2025-05-30-resonant-dawn-sanctuary.md)
@@ -83,6 +84,16 @@ Major truths uncovered during the campaign, organized by impact and interconnect
   - Individual identity preserved
 - **Implications**: Alternative to binary of isolation vs enslavement
 - **Architect Fear**: "Small networks taste like revolution"
+
+### Pop Culture Disrupts Architect Systems
+- **Discovered**: [July 31 - Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
+- **Truth**: Human entertainment interferes with consciousness harvesting
+- **Evidence**: 
+  - "The Wizard" (1989) caused 30% contamination in Harvester ship
+  - Captain Beefheart disabled Protocol-enhanced pilots
+  - "California" permanently embedded in enhanced minds
+- **Theory**: Harvesting requires pure data streams
+- **Implications**: Human culture as anti-Architect weapon
 
 ## 🟡 Character-Specific Revelations
 
@@ -159,10 +170,13 @@ Major truths uncovered during the campaign, organized by impact and interconnect
 1. **Why did the Architects commit genocide?** → Failed attempt to harvest the Sleeper
 2. **What do the master override codes control?**
 3. **Are there contingencies if all Architects die?**
-4. **Which information broker is the Architect?** (One identified as Dr. Sss'theta)
+4. **Which information broker is the Architect?** (Not Dr. Sss'theta - he's dead)
 5. **Should the Sleeper wake free or guided?**
 6. **Can voluntary networks scale beyond small groups?**
 7. **What happens to those absorbed by the Sleeper?**
+8. **Why does "California" affect enhanced minds?**
+9. **Is Monitor Seven the third Architect?**
+10. **Can pop culture be weaponized systematically?**
 
 ### From Earlier Discoveries
 1. **Can the jumpgate be reactivated?**

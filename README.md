@@ -19,17 +19,17 @@ A living campaign repository for Stars Without Number RPG campaigns. Currently a
 
 ## Current Status
 
-**Last Session**: [July 4, 2025 - The Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md)
+**Last Session**: [July 31, 2025 - Nuclear Blues and Protocol Confusion](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
 
-**Party Location**: Tokko 8 Research Station, Cou (resting in *Starfall Whisper*)
+**Party Location**: Northern Station, Cou (docked at hull breach C-7)
 
 **Immediate Situation**: 
-- Multiple Asset Recovery Teams converging (<1 hour)
-- Dr. Sss'theta (Architect) incapacitated for ~6 hours
-- 10 refugees formed voluntary psychic network
-- Lance and Kaedim made Deep Link contact with the Sleeper
-- 65 hours until Sleeper awakens
-- Planet-wide civil war erupting
+- 50m of vacuum between party and emergency bulkhead
+- Enhancement Protocol Omega initiated - hundreds converging
+- Dr. Sss'theta (Architect) executed by Lance
+- 10 refugees in voluntary psychic network
+- 62 hours until Sleeper awakens
+- Enhanced soldiers believe they should be in California
 
 ## Quick Start for Session Planning
 
@@ -81,10 +81,11 @@ Military drugs and human augmentation experiments
 Party's arrival method; currently dormant
 
 ## Key Mysteries
-1. What is the true purpose of the Resonance Protocol?
-2. Why did the Silence Architects trigger the Scream?
+1. ~~What is the true purpose of the Resonance Protocol?~~ (Architect control mechanism)
+2. ~~Why did the Silence Architects trigger the Scream?~~ (Failed consciousness harvest)
 3. Who manipulated Dallas and Kaedim's meeting?
 4. Where is the missing party member Taka?
+5. Why does "California" affect Protocol-enhanced minds?
 
 ## Campaign Tools
 
