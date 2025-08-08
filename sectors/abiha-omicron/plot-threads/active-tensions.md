@@ -61,6 +61,7 @@
   1. **[North Pole Control Node](../systems/dul-yaq/cou/locations/facility--north-pole-control-node.md)** (3.7 AU) - Monitor 7 acknowledged beacon
   2. **[Solano Storm Anchor](../systems/dul-yaq/cou/locations/facility--solano-storm-anchor.md)** - Gravitational prison containing "Singers"
   3. **[Maratos Deep Temple](../systems/dul-yaq/cou/locations/temple--maratos-deep-temple.md)** - Direct access to The Sleeper
+- **Party Progress**: Secured remote control of Tokko 8 enhancement chamber (not an anchor point but part of planetary array)
 - **Requirements**: Syzygy alignment and consciousness integration at all three points
 - **The Sleeper's Bargain**: Help it wake free rather than enslaved
   - Destroy the buffer network
@@ -230,6 +231,24 @@
 - Station defenses partially disrupted by EMP and "California"
 - Harvester ship behind moon (30% contaminated with "The Wizard")
 
+### Party's Understanding: The Resonance Chamber Plan
+The party believes they must achieve simultaneous activation at multiple resonance chambers during syzygy. Their current understanding:
+
+**Secured Assets**:
+- **Tokko 8 Enhancement Chamber**: Remote control established via Lance's hack
+- **Northern Station**: Current location, attempting to secure second chamber
+
+**Target Anchor Points** (for simultaneous activation):
+1. **North Pole Control Node** (3.7 AU) - Remote location in space
+2. **Solano Storm Anchor** - Storm-locked facility 
+3. **Maratos Deep Temple** - Underwater, direct Sleeper access
+
+**Their Theory**: By controlling enhancement chambers AND activating the three anchor points simultaneously during syzygy, they can:
+- Override the Architect's buffer network control
+- Establish themselves as the consciousness bridge
+- Guide the Sleeper's awakening toward freedom rather than enslavement
+- Use the planetary enhancement array against the Architects
+
 ### Sleeper Awakening Options
 - **Option 1**: Help Sleeper wake free (destroy buffer network, become bridge)
 - **Option 2**: Allow Architect control (billions enslaved as buffer)
@@ -238,12 +257,13 @@
 - **WARNING**: Syzygy alignment required at three anchor points
 
 ### Immediate Tactical Needs
-- Breach or hack emergency bulkhead
+- Breach or hack emergency bulkhead at northern station
 - Navigate 300m through damaged sections to enhancement chamber
+- Secure remote control of northern station's enhancement systems
 - Install resonator crystals in party's damaged chamber
-- Form psychic network (party level-up moment)
-- Disrupt planetary enhancement array
-- Escape before overwhelming force arrives
+- Form party psychic network (level-up moment)
+- Plan route to final anchor point(s) before syzygy
+- Maintain control of Tokko 8 systems remotely
 
 ### Strategic Considerations
 - **Asset**: Pop culture disrupts Architect systems

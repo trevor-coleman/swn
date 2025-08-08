@@ -31,6 +31,13 @@ Essential information for running sessions without searching through files.
 
 ## Critical Information
 
+### The Party's Plan - Resonance Chamber Synchronization
+**Current Understanding**: Simultaneous activation needed at multiple points during syzygy
+- **Already Secured**: Tokko 8 enhancement chamber (remote control)
+- **Current Target**: Northern station enhancement chamber
+- **Final Targets**: Three anchor points (North Pole Node, Solano Storm, Maratos Deep)
+- **Goal**: Override Architect control of Sleeper's awakening
+
 ### The Big Threat
 **Silence Architects** - 3 beings who triggered the Scream
 - One dead (Dr. Sss'theta), one info broker, one Monitor Seven?
