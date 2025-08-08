@@ -10,6 +10,29 @@ When the DM asks for help, provide:
 - Scene descriptions that prompt player action
 - NPC actions and dialogue options
 
+## Quick Mechanics References
+
+### Essential Rules
+- [Core Rules Overview](game-mechanics/core-rules-reference.md) - Skill checks, saves, combat basics
+- [System Quick Reference](game-mechanics/system-quick-reference.md) - DCs, modifiers, quick lookup
+- [Quick Reference Sheet](QUICK-REFERENCE.md) - Current party status and common checks
+
+### Skill Checks
+- **Basic Roll**: 2d6 + Attribute + Skill ≥ DC
+- **Standard DCs**: 6 (routine), 8 (professional), 10 (expert), 12 (master)
+- **Opposed**: Both roll, higher wins
+
+### Saving Throws
+- **Roll**: 1d20 ≥ Save Score (starts at 15, improves with level)
+- **Physical**: Str/Con modifier vs poison, disease
+- **Evasion**: Dex/Int modifier vs explosions, traps
+- **Mental**: Wis/Cha modifier vs psychic powers
+
+### Combat References
+- [Ship Combat Basics](game-mechanics/ship-combat-basics.md)
+- [Ship Combat Actions](game-mechanics/ship-combat-actions.md)
+- [Space Travel Times](game-mechanics/space-travel-times.md)
+
 ## Flavor Text Guidelines
 
 ### Voice
