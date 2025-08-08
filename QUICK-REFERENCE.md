@@ -5,38 +5,38 @@ Essential information for running sessions without searching through files.
 ## Current Party Status
 
 ### Location & Situation
-- **Current Location**: Space near Cou (failing shackle system)
-- **Immediate Action**: Approaching damaged refugee ship *Harmonic Prayer*
-- **Nearby Threats**: Disabled Aurelius corvette *Profit Margin*
-- **Time Pressure**: Cou's defenses failing in cascade
+- **Current Location**: Northern Station, Cou (docked at hull breach C-7)
+- **Immediate Action**: Must breach emergency bulkhead to enter station
+- **Immediate Threats**: Enhancement Protocol Omega - hundreds converging
+- **Time Pressure**: 62 hours until Sleeper awakens
 
 ### Party Condition
-- **Lance**: Recovering from neural entanglement (Network Echo ability)
-- **Dallas**: Precognitive abilities strengthening
-- **Kaedim**: Gauntlet active, ancestral memories surfacing
-- **Adrian**: Managing medical crises
-- **Ship**: [Starfall Whisper](party/starfall-whisper.md) operational
+- **Lance**: Crashing hard from combat meth, executed Dr. Sss'theta
+- **Dallas**: Needs spotlight moment, kept everyone alive through chaos
+- **Kaedim**: Gauntlet hot with power, double-failed forcing dormancy
+- **Adrian**: Managing 19 refugees (10 in voluntary network)
+- **Ship**: [Starfall Whisper](party/starfall-whisper.md) docked at breach
 
 ## Key NPCs in Play
 
 ### Immediate
-- **Sister Meris** - Sedated on refugee ship, has Ur-Resonance intel
-- **Commander Zhou** - Disabled corvette, negotiated fuel deal
-- **23 Refugees** - Fleeing Teonxe with cult archives
+- **Enhanced Soldiers** - Hundreds converging, believe they should be in California
+- **Monitor Seven** - Likely controls northern station (Architect?)
+- **19 Refugees** - 10 in voluntary network led by Sister Verith/Brother Matthias
 
 ### Recent Contacts
-- **Gaius Carranzo** - New crew member, ex-Consortium
-- **Isa** - Archive authority (judgment pending)
-- **The Interpreter** - Dead, revealed Ur-Resonance
+- **Gaius Carranzo** - NPC ally, conspiracy theories proven correct
+- **Dr. Sss'theta** - Architect xenobiologist (deceased by Lance)
+- **Free-Three** - Resistance pilot who received reversal protocols
 
 ## Critical Information
 
 ### The Big Threat
 **Silence Architects** - 3 beings who triggered the Scream
-- One poses as info broker (identity unknown)
+- One dead (Dr. Sss'theta), one info broker, one Monitor Seven?
 - Have Grand Nexus coordinates: 2847.3/-891.2/-3
 - Possess master override codes
-- Now aware party knows their secret
+- Weakness: Pop culture disrupts consciousness harvesting
 
 ### What Everyone Wants
 - **Resonance Protocol** - Ancient communication system
@@ -45,9 +45,9 @@ Essential information for running sessions without searching through files.
 - **Jumpgate Knowledge** - Way home from sector
 
 ### Who Has What
-- **Party**: Crystal fragment, corrupted key data, coordinates
-- **Refugees**: Ur-Resonance access method (3 keys needed)
-- **Consortium**: Protocol tracking device, black box data
+- **Party**: Crystal fragment, corrupted key data, coordinates, enhancement chamber data
+- **Refugees**: Created voluntary psychic network (revolutionary)
+- **Harvester Ship**: Behind moon, 30% contaminated with "The Wizard" (1989)
 - **Architects**: Master override, full Protocol knowledge
 
 ## Common Skill Checks
@@ -115,20 +115,21 @@ Essential information for running sessions without searching through files.
 **Male**: Marcus, Jin, Alexei, Omar, Felix
 **Female**: Elena, Zara, Yuki, Asha, Luna
 **Ships**: *Lucky Strike*, *Void Walker*, *Star's End*
+**Enhanced Soldiers**: Seven-Seven-Nine, Monitor's Voice, California Dream
 
 ### Instant Locations
-1. Derelict station, gravity failing
-2. Mining shaft, something uncovered
-3. Black market, faction agents present
-4. Medical bay, overwhelmed with refugees
-5. Command center, alarms blaring
+1. Enhancement chamber, bodies in tanks
+2. Station breach, vacuum exposure threat
+3. Protocol node room, reality distorting
+4. Emergency bulkhead, sealed from inside
+5. Command center, \"California\" playing on loop
 
 ### Immediate Complications
-1. Life support failing (1d6 hours)
-2. Faction agents arrive (1d4 ships)
-3. System malfunction (critical component)
-4. Psychic anomaly detected
-5. Distress signal (trap or real?)
+1. Enhancement Protocol Omega spreads (1d6 minutes)
+2. Harvester ship adjusts to entertainment contamination
+3. Bulkhead seal failing (vacuum breach)
+4. Enhanced soldiers arrive singing about California
+5. Station defenses reboot (targeting everyone)
 
 ## Session Checklist
 
