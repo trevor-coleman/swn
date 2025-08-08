@@ -8,7 +8,7 @@ Essential information for running sessions without searching through files.
 - **Current Location**: Northern Station, Cou (docked at hull breach C-7)
 - **Immediate Action**: Must breach emergency bulkhead to enter station
 - **Immediate Threats**: Enhancement Protocol Omega - hundreds converging
-- **Time Pressure**: 62 hours until Sleeper awakens
+- **Time Pressure**: 57 hours until Sleeper awakens
 
 ### Party Condition
 - **Lance**: Crashing hard from combat meth, executed Dr. Sss'theta

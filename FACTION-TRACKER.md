@@ -217,7 +217,7 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 - Ur-Resonance has pre-human origins (the Sleeper)
 - Consortium has Protocol tracking technology
 - Dr. Sss'theta was one of the three Architects (now dead)
-- The Sleeper awakens in 62 hours regardless of intervention
+- The Sleeper awakens in 57 hours regardless of intervention
 - Enhancement process creates slave buffer networks
 - Small voluntary networks resist harvesting
 - The Scream was a failed consciousness harvest

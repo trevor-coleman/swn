@@ -6,11 +6,11 @@ Date: July 31, 2025
 - Ship: *Starfall Whisper* 
 - Crew: All present (Lance, Kaedim, Dallas, Adrian, Gaius)
 - Refugees: 19 total (10 in voluntary network led by Sister Verith and Brother Matthias, 9 unenhanced)
-- Time Pressure: 62 hours until Sleeper awakens
+- Time Pressure: 57 hours until Sleeper awakens (after 8-hour rest)
 
 ## Major Events
 
-### Rest Interrupted
+### Rest Completed
 The party awakened from their desperately needed 8-hour rest to find Gaius monitoring increasingly frantic communications. His conspiracy-trained pattern recognition revealed the awful truth: this wasn't a pursuit force, it was an invasion fleet. The damaged enhancement chamber couldn't form new psychic networks—they'd need specific resonator crystals from either the station ahead, the city below, or the approaching enemy ships.
 
 Dr. Sss'theta stirred during the crisis, his drugged ramblings about "frequency 7.7.7—the number of controlled sorrow" and "Monitor Seven's favorite toy" proving both helpful and disturbing. Lance made the cold decision to execute the Architect with a single shot to the head, dark ichor pooling beneath the serpentine xenobiologist. The enhancement chamber's systems immediately began a catastrophic purge sequence, forcing Lance into a desperate hacking attempt that barely succeeded in transferring control to his personal datapad.
@@ -118,7 +118,7 @@ The station's final defense - mass conscription of all beings within range for i
 2. **Secure Enhancement Chamber**: Contains needed resonator crystals
 3. **Form Party Psychic Network**: Ultimate power-up moment
 4. **Disrupt Planetary Array**: Prevent mass consciousness harvest
-5. **Prepare for Sleeper**: 62 hours remaining
+5. **Prepare for Sleeper**: 57 hours remaining
 
 ## Faction Activities
 - **Silence Architects**: One dead (Dr. Sss'theta), invasion fleet arriving, Monitor Seven aware
@@ -148,4 +148,4 @@ The station's final defense - mass conscription of all beings within range for i
 - Gain enhancement chamber technology for party network
 - Prevent planetary enhancement array completion
 - Survive Enhancement Protocol Omega
-- 62 hours until the Sleeper awakens
+- 57 hours until the Sleeper awakens

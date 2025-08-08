@@ -20,7 +20,7 @@ Current campaign location - an isolated sector with ancient mysteries and factio
 **Major Threats**:
 - Enhancement Protocol Omega initiated
 - Hundreds of enhanced soldiers converging
-- 62 hours until the Sleeper awakens
+- 57 hours until the Sleeper awakens
 - No EVA suits for vacuum crossing
 - Harvester ship behind moon (30% contaminated)
 

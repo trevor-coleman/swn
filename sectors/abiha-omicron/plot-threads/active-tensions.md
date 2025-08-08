@@ -10,7 +10,7 @@
 - **Personal Connection**: Dr. Sss'theta executed by Lance at Tokko 8 ([Nuclear Blues](../sessions/2025-07-31-nuclear-blues-protocol-confusion.md))
 - **Current Risk**: Invasion fleet at northern station, Enhancement Protocol Omega active
 - **Assets**: Grand Nexus location, master override codes, enhancement facilities, Harvester ship
-- **Danger**: Creating slave buffer network for Sleeper (62 hours remaining)
+- **Danger**: Creating slave buffer network for Sleeper (57 hours remaining)
 - **New Intel**: Pop culture disrupts consciousness harvesting ("California")
 - **Related**: [Lore](../../cross-sector/factions/silence-architects.md), [The Scream Truth](../../cross-sector/lore/the-scream-truth.md)
 
@@ -56,7 +56,7 @@
   - Source of all psychic phenomena in the galaxy
   - Dreams leak into reality through quantum foam
   - Has been waiting and learning since Architects arrived
-  - Awakens in 62 hours regardless of intervention
+  - Awakens in 57 hours regardless of intervention
 - **The Three Anchor Points** (Full details now available):
   1. **[North Pole Control Node](../systems/dul-yaq/cou/locations/facility--north-pole-control-node.md)** (3.7 AU) - Monitor 7 acknowledged beacon
   2. **[Solano Storm Anchor](../systems/dul-yaq/cou/locations/facility--solano-storm-anchor.md)** - Gravitational prison containing "Singers"
@@ -222,7 +222,7 @@
 - **IMMEDIATE**: Breach emergency bulkhead at northern station
 - **CRITICAL**: Secure enhancement chamber for resonator crystals
 - **URGENT**: Form party psychic network before soldiers arrive
-- **COUNTDOWN**: 62 hours until Sleeper awakens
+- **COUNTDOWN**: 57 hours until Sleeper awakens
 
 ### Current Situation
 - Docked at hull breach C-7 with 50m of vacuum ahead

@@ -28,7 +28,7 @@ A living campaign repository for Stars Without Number RPG campaigns. Currently a
 - Enhancement Protocol Omega initiated - hundreds converging
 - Dr. Sss'theta (Architect) executed by Lance
 - 10 refugees in voluntary psychic network
-- 62 hours until Sleeper awakens
+- 57 hours until Sleeper awakens
 - Enhanced soldiers believe they should be in California
 
 ## Quick Start for Session Planning

@@ -196,7 +196,7 @@ Chronological record of major events across all campaigns.
 - Secure enhancement chamber for resonator crystals
 - Form party psychic network (level up moment)
 - Survive Enhancement Protocol Omega
-- 62 hours until Sleeper awakens
+- 57 hours until Sleeper awakens
 
 ### Short Term
 - Reach three anchor points during syzygy
