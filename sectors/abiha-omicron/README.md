@@ -13,16 +13,16 @@ Current campaign location - an isolated sector with ancient mysteries and factio
 
 ## Current Status
 
-**Last Session**: [July 31, 2025 - Nuclear Blues and Protocol Confusion](sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
+**Last Session**: [August 7, 2025 - Mind Meld Preparation](sessions/2025-08-07-mind-meld-preparation.md)
 
-**Party Location**: Northern Station, Cou (docked at hull breach)
+**Party Location**: Northern Station enhancement chamber (secured)
 
 **Major Threats**:
-- Enhancement Protocol Omega initiated
-- Hundreds of enhanced soldiers converging
-- 57 hours until the Sleeper awakens
-- No EVA suits for vacuum crossing
-- Harvester ship behind moon (30% contaminated)
+- 60 hours until the Sleeper awakens
+- Asset Recovery Teams still in system
+- Syzygy window approaching for anchor activation
+- Need to reach remaining anchor points
+- Harvester ship status unknown
 
 ## Sector Overview
 

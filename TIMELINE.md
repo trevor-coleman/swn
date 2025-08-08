@@ -148,6 +148,23 @@ Chronological record of major events across all campaigns.
   - Enhancement Protocol Omega initiated
 - **Current**: 50m of vacuum to breach, hundreds of soldiers converging
 
+### August 2025 - The Final Countdown
+
+#### [August 7 - Mind Meld Preparation](sectors/abiha-omicron/sessions/2025-08-07-mind-meld-preparation.md)
+- **Location**: Northern Station enhancement chamber (secured)
+- **Key Events**:
+  - Lance defeated Monitor Seven in cyberspace
+  - Kaedim claimed chamber with Khyber authority
+  - Three Aurelius corvettes destroyed in space combat
+  - Dallas achieved perfect concealment (rolled 16)
+  - All three enhancement nodes under remote control
+  - Free-Cou forces acknowledged party as allies
+- **Revelations**:
+  - Monitor Seven was distributed station consciousness
+  - Enhancement chambers designed for voluntary "Harmony Nodes"
+  - Khyber Line were guardians/inheritors, not exploiters
+- **Current**: Ready for mind meld, 60 hours until Sleeper awakens
+
 ## Key Historical Events (Background)
 
 ### Ancient Past
@@ -192,11 +209,11 @@ Chronological record of major events across all campaigns.
 ## Upcoming Concerns
 
 ### Immediate (Next Session)
-- Breach emergency bulkhead to enter northern station
-- Secure enhancement chamber for resonator crystals
-- Form party psychic network (level up moment)
-- Survive Enhancement Protocol Omega
-- 57 hours until Sleeper awakens
+- Complete mind meld to form voluntary psychic network
+- Synchronize activation of three enhancement nodes
+- Choose and travel to next anchor point
+- Maintain node control during syzygy approach
+- 60 hours until Sleeper awakens
 
 ### Short Term
 - Reach three anchor points during syzygy

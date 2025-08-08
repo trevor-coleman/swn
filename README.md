@@ -19,17 +19,17 @@ A living campaign repository for Stars Without Number RPG campaigns. Currently a
 
 ## Current Status
 
-**Last Session**: [July 31, 2025 - Nuclear Blues and Protocol Confusion](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
+**Last Session**: [August 7, 2025 - Mind Meld Preparation](sectors/abiha-omicron/sessions/2025-08-07-mind-meld-preparation.md)
 
-**Party Location**: Northern Station, Cou (docked at hull breach C-7)
+**Party Location**: Northern Station enhancement chamber (secured)
 
 **Immediate Situation**: 
-- 50m of vacuum between party and emergency bulkhead
-- Enhancement Protocol Omega initiated - hundreds converging
-- Dr. Sss'theta (Architect) executed by Lance
-- 10 refugees in voluntary psychic network
-- 57 hours until Sleeper awakens
-- Enhanced soldiers believe they should be in California
+- Enhancement chamber under party control
+- All three nodes ready for synchronized activation
+- Monitor Seven eliminated (was the station itself)
+- Ready to form voluntary psychic network
+- 60 hours until Sleeper awakens
+- Free-Cou forces now allied with party
 
 ## Quick Start for Session Planning
 

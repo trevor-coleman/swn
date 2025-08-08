@@ -5,23 +5,23 @@ Essential information for running sessions without searching through files.
 ## Current Party Status
 
 ### Location & Situation
-- **Current Location**: Northern Station, Cou (docked at hull breach C-7)
-- **Immediate Action**: Must breach emergency bulkhead to enter station
-- **Immediate Threats**: Enhancement Protocol Omega - hundreds converging
-- **Time Pressure**: 57 hours until Sleeper awakens
+- **Current Location**: Northern Station enhancement chamber (secured)
+- **Immediate Action**: Form voluntary psychic network (mind meld)
+- **Immediate Threats**: Asset Recovery Teams still searching
+- **Time Pressure**: 60 hours until Sleeper awakens
 
 ### Party Condition
-- **Lance**: Crashing hard from combat meth, executed Dr. Sss'theta
-- **Dallas**: Needs spotlight moment, kept everyone alive through chaos
-- **Kaedim**: Gauntlet hot with power, double-failed forcing dormancy
-- **Adrian**: Managing 19 refugees (10 in voluntary network)
-- **Ship**: [Starfall Whisper](party/starfall-whisper.md) docked at breach
+- **Lance**: Defeated Monitor Seven in cyberspace, controls all nodes
+- **Dallas**: Got spotlight - perfect concealment and tactical victory
+- **Kaedim**: Recognized as Khyber inheritor by enhancement chamber
+- **Adrian**: Downloaded voluntary disconnection protocols
+- **Ship**: [Starfall Whisper](party/starfall-whisper.md) secure at station
 
 ## Key NPCs in Play
 
 ### Immediate
-- **Enhanced Soldiers** - Hundreds converging, believe they should be in California
-- **Monitor Seven** - Likely controls northern station (Architect?)
+- **Enhanced Soldiers** - Trapped and hallucinating in sealed corridors
+- **Monitor Seven** - Eliminated (was distributed station consciousness)
 - **19 Refugees** - 10 in voluntary network led by Sister Verith/Brother Matthias
 
 ### Recent Contacts

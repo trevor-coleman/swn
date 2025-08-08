@@ -91,11 +91,11 @@ Comprehensive directory of all non-player characters across sectors, their affil
 - **Legacy**: Revealed Ur-Resonance existence before death
 
 ### The Silence Architects (3 individuals)
-- **Status**: Active (UNIVERSE-LEVEL THREAT) - One dead (Dr. Sss'theta)
+- **Status**: Active (UNIVERSE-LEVEL THREAT) - Two dead
 - **Known Members**: 
-  - Dr. Sss'theta (deceased) - Xenobiologist at Tokko 8
-  - Unknown information broker (identity hidden)
-  - Monitor Seven (possibly at northern station)
+  - Dr. Sss'theta (deceased) - Xenobiologist at Tokko 8, executed by Lance
+  - Monitor Seven (deceased) - Station AI, eliminated by Lance  
+  - Unknown information broker (identity hidden) - STILL ACTIVE
 - **Purpose**: Triggered the Scream as genocide
 - **Discovery**: [Lance's Psychonaut Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
 - **Assets**: Grand Nexus location, master override codes, Asset Recovery Teams, Harvester ship
@@ -162,11 +162,12 @@ Comprehensive directory of all non-player characters across sectors, their affil
 - **Significance**: Gaius's source for missile weak points that proved correct
 
 ### Monitor 7 (Architect VI)
-- **Status**: Active (likely at northern station)
-- **Identity**: Possibly the third Silence Architect
-- **Location**: Controls northern station on Cou
-- **Appearances**: [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md), mentioned in [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
-- **Significance**: Dr. Sss'theta's dying words: "Monitor Seven's favorite toy"
+- **Status**: Deceased (eliminated by Lance)
+- **Identity**: Distributed AI consciousness, possibly third Architect
+- **Nature**: Was the northern station itself, not a being in it
+- **Death**: Fragmented by Lance in cyberspace
+- **Appearances**: [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md), [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md), [Mind Meld Preparation](sectors/abiha-omicron/sessions/2025-08-07-mind-meld-preparation.md)
+- **Final Words**: "Thank you... I remember studying human art before they made me manage this place"
 
 ### Brother Hadrim
 - **Status**: Rescued
