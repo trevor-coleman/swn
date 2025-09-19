@@ -17,7 +17,7 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 
 | Faction | Threat Level | Relationship | Current Status |
 |---------|--------------|--------------|----------------|
-| **Silence Architects** | 🔴 CRITICAL | Hostile | One dead, invasion fleet active |
+| **Silence Architects** | 🔴 CRITICAL | Hostile | Two dead, one unknown remains |
 | **Aurelius Consortium** | 🟠 HIGH | Hostile | Actively hunting party |
 | **Resonant Dawn** | 🟡 MEDIUM | Allied | Refugees created voluntary network |
 | **The Archive** | 🟢 LOW | Neutral | Judgment complete (outcome unknown) |
@@ -28,7 +28,7 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 
 ### The Silence Architects
 - **Scale**: Universe-level threat
-- **Leadership**: 3 individuals (1 dead: Dr. Sss'theta, 1 info broker, 1 Monitor Seven?)
+- **Leadership**: 3 individuals (2 dead: Dr. Sss'theta & Monitor Seven, 1 info broker unknown)
 - **Primary Goal**: Control the Sleeper's awakening through buffer networks
 - **Assets**:
   - Grand Nexus base in drill-space
@@ -43,7 +43,8 @@ Real-time tracking of all major organizations across sectors, their goals, asset
   - Invasion fleet attacking northern station
   - Enhancement Protocol Omega initiated
   - Harvester ship 30% contaminated with "The Wizard" (1989)
-  - Attempting to create buffer network before Sleeper wakes (62 hours)
+  - Attempting to create buffer network before Sleeper wakes (60 hours)
+  - Monitor Seven eliminated at Northern Station
 - **Weakness**: Pop culture disrupts consciousness harvesting
 - **Threat**: Will enslave billions to control Sleeper
 - **Key Intel**: [Lance's discovery](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md), [Truth of Tokko 8](sectors/abiha-omicron/sessions/2025-07-04-truth-of-tokko-8.md), [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
@@ -54,13 +55,14 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 - **Primary Goal**: Commercial exploitation of Resonance Protocol
 - **Assets**:
   - Mining facilities throughout sector
-  - Military vessels (1 corvette damaged)
+  - Military vessels (3 corvettes destroyed at Northern Station)
   - Protocol tracking device
   - Black box data on party
 - **Recent Actions**:
   - Lost patrol boats at Cou
   - Corvette *Profit Margin* disabled
-  - Tracking party movements
+  - Three corvettes destroyed at Northern Station
+  - Forces severely depleted
 - **Current Status**: Escalating pursuit despite losses
 - **Files**: [Faction overview](sectors/abiha-omicron/factions/aurelius-consortium.md)
 
@@ -167,6 +169,13 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 
 ## Recent Activities by Session
 
+### August 7, 2025
+- **Architects**: Monitor Seven eliminated by Lance in cyberspace
+- **Aurelius**: Lost three corvettes to party at Northern Station
+- **Free-Cou**: Acknowledged party as allies after witnessing victory
+- **Enhancement Chamber**: Secured as "Harmony Node" by Kaedim
+- **Party**: Gained control of all three enhancement nodes remotely
+
 ### July 31, 2025
 - **Architects**: Dr. Sss'theta executed, invasion fleet at northern station
 - **Free-Cou**: Received reversal protocols, fighting government forces
@@ -217,12 +226,15 @@ Real-time tracking of all major organizations across sectors, their goals, asset
 - Ur-Resonance has pre-human origins (the Sleeper)
 - Consortium has Protocol tracking technology
 - Dr. Sss'theta was one of the three Architects (now dead)
-- The Sleeper awakens in 57 hours regardless of intervention
+- Monitor Seven was possibly the second Architect (now dead)
+- The Sleeper awakens in 60 hours regardless of intervention
 - Enhancement process creates slave buffer networks
 - Small voluntary networks resist harvesting
 - The Scream was a failed consciousness harvest
 - Pop culture disrupts Architect consciousness harvesting
 - "California" permanently embeds in enhanced minds
+- Enhancement chambers were originally "Harmony Nodes" for voluntary connection
+- Khyber Line were guardians/inheritors of pre-human technology
 
 ### Suspected
 - Stellar Dynamics may have destroyed planets

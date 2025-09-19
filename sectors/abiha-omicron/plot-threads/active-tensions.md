@@ -5,17 +5,17 @@
 ## Immediate Threats
 
 ### The Silence Architects - UNIVERSE-LEVEL THREAT
-- **Status**: CRITICAL - One dead (Dr. Sss'theta), one info broker, one unknown (Monitor Seven?)
+- **Status**: CRITICAL - Two dead (Dr. Sss'theta, Monitor Seven), one unknown (info broker)
 - **Revelation**: The Scream was deliberate genocide ([Lance's discovery](../sessions/2025-06-12-lances-psychonaut-journey.md))
 - **Personal Connection**: Dr. Sss'theta executed by Lance at Tokko 8 ([Nuclear Blues](../sessions/2025-07-31-nuclear-blues-protocol-confusion.md))
 - **Current Risk**: Invasion fleet at northern station, Enhancement Protocol Omega active
 - **Assets**: Grand Nexus location, master override codes, enhancement facilities, Harvester ship
-- **Danger**: Creating slave buffer network for Sleeper (57 hours remaining)
+- **Danger**: Creating slave buffer network for Sleeper (60 hours remaining)
 - **New Intel**: Pop culture disrupts consciousness harvesting ("California")
 - **Related**: [Lore](../../cross-sector/factions/silence-architects.md), [The Scream Truth](../../cross-sector/lore/the-scream-truth.md)
 
 ### Lance's Neural Condition
-- **Status**: CRITICAL - Crashing from combat methamphetamines
+- **Status**: CRITICAL - Defeated Monitor Seven but crash approaching
 - **Context**: Made direct contact with the Sleeper ([Truth of Tokko 8](../sessions/2025-07-04-truth-of-tokko-8.md))
 - **Risk**: Neural strain from touching vast consciousness, chemical dependency
 - **New Ability**: [Network Echo](../../../party/lance-bahringer/network-echo-ability.md) grants Protocol memory access
@@ -24,6 +24,7 @@
   - Deep Link with the Sleeper revealed its true nature
   - Quantum-entangled "The Wizard" (1989) with Harvester ship
   - Executed Dr. Sss'theta in cold blood
+  - Defeated Monitor Seven in digital combat
 - **Management**: Must limit use to avoid transformation, manage stimulant crash
 - **Advantage**: Can reverse enhancement process, access Architect memories
 - **Character**: [Lance Bahringer](../../../party/lance-bahringer/character-sheet.md)
@@ -56,12 +57,12 @@
   - Source of all psychic phenomena in the galaxy
   - Dreams leak into reality through quantum foam
   - Has been waiting and learning since Architects arrived
-  - Awakens in 57 hours regardless of intervention
+  - Awakens in 60 hours regardless of intervention
 - **The Three Anchor Points** (Full details now available):
   1. **[North Pole Control Node](../systems/dul-yaq/cou/locations/facility--north-pole-control-node.md)** (3.7 AU) - Monitor 7 acknowledged beacon
   2. **[Solano Storm Anchor](../systems/dul-yaq/cou/locations/facility--solano-storm-anchor.md)** - Gravitational prison containing "Singers"
   3. **[Maratos Deep Temple](../systems/dul-yaq/cou/locations/temple--maratos-deep-temple.md)** - Direct access to The Sleeper
-- **Party Progress**: Secured remote control of Tokko 8 enhancement chamber (not an anchor point but part of planetary array)
+- **Party Progress**: Secured remote control of all three enhancement nodes including Northern Station
 - **Requirements**: Syzygy alignment and consciousness integration at all three points
 - **The Sleeper's Bargain**: Help it wake free rather than enslaved
   - Destroy the buffer network
@@ -96,6 +97,16 @@
 - **Tracker Abilities**: Can sense corrupted vs pure Protocol signatures
 - **Implications**: Multiple Protocol artifacts may be seeking reunion
 - **Zhou's Knowledge**: Knew about network - "The real prize swims deeper"
+
+### Harmony Nodes - TRUE PURPOSE REVEALED
+- **Discovered**: [Mind Meld Preparation](../sessions/2025-08-07-mind-meld-preparation.md)
+- **Truth**: Enhancement chambers were originally "Harmony Nodes" for voluntary connection
+- **Created By**: Khyber ancestors before human starflight
+- **Original Purpose**: Temporary consensual links for art, navigation, understanding
+- **Corrupted**: Architects twisted them into consumption/control tools
+- **Recognition**: Kaedim acknowledged as inheritor, not just user
+- **Implication**: Khyber Line were guardians, not exploiters
+- **Current Control**: Party has administrator access to all nodes
 
 ### Pop Culture Vulnerability - NEW DISCOVERY
 - **Discovered**: Human entertainment disrupts Architect systems ([Nuclear Blues](../sessions/2025-07-31-nuclear-blues-protocol-confusion.md))
@@ -147,32 +158,32 @@
 - Historical navigator exploitation creates ethical concerns
 - Potential dependency issues with Kaedim (per historical patterns)
 - **Recent**: Enhanced perception under hallucinogens, philosophical ship insights
-- **NEW**: Danced with ship's erratic rhythm to evade pursuit
-- **NEEDS SPOTLIGHT**: Due for major heroic moment in station infiltration
+- **NEW**: Perfect concealment and combat drop (rolled 16)
+- **SPOTLIGHT ACHIEVED**: Tactical victory destroying three corvettes
 
 ### Kaedim
-- Khyber lineage marks him as historically problematic
-- Gauntlet's power creates both opportunity and danger
-- **NEW**: Deep Link with Sleeper, gained reversal understanding
+- Khyber lineage revealed as guardianship, not exploitation
+- Gauntlet now sings in harmony rather than fighting
+- **NEW**: Recognized as Harmony Node inheritor by ancient systems
 - **NEW**: Can distinguish corrupted vs pure Protocol signatures
-- **CRITICAL**: Learned to force Protocol into dormancy with Effort
+- **CRITICAL**: Administrator privileges over all enhancement nodes
 - **CRITICAL**: "Philosophical nonsense" confuses Protocol sensors
-- **Recent**: Gauntlet overheated from Sleeper contact (2 System Strain total)
-- **Recent**: Double failure (two 7s) trying to impose dormancy via quantum link
+- **Recent**: Gauntlet synchronized with pre-Architect technology
+- **Recent**: Claimed Northern Station chamber with ancestral authority
 - Carrying 40kg Protocol tracker that trusts him
 - Potential bridge/translator for Sleeper's awakening
 
 ### Lance
 - Carries sensitive Nexus data and pretech salvage
-- Hacking skills make him both asset and liability
+- Digital warfare capabilities proven against Architect-level consciousness
 - Altered neurochemistry noted as "unconventional" by Archive
-- **NEW**: Deep Link revealed Sleeper's true nature
+- **NEW**: Defeated Monitor Seven through temporal desynchronization
 - **CRITICAL**: Gained reversal protocol knowledge
 - **Recent**: Executed Dr. Sss'theta in cold blood
 - **Recent**: Quantum-entangled "The Wizard" (1989) with Harvester ship
-- **Recent**: Hacked government forces to attack Architect scouts
+- **Recent**: Fragmented distributed AI consciousness
 - Risk of transformation if Network Echo overused
-- Crashing hard from combat methamphetamines
+- Crash approaching from sustained stimulant use
 
 ### Adrian
 - Medical knowledge crucial for understanding biological effects
@@ -205,7 +216,7 @@
 16. **What happens during "asset processing" in drill-space?**
 17. **Can corrupted patrol crews be saved?**
 18. **Why does "California" affect Protocol-enhanced minds?**
-19. **Is Monitor Seven the third unknown Architect?**
+19. ~~**Is Monitor Seven the third unknown Architect?**~~ (Confirmed and eliminated)
 20. **Can pop culture be weaponized against Architects?**
 
 ## Potential Allies
@@ -219,16 +230,17 @@
 - **Free-Three**: Resistance pilot who acknowledged reversal protocols data
 
 ## Next Steps
-- **IMMEDIATE**: Breach emergency bulkhead at northern station
-- **CRITICAL**: Secure enhancement chamber for resonator crystals
-- **URGENT**: Form party psychic network before soldiers arrive
-- **COUNTDOWN**: 57 hours until Sleeper awakens
+- **IMMEDIATE**: Form voluntary psychic network using Harmony Node
+- **CRITICAL**: Travel to next anchor point (Solano Storm or Maratos Deep)
+- **URGENT**: Coordinate synchronized three-point activation
+- **COUNTDOWN**: 60 hours until Sleeper awakens
 
 ### Current Situation
-- Docked at hull breach C-7 with 50m of vacuum ahead
-- Enhancement Protocol Omega initiated - hundreds converging
-- No EVA suits available
-- Station defenses partially disrupted by EMP and "California"
+- Northern Station enhancement chamber secured (Harmony Node)
+- All three enhancement nodes under remote control
+- Monitor Seven eliminated (was the station itself)
+- Three Aurelius corvettes destroyed
+- Free-Cou forces acknowledge party as allies
 - Harvester ship behind moon (30% contaminated with "The Wizard")
 
 ### Party's Understanding: The Resonance Chamber Plan
@@ -236,7 +248,8 @@ The party believes they must achieve simultaneous activation at multiple resonan
 
 **Secured Assets**:
 - **Tokko 8 Enhancement Chamber**: Remote control established via Lance's hack
-- **Northern Station**: Current location, attempting to secure second chamber
+- **Northern Station Harmony Node**: Secured, Kaedim has administrator privileges
+- **All Three Enhancement Nodes**: Remote activation capability achieved
 
 **Target Anchor Points** (for simultaneous activation):
 1. **North Pole Control Node** (3.7 AU) - Remote location in space
@@ -269,11 +282,11 @@ The party believes they must achieve simultaneous activation at multiple resonan
 - **Asset**: Pop culture disrupts Architect systems
 - **Asset**: Voluntary network method can be taught
 - **Asset**: Free-Cou received reversal protocols
-- **Threat**: Monitor Seven controls northern station
+- **Asset**: Monitor Seven eliminated, station systems free
 - **Threat**: Multiple Asset Recovery Teams in system
 - **Opportunity**: Enhanced soldiers confused by "California"
 - **Opportunity**: Station defenses turned on each other
 
 ---
 
-*Updated through [July 31, 2025](../sessions/2025-07-31-nuclear-blues-protocol-confusion.md). See also: [Timeline](../TIMELINE.md) | [Master Index](../MASTER-INDEX.md) | [Faction Tracker](../FACTION-TRACKER.md)*
+*Updated through [August 7, 2025](../sessions/2025-08-07-mind-meld-preparation.md). See also: [Timeline](../TIMELINE.md) | [Master Index](../MASTER-INDEX.md) | [Faction Tracker](../FACTION-TRACKER.md)*

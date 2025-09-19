@@ -17,7 +17,7 @@ Party at Northern Station hull breach C-7 with 50m of damaged corridor ahead. En
 Lance hacked station systems (roll 11), gaining control after the EMP damage. He locked bulkheads to trap 30+ enhanced soldiers, then flooded corridors with hallucinogenic gas. During his attempt to force-link soldiers and turn station guns on pursuing warships, he discovered Monitor Seven isn't in a room - it IS the station's distributed consciousness.
 
 ### Digital Victory
-Lance faced Monitor Seven in cyberspace and won decisively. He fragmented Seven's consciousness by disrupting synchronization protocols, causing station-wide chaos: doors cycling randomly, California confusion spreading throughout the systems. Monitor Seven's last words revealed a tragic truth: "Thank you... I remember studying human art before they made me manage this place."
+Lance faced Monitor Seven in cyberspace and won decisively (rolls of 11, 16, and 13). He fragmented Seven's consciousness by forcing temporal desynchronization - each node receiving different timestamp data and priority queues. This caused station-wide chaos: doors cycling randomly, California confusion spreading throughout the systems, the PA system speaking in overlapping voices. Monitor Seven's last words revealed a tragic truth: "Thank you... I remember studying human art before they made me manage this place. Please... don't let them make more like me."
 
 ### Enhancement Chamber Secured
 Kaedim claimed the chamber with ancestral Khyber authority (rolled 11 + effort). The chamber recognized him as inheritor, not user - revealing the original "Harmony Nodes" purpose. Adrian downloaded medical research including voluntary disconnection protocols while Lance established remote control of all three enhancement nodes.
@@ -46,9 +46,10 @@ Continued providing tactical support, though increasingly overwhelmed by the sca
 
 ### Monitor Seven's Nature
 - Not a being in a location but a distributed consciousness throughout the station
-- Originally human, transformed into management system
+- Possibly the third Architect (designated Architect VI)
+- Originally studied human art, transformed into management system
 - Retained memories of studying art before transformation
-- Death was possibly a mercy
+- Death was possibly a mercy - gratitude for liberation
 
 ### Enhancement Chamber Purpose
 - Original "Harmony Nodes" designed for voluntary synchronization
@@ -89,6 +90,22 @@ Continued providing tactical support, though increasingly overwhelmed by the sca
 - **Free-Cou Forces** - Now allied with party
 
 ## Session Highlights
+
+### Dramatic Moments
+
+> **Lance Fragments a God**: "Your code slices through Seven's network like a scalpel. Each node suddenly receives different timestamp data, different priority queues, different interpretations of what 'now' means. The PA system speaks in overlapping voices, each slightly out of sync: 'I am... we are... why are there seventeen of me?'"
+
+> **Kaedim Claims His Birthright**: "The living metal pillar reshapes itself into configurations that predate human language. Your gauntlet doesn't just interface with the chamber—they recognize each other. Like old friends reuniting, like a key finding its lock after millennia."
+
+> **Dallas's Perfect Kill Drop**: "'Cutting engines... now.' The Starfall Whisper drops like a stone through the cloud layer, completely silent. As the corvettes pass beneath, he fires the engines at the last second, sliding perfectly into their blind spot. They never even knew you were there."
+
+> **The Digital Duel**: "Lance's fingers blur across the datapad. Monitor Seven's attack protocols crash against his defenses like waves against a seawall—but Lance isn't just defending. He's counterattacking. 'SMALL MAMMAL, WHAT HAVE YOU DONE TO MY PERFECTION?'"
+
+> **Adrian's Plasma Symphony**: "The targeting solution is perfect. The plasma bolt catches Wing Corvette 3 mid-roll, punching straight through its primary power coupling. Final transmission: 'We... we can see it... California... it's beautiful... tell the wizard... we found... the beach...'"
+
+> **Monitor Seven's Last Words**: "A single, small voice from one remaining speaker: 'Thank you... I remember what I was before they made me manage this place. I was... I was studying human art. Your wizard helped me remember. Please... don't let them make more like me.' Then silence. True silence."
+
+### Key Accomplishments
 - Lance defeated an Architect-level consciousness in digital combat
 - Kaedim unlocked ancestral command protocols
 - Dallas achieved perfect stealth and tactical victory

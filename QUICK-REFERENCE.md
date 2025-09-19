@@ -33,14 +33,14 @@ Essential information for running sessions without searching through files.
 
 ### The Party's Plan - Resonance Chamber Synchronization
 **Current Understanding**: Simultaneous activation needed at multiple points during syzygy
-- **Already Secured**: Tokko 8 enhancement chamber (remote control)
-- **Current Target**: Northern station enhancement chamber
-- **Final Targets**: Three anchor points (North Pole Node, Solano Storm, Maratos Deep)
+- **Already Secured**: All three enhancement nodes (remote control achieved)
+- **Northern Station**: Harmony Node secured with Kaedim as administrator
+- **Next Targets**: Three anchor points (North Pole Node, Solano Storm, Maratos Deep)
 - **Goal**: Override Architect control of Sleeper's awakening
 
 ### The Big Threat
 **Silence Architects** - 3 beings who triggered the Scream
-- One dead (Dr. Sss'theta), one info broker, one Monitor Seven?
+- Two dead (Dr. Sss'theta, Monitor Seven), one unknown info broker
 - Have Grand Nexus coordinates: 2847.3/-891.2/-3
 - Possess master override codes
 - Weakness: Pop culture disrupts consciousness harvesting
@@ -52,10 +52,10 @@ Essential information for running sessions without searching through files.
 - **Jumpgate Knowledge** - Way home from sector
 
 ### Who Has What
-- **Party**: Crystal fragment, corrupted key data, coordinates, enhancement chamber data
+- **Party**: All three Harmony Nodes, Protocol tracker, crystal fragment, coordinates
 - **Refugees**: Created voluntary psychic network (revolutionary)
 - **Harvester Ship**: Behind moon, 30% contaminated with "The Wizard" (1989)
-- **Architects**: Master override, full Protocol knowledge
+- **Architects**: Master override (one unknown member remains)
 
 ## Common Skill Checks
 
@@ -94,10 +94,11 @@ Essential information for running sessions without searching through files.
 | Faction | Reaction | Resources |
 |---------|----------|-----------|
 | **Architects** | Kill/Capture | Universe-level |
-| **Consortium** | Hostile/Hunt | Sector fleet |
-| **Dawn Refugees** | Desperate | Information |
+| **Consortium** | Hostile/Hunt | Depleted fleet |
+| **Dawn Refugees** | Allied | Voluntary network |
 | **Archive** | Judging | Knowledge |
 | **Penticton 9** | Friendly | Safe harbor |
+| **Free-Cou** | Allied | Ground forces |
 
 ## Rules Reminders
 

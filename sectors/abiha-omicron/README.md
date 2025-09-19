@@ -32,7 +32,7 @@ The Abiha Omicron sector is cut off from the greater galaxy by a dormant jump ga
 - **Aurelius Consortium** - Mining corporation (possibly Architect-compromised)
 - **Resonant Dawn** - Religious cult (mostly destroyed, refugees created voluntary network)
 - **The Archive** - Knowledge preservationists
-- **The Silence Architects** - Universe-level threat (Dr. Sss'theta dead)
+- **The Silence Architects** - Universe-level threat (Dr. Sss'theta and Monitor Seven dead)
 - **Free-Cou Movement** - Revolutionary organization (newly active)
 
 ### Major Mysteries

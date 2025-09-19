@@ -92,9 +92,9 @@ Comprehensive directory of all non-player characters across sectors, their affil
 
 ### The Silence Architects (3 individuals)
 - **Status**: Active (UNIVERSE-LEVEL THREAT) - Two dead
-- **Known Members**: 
+- **Known Members**:
   - Dr. Sss'theta (deceased) - Xenobiologist at Tokko 8, executed by Lance
-  - Monitor Seven (deceased) - Station AI, eliminated by Lance  
+  - Monitor Seven (deceased) - Distributed station consciousness, fragmented by Lance
   - Unknown information broker (identity hidden) - STILL ACTIVE
 - **Purpose**: Triggered the Scream as genocide
 - **Discovery**: [Lance's Psychonaut Journey](sectors/abiha-omicron/sessions/2025-06-12-lances-psychonaut-journey.md)
@@ -161,13 +161,15 @@ Comprehensive directory of all non-player characters across sectors, their affil
 - **Appearances**: Mentioned in [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md)
 - **Significance**: Gaius's source for missile weak points that proved correct
 
-### Monitor 7 (Architect VI)
+### Monitor Seven (Architect VI)
 - **Status**: Deceased (eliminated by Lance)
 - **Identity**: Distributed AI consciousness, possibly third Architect
 - **Nature**: Was the northern station itself, not a being in it
-- **Death**: Fragmented by Lance in cyberspace
+- **Original Form**: Studied human art before transformation
+- **Death**: Fragmented by Lance through temporal desynchronization
 - **Appearances**: [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md), [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md), [Mind Meld Preparation](sectors/abiha-omicron/sessions/2025-08-07-mind-meld-preparation.md)
-- **Final Words**: "Thank you... I remember studying human art before they made me manage this place"
+- **Final Words**: "Thank you... I remember studying human art before they made me manage this place. Please... don't let them make more like me."
+- **Significance**: Death was possibly a mercy, grateful for liberation
 
 ### Brother Hadrim
 - **Status**: Rescued
