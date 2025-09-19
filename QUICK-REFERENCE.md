@@ -5,23 +5,25 @@ Essential information for running sessions without searching through files.
 ## Current Party Status
 
 ### Location & Situation
-- **Current Location**: Northern Station enhancement chamber (secured)
-- **Immediate Action**: Form voluntary psychic network (mind meld)
-- **Immediate Threats**: Asset Recovery Teams still searching
-- **Time Pressure**: 60 hours until Sleeper awakens
+- **Current Location**: Maratos Deep Temple (15,000 feet underwater)
+- **Immediate Action**: Survive ART submarine attack (2km away)
+- **Immediate Threats**: Unknown consequences of Sleeper awakening
+- **Time Pressure**: 30 minutes until Sleeper awakens
 
 ### Party Condition
-- **Lance**: Defeated Monitor Seven in cyberspace, controls all nodes
-- **Dallas**: Got spotlight - perfect concealment and tactical victory
-- **Kaedim**: Recognized as Khyber inheritor by enhancement chamber
-- **Adrian**: Downloaded voluntary disconnection protocols
-- **Ship**: [Starfall Whisper](party/starfall-whisper.md) secure at station
+- **Lance**: Digital assault achieved during Trinity synchronization
+- **Dallas**: Prophecy fulfilled (met Dr. Chen), precognitive navigation
+- **Kaedim**: Led Trinity synchronization, controls purified Temple
+- **Adrian**: Medical stabilization through psychic network
+- **Dr. Chen**: New ally in voluntary psychic network
+- **Ship**: [Starfall Whisper](party/starfall-whisper.md) modified for underwater ops
 
 ## Key NPCs in Play
 
 ### Immediate
-- **Enhanced Soldiers** - Trapped and hallucinating in sealed corridors
-- **Monitor Seven** - Eliminated (was distributed station consciousness)
+- **Dr. Vera Chen** - Escaped scientist, now party ally
+- **The Leviathan** - 40-foot guardian, responds to mathematics
+- **ART Submarine** - 2km away and approaching
 - **19 Refugees** - 10 in voluntary network led by Sister Verith/Brother Matthias
 
 ### Recent Contacts
@@ -31,19 +33,21 @@ Essential information for running sessions without searching through files.
 
 ## Critical Information
 
-### The Party's Plan - Resonance Chamber Synchronization
-**Current Understanding**: Simultaneous activation needed at multiple points during syzygy
-- **Already Secured**: All three enhancement nodes (remote control achieved)
-- **Northern Station**: Harmony Node secured with Kaedim as administrator
-- **Next Targets**: Three anchor points (North Pole Node, Solano Storm, Maratos Deep)
-- **Goal**: Override Architect control of Sleeper's awakening
+### Mission Accomplished - Trinity Synchronization
+**Victory Achieved**: 3-7-21 pattern successfully executed
+- **Northern Station**: First node activated
+- **Solano Storm**: Second node synchronized
+- **Maratos Temple**: Final node purified
+- **Result**: Sleeper will wake FREE, not enslaved
+- **Immediate Threat**: ART submarine closing on position
 
-### The Big Threat
-**Silence Architects** - 3 beings who triggered the Scream
-- Two dead (Dr. Sss'theta, Monitor Seven), one unknown info broker
-- Have Grand Nexus coordinates: 2847.3/-891.2/-3
-- Possess master override codes
-- Weakness: Pop culture disrupts consciousness harvesting
+### The Big Victory
+**Architect Plan DEFEATED**
+- Two Architects dead (Dr. Sss'theta, Monitor Seven)
+- Trinity synchronization complete
+- Sleeper waking FREE in 30 minutes
+- One unknown info broker remains
+- Weakness exploited: Pop culture disrupts their systems
 
 ### What Everyone Wants
 - **Resonance Protocol** - Ancient communication system

@@ -21,6 +21,15 @@ Comprehensive directory of all non-player characters across sectors, their affil
 
 ## Major NPCs
 
+### Dr. Vera Chen
+- **Status**: Active party ally (in psychic network)
+- **Former Affiliation**: Maratos enhancement facility
+- **Current Role**: Escaped scientist helping party
+- **Escape**: Fled Maratos 6 days ago with Sleeper's help
+- **First Appearance**: [Into the Abyss](sectors/abiha-omicron/sessions/2025-08-14-into-the-abyss.md)
+- **Significance**: Blue-haired figure from Dallas's prophecy, bridge to Sleeper
+- **Assets**: Salvaged submersible *Depth Dreamer*, knowledge of Temple
+
 ### Gaius Carranzo
 - **Status**: Active party member (recruit)
 - **Former Affiliation**: Aurelius Consortium
@@ -170,6 +179,14 @@ Comprehensive directory of all non-player characters across sectors, their affil
 - **Appearances**: [Harmonic Prayer Rescue](sectors/abiha-omicron/sessions/2025-06-26-harmonic-prayer-rescue.md), [Nuclear Blues](sectors/abiha-omicron/sessions/2025-07-31-nuclear-blues-protocol-confusion.md), [Mind Meld Preparation](sectors/abiha-omicron/sessions/2025-08-07-mind-meld-preparation.md)
 - **Final Words**: "Thank you... I remember studying human art before they made me manage this place. Please... don't let them make more like me."
 - **Significance**: Death was possibly a mercy, grateful for liberation
+
+### The Leviathan
+- **Status**: Active guardian
+- **Nature**: 40-foot bioengineered creature
+- **Location**: Maratos ocean depths (850 feet)
+- **Communication**: Responds to mathematical sequences (Fibonacci)
+- **Appearances**: [Into the Abyss](sectors/abiha-omicron/sessions/2025-08-14-into-the-abyss.md)
+- **Significance**: Protects Temple approaches, can be negotiated with
 
 ### Brother Hadrim
 - **Status**: Rescued

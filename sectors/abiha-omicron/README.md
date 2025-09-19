@@ -13,16 +13,16 @@ Current campaign location - an isolated sector with ancient mysteries and factio
 
 ## Current Status
 
-**Last Session**: [August 7, 2025 - Mind Meld Preparation](sessions/2025-08-07-mind-meld-preparation.md)
+**Last Session**: [August 14, 2025 - Into the Abyss](sessions/2025-08-14-into-the-abyss.md)
 
-**Party Location**: Northern Station enhancement chamber (secured)
+**Party Location**: Maratos Deep Temple (15,000 feet underwater)
 
 **Major Threats**:
-- 60 hours until the Sleeper awakens
-- Asset Recovery Teams still in system
-- Syzygy window approaching for anchor activation
-- Need to reach remaining anchor points
-- Harvester ship status unknown
+- 30 minutes until the Sleeper awakens
+- Asset Recovery Team submarine 2km away
+- Unknown consequences of god waking free
+- Still 15,000 feet underwater
+- One unknown Architect remains (info broker)
 
 ## Sector Overview
 

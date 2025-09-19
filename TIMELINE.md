@@ -165,6 +165,21 @@ Chronological record of major events across all campaigns.
   - Khyber Line were guardians/inheritors, not exploiters
 - **Current**: Ready for mind meld, 60 hours until Sleeper awakens
 
+#### [August 14 - Into the Abyss](sectors/abiha-omicron/sessions/2025-08-14-into-the-abyss.md)
+- **Location**: Maratos Deep Temple (15,000 feet underwater)
+- **Key Events**:
+  - Met Dr. Vera Chen (Dallas's prophecy fulfilled)
+  - Formed voluntary psychic network with party + Chen
+  - Communicated with the Leviathan using mathematics
+  - Synchronized all three Harmony Nodes (Trinity pattern)
+  - Sleeper touched consciousness before awakening
+  - Asset Recovery Team submarine approaching
+- **Revelations**:
+  - Sleeper actively helped Chen escape 6 days ago
+  - Predecessor tech recognizes Khyber as legitimate heirs
+  - Trinity synchronization purifies corrupted systems
+- **Current**: 30 minutes until Sleeper wakes free, ART sub 2km away
+
 ## Key Historical Events (Background)
 
 ### Ancient Past

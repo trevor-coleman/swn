@@ -19,17 +19,17 @@ A living campaign repository for Stars Without Number RPG campaigns. Currently a
 
 ## Current Status
 
-**Last Session**: [August 7, 2025 - Mind Meld Preparation](sectors/abiha-omicron/sessions/2025-08-07-mind-meld-preparation.md)
+**Last Session**: [August 14, 2025 - Into the Abyss](sectors/abiha-omicron/sessions/2025-08-14-into-the-abyss.md)
 
-**Party Location**: Northern Station enhancement chamber (secured)
+**Party Location**: Maratos Deep Temple (15,000 feet underwater)
 
-**Immediate Situation**: 
-- Enhancement chamber under party control
-- All three nodes ready for synchronized activation
-- Monitor Seven eliminated (was the station itself)
-- Ready to form voluntary psychic network
-- 60 hours until Sleeper awakens
-- Free-Cou forces now allied with party
+**Immediate Situation**:
+- Trinity synchronization COMPLETE - Sleeper will wake free
+- Asset Recovery Team submarine 2km away and closing
+- 30 minutes until the Sleeper awakens
+- Party formed voluntary psychic network with Dr. Chen
+- Temple defenses purified and now protective
+- Architect plan completely defeated
 
 ## Quick Start for Session Planning
 
